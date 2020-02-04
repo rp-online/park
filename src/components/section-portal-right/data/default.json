@@ -1,0 +1,118 @@
+{
+  "component": "tab-container",
+  "data": {
+    "headline": {
+      "tag": "h1",
+      "text": "Stau"
+    },
+    "type": "card-traffic",
+    "blocks": [
+      {
+        "title": "A1",
+        "items": [
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A1",
+              "time": "13:12",
+              "text": "Köln Richtung Dortmund"
+            },
+            "text": "zwischen Kreuz Köln-Nord und Kreuz Leverkusen-West 3 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A1",
+              "time": "13:12",
+              "text": "Köln Richtung Dortmund"
+            },
+            "text": "zwischen Kreuz Köln-West und Bocklemünd 1 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A1",
+              "time": "13:12",
+              "text": "Köln Richtung Koblenz"
+            },
+            "text": "zwischen Kreuz Köln-Nord und Kreuz Köln-West 5 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A1",
+              "time": "13:12",
+              "text": "Köln Richtung Dortmund"
+            },
+            "text": "zwischen Burscheid und Wermelskirchen 1 km zähfließender Verkehr"
+          }
+        ]
+      },
+      {
+        "title": "A3",
+        "items": [
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A3",
+              "time": "13:12",
+              "text": "Köln Richtung Frankfurt"
+            },
+            "text": "zwischen Heumarer Dreieck und Köln-Poll 1 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A3",
+              "time": "13:12",
+              "text": "Köln Richtung Oberhausen"
+            },
+            "text": "zwischen Heumarer Dreieck und Kreuz Leverkusen-West 5 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A3",
+              "time": "13:12",
+              "text": "Köln Richtung Oberhausen"
+            },
+            "text": "zwischen Krez Hilden und Kreuz Oberhausen-West 10 km Stau"
+          }
+        ]
+      },
+      {
+        "title": "A59",
+        "items": [
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A59",
+              "time": "13:12",
+              "text": "Düsseldorf Richtung Leverkusen"
+            },
+            "text": "zwischen Kreuz Monheim und Kreuz Leverkusen-West 1 km Stau"
+          },
+          {
+            "headline": {
+              "tag": "h2",
+              "badge": "A59",
+              "time": "13:12",
+              "text": "Leverkusen Richtung Düsseldorf"
+            },
+            "text": "zwischen Düsseldorf-Benrath und Düsseldorf-Garath 1 km Stau"
+          }
+        ]
+      }
+    ]
+  },
+  "ad": {
+    "mobile": {
+      "type": "content",
+      "html": "<img src=\"https://placehold.it/300x250\">"
+    },
+    "desktop": {
+      "type": "halfpage",
+      "html": "<img src=\"https://placehold.it/300x600\">"
+    }
+  }
+}

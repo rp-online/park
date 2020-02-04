@@ -1,0 +1,22 @@
+.park-iframe {
+  &--keeps-aspectratio {
+    position: relative;
+  }
+
+  &__iframe {
+    display: block;
+    width: 100%;
+    min-height: 1px;
+    border: none;
+  }
+
+  &--keeps-aspectratio &__iframe {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+}

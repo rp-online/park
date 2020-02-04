@@ -1,0 +1,23 @@
+{% if config is defined and config.settingsPage is defined %}
+  {% if not config.personalisationDisabled %}
+    {% set content %}
+      {% include 'svg/settings.svg' %}
+    {% endset %}
+    {% set link = {
+      'href': config.settingsPage,
+      'text': content,
+      'title': title|default('einstellen'),
+      'rel': [
+        'nofollow'
+      ],
+      'classes': [
+        'park-button-settings'
+      ],
+      'data': {
+        'authentication-required': true
+      },
+      'config': config
+    } %}
+    {% include 'components/link-helper/template.twig' with link only %}
+  {% endif %}
+{% endif %}

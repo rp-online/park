@@ -1,0 +1,3057 @@
+{
+  "title": "Erkrath: Nachrichten und Berichte",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "subscriptionsPage": "/sso/subscriptions",
+    "myNewsPage": "/sso/my-news",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "settingsPage": "/sso/settings",
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "Erkrath: Nachrichten und Berichte",
+    "url": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1569497764",
+    "container_id": 7202469,
+    "beitrag_id": 8792576,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Aktuelle Nachrichten aus Erkrath: Wetter, News, Polizeiberichte, Unfall, Kultur, Bilder und Termine der Rheinischen Post Erkrath finden Sie hier."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "display_video_kicker": "0",
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "staedte",
+      "dossier": "erkrath",
+      "contentType": "Index",
+      "analyticsUrl": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/",
+      "author": "RP ONLINE",
+      "date": "",
+      "datePublished": "",
+      "dateModified": "",
+      "daysSincePublication": "",
+      "origin": "",
+      "seo": "/nrw/staedte/erkrath/",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=8792576&cstr=7202469&l=&tit=Erkrath%3A+Nachrichten+und+Berichte&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2Fstaedte%2Ferkrath%2F&sep=%7C&tce=1&tid=64800&tn=64701&tp=50327%7C64600%7C64701&tpn=50327%7C64600%7C64701&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "",
+      "primaryLevel": "nrw",
+      "secondaryLevel": "staedte",
+      "contentGroup": "",
+      "interredBID": 8792576,
+      "interredCID": 7202469,
+      "title": "",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: ",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0A%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 7202469,
+      "doctype": "section",
+      "contentid": "/nrw/staedte/erkrath/",
+      "channel": 64600,
+      "subchannel": 64701,
+      "subsubchannel": 64800,
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/staedte/erkrath/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/erkrath/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/",
+        "sc": "yes"
+      }
+    },
+    "tisoomi": {
+      "javascript": "!function(r){ function A(r,A){ return r|A }function C(r,A){ return r<<A }function c(r,A){ return r>>>A }function _(r,A){ return r^A }function U(){ }function Y(r){ return r.parentNode }function B(r,A){ return r.indexOf(A) }function H(r){ return r.length }function L(r,A){ return r.appendChild(A) }function J(r,A){ return r.getElementsByTagName(A) }function q(r,A){ return r.createElement(A) }function g(A){ var C=function(A){ var C=A.data;if(null!=C&&\"object\"==typeof C){ var c=q(O,\"a\"),_=q(O,\"a\");if(c.href=A.origin,_.href=Q,(r.location.hostname===c.hostname||c.hostname===_.hostname)&&\"j\"===C.t&&null!=C.d){ var U=J(O,\"body\")[0],Y=q(O,\"script\");Y.type=\"text/javascript\",Y.text=C.d,L(U,Y),r.setTimeout(function(){ f(Y) },1e3) } } };r.addEventListener(\"message\",C,!1);var c=function(){ if(rr)return void r.removeEventListener(\"message\",C,!1);var _=[j(2,2,_r),j(3,3,Cr),j(1,1,_r)].join(\"\"),U=y+j(3,3,cr)+j(1,1,Cr)+d,Y=\"\",B=H(_);Y=H(S)<32?j(31-B,31-B,Cr)+_+\"z\"+S:S.slice(0,31-H(_))+_+\"z\"+S.slice(32);var J=A.join(Q,T,Y,U),g={ };g.lazy=!1,g.autoInsert=!1,g.im=J,g=Jr.J(g,this,t),J=g.im;var G=q(O,\"iframe\");G.src=J+\"#\"+r.encodeURIComponent(r.location.origin),G.style.width=\"1px\",G.style.height=\"1px\",G.onload=function(){ G.style.display=\"none\",r.setTimeout(function(){ f(G) },1e3) },G.onerror=G.onload,L(O.body,G),r.setTimeout(function(){ A.cb.push(c) },500) };A.cb.push(c) }function G(A){ function C(r){ var C=A.regexp.exec(r);return C&&C[1] }function c(){ for(var r,c=0,U=O.scripts;c<H(U);c+=1)(r=C(U[c].innerHTML))&&_(r)&&g(r)&&(G(U[c]),l(r,U[c]),A.done.push(r));A.done=[] }function _(r){ return r&&B(A.F,r)>=0 }function g(r){ return r&&B(A.done,r)<0 }function G(r){ if(r){ var c,_=Y(r).childNodes,U=t,L=t,J=t,q=t,g=C(r.innerHTML);for(c=0;c<H(_);c+=1)if(U=_[c],\"SCRIPT\"===U.nodeName&&C(U.innerHTML)===g){ J=c;break }if(J!==t)for(c=J+1;c<H(_);c+=1)if(U=_[c],\"SPAN\"===U.nodeName&&B(U.className,A.pID+\"_end\")+1){ q=c;break }if(J!==t&&q!==t)for(c=J+1;c<q;c+=1)U=_[c],L=U.nodeType,Node.ELEMENT_NODE!==L&&Node.CDATA_SECTION_NODE!==L&&Node.COMMENT_NODE!==L||A.arr.push(U) } }function P(r){ var A=N(r)?r:[r];if(!0===X({ },null,null).ignore)for(var c=0;c<H(A);c+=1)l(A[c],O.body);else for(var _,U,Y,L=0,J=[],q=O.scripts;L<H(q)&&!((_=C(q[L].innerHTML))&&(U=B(A,_)>-1,Y=-1===B(J,_),U&&Y&&(J.push(_),G(q[L]),l(_,q[L]),H(A)===H(J))));L+=1); }function I(r,C){ var c={ };c.p=r,c.f=C,A.Q.push(c) }function X(r,C,c){ A.Q=A.Q.sort(function(r,A){ return r.p>A.p?1:r.p<A.p?-1:0 });var _=N(c)?c:[c];_.unshift(r);var U;for(U=0;U<H(A.Q);U+=1)r=A.Q[U].f.apply(C||A,_);return r }function l(C,c){ if(c){ var _,B=q(O,\"div\"),g=q(O,\"div\"),G=q(O,\"div\");A.arr&&(_=A.arr,r.setTimeout(function(){ for(var r=0;r<H(_);r++)void 0!==_[r].style?_[r].style.setProperty(\"display\",\"none\"):L(g,_[r]) },100)),A.arr=[];var P=function(){ Y(c).insertBefore(B,c.nextSibling),L(B,G) },I={ };switch(C){ case\"Sky\":I.st=\"GvBrKLHJKYte\",I.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",I.sd=\"position:absolute;top:0px;left:1020px;max-width:300px;\",I.sm=\"\",I.im=F(\"7gtSIIMO1oqoCsPJBGSMb9\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIIMO1oqGSoHz\",\"\"),I.extra=\"\",I.ins=function(){ G.style.setProperty(\"position\",\"fixed\"),P() },I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U;break;case\"Medium\":I.st=\"ns2utUCsl33c\",I.ss=\"cursor:pointer;max-width:300px;max-height:250px;\",I.sd=\"\",I.sm=\"\",I.im=F(\"7gtSIINF1p84CYbkWGSMr7\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIINF1p8GS4Hv\",\"\"),I.extra=\"\",I.ins=\"\",I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U;break;case\"Sky2\":I.st=\"ybgw08rHrFzR\",I.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",I.sd=\"\",I.sm=\"\",I.im=F(\"7gtSIJOS2Qc5173cmGSMR5\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIJOS2QcGS5Ho\",\"\"),I.extra=\"\",I.ins=\"\",I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U;break;case\"Super\":I.st=\"QOS3uZ4BDHcX\",I.ss=\"cursor:pointer;max-width:728px;max-height:90px;\",I.sd=\"margin:0 0 0 36px;max-width:970px;max-height:250px;position:relative;\",I.sm=\"\",I.im=F(\"7gtSIIPV1qESyEUGiGSMv6\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIIPV1qEGSSHg\",\"\"),I.extra=\"\",I.ins=\"\",I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U;break;case\"Layer\":I.st=\"OheT114BP9WO\",I.ss=\"cursor:pointer;max-width:1024px;max-height:1024px;\",I.sd=\"top:50%;position:relative;\",I.sm=\"\",I.im=F(\"7gtSIJCH2M1KjbmznGSMB8\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIJCH2M1GSKHs\",\"\"),I.extra=\"\",I.ins=function(){ G.style.setProperty(\"position\",\"fixed\"),G.style.setProperty(\"z-index\",\"10000\"),G.style.setProperty(\"margin\",\"-300px 0 0 40px\"),P() },I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U;break;case\"Billboard\":I.st=\"HNkiCoCPdouS\",I.ss=\"cursor:pointer;max-width:975px;max-height:300px;\",I.sd=\"max-width:970px;max-height:250px;position:relative;\",I.sm=\"\",I.im=F(\"7gtSIIUV2IsUxLoEwGSMO1\",\"\",\"\"),I.m=1,I.cl=V(\"7gtSIIUV2IsGSUHl\",\"\"),I.extra=\"\",I.ins=function(){ O.querySelector(\"main#park-main div.park-section-portal-top__content\");G.style.setProperty(\"pointer-events\",\"auto\"),P() },I.ifr=!1,I.fb=!1,I.ifrBlock=!1,I.mkStyleDyn=U }if(H(Object.keys(I))>0){ I.mkStyleDyn&&I.mkStyleDyn(A.profile||{ });var l={ };if(void 0!==I.li&&(I.cl=m(I)),I=X(I,this,[C,l]),I.ignore)return;if(h(I.wp))return I.wp(),void i();var p=q(O,\"style\");p.type=\"text/css\",\"M\"===k&&I.m?I.ss+=I.sm:I.ss+=I.sd,p.innerHTML=\"#\"+I.st+\"{ \"+I.ss+\" }\",L(J(O,\"head\")[0],p),G.id=I.st;var e=q(O,\"img\");e.onload=Z(function(){ I.bs&&(e.style.cssText+=\"width:\"+e.width+\"px;height:\"+e.height+\"px;max-width:\"+e.width+\"px;max-height:\"+e.height+\"px;\"),L(G,e),h(I.ins)?I.ins():P(),h(I.extra)&&I.extra(),h(I.onLoaded)&&I.onLoaded(e),i() },o),e.onerror=function(){ e.style.setProperty(\"display\",\"none\"),\"function\"==typeof w&&w(C),i() },e.onclick=function(r){ r.preventDefault(),r.stopPropagation();var A=n(r);u(I.cl(A.x,A.y)) },I.remove=function(){ f([B,G,p]) },e.src=I.im } } }function p(){ var r,A,C,c,_,U,Y,L,J,q=\"/\",g=q+q,G=\":\",P=arguments,I=\"\",X=\"\",l=P[0],f=H(P);if(!l)return I;for(r=P[f-1],A=l.charAt(0)===q,C=r.slice(-1)===q,c=0===B(l,g),_=0;_<f;_+=1)I+=P[_]+q;for(Y=I.split(G+g),2===H(Y)&&(X=Y[0]+G,I=Y[1]),L=I.split(q),J=[],_=0;_<H(L);_+=1)(U=L[_])&&J.push(U);return J=J.join(q),H(X)>1||c?J=X+g+J:A&&(J=q+J),C&&(J+=q),J }function e(){ var C;if(H(A.cb)>x){ C=A.cb.shift();try{ C() }catch(r){ }A.cbtimeout=r.setTimeout(A.cbiter,1) } }function i(){ A.cbtimeout&&r.clearTimeout(A.cbtimeout),A.cbtimeout=r.setTimeout(A.cbiter,1500) }A.pID=\"H15VUbd\",A.F=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Layer\",\"Billboard\"],A.regexp=/H15VUbd\\([\"']([\\w\\s.-]+)[\"']\\)/i,A.$=C,A.arr=[],A.done=[],A.cb=[],A.srch=c,A.V=_,A.A=g,A.D=G,A.crS=P,A.Q=[],A.j=I,A.J=X,A.R=l,A.join=p,A.cbtimeout=t,A.cbiter=e,A.callback=i }function P(){ if(!i()&&(!r[gr]||qr&&r[gr]!=qr)){ var A=J(O,\"body\")[0],C=q(O,\"img\");e()&&L(A,C),C.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/postad.bmp\",C.onerror=function(){ X(),f(this) },C.onload=function(){ this.width<3&&(X(),f(this)) } } }function I(){ Ar=D,r.setTimeout(function(){ Ar=s },2e3) }function X(){ if(!Ar&&r[gr]!==qr){ I(),r[gr]=qr,y=j(9,9,Cr+cr+_r);var A=q(O,\"script\"),C=J(O,\"body\")[0];/* cookie link to disable personalisation */\nA.src=\"https:\"+\"//www.tiso\"+\"omi\"+\"-services.com/cookie\",A.onload=l,A.onerror=l,L(C,A) } }function l(){ var A=\"5\",C=z(\"_TStfc\");H(C)>12&&(C=C.substring(32)),\"\"!==C&&C.slice(-1)===A||(C=Date.now()%1e10+Gr.floor(35*Gr.random()).toString(36)+A,a(\"_TStfc\",C,2592e3,\"/\")),!r[\"u\"+\"serO\"+\"ptOut\"]&&r.ti_id?S=r.ti_id+C:(S=C,rr=D),E(),f(this),Jr.srch() }function f(r){ (N(r)?r:[r]).forEach(function(r){ r&&Y(r)&&Y(r).removeChild(r) }) }function p(A){ function C(){ q=D,A() }function c(r,A){ return r&&A }function _(r,A,C,c){ C(\"\")?c(\"\"):Y(r,A,C,c) }function U(r){ return c(!q,r>x) }function Y(A,C,c,Y){ U(A)&&r.setTimeout(_,C,A-1,C,c,Y) }function H(){ return-1!==B([\"complete\",\"interactive\"],O.readyState) }function L(){ q||C() }function J(){ if(c(!q,O.body))try{ O.documentElement.doScroll(\"left\"),L() }catch(A){ r.setTimeout(J,x) } }var q=s;H()?r.setTimeout(L,x):O.addEventListener?O.addEventListener(\"DOMContentLoaded\",function(){ L() },s):O.attachEvent&&(O.documentElement.doScroll&&r===r.top&&J(),O.attachEvent(\"onreadystatechange\",function(){ H()&&L() })),r.addEventListener?r.addEventListener(\"load\",function(){ L() },s):r.attachEvent&&r.attachEvent(\"onload\",L),r.setTimeout(_,x,20,250,H,L) }function e(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function i(){ return/msie|trident|edge/i.test(navigator.userAgent) }function z(r){ for(var A=O.cookie.split(\";\"),C=\"\",c=0;c<H(A);c+=1){ var _=A[c].trim();0===B(_,r+\"=\")&&(C=_.replace(r+\"=\",\"\")) }return C }function a(r,A,C,c){ void 0===C&&(C=2592e3);for(var _=Date.now(),U=O.domain,Y=U.split(\".\"),L=\"_gd\"+_,J=2;J<=H(Y)&&-1===B(O.cookie,L+\"=\"+L);J+=1)U=Y.slice(-J).join(\".\"),O.cookie=L+\"=\"+L+\";domain=\"+U+\";\";var q=new Date(0);O.cookie=L+\"=;expires=\"+q.toUTCString()+\";domain=\"+U+\";\",q.setTime(_+1e3*C),O.cookie=r+\"=\"+A+\"; expires=\"+q.toUTCString()+\";\"+(U?\"domain=\"+U+\";\":\"\")+\"path=\"+(c||\"/\") }function E(){ var r=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];k=\"D\";for(var A=0;A<H(r);A+=1)if(B(navigator.userAgent,r[A])>-1)return void(k=\"M\") }function n(r){ var A=r.target,C=A.getBoundingClientRect(),c=r.clientX-C.left,_=r.clientY-C.top;return c*=(A.naturalWidth||A.clientWidth)/C.width,_*=(A.naturalHeight||A.clientHeight)/C.height,{ x:Gr.floor(c),y:Gr.floor(_) } }function M(r,A,C){ if(\"number\"!=typeof r||\"number\"!=typeof A||!N(C))return-1;for(var c,_,U,Y,B,L=0;L<H(C);L+=1)if(c=C[L],_=c[0],U=c[1],Y=c[2],B=c[3],_<=r&&r<=Y&&U<=A&&A<=B)return L;return-1 }function j(r,A,C){ for(var c=\"\",_=r+Gr.floor(Gr.random()*(A-r));_;)c+=C[Gr.floor(Gr.random()*H(C))],_-=1;return c }function N(r){ return Array.isArray?Array.isArray(r):\"[object Array]\"===Object.prototype.toString.call(r) }function h(r){ return\"function\"==typeof r }function b(){ return!1 }function w(r){ Hr||(B(Yr,r)>-1&&(Br+=1,Lr[r]=1),(Br===H(Yr)||b())&&Ur&&(Hr=D,Jr.R(Ur,O.body))) }function $(r,A,U,Y){ return function(){ var B=_(r,c(C(r,11),0));return r=A,A=U,U=Y,(Y=c(_(_(Y,c(Y,19)),_(B,c(B,8))),0))/Gr.p32 } }function v(){ var r=new Uint32Array(1);return function(){ return crypto.getRandomValues(r),r[0]/Gr.p32 } }function W(A){ var C=function(r){ var A=[r(),r()];return A=A.filter(function(r){ return\"number\"==typeof r&&r>=0&&r<=1 }),2===H(A)&&A[0]!==A[1] };if(h(A)&&C(A))return A;var c=\"Uint32Array\"in r,_=r.crypto||r.msCrypto,U=_&&h(_.getRandomValues);if(c&&U){ var Y=v();if(C(Y))return Y }var B=Date.now();return $(541*B,1223*B,1987*B,2741*B) }function K(){ return function(r){ return r<0&&(r-=1),A(r,0) } }function u(A){ Cr.slice(1);A&&r.location.assign(A) }function F(r,A,C){ return Jr.join(Q+T,A+S,C+y+r+d) }function R(r,A,C,c){ return Jr.join(Q+T,S,C+\"f\"+c,A+y+r+d) }function V(r,A){ return R.bind(t,r,A) }function Z(A,C){ return function(){ r.setTimeout(A.bind(this),C) } }function m(r){ var A=r.cl;return function(C,c){ var _=r.li.coords,U=A,B=function(){ var A=O.getElementById(r.st);Y(Y(A)).removeChild(Y(A)) },L=r.li.func.bind(null);if(H(_)>0){ var J=M(C,c,_);if(J<0)return;if(J>-1&&J<H(_)&&\"function\"==typeof L)return L(J,U,B) }B() } }var D=!0,s=!1,t=null,x=0,o=50,O=r.document,Q=r.xH15VUbdx||\"//www.rp-online.de/\",T=\"image/public\",d=\".gif\",k=\"U\",y=\"\",S=\"\",rr=s,Ar=s,Cr=\"0123456789\",cr=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",_r=\"bcdefghijklmnoqrstuvxyz\",Ur=\"\",Yr=[\"Sky\"],Br=x,Hr=s,Lr={ },Jr={ },qr=\"nlb9tfN\",gr=\"_tsghvojsbcx\",Gr={ };Gr.p32=134217728*32,Gr.random=W(Math.random),Gr.floor=K(),G(Jr),function(r){ g(r) }(Jr),p(P),Jr.t=\"20190927155232\" }(window);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/neue-erkrather-feuerwache-erschliessung-wird-teurer_aid-36547993"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/wuelfrath/willkommen-im-niederbergischen-museum-in-wuelfrath_aid-36031571"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/ausgelaufenes-gefahrgut-sorgt-fuer-grosseinsatz-der-feuerwehr-in-unterfeldhaus_aid-35870523"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/tsv-hochdahl-bietet-trampolinspringen-fuer-menschen-ab-50-an_aid-35875143"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/langenfeld/langenfeld-interview-zu-100-jahre-frauenwahlrecht_aid-35798947"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/mettmann/fachhochschule-der-wirtschaft-in-mettmann-ermoeglicht-karrierechancen_aid-35779459"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www-rpd.rp-online.de/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693"
+        }
+      ]
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/leaderboard_1",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                970,
+                110
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "key": "lb1",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/outofpage_2_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage2"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22250755,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251071,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22252155,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-3",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "erkrath",
+          "pfad4": "stop",
+          "mode": "desktop",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "erkrath",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "//ads.pubmatic.com/AdServer/js/pwt/158201/1438/pwt.js"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1",
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/outofpage_2_1",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage2"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2",
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22250755,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251071,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22252155,
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-3",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/erkrath/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "erkrath",
+          "pfad4": "stop",
+          "mode": "mobile",
+          "zone": "localnews/erkrath"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "erkrath",
+          "pfad4": "stop",
+          "oms": "localnews/erkrath",
+          "mode": "mobile"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "//ads.pubmatic.com/AdServer/js/pwt/158201/1438/pwt.js"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://www.welect.de/passage/for_product",
+      "welectProductId": "YRUb48uPBT2AntUDxrPDrvL47fsT8n",
+      "welectIntegrationId": "yi3AfyWanM6Jufwep3x9YHUTFZTX"
+    },
+    "notifications": {
+      "pushProvider": {
+        "name": "CleverPush",
+        "key": "Nt8wzkKHeBpy8Anez"
+      }
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false,
+      "sticky": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"></div>",
+      "lazy": false,
+      "sticky": false
+    }
+  },
+  "outofpage": [
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div>",
+        "lazy": false,
+        "sticky": false
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div>",
+        "lazy": false,
+        "sticky": false
+      }
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<div id=\"outofpage_2\"></div>",
+        "lazy": false,
+        "sticky": false
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<div id=\"outofpage_2\"></div>",
+        "lazy": false,
+        "sticky": false
+      }
+    }
+  ],
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik2",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/20190105_091202-d3f2f13129c23c1a.jpg",
+      "text": "",
+      "href": "https://www.fuerteventurazeitung.de/",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div>",
+            "lazy": false,
+            "sticky": true
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div>",
+            "lazy": false,
+            "sticky": true
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "Startseite",
+                        "href": "/",
+                        "isHidden": true
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "/nrw/",
+                        "isHidden": false
+                      },
+                      {
+                        "text": "Städte",
+                        "href": "/nrw/staedte/",
+                        "isHidden": false
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Erkrath"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Bürgermonitor",
+                        "href": "/nrw/staedte/mettmann/buergermonitor/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Lokalsport",
+                        "href": "/nrw/staedte/mettmann/sport/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "container",
+                  "data": {
+                    "taboolaNewsroomGroup": "",
+                    "children": [
+                      {
+                        "component": "opener",
+                        "data": {
+                          "id": 36547993,
+                          "href": "/nrw/staedte/erkrath/neue-erkrather-feuerwache-erschliessung-wird-teurer_aid-36547993",
+                          "type": "article",
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Neue Feuerwache: Erschließung wird teurer"
+                          },
+                          "intro": "Über eine Stichstraße wird die neue Wache an die Kreuzung Bergische Allee/Schimmelbuschstraße angebunden. Straßen NRW, verantwortlich für die Bergische Allee, hat nun erhöhte Forderungen an die Barrierefreiheit gestellt.",
+                          "authors": "Von Thomas Peter",
+                          "src": {
+                            "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_1c776f929f1c3634c2530e01cb30669d/w250_h187_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_90908155e3e9eead41caa731ad30f536/w400_h300_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_4049bf6b6f0f8e66c07fd44b97eb33b9/w600_h450_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_6977c5428081d7cab8647d2305052118/w900_h675_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_9fd55d227e3ff2119af28a7033943515/w950_h713_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_6ad78148a8bcd9bf103e51e534e2ba42/w1200_h901_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg",
+                            "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/8/0/6/8/7/tok_9f39c3f476a4410b6c82e65ee69782be/w1900_h1426_x1535_y1023_RP_SK_Kreuzung_Bergische_Allee__Schimmelbuschstr_ERK_01-d412560f88a02f30.jpg"
+                          },
+                          "alt": "Im Kreuzungsbereich muss die Asphaltdecke erneuert",
+                          "source": "ERKRATH",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Großprojekt"
+                          },
+                          "backgroundColor": "rgba(42, 43, 40,1)",
+                          "backgroundLuma": 42.5708
+                        }
+                      },
+                      {
+                        "component": "section-portal-right",
+                        "data": {
+                          "component": "teaser-collection",
+                          "ad": {
+                            "type": "portal",
+                            "mobile": {
+                              "type": "mobile-rectangle",
+                              "html": "<div id=\"mobilebanner_2\"></div>",
+                              "lazy": false,
+                              "sticky": false
+                            },
+                            "desktop": {
+                              "type": "medium-rectangle",
+                              "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"halfpagead\"></div><span class=\"H15VUbd_end\"></span>",
+                              "lazy": false,
+                              "sticky": false
+                            }
+                          },
+                          "data": {
+                            "items": [
+                              {
+                                "id": 36031571,
+                                "href": "/nrw/staedte/wuelfrath/willkommen-im-niederbergischen-museum-in-wuelfrath_aid-36031571",
+                                "type": "article",
+                                "headline": {
+                                  "tag": "h2",
+                                  "text": "Bergische Seele"
+                                },
+                                "intro": "Das Niederbergische Museum in Wülfrath ist ein Heimatmuseum, denn es gestattet einen tiefen Blick.",
+                                "authors": "Von Alexandra Rüttgen",
+                                "src": {
+                                  "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_7ab6f27ba3404f3090f5f414a8f2b3ce/w250_h187_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg",
+                                  "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_6ae81cf460b611e210cd3047ef5784b1/w400_h300_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg",
+                                  "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_9136f2cefa0e12b6d13a7513ade0168b/w600_h450_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg",
+                                  "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_429c0dec106f624cb155e9fcd3290a90/w900_h675_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg",
+                                  "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_8fb3be260ab6b343dd776f0542a58533/w950_h713_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg",
+                                  "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/0/5/2/5/5/5/tok_a5104d7e732bd6e07573469632812118/w1200_h901_x600_y461_RP_47013081_1011564661_RGB_190_1_1_511514eb507e08a35e71a66f49693dfc_1548871381_1011564661_379c3c90e6-6bcec26cf3126811.jpg"
+                                },
+                                "alt": "Bitte Platz zu nehmen – gleich",
+                                "source": "Wülfrath",
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Wülfrath"
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      },
+                      {
+                        "component": "teaser-collection",
+                        "data": {
+                          "items": [
+                            {
+                              "id": 35870523,
+                              "href": "/nrw/staedte/erkrath/ausgelaufenes-gefahrgut-sorgt-fuer-grosseinsatz-der-feuerwehr-in-unterfeldhaus_aid-35870523",
+                              "type": "article",
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Ausgelaufenes Harz sorgt für Feuerwehr-Großeinsatz"
+                              },
+                              "intro": "Bei einer Spedition an der Otto-Hahn-Straße hatten sich Ventile von verrutschten Containern geöffnet. Verletzt wurde niemand.",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_b1e578e7a8f39fe679eacd242400ce8e/w250_h187_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_822c5593cd970638a64be59a112905e1/w400_h300_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_2e0e3c6da52e906c8169dbb41f4106dd/w600_h450_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_5a532e875c525b67b193b9cc16de252f/w900_h675_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_ad620c2a2483ff5c5d4da3a0f7626402/w950_h713_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/5/5/3/5/9/tok_0db21d4e1cdde91c3a661205e2044067/w1200_h901_x600_y506_RP_46653511_1002791495_RGB_190_1_1_42ba6158307e684ee360f88b7df29801_1548411582_1002791495_204c05aa2f-17b1299b0adce9d1.jpg"
+                              },
+                              "alt": "Die Feuerwehr Erkrath rückte am Donnerstag",
+                              "source": "Erkrath",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unterfeldhaus"
+                              }
+                            },
+                            {
+                              "id": 35875143,
+                              "href": "/nrw/staedte/erkrath/tsv-hochdahl-bietet-trampolinspringen-fuer-menschen-ab-50-an_aid-35875143",
+                              "type": "article",
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Quietschvergnügt auf dem Trampolin"
+                              },
+                              "intro": "Weil Trampolinspringen die Gelenke schont, ist es für Ältere ideal. Beim TSV Hochdahl gibt es daher „Jumping 50 +“.",
+                              "authors": "Von Daniele Funke",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_28cb6266d64d1cf02c40a84973004455/w250_h187_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_c35e9c2aca61f29e977e52b713b36e91/w400_h300_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_aac14b36bafff39202cb4e4811d32622/w600_h450_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_92b117303aa1e98af4a633baa47bb520/w900_h675_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_c1457b2806e8302256f1165479bd2106/w950_h713_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/7/4/1/5/1/tok_d24be3c7abb52c6d74230c5f9e04c600/w1200_h901_x702_y217_RP_46595447_1002821641_RGB_190_1_1_fd1fd67bc0808e9cc48821f033df38c7_1548412752_1002821641_cf8dee9397-c4f550ebe765407a.jpg"
+                              },
+                              "alt": "Eine tolle Kombination: Die Teilnehmerinnen des",
+                              "source": "Erkrath",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fitness"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22250755\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22250755\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "id": 35798947,
+                              "href": "/nrw/staedte/langenfeld/langenfeld-interview-zu-100-jahre-frauenwahlrecht_aid-35798947",
+                              "type": "article",
+                              "headline": {
+                                "tag": "h2",
+                                "text": "„Ganz wichtig für uns Frauen sind Netzwerke“"
+                              },
+                              "intro": "Die Kreisvorsitzende der Frauen-Union und frühere Europaabgeordnete über Gleichberechtigung nach 100 Jahren Frauen-Wahlrecht.",
+                              "authors": "Von Alexander Riedel",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/4/2/2/6/0/7/tok_51c4fb92babd3d3c23157831426c1b99/w250_h187_x600_y332_RP_46368039_996313223_RGB_190_1_1_335865bc34298a9f291a5f4a34360c21_1548145824_996313223_5c2d5d2de2-afe2bd0ee2ab664a.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/4/2/2/6/0/7/tok_e888cb5a5a8d5c9d47677aa126978407/w400_h300_x600_y332_RP_46368039_996313223_RGB_190_1_1_335865bc34298a9f291a5f4a34360c21_1548145824_996313223_5c2d5d2de2-afe2bd0ee2ab664a.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/4/2/2/6/0/7/tok_94cf29eb43c688b133ffead23ab4ec98/w600_h450_x600_y332_RP_46368039_996313223_RGB_190_1_1_335865bc34298a9f291a5f4a34360c21_1548145824_996313223_5c2d5d2de2-afe2bd0ee2ab664a.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/4/2/2/6/0/7/tok_6cfc697fa756fcf8f2b746d08dba8be7/w900_h665_x600_y332_RP_46368039_996313223_RGB_190_1_1_335865bc34298a9f291a5f4a34360c21_1548145824_996313223_5c2d5d2de2-afe2bd0ee2ab664a.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/4/2/2/6/0/7/tok_8e1cb30f7fc5e7fc108b29a47089889e/w950_h665_x600_y332_RP_46368039_996313223_RGB_190_1_1_335865bc34298a9f291a5f4a34360c21_1548145824_996313223_5c2d5d2de2-afe2bd0ee2ab664a.jpg"
+                              },
+                              "alt": "Annette Koewius (m.) im Kreise anderer",
+                              "source": "Kreis Mettmann",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Jubiläum"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251071\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251071\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "id": 35779459,
+                              "href": "/nrw/staedte/mettmann/fachhochschule-der-wirtschaft-in-mettmann-ermoeglicht-karrierechancen_aid-35779459",
+                              "type": "article",
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Dual studieren – im Sauseschritt zum Beruf"
+                              },
+                              "intro": "Betriebswirt Marvin Schwabe hat als FHDW-Absolvent nach drei Jahren Bachelor, Ausbildungszeugnis und Arbeitsvertrag in der Tasche.",
+                              "authors": "Von Günter Tewes",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_5d12b12680308257a5f56885d8ef0afe/w250_h187_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_b0601599e1da876a70209d8b19a6f96c/w400_h300_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_c289ba5e42f0a666f21b8bde189d1419/w600_h450_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_9f0aca9eec42089a836df3f8c96aba8f/w900_h675_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_dfd657801c33f8dd378521b9e27fcb2d/w950_h713_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/3/5/8/7/1/9/tok_6197a5d3254238b4a10c9f547e2e5da2/w1200_h808_x600_y404_RP_45932479_994484559_RGB_190_1_1_da358e7ed271f5704b5bbc8f09ac76be_1548068086_994484559_5d83666fe5-6b8ee2cb8bf7945c.jpg"
+                              },
+                              "alt": "Bettina und Veit Schwabe schauen ihrem",
+                              "source": "Kreis Mettmann",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fachhochschule der Wirtschaft"
+                              }
+                            },
+                            {
+                              "id": 9220693,
+                              "href": "/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+                              "type": "article",
+                              "headline": {
+                                "tag": "h2",
+                                "text": "RP ONLINE per WhatsApp lesen"
+                              },
+                              "intro": "Holen Sie sich jeden Morgen die Nachrichten aus der Region aufs Smartphone. Dazu gibt es die wichtigsten Sportnews und unseren Aufwacher-Podcast als Sprachnachricht.",
+                              "source": "Düsseldorf",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "News direkt aufs Smartphone"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22252155\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22252155\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "container",
+                  "data": {
+                    "taboolaNewsroomGroup": " weitere",
+                    "children": [
+                      {
+                        "component": "section-footer",
+                        "data": {
+                          "button": {
+                            "text": "Archiv",
+                            "href": "archiv/"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<style>\r\n.themenwelt_box_svoe{\r\n    background-color: #edf0f3;\r\n    padding-top: 16px;\r\n    padding-bottom: 8px;\r\n    text-align: left;\r\n    margin: 0 !important;\r\n}\r\n\r\n.ueberschrift_svoe{\r\n    font-family: Source Sans Pro,sans-serif;\r\n    font-weight: 400; \r\n    color: #2f2f2f; \r\n    font-size: 18px;\r\n    line-height: 20px;\r\n    text-transform: uppercase;\r\n    letter-spacing: 0.9px;\r\n    border-left: .25rem solid #dd5900;\r\n    padding: 0 0 0 .5rem;\r\n    margin:0px 0px 8px 16px;\r\n    position: relative;\r\n}\r\n.svoe_anzeige{\r\n    color: #2f2f2f;\r\n    position: absolute;\r\n    right: 15px;\r\n    font-size: 13px;\r\n}\r\n\r\n.mini_frame{\r\n    float: left;\r\n    margin: 0 -8px 0 8px;\r\n    max-width: 632px;\r\n}\r\ndiv.mini:hover{\r\n    background-color: #f2f4f6;\r\n}\r\n.mini{\r\n    float: left;\r\n    background-color: #fff;\r\n    margin:8px;\r\n    width: 300px;\r\n    height: 117px;\r\n    box-shadow: 0 2px 2px 0 rgba(0,0,0,.24);\r\n    overflow: hidden;\r\n}\r\n\r\n.maxi{\r\n    float: left;\r\n    background-color: #fff;\r\n    margin: 8px 24px 8px 16px;\r\n    width: 300px;\r\n    height: 250px;\r\n    box-shadow: 0 2px 2px 0 rgba(0,0,0,.24);\r\n    overflow: hidden;\r\n}\r\ndiv.maxi:hover{\r\n    background-color: #f2f4f6;\r\n}\r\n.link_markt{\r\nposition: relative;\r\nheight: 24px;\r\n}\r\n.link_markt span{\r\nposition: absolute;\r\nright: 32px;\r\n}\r\n.link_markt a{\r\ncolor: #2f2f2f;\r\n}\r\n\r\n</style>\r\n\r\n<div class=\"themenwelt_box_svoe\">\r\n    <div class=\"ueberschrift_svoe\">\r\n        <span>Themenwelt</span>\r\n        <span class=\"svoe_anzeige\">ANZEIGE</span>\r\n    </div>\r\n    <div class=\"mini_frame\">\r\n        <div class=\"mini\">\r\n            <div id='gpt_rpd_adslot_svoe_mini_1'> </div>\r\n        </div>\r\n    </div>\r\n    <div class=\"maxi\">\r\n        <div id='gpt_rpd_adslot_svoe_maxi'> </div>\r\n    </div>\r\n<div style=\"clear:both;\"></div>\r\n<div class=\"link_markt\">\r\n    <span>\r\n            <a href=\"https://rp-online.de/app/marktgefluester/?utm_source=rponline&utm_medium=themenwelten&utm_campaign=marktplatz\" target=\"_blank\">Hier zum Marktgeflüster »</a>\r\n    </span>\r\n</div>\r\n</div>\r\n\r\n<script>\r\nif(rpd_debug===undefined){\r\n    var rpd_debug=[];\r\n        rpd_debug.push(\"RPD Debug\");\r\n        rpd_debug.push(\"Seite: \" + window.location.href);\r\n        rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n        rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n}\r\nif(typeof this['rpd_debugs'] != 'function') {\r\n    function rpd_debugs(){\r\n        for (var i=0; i<rpd_debug.length;i++){\r\n            console.log(rpd_debug[i]);\r\n        }\r\n    }\r\n}\r\n(function() {\r\n    function init() {\r\n        if (typeof window.googletag === \"undefined\") {\r\n            googletag = window.googletag || {cmd: []};\r\n                var script   = document.createElement(\"script\");\r\n                    script.type  = \"text/javascript\";\r\n                    script.async = true;\r\n                    script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                    document.head.appendChild(script);\r\n                rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n        }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n        // Variablen definieren\r\n        var gpt_rpd_adslot=[];\r\n        var rpd_adunit0 = \"1017380\";\r\n        var rpd_adunit1 = \"rp-online.de\";\r\n        var rpd_adunit2 = \"svoe_mini\"; //mobil adunit\r\n        var rpd_adunit2_alt = \"svoe_maxi\"; //desktop adunit\r\n        var rpd_div_id_1 = 'gpt_rpd_adslot_svoe_mini_1'; // DIV IDs\r\n        var rpd_div_id_5 = 'gpt_rpd_adslot_svoe_maxi';\r\n        var adsize=['fluid']; // Ad Size\r\n\r\n        if (!window.googletag) {\r\n            window.setTimeout(init, 100);\r\n            rpd_debug.push(\"warten auf GPT\");\r\n            return;\r\n        }\r\n        //Eventlistener Debug  \r\n        rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n        rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n\r\n        googletag.cmd.push(function() {\r\n            gpt_rpd_adslot[0] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id_1).setTargeting('pos', 'mini-1').addService(googletag.pubads());\r\n            gpt_rpd_adslot[4] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2_alt, adsize, rpd_div_id_5).addService(googletag.pubads());\r\n\r\n            //Eventlistener Debug  \r\n            googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                var times = performance.now();\r\n                var diftimes = Math.round(times)/1000;\r\n                rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n            });\r\n            googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                var time = performance.now();\r\n                var diftime = Math.round(time)/1000;\r\n                rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n            });\r\n            googletag.pubads().collapseEmptyDivs();\r\n            googletag.enableServices();\r\n            for(var i = 0; i<gpt_rpd_adslot.length;i++){\r\n                googletag.display(gpt_rpd_adslot[i]);\r\n            }\r\n        });\r\n    }\r\n\r\n            window.setTimeout(init, 300);\r\n\r\n       \r\n})();\r\n</script>",
+                          "lazy": false,
+                          "sticky": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<style>\r\n.themenwelt_box_svoe{\r\n    background-color: #edf0f3;\r\n    padding-top: 16px;\r\n    padding-bottom: 8px;\r\n    text-align: left;\r\n    margin: 0 !important;\r\n}\r\n\r\n.ueberschrift_svoe{\r\n    font-family: Source Sans Pro,sans-serif;\r\n    font-weight: 400; \r\n    color: #2f2f2f; \r\n    font-size: 18px;\r\n    line-height: 20px;\r\n    text-transform: uppercase;\r\n    letter-spacing: 0.9px;\r\n    border-left: .25rem solid #dd5900;\r\n    padding: 0 0 0 .5rem;\r\n    margin:0px 0px 8px 16px;\r\n    position: relative;\r\n}\r\n.svoe_anzeige{\r\n    color: #2f2f2f;\r\n    position: absolute;\r\n    right: 15px;\r\n    font-size: 13px;\r\n}\r\n\r\n.mini_frame{\r\n    float: left;\r\n    margin: 0 -8px 0 8px;\r\n    max-width: 632px;\r\n}\r\ndiv.mini:hover{\r\n    background-color: #f2f4f6;\r\n}\r\n\r\n.mini{\r\n    float: left;\r\n    background-color: #fff;\r\n    margin:8px;\r\n    width: 300px;\r\n    height: 117px;\r\n    box-shadow: 0 2px 2px 0 rgba(0,0,0,.24);\r\n    overflow: hidden;\r\n}\r\n\r\n.maxi{\r\n    float: left;\r\n    background-color: #fff;\r\n    margin: 8px 24px 8px 16px;\r\n    width: 300px;\r\n    height: 250px;\r\n    box-shadow: 0 2px 2px 0 rgba(0,0,0,.24);\r\n    overflow: hidden;\r\n}\r\ndiv.maxi:hover{\r\n    background-color: #f2f4f6;\r\n}\r\n.link_markt{\r\n    position: relative;\r\n    height: 24px;\r\n}\r\n.link_markt span{\r\n    position: absolute;\r\n    right: 32px;\r\n}\r\n.link_markt a{\r\n    color: #2f2f2f;\r\n}\r\n</style>\r\n\r\n<div class=\"themenwelt_box_svoe\">\r\n    <div class=\"ueberschrift_svoe\">\r\n        <span>Themenwelt</span>\r\n        <span class=\"svoe_anzeige\">ANZEIGE</span>\r\n    </div>\r\n    <div class=\"mini_frame\">\r\n        <div class=\"mini\">\r\n            <div id='gpt_rpd_adslot_svoe_mini_1'> </div>\r\n        </div>\r\n        <div class=\"mini\">\r\n            <div id='gpt_rpd_adslot_svoe_mini_2'> </div>\r\n        </div>\r\n        <div class=\"mini\">\r\n            <div id='gpt_rpd_adslot_svoe_mini_3'> </div>\r\n        </div>\r\n        <div class=\"mini\">\r\n            <div id='gpt_rpd_adslot_svoe_mini_4'> </div>\r\n        </div>\r\n    </div>\r\n    <div class=\"maxi\">\r\n        <div id='gpt_rpd_adslot_svoe_maxi'> </div>\r\n    </div>\r\n<div style=\"clear:both;\"></div>\r\n<div class=\"link_markt\">\r\n    <span>\r\n            <a href=\"https://rp-online.de/app/marktgefluester/?utm_source=rponline&utm_medium=themenwelten&utm_campaign=marktplatz\" target=\"_blank\">Hier zum Marktgeflüster »</a>\r\n    </span>\r\n</div>\r\n</div>\r\n\r\n<script>\r\nif(rpd_debug===undefined){\r\n    var rpd_debug=[];\r\n        rpd_debug.push(\"RPD Debug\");\r\n        rpd_debug.push(\"Seite: \" + window.location.href);\r\n        rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n        rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n}\r\nif(typeof this['rpd_debugs'] != 'function') {\r\n    function rpd_debugs(){\r\n        for (var i=0; i<rpd_debug.length;i++){\r\n            console.log(rpd_debug[i]);\r\n        }\r\n    }\r\n}\r\n(function() {\r\n    function init() {\r\n        if (typeof window.googletag === \"undefined\") {\r\n            googletag = window.googletag || {cmd: []};\r\n                var script   = document.createElement(\"script\");\r\n                    script.type  = \"text/javascript\";\r\n                    script.async = true;\r\n                    script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                    document.head.appendChild(script);\r\n                rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n        }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n        // Variablen definieren\r\n        var gpt_rpd_adslot=[];\r\n        var rpd_adunit0 = \"1017380\";\r\n        var rpd_adunit1 = \"rp-online.de\";\r\n        var rpd_adunit2 = \"svoe_mini\"; //mobil adunit\r\n        var rpd_adunit2_alt = \"svoe_maxi\"; //desktop adunit\r\n        var rpd_div_id_1 = 'gpt_rpd_adslot_svoe_mini_1'; // DIV IDs\r\n        var rpd_div_id_2 = 'gpt_rpd_adslot_svoe_mini_2';\r\n        var rpd_div_id_3 = 'gpt_rpd_adslot_svoe_mini_3';\r\n        var rpd_div_id_4 = 'gpt_rpd_adslot_svoe_mini_4';\r\n        var rpd_div_id_5 = 'gpt_rpd_adslot_svoe_maxi';\r\n        var adsize=['fluid']; // Ad Size\r\n\r\n        if (!window.googletag) {\r\n            window.setTimeout(init, 100);\r\n            rpd_debug.push(\"warten auf GPT\");\r\n            return;\r\n        }\r\n        //Eventlistener Debug  \r\n        rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n        rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n\r\n        googletag.cmd.push(function() {\r\n            gpt_rpd_adslot[0] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id_1).setTargeting('pos', 'mini-1').addService(googletag.pubads());\r\n            gpt_rpd_adslot[1] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id_2).setTargeting('pos', 'mini-2').addService(googletag.pubads());\r\n            gpt_rpd_adslot[2] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id_3).setTargeting('pos', 'mini-3').addService(googletag.pubads());\r\n            gpt_rpd_adslot[3] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id_4).setTargeting('pos', 'mini-4').addService(googletag.pubads());\r\n            gpt_rpd_adslot[4] = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2_alt, adsize, rpd_div_id_5).addService(googletag.pubads());\r\n\r\n            //Eventlistener Debug  \r\n            googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                var times = performance.now();\r\n                var diftimes = Math.round(times)/1000;\r\n                rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n            });\r\n            googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                var time = performance.now();\r\n                var diftime = Math.round(time)/1000;\r\n                rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n            });\r\n            googletag.pubads().collapseEmptyDivs();\r\n            googletag.enableServices();\r\n            for(var i = 0; i<gpt_rpd_adslot.length;i++){\r\n                googletag.display(gpt_rpd_adslot[i]);\r\n            }\r\n        });\r\n    }\r\n \r\n\r\n            window.setTimeout(init, 300);\r\n\r\n        \r\n})();\r\n</script>",
+                          "lazy": false,
+                          "sticky": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "tab-container",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Anzeigen aus Düsseldorf"
+                    },
+                    "type": "slider",
+                    "blocks": [
+                      {
+                        "title": "Traueranzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/karola-weiland",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Karola-Weiland-Traueranzeige-a62bc6d9-ae83-4ace-9d47-7da0faf93bb5.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/rolf-heyder",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Rolf-Heyder-Traueranzeige-0bed95c8-0f12-476a-8b59-53d29676ad0e.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/anni-dutenhoefer",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Anni-Dutenh%C3%B6fer-Traueranzeige-d747ca02-3950-4dd8-b452-38e2778bbf1c.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/helga-lammers",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Helga-Lammers-Traueranzeige-bc068159-8e67-422c-b250-d75a7050fcdf.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/josef-baum",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Josef-Baum-Traueranzeige-95869243-6053-413f-98bc-a08202dbacaf.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/karl-malkrab",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Karl-Malkrab-Traueranzeige-8a601dfe-6013-4ee0-aeac-cf35099f4123.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/rolf-greiss",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Rolf-Grei%C3%9F-Traueranzeige-221265bf-bc90-4a23-b746-c01df2e7bcf9.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/adolf-weiler",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Adolf-Weiler-Traueranzeige-86c966df-c08a-4f32-81f4-1bfde673975d.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/gerlinde-dewitz",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Gerlinde-Dewitz-Traueranzeige-236d71bc-476b-46be-a4af-c49741cb3572.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/claudia-van-de-wauw",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Claudia-vandeWauw-Traueranzeige-fbbaa6a0-d953-4aa9-a4d1-89048844a8a2.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/dieter-koehler",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Dieter-K%C3%B6hler-Traueranzeige-a6904082-6869-4a2c-b9e2-5673f6434a16.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/sieglinde-laarmann",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Sieglinde-Laarmann-Traueranzeige-2bd8e2f2-aede-40b0-afdc-e251c66d0b71.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/herbert-lau",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Herbert-Lau-Traueranzeige-372c406b-9a04-4d1c-a201-8b2d6b4ffbfa.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/peter-juergen-honisch",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/PeterJ%C3%BCrgen-Honisch-Traueranzeige-8089d59c-0421-4769-a281-b6363aff1d74.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/herbert-zimmermann-1921",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Herbert-Zimmermann-Traueranzeige-a26c58fc-08d9-4d3c-8348-9e13211967e7.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/horst-mede",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Horst-Mede-Traueranzeige-33919ad9-a078-41ce-ac5e-7a738b3dadfd.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/annemarie-kessing",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Annemarie-Kessing-Traueranzeige-76c54afa-84d2-4ae0-8178-72307a65cd2b.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/manfred-kroupa",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Manfred-Kroupa-Traueranzeige-142ce280-5615-43fc-b009-f20a316c91db.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/heinz-clever-1946",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Heinz-Clever-Traueranzeige-73707030-8e70-44dc-b3d8-4d5c4707ddf4.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/peter-goebbels",
+                                  "target": "_blank",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Peter-G%C3%B6bbels-Traueranzeige-f1dd0e32-7a03-4fe6-ac2d-664c0d6ef237.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Familienanzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6513672.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6513672.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6524720.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6524720.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6497873.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6497873.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6502394.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6502394.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6514536.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6514536.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "tab-container",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Anzeigen aus Düsseldorf"
+                    },
+                    "type": "slider",
+                    "blocks": [
+                      {
+                        "title": "Traueranzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/karola-weiland",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Karola-Weiland-Traueranzeige-a62bc6d9-ae83-4ace-9d47-7da0faf93bb5.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/rolf-heyder",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Rolf-Heyder-Traueranzeige-0bed95c8-0f12-476a-8b59-53d29676ad0e.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/anni-dutenhoefer",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Anni-Dutenh%C3%B6fer-Traueranzeige-d747ca02-3950-4dd8-b452-38e2778bbf1c.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/helga-lammers",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Helga-Lammers-Traueranzeige-bc068159-8e67-422c-b250-d75a7050fcdf.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/josef-baum",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Josef-Baum-Traueranzeige-95869243-6053-413f-98bc-a08202dbacaf.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/karl-malkrab",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Karl-Malkrab-Traueranzeige-8a601dfe-6013-4ee0-aeac-cf35099f4123.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/rolf-greiss",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Rolf-Grei%C3%9F-Traueranzeige-221265bf-bc90-4a23-b746-c01df2e7bcf9.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/adolf-weiler",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Adolf-Weiler-Traueranzeige-86c966df-c08a-4f32-81f4-1bfde673975d.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/gerlinde-dewitz",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Gerlinde-Dewitz-Traueranzeige-236d71bc-476b-46be-a4af-c49741cb3572.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/claudia-van-de-wauw",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Claudia-vandeWauw-Traueranzeige-fbbaa6a0-d953-4aa9-a4d1-89048844a8a2.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/dieter-koehler",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Dieter-K%C3%B6hler-Traueranzeige-a6904082-6869-4a2c-b9e2-5673f6434a16.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/sieglinde-laarmann",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Sieglinde-Laarmann-Traueranzeige-2bd8e2f2-aede-40b0-afdc-e251c66d0b71.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/herbert-lau",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Herbert-Lau-Traueranzeige-372c406b-9a04-4d1c-a201-8b2d6b4ffbfa.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/peter-juergen-honisch",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/PeterJ%C3%BCrgen-Honisch-Traueranzeige-8089d59c-0421-4769-a281-b6363aff1d74.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/herbert-zimmermann-1921",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Herbert-Zimmermann-Traueranzeige-a26c58fc-08d9-4d3c-8348-9e13211967e7.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/horst-mede",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Horst-Mede-Traueranzeige-33919ad9-a078-41ce-ac5e-7a738b3dadfd.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/annemarie-kessing",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Annemarie-Kessing-Traueranzeige-76c54afa-84d2-4ae0-8178-72307a65cd2b.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/manfred-kroupa",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Manfred-Kroupa-Traueranzeige-142ce280-5615-43fc-b009-f20a316c91db.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/heinz-clever-1946",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Heinz-Clever-Traueranzeige-73707030-8e70-44dc-b3d8-4d5c4707ddf4.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "target": "_blank",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/peter-goebbels",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2019_9/Peter-G%C3%B6bbels-Traueranzeige-f1dd0e32-7a03-4fe6-ac2d-664c0d6ef237.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Familienanzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6513672.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6513672.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6524720.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6524720.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6497873.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6497873.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6502394.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6502394.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                },
+                                {
+                                  "type": "image",
+                                  "mode": "display",
+                                  "mode": "display",
+                                  "href": "https://rp-online.de/layout/gruss/6514536.1_gross.jpg",
+                                  "src": "https://rp-online.de/layout/gruss/6514536.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  },
+                                  "rel": [
+                                    "nofollow"
+                                  ]
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Lokalsport",
+                      "href": "/nrw/staedte/mettmann/sport/"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 36557193,
+                        "href": "/nrw/staedte/mettmann/sport/mettmanner-thc-zeigt-licht-und-schatten_aid-36557193",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Hockey: Schwache Frauen siegen, starkes Herren-Team verliert"
+                        },
+                        "intro": "(K.M.) Das Frauen-Team des Mettmanner THC gewann zwar die Verbandsliga-Partie beim Crefelder HTC II knapp mit 3:2, enttäuschte aber spielerisch. Bei uns war irgendwie der Wurm drin. Vor allem die Chancenverwertung ließ sehr zu wünschen übrig, war Kokan Stojanovic mit dem Auftritt überhaupt nicht einverstanden.",
+                        "authors": "Von Klaus Müller",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_013289844582c703ca99f287649a7f99/w250_h187_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_722aa7f650217c12dbc8f533924f7be9/w400_h300_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_f9b7f7014baaab04b6c0ac4b2f92fdb2/w600_h450_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_9f4fff4458179577afe56f8955c877a0/w900_h675_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_c2de671578f347c993135a9ae6e81097/w950_h713_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/3/3/1/9/tok_743840a797ff3db5d29568b80ddaaff7/w1200_h901_x564_y279_RP_47788779_1037041329_RGB_190_1_1_0e2d0ced227aa09a5a25b887aa3ccc5f_1549380898_1037041329_f066ea9a15-63348bf9d48ba744.jpg"
+                        },
+                        "alt": "Lasse Böhm (am Ball) brachte das",
+                        "source": "METTMANN",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hockey"
+                        }
+                      },
+                      {
+                        "id": 36556971,
+                        "href": "/nrw/staedte/mettmann/sport/tus-hilden-unterliegt-der-tg-stuerzelberg_aid-36556971",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "TuS-Basketballer scheitern an der Korbausbeute"
+                        },
+                        "intro": "TuS Hilden  TG Stürzelberg 45:53 (20:31). (bs) Die TuS-Basketballer kassierten eine weitere vermeidbare Niederlage in eigener Halle. Weil schon im ersten Viertel die Wurfquote nicht stimmte, sahen sich die Hildener mit 12:20 im Hintertreffen.",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/2/7/4/7/tok_a8dbaaafd2fc91e420ceb4362949c324/w250_h187_x557_y600_RP_47788465_1037465629_RGB_190_1_1_ad60cd40d6050d2cac740a270b03365f_1549384308_1037465629_c51a2c7e5c-b29167933b22cb18.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/2/7/4/7/tok_9f3f499fc8a03673a33b3bf0f6c14ce7/w400_h300_x557_y600_RP_47788465_1037465629_RGB_190_1_1_ad60cd40d6050d2cac740a270b03365f_1549384308_1037465629_c51a2c7e5c-b29167933b22cb18.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/2/7/4/7/tok_b22a26cf18ef41d953fd3055d8d8c039/w600_h450_x557_y600_RP_47788465_1037465629_RGB_190_1_1_ad60cd40d6050d2cac740a270b03365f_1549384308_1037465629_c51a2c7e5c-b29167933b22cb18.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/2/7/4/7/tok_e65a828b8863986c12e24276bc0f9eef/w900_h675_x557_y600_RP_47788465_1037465629_RGB_190_1_1_ad60cd40d6050d2cac740a270b03365f_1549384308_1037465629_c51a2c7e5c-b29167933b22cb18.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/2/7/4/7/tok_26c19992d0c6955f3236fdabd5f62de7/w950_h713_x557_y600_RP_47788465_1037465629_RGB_190_1_1_ad60cd40d6050d2cac740a270b03365f_1549384308_1037465629_c51a2c7e5c-b29167933b22cb18.jpg"
+                        },
+                        "alt": "Felipe von Heereman (am Ball) war",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Basketball"
+                        }
+                      },
+                      {
+                        "id": 36532521,
+                        "href": "/nrw/staedte/mettmann/sport/tb-wuelfrath-haelt-aufsteiger-hc-weiden-in-schach_aid-36532521",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "TBW-Handballerinnen beweisen Kampfgeist"
+                        },
+                        "intro": "Die Mannschaft von Lars Faßbender setzt in der Regionalliga trotz personeller Probleme ihre Erfolgsserie in eigener Halle fort.",
+                        "authors": "Von Birgit Sicker",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_bc991e2774d970c536cffcdc52c8c64f/w250_h187_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_c81f7f1ad8f412c67366ec74d1b8c573/w400_h300_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_b8c84ddcdd8feb7a71b0f8bc31aabe49/w600_h450_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_26b1cc1ed41af99a826c71d567877d97/w900_h675_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_bb23905e0fcf84cf89d17d5a35981e35/w950_h713_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/2/6/1/tok_628b990cfcd391f4c2c12e68635b95d3/w1200_h816_x600_y408_RP_47716175_1034127037_RGB_190_1_1_979b3c9a41923bbc5f142ef2fec959a9_1549299760_1034127037_9818658041-11db48a4d60183af.jpg"
+                        },
+                        "alt": "Simone Fränken hatte am Kreis gegen",
+                        "source": "Wülfrath",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "teaser-list",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 36532611,
+                        "href": "/nrw/staedte/mettmann/sport/maik-franke-bleibt-chefcoach-des-asv-mettmann_aid-36532611",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "ASV Mettmann verlängert mit dem Trainerteam"
+                        },
+                        "intro": "Der Fußball-Bezirksligist bestellt schon jetzt das Feld für die nächste Spielzeit. Maik Frey kehrt als Sportlicher Berater zurück.",
+                        "authors": "Von Klaus Müller",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_04bda0109793ea241308009e7ca11190/w250_h187_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_2fd0c40c661fa9c48c603088172e2d50/w400_h300_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_c42f784d36ca6b3fe90bfc5838fc3079/w600_h450_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_3d918cc4bf841bb3cabac84a30dc1891/w900_h675_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_f0fb6dbcdf03f5e6ecd8086ecbd6037d/w950_h713_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_1045d4f09ec3f35e4ec6455fb026cf7a/w1200_h901_x1328_y886_050818abzl26-637d7dbd506b8254.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/3/5/6/3/5/tok_3f6e2e39a139c5b416daf81c43e630a1/w1900_h1426_x1328_y886_050818abzl26-637d7dbd506b8254.jpg"
+                        },
+                        "alt": "Maik Franke verlängert seinen Vertrag.",
+                        "source": "METTMANN",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fußball"
+                        }
+                      },
+                      {
+                        "id": 36506741,
+                        "href": "/nrw/staedte/mettmann/sport/bergischer-hc-ii-sieht-bei-der-djk-unitas-haan-kein-land_aid-36506741",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Unitas-Handballer behalten Überblick"
+                        },
+                        "intro": "Der Oberliga-Spitzenreiter dominiert die Reserve des Bergischen HC und lockt dank seiner souveränen Auftritte immer mehr Fans zu den Heimspielen. Selbst der sonst sehr kritische Trainer Kai Müller ist zufrieden.",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_41f529498fcbb9e442696c9df07bc2bb/w250_h187_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_1548307d099c44abc73553660af04aa9/w400_h300_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_5ffcd53e9dc9dcd4e5a4b6525b738a6e/w600_h450_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_0db48989d16cca993f50b6f43b5a2cfd/w900_h675_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_860421de1e3e8dfc24f5afae26f144fc/w950_h713_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/6/6/1/5/8/3/tok_d37225528d9c1eff7cbc5b5785d9e79c/w1200_h901_x610_y479_RP_47605443_1030993983_RGB_190_1_1_8f503b557f4dead0b636d551e1d1f5ef_1549216460_1030993983_55f93c18c4-2242bfc491c1b376.jpg"
+                        },
+                        "alt": "Spielmacher Raphael Korbmacher (am Ball) glänzte",
+                        "source": "Haan",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      },
+                      {
+                        "id": 35884823,
+                        "href": "/nrw/staedte/mettmann/sport/anne-katrin-reinl-setzt-sich-mit-nur-fuenf-laeufen-die-krone-auf_aid-35884823",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Reinl holt im Eiltempo Neanderland Cup 2018"
+                        },
+                        "intro": "Die Thüringerin findet über den Skilanglauf zum Triathlon – und meistert mit nur fünf Läufen die Herausforderung Neanderland Cup.",
+                        "authors": "Von Birgit Sicker",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/3/7/8/3/tok_4b1c4dc3287dabaaa66116d0ce49d5ed/w250_h187_x302_y264_RP_46662581_1003901793_RGB_190_1_1_2e15c2c9baf897b361ae3b97ab5cbaf3_1548437636_1003901793_de8e2f62c0-1b41829a7c61e93a.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/3/7/8/3/tok_f640c2482cdf6b45ecb1ffd04d49850c/w400_h300_x302_y264_RP_46662581_1003901793_RGB_190_1_1_2e15c2c9baf897b361ae3b97ab5cbaf3_1548437636_1003901793_de8e2f62c0-1b41829a7c61e93a.jpg"
+                        },
+                        "alt": "Anne-Katrin Reinl war schon als Kind",
+                        "source": "Wülfrath/Hilden",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Leichtathletik"
+                        }
+                      },
+                      {
+                        "id": 35885105,
+                        "href": "/nrw/staedte/mettmann/sport/tb-wuelfrath-will-seinen-heimnimbus-wahren_aid-35885105",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "TBW-Frauen empfangen Verfolger Strombach"
+                        },
+                        "intro": "Für die Handballerinnen des TB Wülfrath geht es heute (17.45 Uhr, Fliethe-Halle) um die Fortsetzung einer wichtigen Serie. Denn auch im letzten Heimspiel der Hinrunde will die Mannschaft von Lars Faßbender ungeschlagen bleiben.",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_c4d9de36249f297b0df6af513e292fc8/w250_h187_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_3f2ebf8654919d3e95e5e835fb1ac752/w400_h300_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_b8b59a2836839fe45afb189b5a465ffc/w600_h450_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_1aefa568c5414971a5f007a5d01761d9/w900_h675_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_fd1a4004c997bffef34cef54c4178364/w950_h713_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_cafd7f4e99fccf7bbe2e043f058218fb/w1200_h901_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/7/5/9/tok_28d242acdd9ad3e7db834b3e517bd72c/w1900_h1426_x1919_y1280_171003DJ017-ea7ccfb8a6c3f17d.jpg"
+                        },
+                        "alt": "Lars Faßbender stellt das Wülfrather Team",
+                        "source": "Wülfrath",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      },
+                      {
+                        "id": 35885179,
+                        "href": "/nrw/staedte/mettmann/sport/mettmann-sport-tritt-bei-der-hsg-solingen-an_aid-35885179",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Laschet bleibt Trainer der\nME-Sport-Handballerinnen"
+                        },
+                        "intro": "Bevor die Handballerinnen von Mettmann-Sport in die Rückrunde starten, haben die Verantwortlichen im Hintergrund eine wichtige Personalie geklärt. Marcus Laschet bleibt auch im zweiten Jahr Trainer der Verbandsligamannschaft. Als ich gefragt wurde, musste ich nicht überlegen.",
+                        "authors": "Von Lars Faßbender",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/9/4/3/tok_b83802f27ac130be7410c6a9167b4221/w250_h187_x227_y327_RP_46706121_1004162781_RGB_190_1_1_3e3965686132a7993f1cc45dda24eb67_1548440565_1004162781_e1519052c1-52e7fab0b808d95c.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/9/4/3/tok_0c349079bd1821be56393fd4d1af2638/w400_h300_x227_y327_RP_46706121_1004162781_RGB_190_1_1_3e3965686132a7993f1cc45dda24eb67_1548440565_1004162781_e1519052c1-52e7fab0b808d95c.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/4/9/4/3/tok_5a0b0d824517d781639b4a0978a2c304/w600_h450_x227_y327_RP_46706121_1004162781_RGB_190_1_1_3e3965686132a7993f1cc45dda24eb67_1548440565_1004162781_e1519052c1-52e7fab0b808d95c.jpg"
+                        },
+                        "alt": "Trainer Marcus Laschet hat einen Plan.",
+                        "source": "Mettmann",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      },
+                      {
+                        "id": 35885251,
+                        "href": "/nrw/staedte/mettmann/sport/len-heinson-wechselt-zum-vfb-03-hilden_aid-35885251",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "VfB-Coach Bach sieht neue Möglichkeiten"
+                        },
+                        "intro": "Der 41-jährige Trainer freut sich über einen Neuzugang im defensiven Bereich. Vom Wuppertaler SV wechselt\nLen Heinson nach Hilden. Der 23-Jährige kam beim Regionalligisten nicht zu den gewünschten Einsatzzeiten.",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_402e6d2559ce54defd57b72ba2ccfb31/w250_h187_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_600390850e8a911783478836c9f6714b/w400_h300_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_f74f5d7f36175f30f67015a27245ce69/w600_h450_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_f6e6da03de81dcbcf0fff3e746ee5b50/w900_h675_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_892eb88c761e1243ab37f2a5078bd9bd/w950_h713_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/7/1/5/1/1/9/tok_feb072cce6507fd894ad7632908813c0/w1200_h790_x600_y395_RP_46669477_1004084869_RGB_190_1_1_1812673a408a879b35ec6bf710d77d48_1548440532_1004084869_8d3e9af44a-f69f065eb5d9384e.jpg"
+                        },
+                        "alt": "Trainer Marc Bach arbeitet mit dem",
+                        "source": "Hilden",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fußball"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Kontakt zur Redaktion"
+                    }
+                  }
+                },
+                {
+                  "component": "contact",
+                  "data": {
+                    "address": "<p>Rheinische Post in Erkrath - Mettmann<br>Jubiläumsplatz 3<br>40822 Mettmann<br>02104 9279722</p><p>Anzeigen: 0211 505-2222<br>Leserservice/Abo: 0211 505-1111</p>",
+                    "links": [
+                      {
+                        "style": "email",
+                        "class": "email",
+                        "text": "E-Mail an die Redaktion",
+                        "href": "mailto:redaktion.mettmann@rheinische-post.de",
+                        "target": "_blank"
+                      },
+                      {
+                        "style": "facebook",
+                        "class": "facebook",
+                        "text": "RP Mettmann auf Facebook",
+                        "href": "https://www.facebook.com/rp.mettmann",
+                        "target": "_blank"
+                      },
+                      {
+                        "style": "twitter",
+                        "class": "twitter",
+                        "text": "RP Mettmann auf Twitter",
+                        "href": "https://twitter.com/rpo_mettmann",
+                        "target": "_blank"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"footerad\"></div>",
+                          "lazy": false,
+                          "sticky": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"footerad\"></div>",
+                          "lazy": false,
+                          "sticky": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        },
+        {
+          "icon": "instagram",
+          "text": "@rheinischepost",
+          "href": "https://www.instagram.com/rheinischepost/"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https://www-rpd.rp-online.de/api/tree?output=html&currentNode=64800&absolute=0"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/erkrath/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik2",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

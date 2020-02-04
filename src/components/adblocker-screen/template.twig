@@ -1,0 +1,72 @@
+<article class="park-adblocker-screen">
+  <header class="park-adblocker-screen__intro">
+    {% if intro.image is defined %}
+      {% set image = intro.image|merge({ 'config': config }) %}
+      {% include 'components/image/template.twig' with image only %}
+    {% endif %}
+    <div class="park-adblocker-screen__intro-textcontent">
+      <h1 class="park-adblocker-screen__intro-headline">{{ intro.headline }}</h1>
+      <div class="park-adblocker-screen__intro-text">
+        {% include 'components/markdown/template.twig' with {
+        'text': intro.text,
+        'config': config} only %}
+      </div>
+    </div>
+  </header>
+  <ul class="park-adblocker-screen__options">
+    {% if offer is defined %}
+      <li class="park-adblocker-screen__option park-adblocker-screen__option--offer">
+        {% if offer.image is defined %}
+          {% set image = offer.image|merge({ 'config': config }) %}
+          {% include 'components/image/template.twig' with image only %}
+        {% endif %}
+        <h2 class="park-adblocker-screen__option-headline">{{ offer.headline }}</h2>
+        <div class="park-adblocker-screen__option-text">
+          {% include 'components/markdown/template.twig' with {
+          'text': offer.text,
+          'config': config} only %}
+        </div>
+        {% if offer.cta is defined %}
+          {% set cta = offer.cta|merge({ 'config': config }) %}
+          {% include 'components/button/template.twig' with cta only %}
+        {% endif %}
+      </li>
+    {% endif %}
+    {% if disableAdblocker is defined %}
+      <li class="park-adblocker-screen__option park-adblocker-screen__option--disable-adblocker">
+        {% if disableAdblocker.image is defined %}
+          {% set image = disableAdblocker.image|merge({ 'config': config }) %}
+          {% include 'components/image/template.twig' with image only %}
+        {% endif %}
+        <h2 class="park-adblocker-screen__option-headline">{{ disableAdblocker.headline }}</h2>
+        <div class="park-adblocker-screen__option-text">
+          {% include 'components/markdown/template.twig' with {
+          'text': disableAdblocker.text,
+          'config': config} only %}
+        </div>
+        {% if disableAdblocker.cta is defined %}
+          {% set cta = disableAdblocker.cta|merge({ 'config': config }) %}
+          {% include 'components/button/template.twig' with cta only %}
+        {% endif %}
+      </li>
+    {% endif %}
+    {% if welect is defined %}
+      <li class="park-adblocker-screen__option park-adblocker-screen__option--welect">
+        {% if welect.image is defined %}
+          {% set image = welect.image|merge({ 'config': config }) %}
+          {% include 'components/image/template.twig' with image only %}
+        {% endif %}
+        <h2 class="park-adblocker-screen__option-headline">{{ welect.headline }}</h2>
+        <div class="park-adblocker-screen__option-text">
+          {% include 'components/markdown/template.twig' with {
+          'text': welect.text,
+          'config': config} only %}
+        </div>
+        {% if welect.cta is defined %}
+          {% set cta = welect.cta|merge({ 'config': config }) %}
+          {% include 'components/button/template.twig' with cta only %}
+        {% endif %}
+      </li>
+    {% endif %}
+  </ul>
+</article>

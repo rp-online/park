@@ -1,0 +1,3245 @@
+{
+  "title": "NRW Nachrichten - Alle News aus der Region",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "title": "NRW Nachrichten - Alle News aus der Region",
+    "url": "https://www-rpd.rp-online.de/nrw/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1510750913",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Aktuelle Nachrichten, Videos und Bilder aus Nordrhein-Westfalen sowie alle News von D\u00fcsseldorf bis K\u00f6ln und von M\u00f6nchengladbach bis Remscheid finden Sie hier."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": null,
+      "contentType": "Index",
+      "analyticsUrl": "https://www-rpd.rp-online.de/nrw/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "/nrw/",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=8792145&cstr=7201666&l=&tit=NRW+Nachrichten+-+Alle+News+aus+der+Region&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2F&sep=%7C&tce=1&tid=64600&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 7201666,
+      "doctype": "section",
+      "contentid": "/nrw/",
+      "channel": 64600
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/nrw/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/nrw/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/nrw/"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252181",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-1__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22300609",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-2__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-3__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-4__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-5__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "hpa",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "doctype": "hpa",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252181",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22300609",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-15"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "zone": "localnews"
+      },
+      "reloadFrequency": "100"
+    },
+    "tisoomi": {
+      "javascript": "!function(e,t,i){ function x(i){ \"use strict\";i.pID=\"H15VUbd\",i.pList=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Billboard\",\"Layer\"],i.regexp=/H15VUbd\\([\"']([\\w\\s\\.-]+)[\"']\\)/i,i.arr=[],i.done=[],i.srch=function(){ var t,n=e.scripts;for(t=0;t<n.length;t+=1)i.doesContentMatch(n[t])&&i.matchInPList(n[t])&&i.matchNotDone(n[t])&&(i.collectAdTagContents(n[t]),i.createAdTag(i.regexp.exec(n[t].innerHTML)[1],n[t]),i.done.push(i.regexp.exec(n[t].innerHTML)[1]));i.done=[] },i.doesContentMatch=function(e){ return e&&i.regexp.test(e.innerHTML) },i.mFn=i.doesContentMatch,i.matchInPList=function(e){ return e&&i.pList.indexOf(i.regexp.exec(e.innerHTML)[1])>=0 },i.mEn=i.matchInPList,i.matchNotDone=function(e){ return e&&i.done.indexOf(i.regexp.exec(e.innerHTML)[1])<0 },i.mNd=i.matchNotDone,i.collectAdTagContents=function(e){ if(e){ var s,t=e.parentNode.childNodes,n=null,r=null,o=null,a=i.regexp.exec(e.innerHTML)[1];for(s=0;s<t.length;s+=1)if(n=t[s],\"SCRIPT\"===n.nodeName&&i.regexp.test(n.innerHTML)&&i.regexp.exec(n.innerHTML)[1]===a){ r=s;break }if(null!==r)for(s=r+1;s<t.length;s+=1)if(n=t[s],\"SPAN\"===n.nodeName&&n.className.indexOf(i.pID+\"_end\")+1){ o=s;break }if(null!==r&&null!==o)for(s=r+1;s<o;s+=1)n=t[s],Node.ELEMENT_NODE!==n.nodeType&&Node.CDATA_SECTION_NODE!==n.nodeType&&Node.COMMENT_NODE!==n.nodeType||i.arr.push(n) } },i.col=i.collectAdTagContents,i.crS=function(t){ var n,r=e.scripts;for(n=0;n<r.length;n+=1)if(i.doesContentMatch(r[n])&&i.regexp.exec(r[n].innerHTML)[1]===t){ i.collectAdTagContents(r[n]),i.createAdTag(i.regexp.exec(r[n].innerHTML)[1],r[n]);break } },i.postProcessUnitArray=[],i.addPostProcessUnit=function(e,t){ i.postProcessUnitArray.push({ priority:e,f:t }) },i.postProcessUnit=function(e,t){ i.postProcessUnitArray=i.postProcessUnitArray.sort(function(e,t){ return e.priority>t.priority?1:e.priority===t.priority?0:-1 });var n;for(n=0;n<i.postProcessUnitArray.length;n+=1)e=i.postProcessUnitArray[n].f.call(t||i,e);return e },i.createAdTag=function(s,f){ if(f){ var p,l=e.createElement(\"div\"),d=e.createElement(\"div\"),u=e.createElement(\"div\");i.arr&&(p=i.arr,setTimeout(function(){ for(var e=0;e<p.length;e+=1)void 0!==p[e].style?p[e].style.setProperty(\"display\",\"none\"):d.appendChild(p[e]) },100)),i.arr=[];var h,m=function(){ f.parentNode.insertBefore(l,f.nextSibling),l.appendChild(u) };switch(s){ case\"Sky\":var h={ st:\"JVFRsB7oR99O\",ss:\"cursor:pointer; max-width:800px; max-height:800px;\",sd:\"position:absolute; top:0px; left:1020px; max-width:300px; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJPY20gmRLFTIBEM95.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJPY20gBEmHj.gif\" },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Medium\":var h={ st:\"bgqYJEIX7Z1L\",ss:\"cursor:pointer; max-width:300px; max-height:250px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvIUJ1s7igTocSBEMv4.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvIUJ1s7BEiHu.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Sky2\":var h={ st:\"POQPttxX3aeE\",ss:\"cursor:pointer; max-width:160px; max-height:600px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJGI2N6sGfg07BEM38.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJGI2N6BEsHc.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Super\":var h={ st:\"R9EfX6C1jyaw\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"margin:0 0 0 36px; max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJYC244ZFLm7cBEM01.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJYC244BEZHu.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"142.31px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"WP\":var h={ st:\"xikFgo5Wq1Qo\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"\",sm:\"\",im:[n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM54.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM56.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM52.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM57.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM59.gif\"],wp:function(){ var i=e.createElement(\"div\"),n=e.createElement(\"div\"),r=e.createElement(\"div\"),o=e.createElement(\"div\"),a=e.createElement(\"style\");a.type=\"text/css\",a.innerHTML=\"#xikFgo5Wq1Qo{ position:relative; width:1020px; }#xikFgo5Wq1Qo4 img{ cursor:pointer; }#xikFgo5Wq1QoI{ float:none;position:absolute;top:0; }#xikFgo5Wq1Qo6{ position:absolute;top:0; left:1020px; }#xikFgo5Wq1Qo6 img{ cursor:pointer; }#xikFgo5Wq1Qo7{ position:absolute;top:0;right:0; }#xikFgo5Wq1Qo7 img{ cursor:pointer; }\",l.appendChild(a),l.id=\"xikFgo5Wq1Qo\",i.id=\"xikFgo5Wq1Qo4\",n.id=\"xikFgo5Wq1QoI\",r.id=\"xikFgo5Wq1Qo6\",o.id=\"xikFgo5Wq1Qo7\";var f=e.createElement(\"img\"),c=e.createElement(\"img\"),d=e.createElement(\"img\"),u=e.createElement(\"img\");f.src=h.im[2],f.onerror=function(){ },f.onload=function(){ function v(e){ var e=e||t.event,i=e.target||e.srcElement,n=i.tagName||i.nodeName,r=i.id||\"\";i.className;if(\"HTML\"==n||\"BODY\"==n||\"xikFgo5Wq1Qo\"===r){ e.preventDefault?e.preventDefault():e.returnValue=!1,e.stopPropagation?e.stopPropagation():e.cancelBubble=!0;var a=h.cl[2](0,0,e);a&&(t.location.href=a) } }var a=this.height-1;if(a>10)f.onclick=function(e){ e.preventDefault(),e.stopPropagation();var n=(D(e),h.cl[0](0,0,e));n&&(t.location.href=n) },i.appendChild(f),l.appendChild(i),h.ins();else{ var s=a%2,p=(a-s)%4;if(4==(a-s-p)%8){ var g=e.createElement(\"style\");g.type=\"text/css\",g.innerHTML=\"body{ background-image: url(\"+h.im[4]+\") !important; }\",l.appendChild(g) }2==p&&(e.attachEvent?e.attachEvent(\"onclick\",v):e.addEventListener&&e.addEventListener(\"click\",v)),c.src=h.im[0],c.onload=function(){ this.height>2&&(d.src=h.im[1]) },d.onload=function(){ if(this.height>2)if(1==s)u.src=h.im[3];else{ var t=e.createElement(\"style\");t.type=\"text/css\",t.innerHTML=\"#xikFgo5Wq1Qo4{ float:right; }\",i.appendChild(t);var o=e.createElement(\"div\");o.style.cssText=\"clear:both;\",i.appendChild(c),r.appendChild(d),l.appendChild(i),l.appendChild(o),n.appendChild(r),l.appendChild(n),h.ins() } },u.onload=function(){ this.height>2&&(i.appendChild(c),r.appendChild(d),o.appendChild(u),l.appendChild(i),n.appendChild(r),n.appendChild(o),l.appendChild(n),h.ins()) } } },c.onclick=function(e){ var i=h.cl[0](0,0,e);i&&(t.location.href=i) },d.onclick=function(e){ var i=h.cl[1](0,0,e);i&&(t.location.href=i) },u.onclick=function(e){ var i=h.cl[3](0,0,e);i&&(t.location.href=i) } },cl:[function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBEJHd.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBEhHm.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBERHn.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBE8Hz.gif\" }],extra:\"\",ins:function(){ var t=e.getElementById(\"topcontainer\");t&&t.parentNode.insertBefore(l,t);var i=l.getElementsByTagName(\"img\");i[1]&&i[1].parentNode.style.setProperty(\"position\",\"fixed\") },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Billboard\":var h={ st:\"rtCL28lVkpcS\",ss:\"cursor:pointer; max-width:975px; max-height:300px;\",sd:\"max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvIYX2KZPK8Q1rBEMr8.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvIYX2KZBEPHq.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"106.2px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Layer\":var h={ st:\"zJzvApB4IHG2\",ss:\"cursor:pointer; max-width:1024px; max-height:1024px;\",sd:\"top:50%; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJYI2VDjz31hwBEMx9.gif\",m:1,cl:function(t,i,r){ r.preventDefault();var f=0,c=[[495,400,685,450],[495,620,685,670],[0,0,935,752]],l=function(){ return n+\"image/public/\"+a+\"/\"+t+\"f\"+i+\"/\"+o+\"7GgTvJYI2VDBEjHy.gif\" },d=function(){ var t=e.getElementById(\"zJzvApB4IHG2\");t.parentNode.removeChild(t) },u=function(e){ switch(e){ case 0:case 1:return l();default:return d() } };if(c.length>0){ var p=P(t,i,c);if(p<0)return;if(3<=p)return l();if(f<=p&&\"function\"==typeof u)return u(p-f) }d() },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),u.style.setProperty(\"z-index\",\"10000\"),u.style.setProperty(\"margin\",\"-300px 0 0 40px\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } } }if(void 0!==h)if(h.mkStyleDyn&&h.mkStyleDyn(i.profile||{ }),h=i.postProcessUnit(h),h.wp)h.wp();else{ var g=e.createElement(\"style\");if(g.type=\"text/css\",\"M\"===r&&h.m?h.ss+=h.sm:h.ss+=h.sd,g.innerHTML=\"#\"+h.st+\"{ \"+h.ss+\" }\",e.getElementsByTagName(\"head\")[0].appendChild(g),u.id=h.st,h.ifr){ return void(\"string\"==typeof h.fb&&i.createAdTag(h.fb,f)) }else{ var k=e.createElement(\"img\");k.onload=function(){ h.bs&&(k.style.cssText+=\"width:\"+this.width+\"px;height:\"+this.height+\"px;max-width:\"+this.width+\"px;max-height:\"+this.height+\"px;\"),u.appendChild(k),\"function\"==typeof h.ins?h.ins():m(),\"function\"==typeof h.extra&&h.extra(),\"function\"==typeof h.onLoaded&&h.onLoaded(k) },k.onerror=function(e){ \"function\"==typeof H&&H(s) },k.src=h.im,k.onclick=function(e){ e.preventDefault(),e.stopPropagation();var i=D(e),n=h.cl(i.x,i.y,e);n&&(t.location.href=n) } } } } },i.crt=i.createAdTag }function T(){ if(!t.trckd){ var i=e.getElementsByTagName(\"body\")[0],n=e.createElement(\"img\");N()&&i.appendChild(n),n.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/retrad.bmp\",n.onerror=function(){ w(),k(this) },n.onload=function(){ 3!=this.width&&(w(),k(this)) } } }function b(){ s=!0,setTimeout(function(){ s=!1 },2e3) }function w(){ if(!s&&!t.trckd){ b(),t.trckd=!0,o=O(8,8,c+l+d);var i=e.createElement(\"script\"),n=e.getElementsByTagName(\"body\")[0];/* @preserve Opt-out cookie link */\ni.src=\"https://www.tisoomi-services.com/cookie\",i.onload=E,i.onerror=E,n.appendChild(i) } }function E(){ var e=M(\"_TStfc\");(\"\"===e||e.length>32)&&(e=e.substr(32)||Date.now()%1e10+i.floor(35*i.random()).toString(36)+\"5\",B(\"_TStfc\",e,2592e3,\"/\")),a=!t.userOptOut&&t.ti_id?t.ti_id+e:e,L(),k(this),y.srch() }function k(e){ e&&e.parentNode&&e.parentNode.removeChild(e) }function C(i){ function r(){ n||(n=!0,i()) }function o(){ if(!n&&e.body)try{ e.documentElement.doScroll(\"left\"),r() }catch(e){ setTimeout(o,0) } }var n=!1;\"complete\"===e.readyState?setTimeout(r,0):e.addEventListener?e.addEventListener(\"DOMContentLoaded\",r,!1):e.attachEvent&&(e.documentElement.doScroll&&t==t.top&&o(),e.attachEvent(\"onreadystatechange\",function(){ \"complete\"===e.readyState&&r() })),t.addEventListener?t.addEventListener(\"load\",r,!1):t.attachEvent&&t.attachEvent(\"onload\",r) }function N(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function M(t){ for(var i=e.cookie.split(\";\"),n=\"\",r=0;r<i.length;r+=1){ var o=i[r].trim();0===o.indexOf(t+\"=\")&&(n=o.replace(t+\"=\",\"\")) }return n }function B(t,i,n,r){ void 0===n&&(n=2592e3);for(var o=Date.now(),a=e.domain,s=a.split(\".\"),f=\"_gd\"+o,c=2;c<=s.length&&-1===e.cookie.indexOf(f+\"=\"+f);c+=1)a=s.slice(-c).join(\".\"),e.cookie=f+\"=\"+f+\";domain=\"+a+\";\";var l=new Date(0);e.cookie=f+\"=;expires=\"+l.toUTCString()+\";domain=\"+a+\";\",l.setTime(o+1e3*n),e.cookie=t+\"=\"+i+\"; expires=\"+l.toUTCString()+\";\"+(a?\"domain=\"+a+\";\":\"\")+\"path=\"+(r||\"/\") }function L(){ var e=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];r=\"D\";for(var t=0;t<e.length;t+=1)if(navigator.userAgent.indexOf(e[t])>-1)return void(r=\"M\") }function D(e){ var t=e.target,n=t.getBoundingClientRect(),r=e.clientX-n.left,o=e.clientY-n.top;return r*=t.naturalWidth/n.width,o*=t.naturalHeight/n.height,{ x:i.floor(r),y:i.floor(o) } }function P(e,t,i){ if(\"number\"!=typeof e||\"number\"!=typeof t||!U(i))return-1;for(var n,r,o,a,s,f=0;f<i.length;f+=1)if(n=i[f],r=n[0],o=n[1],a=n[2],s=n[3],r<=e&&e<=a&&o<=t&&t<=s)return f;return-1 }function O(e,t,n){ for(var r=\"\",o=e+i.floor(i.random()*(t-e));o;)r+=n[i.floor(i.random()*n.length)],o-=1;return r }function U(e){ return Array.isArray?Array.isArray(e):\"[object Array]\"===Object.prototype.toString.call(e) }function _(){ return!1 }function H(t){ h||(p.indexOf(t)>-1&&(m+=1,g[t]=1),(m===p.length||_())&&u&&(h=!0,y.crt(u,e.body))) }var n=t.xH15VUbdx||\"/\",r=\"U\",o=\"\",a=\"\",s=!1,c=\"0123456789\",l=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",d=\"bcdefghijklmnoqrstuvxyz\",u=\"WP\",p=[\"Sky\"],m=0,h=!1,g={ },y={ };x(y),C(T),y.t=\"20180613124825\" }(document,window,Math);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/auge-gelasert-in-26-sekunden_aid-23205919"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www-rpd.rp-online.de/sport/fussball/dritteliga/lizenzentscheidung-was-wird-aus-dem-kfc-uerdingen_aid-23191091"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/viersen/tornado-in-viersen-17-jaehrige-hilft-mann-und-erleidet-stromschlag_aid-22724823"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/sport/kfc-uerdingen/test-kfc_aid-23215072"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/duesseldorf-unbefristeter-streik-an-uniklinik_aid-23211108"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www-rpd.rp-online.de/nrw/panorama/gelsenkirchen-polizei-schlichtet-tumult_aid-23188231"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/duisburg/hildener-zweite-beendet-die-saison-erfolgreich_aid-23205119"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/viersen/tornado-und-unwetter-im-kreis-viersen-opfer-halten-zusammen_aid-22714711"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/duisburg/sport/msv/der-tag-der-abschiede-beim-msv-duisburg_aid-23203923"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/viersen/unwetter-in-viersen-schaden-nach-tornado-in-millionenhoehe_aid-22727531"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/leverkusen/leverkusen-so-ist-die-aussicht-vom-wasserturm_aid-22451981"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/revolution-in-der-bestrahlungstechnik_aid-18603135"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "url": "https://www-rpd.rp-online.de/nrw/extra/spargelzeit-am-niederrhein/der-alleskoenner-vom-niederrhein_aid-17639035"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/serie-kampf-gegen-den-krebs-3-mit-skalpell-und-joystick_aid-16472375"
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/neues-zauberwort-im-kampf-gegen-krebs_aid-16478235"
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/wie-sich-der-kampf-gegen-den-krebs-aendert_aid-16478103"
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/koeln/silvesternacht-mehr-als-160-anzeigen-zwei-verdaechtige-in-untersuchungshaft_aid-19724031"
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/koeln/silvesternacht-in-koeln-und-hamburg-polizei-sieht-keine-verbindungen_aid-9213311"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<script type=\"text/javascript\">//H15VUbd(\"Sky2\")</script><div id=\"sky\"></div><span class=\"H15VUbd_end\"></span>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"out-of-page\"></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem erm\u00f6glichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie k\u00f6nnen auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erkl\u00e4ren Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerkl\u00e4rung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerkl\u00e4rung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<script type=\"text/javascript\">//H15VUbd(\"Billboard\")</script><div id=\"banner\"></div><span class=\"H15VUbd_end\"></span>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isHidden": true
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "NRW"
+                    },
+                    "navigation": [
+                      {
+                        "text": "St\u00e4dte",
+                        "href": "/nrw/staedte/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Panorama",
+                        "href": "/nrw/panorama/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "/nrw/landespolitik/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Freizeit",
+                        "href": "/nrw/freizeit/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Datenjournalismus",
+                        "href": "/nrw/datenjournalismus/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Kultur",
+                        "href": "/nrw/kultur/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Wir sind Heimat",
+                        "href": "/nrw/heimat/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Schaffrath",
+                        "href": "/advertorial/schaffrath/",
+                        "isAd": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "quick-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Direkt zu"
+                    },
+                    "cities": [
+                      {
+                        "href": "/nrw/staedte/duisburg/",
+                        "text": "Duisburg"
+                      },
+                      {
+                        "href": "/nrw/staedte/dinslaken/",
+                        "text": "Dinslaken"
+                      },
+                      {
+                        "href": "/nrw/staedte/neuss/",
+                        "text": "Neuss"
+                      },
+                      {
+                        "href": "/nrw/staedte/",
+                        "text": "St\u00e4dte"
+                      }
+                    ],
+                    "sportsclubs": [
+                      {
+                        "href": "/sport/fussball/fortuna/",
+                        "text": "Fortuna",
+                        "icon": "/assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf"
+                      },
+                      {
+                        "href": "/nrw/staedte/duisburg/sport/msv/",
+                        "text": "MSV Duisburg",
+                        "icon": "/assets/images/sprite.sportsclubs.svg#msv-duisburg"
+                      }
+                    ],
+                    "personalized": false
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "id": 23205919,
+                    "href": "/nrw/staedte/duesseldorf/auge-gelasert-in-26-sekunden_aid-23205919",
+                    "type": "video",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Auge gelasert in 26 Sekunden"
+                    },
+                    "intro": "J\u00e4hrlich lassen sich in Deutschland rund 100.000 Menschen die Augen lasern. Schwere Komplikationen treten selten auf. Unser Autor hat sich in D\u00fcsseldorf die Augen mit der neuesten Methode korrigieren lassen. Ein Erfahrungsbericht.",
+                    "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/tok_c5859a6c6bee33136f29b9260e49f279/w490_h276_x470_y264_07a15161161c2253.jpg",
+                    "alt": "",
+                    "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/07a15161161c2253.jpg",
+                    "source": "",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Erfahrungsbericht von der Operation"
+                    },
+                    "backgroundColor": "rgba(57, 66, 51,1)",
+                    "backgroundLuma": 63.0036
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 21087823,
+                        "href": "/nrw/staedte/moenchengladbach/santander-marathon/so-lief-der-santander-marathon-2018-in-moenchengladbach_bid-21087823",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "So l\u00e4uft der Santander-Marathon 2017\n"
+                        },
+                        "intro": "Hier sehen Sie alle Bilder rund um den Santander-Marathon in M\u00f6nchengladbach. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/4/1/8/1/3/9/3/tok_597cb6d6dccc5a0079d152b73e50276b/w306_h175_x470_y264_59f7867c65291eef.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Bilder\n"
+                        }
+                      },
+                      {
+                        "id": 8155695,
+                        "href": "/nrw/staedte/rhein-kreis/blitzer-in-neuss-dormagen-grevenbroich-und-dem-ganzen-rhein-kreis_bid-8155695",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Aktuelle Blitzer im Rhein-Kreis Neuss\n"
+                        },
+                        "intro": "Wo stehen aktuell Blitzer und Radarfallen? Wir zeigen an welchen Stellen die Polizei diese Woche im Rhein-Kreis Neuss blitzt: Korschenbroich, Dormagen, Kaarst, Rommerskirchen, Meerbusch und Co. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/0/6/3/4/1/6/9/tok_031fb9edbf532bf5c307390abaaa0aa7/w306_h175_x1500_y1053_1091304101704_9999-d1202bc97a583600.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Rhein-Kreis\n"
+                        }
+                      },
+                      {
+                        "id": 9625051,
+                        "href": "/nrw/staedte/rhein-kreis/schuetzen-im-rhein-kreis-neuss/die-schuetzenkoenige-im-rhein-kreis-neuss_bid-9625051",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Die Sch\u00fctzenk\u00f6nige im Rhein-Kreis Neuss\n"
+                        },
+                        "intro": "Einmal im Leben ein K\u00f6nig sein: Bei den Sch\u00fctzen im Rhein-Kreis geht das. Wir stellen die K\u00f6nige der verschiedenen Bruderschaften f\u00fcr 2017/18 vor. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/2/2/1/3/9/6/3/tok_4ebef54eaa9194fe6fc2b7bcfb5970b8/w306_h175_x628_y397_0d9f78edbd3f9d20.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "\u00dcbersicht\n"
+                        }
+                      },
+                      {
+                        "id": 23097887,
+                        "href": "/nrw/staedte/krefeld/sport/kfc-uerdingen/aufsteigsfeier-2018-kfc-uerdingen-feiert-mit-seinen-fans-in-krefeld-am-rathaus_bid-23097887",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Fans feiern Aufsteiger KFC Uerdingen\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/9/9/6/4/8/5/tok_74d35fe590b319ffd3a081a62bdfe3f3/w306_h175_x1280_y798_3a3046d9-bacd-4e82-9637-536a9de47d05-31f6c7e8aee185bb.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 22858019,
+                        "href": "/nrw/staedte/krefeld/relegation-zur-3-liga-bilder-zum-spiel-waldhof-mannheim-kfc-uerdingen_bid-22858019",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Waldhof Mannheim - KFC Uerdingen: die Bilder des Spiels\n"
+                        },
+                        "intro": "Sehen Sie die Bilder des Relegations-R\u00fcckspiels zwischen Waldhof Mannheim und dem KFC Uerdingen. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/6/8/9/5/7/3/tok_6bb53920525c371dd41ea8a23db081c4/w306_h175_x2592_y1728_11394732424-4121b7725e76bd29.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 22851737,
+                        "href": "/nrw/staedte/krefeld/sport/kfc-uerdingen/kfc-uerdingen-waldhof-mannheim-bilder-des-hinspiels-in-der-aufstiegsrelegation_bid-22851737",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "KFC Uerdingen - Waldhof Mannheim: Bilder des Spiels\n"
+                        },
+                        "intro": "Sehen Sie die Bilder des Hinspiels in der Aufstiegsrelegation zu 3. Liga zwischen dem KFC Uerdingen und Waldhof Mannheim. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/6/7/9/5/2/1/tok_0fb51e371b7d789b15f2b53da8508ea0/w306_h175_x1326_y988_DPA_bfunk_dpa_5F99700034D32C09-75083fcf8312c75a.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Aufstiegs-Relegation\n"
+                        }
+                      },
+                      {
+                        "id": 17321391,
+                        "href": "/nrw/staedte/korschenbroich/unges-pengste/unges-pengste-2018-in-korschenbroich-koenigsparade-am-sonntag-und-montag_bid-17321391",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Unges Pengste 2018: K\u00f6nigsparaden und Gro\u00dfer Zapfenstreich\n"
+                        },
+                        "intro": "Unges Pengste 2018 in Korschenbroich: Hier finden Sie die Bilder der K\u00f6nigsparade und des Gro\u00dfen Zapfenstreichs am Sonntag und der K\u00f6nigsparade am Montag.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/0/2/2/5/2/2/5/tok_3cf82314d4d3159387729a008beefb58/w306_h175_x2144_y1424_parade08_Kopie-22ece9651f920b47.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 22766051,
+                        "href": "/nrw/staedte/duesseldorf/jazz-rally-duesseldorf-2018-die-schoensten-fotos-vom-festival_bid-22766051",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "So war die Jazz Rally D\u00fcsseldorf 2018"
+                        },
+                        "intro": "Bei der Jazz Rally 2018 in D\u00fcsseldorf wurden 75 Konzerte an vier Tagen geboten. Etwa 250.000 Menschen kamen.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/9/9/0/6/5/tok_f399caa189221aaa78bef5cb21f08e89/w306_h175_x2000_y1019_RP_HJB_8105-811b34dbd5c25592.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos"
+                        }
+                      },
+                      {
+                        "id": 22695341,
+                        "href": "/nrw/staedte/viersen/tornado-in-viersen-boisheim-verheerende-schaeden-vom-16-mai-2018_bid-22695341",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "So stark traf der Tornado Boisheim\n"
+                        },
+                        "intro": "Ein Tornado ist am Mittwochabend, 16. Mai 2018, durch Viersen-Boisheim gefegt. Die Sch\u00e4den sind verheerend.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/3/7/7/0/1/7/tok_26bc68edb35d55be7129cc650f3a2b77/w306_h175_x1795_y1197_11391598788-fa4f1607a4c31fcf.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 22696351,
+                        "href": "/nrw/staedte/viersen/tornado-faellt-baeume-in-viersen-in-nrw_bid-22696351",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Tornado f\u00e4llt B\u00e4ume in Viersen\n"
+                        },
+                        "intro": "Ein Tornado ist am Mittwochabend, 16. Mai 2018, \u00fcber den Kreis Viersen gefegt. Der Sturm hinterlie\u00df eine Spur der Verw\u00fcstung. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/3/7/8/3/6/5/tok_70bd0584f8c9bbf474c9e310b418b6ad/w306_h175_x960_y540_20180516JungmannViersenUnwetter__3_-ce0103af414fae0d.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-collection",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"topmobile2\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"rectangle\"></div><span class=\"H15VUbd_end\"></span>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "type": "portal",
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"22250755\"></div>",
+                            "lazy": false
+                          },
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"22250755\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23191091,
+                        "href": "/sport/fussball/dritteliga/lizenzentscheidung-was-wird-aus-dem-kfc-uerdingen_aid-23191091",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Was wird aus dem KFC?"
+                        },
+                        "intro": "Am Montag entscheidet der DFB in Frankfurt, ob der KFC Uerdingen die Lizenz f\u00fcr die Dritte Liga bekommt. Wir haben vier M\u00f6gliche Szenarien durchgespielt.",
+                        "authors": "Von Gianni Costa und Thomas Schulze",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/7/9/3/9/tok_9f763fa8f6531aaef570fe711a035074/w490_h368_x1500_y1123_DPA_bfunk_dpa_5F997E00400205AA-fbe305fc4fdd3fee.jpg",
+                        "alt": "KFC-Spieler feiern auf dem Rathausbalkon den",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/7/9/3/9/DPA_bfunk_dpa_5F997E00400205AA-fbe305fc4fdd3fee.jpg",
+                        "source": "Frankfurt/Krefeld",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Vier Szenarien f\u00fcr die Lizenzentscheidung"
+                        }
+                      },
+                      {
+                        "id": 22724823,
+                        "href": "/nrw/staedte/viersen/tornado-in-viersen-17-jaehrige-hilft-mann-und-erleidet-stromschlag_aid-22724823",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Die Heldin von Schwalmtal\n"
+                        },
+                        "intro": "Ein schwerer Ast st\u00fcrzt w\u00e4hrend des Tornados in Viersen auf einen Mann. Alina Libudda z\u00f6gert nicht: Sofort rennt sie auf die Stra\u00dfe und hilft dem Verletzten. Dass sie wenig sp\u00e4ter selbst auf der Intensivstation landet, ahnt die 17-J\u00e4hrige nicht.",
+                        "authors": "Von Elena Erbrich",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/3/3/4/1/5/tok_d07a22419948deda892dd50b59b4b6cd/w490_h368_x1500_y1000_DPA_bfunk_dpa_5F996000DDFF4841-b5ee175d95b31ae9.jpg",
+                        "alt": "Ein Ast hat bei dem Tornado",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/3/3/4/1/5/DPA_bfunk_dpa_5F996000DDFF4841-b5ee175d95b31ae9.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "17-j\u00e4hrige Tornado-Retterin"
+                        },
+                        "related": [
+                          {
+                            "headline": "Tornado verursachte Schaden von mehreren Millionen\n",
+                            "href": "/nrw/staedte/viersen/unwetter-in-viersen-schaden-nach-tornado-in-millionenhoehe_aid-22727531",
+                            "kicker": "Unwetter in Viersen\n",
+                            "type": "article"
+                          },
+                          {
+                            "headline": "So stark traf der Tornado Boisheim",
+                            "href": "/nrw/staedte/viersen/tornado-in-viersen-boisheim-verheerende-schaeden-vom-16-mai-2018_bid-22695341",
+                            "kicker": "Fotos",
+                            "type": "image"
+                          },
+                          {
+                            "headline": "Tornado-Opfer halten zusammen",
+                            "href": "/nrw/staedte/viersen/tornado-und-unwetter-im-kreis-viersen-opfer-halten-zusammen_aid-22714711",
+                            "kicker": "Aufr\u00e4umarbeiten im Kreis Viersen",
+                            "type": "article"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23215072,
+                        "href": "/nrw/staedte/krefeld/sport/kfc-uerdingen/test-kfc_aid-23215072",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Test KFC"
+                        },
+                        "intro": "Test KFC Test KFC Test KFC Test KFC Test KFC Test KFC Test KFC v Test KFC Test KFC v Test KFC",
+                        "orig_src": null,
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Test KFC"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23211108,
+                        "href": "/nrw/staedte/duesseldorf/duesseldorf-unbefristeter-streik-an-uniklinik_aid-23211108",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Streik an der D\u00fcsseldorfer Uniklinik hat begonnen"
+                        },
+                        "intro": "Ein neuer Streik an der Uniklinik D\u00fcsseldorf hat am Dienstagmorgen begonnen und ist erst einmal bis zur letzten Sp\u00e4tschicht am Freitag ausgerufen. Patienten m\u00fcssen mit l\u00e4ngeren Wartezeiten rechnen.",
+                        "orig_src": null,
+                        "source": "D\u00fcsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nach Urabstimmung"
+                        }
+                      },
+                      {
+                        "id": 23188231,
+                        "href": "/nrw/panorama/gelsenkirchen-polizei-schlichtet-tumult_aid-23188231",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Polizei schlichtet Tumult in Gelsenkirchen"
+                        },
+                        "intro": "In Gelsenkirchen musste die Polizei eine aggressive Auseinandersetzung auf offener Stra\u00dfe schlichten. Ausl\u00f6ser war ein Streit zwischen einer Jugendlichen und einem jungen Mann, den sie zuvor angezeigt hatte.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/7/8/2/6/5/tok_6e348f05fe8e36872eb1b1e509aeeefa/w490_h368_x1500_y962_20161109_bfunk_dpa_1492D200B71601B2-ebd4b36e703aa8c2.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/7/8/2/6/5/20161109_bfunk_dpa_1492D200B71601B2-ebd4b36e703aa8c2.jpg",
+                        "source": "Gelsenkirchen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mehr als 30 Beteiligte"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252181\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252181\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23205119,
+                        "href": "/nrw/staedte/duisburg/hildener-zweite-beendet-die-saison-erfolgreich_aid-23205119",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Hildener Zweite beendet die Saison erfolgreich"
+                        },
+                        "intro": "Unter der Regie von Tim Schneider festigte die Bezirksliga-Mannschaft den siebten Tabellenplatz.",
+                        "authors": "Von Elmar Rump",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/5/0/5/tok_b5f99644e107037c13d3bbefd9865585/w490_h368_x470_y264_b51ffeff0e635493.jpg",
+                        "alt": "Trainer Tim Schneider.",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/5/0/5/b51ffeff0e635493.jpg",
+                        "source": "Hilden",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fu\u00dfball"
+                        }
+                      },
+                      {
+                        "id": 22714711,
+                        "href": "/nrw/staedte/viersen/tornado-und-unwetter-im-kreis-viersen-opfer-halten-zusammen_aid-22714711",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Tornado-Opfer halten zusammen"
+                        },
+                        "intro": "Der Tornado hat im Kreis Viersen erhebliche Sch\u00e4den angerichtet. Besonders betroffen ist das D\u00f6rfchen Boisheim. Dort deckte der Wirbelsturm besonders viele D\u00e4cher ab. Die Anwohner helfen sich gegenseitig beim Aufr\u00e4umen.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/1/8/3/6/7/tok_e86e2bf8449912d73e8798820b4030cd/w490_h368_x1795_y1197_11391598788-fa4f1607a4c31fcf.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/1/8/3/6/7/11391598788-fa4f1607a4c31fcf.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Aufr\u00e4umarbeiten im Kreis Viersen"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": true
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-1__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-1__---\"); })</script>",
+                          "lazy": true
+                        }
+                      },
+                      {
+                        "id": 23203923,
+                        "href": "/nrw/staedte/duisburg/sport/msv/der-tag-der-abschiede-beim-msv-duisburg_aid-23203923",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Der Tag der Abschiede beim MSV Duisburg"
+                        },
+                        "intro": "Fast w\u00e4re es dann doch noch passiert. 21 Saisonspiele hatten die Fu\u00dfballerinnen des MSV Duisburg in der Bundesliga hinter sich gebracht, ohne einmal mit einer Punkteteilung vom Platz zu gehen. In der finalen Partie gegen den USV Jena sah es bis kurz vor Schluss dann tats\u00e4chlich nach einem torlosen Remis aus, ehe Geldona Morina mit ihrem Treffer den 1:0-Sieg gegen den Absteiger sicherte.",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/4/5/5/3/935ba49be7396168.jpg",
+                        "source": "Duisburg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lokalsport"
+                        }
+                      },
+                      {
+                        "id": 22727531,
+                        "href": "/nrw/staedte/viersen/unwetter-in-viersen-schaden-nach-tornado-in-millionenhoehe_aid-22727531",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Tornado verursachte Schaden von mehreren Millionen\n"
+                        },
+                        "intro": "Der Tornado im Kreis Viersen hat einige H\u00e4user schlimmer getroffen als vermutet. Die Polizei warnt vor Dieben, die sich die Lage zunutze machen. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/4/3/8/4/3/tok_03dd0bc46dbf4987abcc90c64e8ffae2/w490_h368_x1500_y1000_DPA_bfunk_dpa_5F9962006EBD9E0B-bbc2292a16d2e145.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/4/3/8/4/3/DPA_bfunk_dpa_5F9962006EBD9E0B-bbc2292a16d2e145.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Unwetter in Viersen\n"
+                        }
+                      },
+                      {
+                        "id": 22451981,
+                        "href": "/nrw/staedte/leverkusen/leverkusen-so-ist-die-aussicht-vom-wasserturm_aid-22451981",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "So ist der Ausblick vom Wasserturm"
+                        },
+                        "intro": "Seit gestern ist bis September die Aussichtsplattform an jedem zweiten Sonntag zwischen 10 und 18 Uhr zu besichtigen.",
+                        "authors": "Von Gabi Knops-Feiler",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/5/6/8/5/3/6/1/tok_77ee24b786184d9b4572aec729acc567/w490_h368_x310_y232_f40a5ff0f13ff995.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/5/6/8/5/3/6/1/f40a5ff0f13ff995.jpg",
+                        "source": "Leverkusen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hoch \u00fcber Leverkusen"
+                        }
+                      },
+                      {
+                        "id": 18603135,
+                        "href": "/nrw/staedte/krefeld/revolution-in-der-bestrahlungstechnik_aid-18603135",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Revolution in der Bestrahlungstechnik"
+                        },
+                        "intro": "Die Bestrahlungstechnik hat sich komplett ge\u00e4ndert; zusammen mit modernen 3-D-Bildern vom Tumor k\u00f6nnen \u00c4rzte heute Krebszellen mit nie gekannter Pr\u00e4zision von allen Seiten beschie\u00dfen - gesundes Gewebe wird geschont.",
+                        "authors": "Von Jens Voss",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/1/5/6/6/0/0/5/tok_5b7715755982ccb9413d4164088ac602/w490_h368_x310_y232_3c58a2c5faaab6f6.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/1/5/6/6/0/0/5/3c58a2c5faaab6f6.jpg",
+                        "source": "Krefeld",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kampf gegen den Krebs (4)"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 17639035,
+                        "href": "/nrw/extra/spargelzeit-am-niederrhein/der-alleskoenner-vom-niederrhein_aid-17639035",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Der Allesk\u00f6nner vom Niederrhein"
+                        },
+                        "intro": "Die Spargelzeit endet 100 Tage vor dem ersten Frost - ein paar Fakten zum edlen Stangengem\u00fcse.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/0/5/7/5/1/1/9/tok_9bb40a39c4cfe9781ed96e88b1830ab9/w490_h368_x470_y264_80311c9832a1b244.jpg",
+                        "alt": "Je dicker die Stangen, desto l\u00e4nger",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/0/5/7/5/1/1/9/80311c9832a1b244.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Spargel-Fakten\n"
+                        }
+                      },
+                      {
+                        "id": 16472375,
+                        "href": "/nrw/staedte/krefeld/serie-kampf-gegen-den-krebs-3-mit-skalpell-und-joystick_aid-16472375",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mit Skalpell und Joystick"
+                        },
+                        "intro": "Die Chirurgie hat technisch gro\u00dfe Fortschritte gemacht: neben die klassischen OP-Techniken sind minimalinvasive Verfahren getreten. So k\u00f6nnen die \u00c4rzte computergest\u00fctzt b\u00f6sartige Tumore immer besser bek\u00e4mpfen.",
+                        "authors": "Von Jens Voss",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/9/2/9/0/1/9/3/tok_20f348331e447f671c3e3e31bd16363a/w490_h368_x1024_y859_75d7eb8df46b3b39.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/9/2/9/0/1/9/3/75d7eb8df46b3b39.jpg",
+                        "source": "Krefeld",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kampf gegen den Krebs (3)"
+                        }
+                      },
+                      {
+                        "id": 16478235,
+                        "href": "/nrw/staedte/krefeld/neues-zauberwort-im-kampf-gegen-krebs_aid-16478235",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neues Zauberwort im Kampf gegen Krebs"
+                        },
+                        "intro": "\"Personalisierte Medizin\" - so lautet die neue Strategie: Jeder Patient bekommt seine eigene Therapie. Die Krebszellen werden dazu molekulargenetisch untersucht. Milit\u00e4risch gesprochen: Man muss den Feind kennen, um ihn zu besiegen.",
+                        "authors": "Von Jens Voss",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/9/2/9/7/0/1/7/tok_fc6d0c6f3b4434e98f9a76dccad03aad/w490_h368_x310_y232_7a863f97c1498a09.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/9/2/9/7/0/1/7/7a863f97c1498a09.jpg",
+                        "source": "Krefeld",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kampf gegen den Krebs (2)"
+                        }
+                      },
+                      {
+                        "id": 16478103,
+                        "href": "/nrw/staedte/krefeld/wie-sich-der-kampf-gegen-den-krebs-aendert_aid-16478103",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Wie sich der Kampf gegen den Krebs \u00e4ndert"
+                        },
+                        "intro": "Zum Welttag des Krebses am 4. Februar starten wir eine neue Reihe: Wie k\u00e4mpfen heute \u00c4rzte in Krefeld gegen die Krankheit? Wir erkunden die Geschichte, Gegenwart und Zukunft mit Fachleuten vom Helios-Klinikum.",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/9/2/9/6/8/7/7/282d0ae2d0647cb8.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kampf dem Krebs (1)"
+                        }
+                      },
+                      {
+                        "id": 19724031,
+                        "href": "/nrw/staedte/koeln/silvesternacht-mehr-als-160-anzeigen-zwei-verdaechtige-in-untersuchungshaft_aid-19724031",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mehr als 160 Anzeigen \u2013 zwei Verd\u00e4chtige in U-Haft"
+                        },
+                        "intro": "\u00dcber 160 Strafanzeigen sind wegen der Attacken an Silvester in K\u00f6ln, Hamburg und D\u00fcsseldorf inzwischen eingegangen. Die Polizei vermutet, dass viele der beteiligten M\u00e4nner mit Z\u00fcgen aus anderen St\u00e4dten angereist waren.",
+                        "authors": "Von Joris Hielscher, Eva Quadbeck und Christian Schwerdtfeger",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/2/7/7/0/3/8/9/tok_f836d0ea61c5f7ce26cfd1d0bc1e0a2d/w490_h368_x470_y264_f88915fa593d578e.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/2/7/7/0/3/8/9/f88915fa593d578e.jpg",
+                        "source": "K\u00f6ln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Silvesternacht"
+                        }
+                      },
+                      {
+                        "id": 9213311,
+                        "href": "/nrw/staedte/koeln/silvesternacht-in-koeln-und-hamburg-polizei-sieht-keine-verbindungen_aid-9213311",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Hamburger Polizei sieht keine Verbindung zu K\u00f6ln"
+                        },
+                        "intro": "Hamburger Ermittler sehen keine Verbindung zwischen den \u00dcberf\u00e4llen in K\u00f6ln und denen auf der Reeperbahn. \"Wir haben keine Anhaltspunkte daf\u00fcr\", sagte ein Polizeisprecher. Inzwischen seien in Hamburg 53 Strafanzeigen eingegangen. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/1/7/6/0/6/5/1/tok_f3390781c6c2b6526752b1bd31bf988e/w490_h368_x470_y264_c1dcc7d6ed20f0e2.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/1/7/6/0/6/5/1/c1dcc7d6ed20f0e2.jpg",
+                        "source": "Hamburg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "\u00dcbergriffe in der Silvesternacht"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "quick-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Direkt zu"
+                    },
+                    "cities": [
+                      {
+                        "href": "/nrw/staedte/duisburg/",
+                        "text": "Duisburg"
+                      },
+                      {
+                        "href": "/nrw/staedte/dinslaken/",
+                        "text": "Dinslaken"
+                      },
+                      {
+                        "href": "/nrw/staedte/neuss/",
+                        "text": "Neuss"
+                      },
+                      {
+                        "href": "/nrw/staedte/",
+                        "text": "St\u00e4dte"
+                      }
+                    ],
+                    "sportsclubs": [
+                      {
+                        "href": "/sport/fussball/fortuna/",
+                        "text": "Fortuna",
+                        "icon": "/assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf"
+                      },
+                      {
+                        "href": "/nrw/staedte/duisburg/sport/msv/",
+                        "text": "MSV Duisburg",
+                        "icon": "/assets/images/sprite.sportsclubs.svg#msv-duisburg"
+                      }
+                    ],
+                    "personalized": false
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Panorama NRW",
+                      "href": "/nrw/panorama/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 9685371,
+                        "href": "/nrw/panorama/uebergriffe-in-koeln-frauen-sollen-armlaenge-distanz-zu-fremden-halten_aid-9685371",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Frauen sollen zu Fremden \"eine Arml\u00e4nge\" Distanz halten"
+                        },
+                        "intro": "K\u00f6lns OB Henriette Reker hat sich zum Krisentreffen mit Polizeipr\u00e4sident Wolfgang Albers (Bild) und Wolfgang Wurm von der Bundespolizei getroffen. Gemeinsam haben sie \u00fcber Pr\u00e4ventionsma\u00dfnahmen gesprochen, damit Gro\u00dfveranstaltungen nicht wie in der Silvesternacht ausarten.",
+                        "authors": "Von Jessica Kuschnik",
+                        "orig_src": null,
+                        "source": "K\u00f6ln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Pressekonferenz"
+                        }
+                      },
+                      {
+                        "id": 9213323,
+                        "href": "/nrw/staedte/koeln/uebergriffe-in-koeln-warum-uns-die-aufschrei-debatte-nicht-weiterbringt_aid-9213323",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Warum uns die #Aufschrei-Debatte nicht weiterbringt"
+                        },
+                        "intro": "Nach den sexuellen \u00dcbergriffen auf Frauen am Silvesterabend in K\u00f6ln sind die Sexismus-Debatte und der Fall Br\u00fcderle pl\u00f6tzlich wieder Thema. Diejenigen, die sich beschweren, dass der #Aufschrei diesmal nicht gro\u00df genug sei, vermischen zwei Probleme, die wenig miteinander zu tun haben.",
+                        "authors": "Von Judith Conrady",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/1/7/6/0/6/6/3/tok_82956340e5fce6c9bf73362216db34dd/w490_h368_x470_y264_f808b6964a17f025.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/1/7/6/0/6/6/3/f808b6964a17f025.jpg",
+                        "source": "K\u00f6ln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "\u00dcbergriffe in K\u00f6ln"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252181\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252181\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Freizeit NRW",
+                      "href": "/nrw/freizeit/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Zoo Duisburg",
+                        "href": "/nrw/staedte/duisburg/zoo/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Zoo Krefeld",
+                        "href": "/nrw/staedte/krefeld/zoo/",
+                        "isAd": true
+                      },
+                      {
+                        "text": "Aquazoo",
+                        "href": "/nrw/staedte/duesseldorf/aquazoo/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23212334,
+                        "href": "/nrw/freizeit/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Was klappt und was klappt nicht im Skatepark"
+                        },
+                        "intro": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden.",
+                        "authors": "Von Christopher Trinks",
+                        "orig_src": null,
+                        "source": "D\u00fcsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Eine Woche nach der Er\u00f6ffnung in D\u00fcsseldorf-Eller\n "
+                        }
+                      },
+                      {
+                        "id": 23211124,
+                        "href": "/nrw/freizeit/komische-probleme-mit-top-themen_aid-23211124",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Komische Probleme mit Top-Themen"
+                        },
+                        "intro": "Echt seltsam",
+                        "orig_src": null,
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "InterRed"
+                        }
+                      },
+                      {
+                        "id": 23209894,
+                        "href": "/nrw/freizeit/acht-gruende-fuer-das-scheitern-der-deutschen_aid-23209894",
+                        "type": "video",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Acht Gr\u00fcnde f\u00fcr das Scheitern der Deutschen"
+                        },
+                        "intro": "Auf dem Rasen lagen die S\u00fcdkoreaner. Dabei hatten sie gerade nach ganz sp\u00e4ten Toren mit 2:0 gewonnen - gegen den Weltmeister, der seinen Titel nun nicht mehr verteidigen kann. Deutschland ist nach einer blamablen Vorstellung in Kasan aus dem WM-Turnier in Russland ausgeschieden.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/1/3/7/1/tok_5ed4f00d6e349371b79d8b5b04837f22/w490_h368_x470_y264_07a15161161c2253.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/1/3/7/1/07a15161161c2253.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Artikel mit Video"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22300609\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22300609\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-list",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div class=\"activeinternational\"><iframe id=\"aiger_ms3\" style=\"margin: 0px auto; background-color: #ffffff; display: block; border: 0px; width: 0px; height: 0px;\" scrolling=\"no\"></iframe></div>\r\n<script>/* 09/19 */var aims3 = \"aiger_ms3\"; var wms3 = \"300\"; var hms3 = \"600\"; var sms3 = \"4137546\"; var hp = \"https\"; \r\nvar px = \"px\"; var wi = window; var yl = \"//ad.yieldlab.net\"; var id = \"/2348890/\"; var dc = document; var ims3 = dc.getElementById(aims3); \r\nvar iyms3 = ims3.style; iyms3.width = wms3+px; iyms3.height = hms3+px; ims3.src = yl+\"/d/\"+sms3+id+wms3+\"x\"+hms3+\"?ts=\"+Date.now()+\"&type=h\"; \r\nwi.addEventListener(\"message\", function(e) { if (e.origin === hp+\":\"+yl && e.data.m === aims3) { \r\niyms3.width = e.data.w+px; iyms3.height = e.data.h+px; if (e.data.s !== undefined) { ims3.src = e.data.s; } } }, false);</script>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "id": 23206084,
+                          "href": "/nrw/freizeit/toller-test-artikel_aid-23206084",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Toller Test Teaser-Titel"
+                          },
+                          "intro": "Ganz toller Teasertest",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/3/7/tok_a8b1555b0567bba0f787ac6fb0f6f8a4/w490_h368_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/3/7/Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "source": "",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Test Teaser-Dachzeile"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "html",
+                  "data": {
+                    "html": "<style>\r\n    .weekli-navi {\r\n        display: none;\r\n    }\r\n    .weekli-none {\r\n        display: none;\r\n    }\r\n    .weekli-section-nav{\r\n        height: auto;\r\n    }\r\n    .weekli-anzeige{\r\n        float: right; \r\n        line-height: 37px;\r\n        font-size: 10px;\r\n        padding-right: 2px;\r\n    }\r\n    .weekli-section-nav__headline img{\r\n            max-height: 35px;\r\n        }\r\n    @media screen and (min-width: 48.0625em){\r\n        .weekli-navi {\r\n            display: block;\r\n        }\r\n        .weekli-section-nav{\r\n            height: 57px!important;\r\n        }\r\n        .weekli-section-nav__headline:after {\r\n            bottom: -.25rem!important;\r\n        }\r\n        .weekli-anzeige{\r\n            float: right; \r\n            line-height: 37px; \r\n            font-size: 19px;\r\n            padding-right: 0px;\r\n        }\r\n    }\r\n    @media screen and (max-width: 48.0625em){\r\n        .weekli-section-nav__headline {\r\n            padding-right: 0px !important;\r\n            font-size: 14px;\r\n        }\r\n        .weekli-section-nav__headline img{\r\n            max-height: 30px;\r\n        }\r\n    }\r\n</style>\r\n\r\n<div class=\"park-section-nav weekli-section-nav\" style=\"background: #E00000 !important; line-height: 0px !important;\">\r\n    <div class=\"weekli-anzeige\"><span>ANZEIGE</span></div>\r\n    <div class=\"park-section-nav__wrapper\" style=\"float: left;\">\r\n            <h2 class=\"park-section-nav__headline weekli-section-nav__headline\" >\r\n                <a style=\"color: white;\" href=\"https://www.weekli.de/\" target=\"_blank\">\r\n                    <div style=\"float: left;line-height: 37px; margin-right: 5px;\">\r\n                            <span>Prospekte und Angebote von </span>\r\n                    </div>\r\n                    <div style=\"float: left;\">\r\n                            <img src=\"https://static.weekli.systems/www/img/logo_240x97.png\" alt=\"Weekli\">\r\n                    </div>\r\n                    <div style=\"clear: both;\"></div>\r\n                </a>\r\n            </h2>\r\n          <button type=\"button\" aria-controls=\"park-section-nav__navigation-s\" aria-expanded=\"false\" class=\"park-section-nav__toggle weekli-none\">Schnellzugriff aufklappen</button>\r\n    </div>\r\n    <div style=\"float: left;line-height: 37px;\" class=\"weekli-navi\">\r\n        <ul id=\"park-section-nav__navigation-s\" class=\"park-section-nav__navigation\">\r\n            <li class=\"park-section-nav__item\">\r\n                <a href=\"https://www.weekli.de/prospekte\" target=\"_blank\" class=\"park-section-nav__link \">Aktuelle Prospekte</a>\r\n            </li>\r\n            <li class=\"park-section-nav__item\">\r\n                <a href=\"https://www.weekli.de/haendler\" target=\"_blank\" class=\"park-section-nav__link \">H\u00e4ndler</a>\r\n            </li>\r\n        </ul>\r\n    </div>\r\n   \r\n</div>\r\n\r\n<div style=\"display:block;position:relative;width:auto;height:200px;margin: 15px;\" class=\"adsbyweekli\"\r\n    data-ad-slot=\"15\"\r\n    data-pub=\"rp\"\r\n    data-api-key=\"1A1C94CD-8BB4-41D4-8A67-0D6EC1449C65\"\r\n    data-widget=\"1\"\r\n    data-target-blank=\"true\"\r\n    data-autoplay=\"3\"\r\n    data-campaign-source=\"rpo\"\r\n    data-campaign-medium=\"widget_billboard\"\r\n    data-show-title=\"true\">\r\n</div>\r\n<!-- weekli JavaScript SDK -->\r\n<script async src=\"//static.weekli.systems/www/ads/js/adsbyweekli-1.0.min.js\"></script>\r\n"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "TONIGHT.de"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "https://www.tonight.de/fotos/boui-boui-bilk-duesseldorf/public-viewing-deutschland-mexiko.446864",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Hunderte Fans feiern beim Public Viewing"
+                        },
+                        "intro": "Die Stimmung im Boui Boui Bilk h\u00e4tte - trotz Niederlage - beim ersten Deutschland-Spiel kaum besser sein k\u00f6nnen. Volles Haus, Fahnen, Trikots, leckere Snacks und k\u00fchles Bier - am kommenden Samstag sind unsere TONIGHT-Fotografen auf jeden Fall wieder mit dabei.",
+                        "src": "https://www-rpd.rp-online.de/imgs/31/2/5/7/2/8/3/9/5/tok_4a6f9cae0ec5a1005523c2bf95bbfa00/w490_h368_x470_y264_boui-boui-bilk-duesseldorf-public-viewing-deutschland-mexiko-1288704-4f289cb7417e24dc.jpeg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos Boui Boui Bilk"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-2__---\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-3__---\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": true
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-4__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-4__---\"); })</script>",
+                          "lazy": true
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Datenjournalismus"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "/nrw/datenjournalismus/",
+                        "headline": {
+                          "tag": "span",
+                          "text": "NRW in Zahlen, Daten, Fakten"
+                        },
+                        "intro": "Wie viele Straftaten gab es wirklich in Ihrem Bezirk? Wie hoch ist der Stickstoffdioxid-Wert an Ihrer Stra\u00dfe? Und wo wird Alt oder K\u00f6lsch getrunken? Hier finden Sie Grafiken, interaktive Karten und Datenvisualisierungen.",
+                        "src": "https://www-rpd.rp-online.de/imgs/33/2/5/3/5/1/8/2/1/tok_26d605e1cbdd0b8997382ce29ac8ea81/w490_h368_x350_y250_cover_final-0916c940bac9117e.jpg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Datenjournalismus"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-5__---\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den t\u00e4glichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=64600"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/"
+            },
+            {
+              "text": "Podcast h\u00f6ren",
+              "href": "https://rp-online.de/digitales/podcasts/"
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "St\u00e4dte",
+          "href": "/nrw/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "D\u00fcsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "H\u00fcckelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "H\u00fcckeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "H\u00fcnxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "J\u00fcchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "K\u00f6ln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "M\u00f6nchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "T\u00f6nisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "W\u00fclfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#nrw",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "St\u00e4dte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Dinslaken",
+                  "href": "/nrw/staedte/dinslaken/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#dinslaken",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Dormagen",
+                  "href": "/nrw/staedte/dormagen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#dormagen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "D\u00fcsseldorf",
+                  "href": "/nrw/staedte/duesseldorf/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duesseldorf",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Duisburg",
+                  "href": "/nrw/staedte/duisburg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duisburg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Emmerich",
+                  "href": "/nrw/staedte/emmerich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#emmerich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Erkelenz",
+                  "href": "/nrw/staedte/erkelenz/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#erkelenz",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Braunkohletagebau",
+                      "href": "/nrw/staedte/erkelenz/braunkohletagebau/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Erkrath",
+                  "href": "/nrw/staedte/erkrath/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#erkrath"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Geldern",
+                  "href": "/nrw/staedte/geldern/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#geldern",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Goch",
+                  "href": "/nrw/staedte/goch/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#goch",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Grevenbroich",
+                  "href": "/nrw/staedte/grevenbroich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#grevenbroich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Haan",
+                  "href": "/nrw/staedte/haan/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#haan",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Hilden",
+                  "href": "/nrw/staedte/hilden/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hilden",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "H\u00fcckelhoven",
+                  "href": "/nrw/staedte/hueckelhoven/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hueckelhoven"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "H\u00fcckeswagen",
+                  "href": "/nrw/staedte/hueckeswagen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hueckeswagen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "H\u00fcnxe",
+                  "href": "/nrw/staedte/huenxe/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#huenxe"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "J\u00fcchen",
+                  "href": "/nrw/staedte/juechen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#juechen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kaarst",
+                  "href": "/nrw/staedte/kaarst/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kaarst",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kamp-Lintfort",
+                  "href": "/nrw/staedte/kamp-lintfort/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kamp-lintfort"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kempen",
+                  "href": "/nrw/staedte/kempen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kempen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kevelaer",
+                  "href": "/nrw/staedte/kevelaer/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kevelaer",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kleve",
+                  "href": "/nrw/staedte/kleve/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kleve",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "K\u00f6ln",
+                  "href": "/nrw/staedte/koeln/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#koeln",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Korschenbroich",
+                  "href": "/nrw/staedte/korschenbroich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#korschenbroich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": true,
+                  "text": "Krefeld",
+                  "href": "/nrw/staedte/krefeld/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#krefeld",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kreis Heinsberg",
+                  "href": "/nrw/staedte/kreis-heinsberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#heinsberg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Langenfeld",
+                  "href": "/nrw/staedte/langenfeld/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#langenfeld",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Leichlingen",
+                  "href": "/nrw/staedte/leichlingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#leichlingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Leverkusen",
+                  "href": "/nrw/staedte/leverkusen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#leverkusen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Meerbusch",
+                  "href": "/nrw/staedte/meerbusch/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#meerbusch",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Mettmann",
+                  "href": "/nrw/staedte/mettmann/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#mettmann",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "M\u00f6nchengladbach",
+                  "href": "/nrw/staedte/moenchengladbach/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#moenchengladbach",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Karneval in M\u00f6nchengladbach",
+                      "href": "/nrw/staedte/moenchengladbach/karneval/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Kultur M\u00f6nchengladbach",
+                      "href": "/nrw/staedte/moenchengladbach/kultur/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Sport",
+                      "href": "/nrw/staedte/moenchengladbach/sport/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Sch\u00fctzen",
+                      "href": "/nrw/staedte/moenchengladbach/stadtschuetzenfest/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Moers",
+                  "href": "/nrw/staedte/moers/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#moers",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Neukirchen-Vluyn",
+                  "href": "/nrw/staedte/neukirchen-vluyn/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#neukirchen-vluyn"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Neuss",
+                  "href": "/nrw/staedte/neuss/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#neuss",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Radevormwald",
+                  "href": "/nrw/staedte/radevormwald/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#radevormwald",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Ratingen",
+                  "href": "/nrw/staedte/ratingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#ratingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Remscheid",
+                  "href": "/nrw/staedte/remscheid/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#remscheid",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rhein-Kreis",
+                  "href": "/nrw/staedte/rhein-kreis/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rheinberg",
+                  "href": "/nrw/staedte/rheinberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#rheinberg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rommerskirchen",
+                  "href": "/nrw/staedte/rommerskirchen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#rommerskirchen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Solingen",
+                  "href": "/nrw/staedte/solingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#solingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "T\u00f6nisvorst",
+                  "href": "/nrw/staedte/toenisvorst/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#toenisvorst"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Viersen",
+                  "href": "/nrw/staedte/viersen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#viersen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wassenberg",
+                  "href": "/nrw/staedte/wassenberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wassenberg"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wegberg",
+                  "href": "/nrw/staedte/wegberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wegberg"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wermelskirchen",
+                  "href": "/nrw/staedte/wermelskirchen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wermelskirchen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wesel",
+                  "href": "/nrw/staedte/wesel/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wesel",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Willich",
+                  "href": "/nrw/staedte/willich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#willich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "W\u00fclfrath",
+                  "href": "/nrw/staedte/wuelfrath/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wuelfrath",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Xanten",
+                  "href": "/nrw/staedte/xanten/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#xanten",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Zoos",
+                  "href": "/nrw/freizeit/zoo/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

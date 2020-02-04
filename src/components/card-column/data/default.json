@@ -1,0 +1,15 @@
+{
+  "type": "column",
+  "src": "./assets/images/300x170.jpg",
+  "alt": "Süße Katze",
+  "href": "#void",
+  "headline": {
+    "tag": "h3",
+    "text": "Bei Sexismus geht es eigentlich um Macht"
+  },
+  "author": {
+    "src": "./assets/images/person.jpg",
+    "name": "Dorothee Krings",
+    "position": "Gesellschaft"
+  }
+}

@@ -1,0 +1,6 @@
+<div class="park-page-footer">
+  {% for child in children %}
+    {% set data = child.data|merge({'config': config}) %}
+    {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+  {% endfor %}
+</div>

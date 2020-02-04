@@ -1,0 +1,24 @@
+{
+  "name": "sort",
+  "value": "date-",
+  "label": "Sortierung",
+  "placeholder": "Bitte wählen Sie eine Sortierung",
+  "options": [
+    {
+      "label": "Nach Alphabet, aufsteigend",
+      "value": "alphabetical+"
+    },
+    {
+      "label": "Nach Alphabet, absteigend",
+      "value": "alphabetical-"
+    },
+    {
+      "label": "Nach Datum, aufsteigend",
+      "value": "date+"
+    },
+    {
+      "label": "Nach Datum, absteigend",
+      "value": "date-"
+    }
+  ]
+}

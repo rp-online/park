@@ -1,0 +1,67 @@
+{
+ "main": {
+    "component": "video-with-caption",
+    "data": {
+      "headline": {
+        "tag": "h2",
+        "text": "Valentinstag: Sechs Rezeptideen für die perfekte Liebesbotschaft"
+      },
+      "timestamp": 1499074591,
+      "description": {
+        "tag": "p",
+        "text": "Der thailändische Blogger Got Peeraphat hatte offenbar keine Lust auf die typischen Blumen- und Schokoladengeschenke zum Valentinstag. Stattdessen präsentiert er in diesem Video sechs außergewöhnliche Food Life Hacks mit besonderer Botschaft. Liebe, geht eben doch durch den Magen."
+      },
+      "video": {
+        "id": "eiKZMnJl6yc",
+        "src": "https://www.youtube.com/embed/pk1AV_5b2u0?enablejsapi=1&amp;origin=http%3A%2F%2Fwww.rp-online.de&amp;widgetid=1"
+      }
+    }
+  },
+  "sidebar": {
+    "component": "video-list",
+    "data": {
+      "headline": {
+        "tag": "span",
+        "text": "Nächstes Video"
+      },
+      "items": [
+        {
+          "headline": {
+            "tag": "h2",
+            "text": "TV-Duell Kraft vs. Laschet: Was hilft gegen den Dauerstau auf NRWs Autobahnen?"
+          },
+          "href": "#void",
+          "src": "./assets/images/140x78.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "headline": {
+            "tag": "h2",
+            "text": "Start beim Metro Marathon 2017 in Düsseldorf"
+          },
+          "href": "#void",
+          "src": "./assets/images/140x78.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "headline": {
+            "tag": "h2",
+            "text": "Nach ICE-Unfall in Dortmund: Zug wird abtransportiert "
+          },
+          "href": "#void",
+          "src": "./assets/images/140x78.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "headline": {
+            "tag": "h2",
+            "text": "Neuss: Tödlicher Motorradunfall – das ist die Unfallstrecke "
+          },
+          "href": "#void",
+          "src": "./assets/images/140x78.jpg",
+          "alt": "Schmusekatze"
+        }
+      ]
+    }
+  }
+}

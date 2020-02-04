@@ -1,0 +1,426 @@
+{
+  "children": [
+    {
+      "component": "section-portal-right",
+      "data": {
+        "children": [
+          {
+            "component": "tab-container",
+            "data": {
+              "headline": {
+                "tag": "h2",
+                "prefix": "Mehr zu ",
+                "text": "Industriestrategie 2030: Peter Altmaier will mehr „Made in Germany“"
+              },
+              "blocks": [
+                {
+                  "title": "Zum Thema",
+                  "children": [
+                    {
+                      "component": "teaser-grid-image-list",
+                      "data": {
+                        "withAd": true,
+                        "items": [
+                          {
+                            "id": 36550879,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/9/0/8/1/3/tok_c4877ade75a48699e380e51a3a7374b7/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "400w": "/imgs/32/4/7/7/9/0/8/1/3/tok_6112fc4ed952e9878b55715408351fe1/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "600w": "/imgs/32/4/7/7/9/0/8/1/3/tok_fd283c7179d9fa4d2bb7201fc14bd2b7/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "900w": "/imgs/32/4/7/7/9/0/8/1/3/tok_067a1689d6da2ab0034d9e74aca53ee2/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "950w": "/imgs/32/4/7/7/9/0/8/1/3/tok_a0a8f34279c48d1b763edf3a949a4a22/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "1200w": "/imgs/32/4/7/7/9/0/8/1/3/tok_0b6061a7818aa817ba46a094124ec91a/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg",
+                              "1900w": "/imgs/32/4/7/7/9/0/8/1/3/tok_8a9f5c6fab2ea32cf89846f1f8036504/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9C7A0001D8F6D1-7fca3364994b9634.jpg"
+                            },
+                            "alt": "Angestellte der Arbeiterwohlfahrt (Awo) NRW demonstrieren",
+                            "href": "/wirtschaft/unternehmen/verdi-verzichtet-vorerst-auf-weitere-awo-streiks-in-nrw_aid-36550879",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Erzieherinnen und Pflegekräfte"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Verdi verzichtet vorerst auf weitere Awo-Streiks"
+                            }
+                          },
+                          {
+                            "id": 36548295,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/8/1/5/6/5/tok_a21b43352943f5272aa83039313509c3/w250_h187_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "400w": "/imgs/32/4/7/7/8/1/5/6/5/tok_587f93f4319324367bbdb2450e3fed1d/w400_h300_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "600w": "/imgs/32/4/7/7/8/1/5/6/5/tok_72c5c8d55aa3955289c860b919804a8e/w600_h450_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "900w": "/imgs/32/4/7/7/8/1/5/6/5/tok_84ce46523909d16ab37a664eb0116ec2/w900_h675_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "950w": "/imgs/32/4/7/7/8/1/5/6/5/tok_2fe2fa6cb0404de1db4eef947b843859/w950_h712_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "1200w": "/imgs/32/4/7/7/8/1/5/6/5/tok_dac20f63d619d9f425b7a7f036673443/w1200_h816_x612_y408_1.4550257-b12c151a72aaad68.jpg"
+                            },
+                            "alt": "Ein Zug der DB Regio in",
+                            "href": "/wirtschaft/unternehmen/vrr-mahnt-auch-db-regio-ab-zuviele-verspaetungen-und-zugausfaelle_aid-36548295",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Verspätungen und Zugausfälle"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "VRR mahnt nach Nordwestbahn auch DB Regio ab"
+                            }
+                          },
+                          {
+                            "id": 36513261,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/6/7/4/4/3/3/tok_52ed4ff08cce41b51937a9007636d2d4/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "400w": "/imgs/32/4/7/6/7/4/4/3/3/tok_30e0e51878c97a36509ac9dd2868ace1/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "600w": "/imgs/32/4/7/6/7/4/4/3/3/tok_6bf4cdd59ca5f861ef635860aafdcbe9/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "900w": "/imgs/32/4/7/6/7/4/4/3/3/tok_0e3dc96a01ce92007e4c490e4ef25cf3/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "950w": "/imgs/32/4/7/6/7/4/4/3/3/tok_8db9678e59567ae52ed90f80289f03d5/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "1200w": "/imgs/32/4/7/6/7/4/4/3/3/tok_4ed8d784f1b068519e9e7ee9f1f086fa/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg",
+                              "1900w": "/imgs/32/4/7/6/7/4/4/3/3/tok_384a3bf9f7dd1494010c247dcafd3eed/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9C8800EC1D0615-8c5a16c3ecb266f4.jpg"
+                            },
+                            "alt": "Kommt zukünftig mehr Gemüse aus den",
+                            "href": "/wirtschaft/brexit-koennte-zu-preisverfall-bei-gemuese-sorgen-niederlaender-koennten-deutschen-markt-fluten_aid-36513261",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Niederländer könnten deutschen Markt fluten"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Brexit könnte zu Preisverfall bei Gemüse sorgen"
+                            }
+                          },
+                          {
+                            "id": 36573435,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/8/3/2/5/9/4/tok_01209d83df32a14892d2dd4ccbb939be/w250_h187_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "400w": "/imgs/32/4/7/8/3/2/5/9/4/tok_f6ab12046d9c8c10a94c245980785852/w400_h300_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "600w": "/imgs/32/4/7/8/3/2/5/9/4/tok_0a6d2488ce42291ce41610e40e72f3c9/w600_h450_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "900w": "/imgs/32/4/7/8/3/2/5/9/4/tok_fa99831c356d9973564d2372acc83073/w900_h675_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "950w": "/imgs/32/4/7/8/3/2/5/9/4/tok_e4e4eb9b9d21e3cf352f966260b80e22/w950_h712_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "1200w": "/imgs/32/4/7/8/3/2/5/9/4/tok_d62bae8dd03a2dd29a945a60ac263a80/w1200_h900_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg",
+                              "1900w": "/imgs/32/4/7/8/3/2/5/9/4/tok_20ae79a567784439d6a00dc7e8ba3f82/w1900_h1425_x1796_y873_20181222_103937-8da85bfdb8ec10a0.jpg"
+                            },
+                            "alt": "",
+                            "href": "/wirtschaft/gummibaerchen-gibt-es-nur-in-der-wirtschaft_aid-36573435",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Bärchen"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Gummibärchen gibt es nur in der Wirtschaft"
+                            }
+                          },
+                          {
+                            "id": 36569283,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/8/3/2/1/2/4/tok_5c4ab8e0fe232f731a9036a797acf19c/w250_h187_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg",
+                              "400w": "/imgs/32/4/7/8/3/2/1/2/4/tok_f719c2667e62be9fa64ab09c3aed39f9/w400_h300_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg",
+                              "600w": "/imgs/32/4/7/8/3/2/1/2/4/tok_b837bedaa787acc63ad2c31716e57638/w600_h450_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg",
+                              "900w": "/imgs/32/4/7/8/3/2/1/2/4/tok_e50a98a95adf133284339aff95d3eac5/w900_h675_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg",
+                              "950w": "/imgs/32/4/7/8/3/2/1/2/4/tok_38207af876a4c4088473124e546c0175/w950_h712_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg",
+                              "1200w": "/imgs/32/4/7/8/3/2/1/2/4/tok_de2abf9509785a31886c7813d36d1a4e/w1200_h900_x660_y494_gummibaerchen-machen-fett-326a07ce4c6c12c0.jpg"
+                            },
+                            "alt": "Dies ist die Gummibären BU",
+                            "href": "/wirtschaft/wirtschaftszentrum-gummibaerenhausen_aid-36569283",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Explosion der Zahlen"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Wirtschaftszentrum Gummibärenhausen"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                },
+                {
+                  "title": "Aus dem Ressort",
+                  "children": [
+                    {
+                      "component": "teaser-grid-image-list",
+                      "data": {
+                        "withAd": true,
+                        "items": [
+                          {
+                            "id": 36548295,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/8/1/5/6/5/tok_a21b43352943f5272aa83039313509c3/w250_h187_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "400w": "/imgs/32/4/7/7/8/1/5/6/5/tok_587f93f4319324367bbdb2450e3fed1d/w400_h300_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "600w": "/imgs/32/4/7/7/8/1/5/6/5/tok_72c5c8d55aa3955289c860b919804a8e/w600_h450_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "900w": "/imgs/32/4/7/7/8/1/5/6/5/tok_84ce46523909d16ab37a664eb0116ec2/w900_h675_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "950w": "/imgs/32/4/7/7/8/1/5/6/5/tok_2fe2fa6cb0404de1db4eef947b843859/w950_h712_x612_y408_1.4550257-b12c151a72aaad68.jpg",
+                              "1200w": "/imgs/32/4/7/7/8/1/5/6/5/tok_dac20f63d619d9f425b7a7f036673443/w1200_h816_x612_y408_1.4550257-b12c151a72aaad68.jpg"
+                            },
+                            "alt": "Ein Zug der DB Regio in",
+                            "href": "/wirtschaft/unternehmen/vrr-mahnt-auch-db-regio-ab-zuviele-verspaetungen-und-zugausfaelle_aid-36548295",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Verspätungen und Zugausfälle"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "VRR mahnt nach Nordwestbahn auch DB Regio ab"
+                            }
+                          },
+                          {
+                            "id": 36561287,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/8/2/5/5/6/3/tok_010bedef0a384bfb2f717eced0a18043/w250_h187_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "400w": "/imgs/32/4/7/8/2/5/5/6/3/tok_76aea319bb3e840fe27e1f9cf4234612/w400_h300_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "600w": "/imgs/32/4/7/8/2/5/5/6/3/tok_5c633b2b679164ed1e88e6b3e7895803/w600_h450_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "900w": "/imgs/32/4/7/8/2/5/5/6/3/tok_3ba787592d3af387af9da25f103fa623/w900_h675_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "950w": "/imgs/32/4/7/8/2/5/5/6/3/tok_3c2abb02afa0c29e2830229b071de5f3/w950_h712_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "1200w": "/imgs/32/4/7/8/2/5/5/6/3/tok_a6dc276e9cc18a3c83168855f7377dc0/w1200_h900_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "1900w": "/imgs/32/4/7/8/2/5/5/6/3/tok_37fc161d2e7d49f7f36d1b53b496ad29/w1900_h1425_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg"
+                            },
+                            "alt": "",
+                            "href": "/wirtschaft/unternehmen/uniper-im-august-2019-gehen-chef-und-finanzvorstand_aid-36561287",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Energieversorger Uniper"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Im August gehen Chef und Finanzvorstand"
+                            }
+                          },
+                          {
+                            "id": 36559091,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/8/2/0/3/7/9/tok_2def9995c78181085a12b148e5c22222/w250_h187_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "400w": "/imgs/32/4/7/8/2/0/3/7/9/tok_63dc0bb76a2ef62335693788bb00cf70/w400_h300_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "600w": "/imgs/32/4/7/8/2/0/3/7/9/tok_ac9d50dec7f25b089db8ea2d8c91bbca/w600_h450_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "900w": "/imgs/32/4/7/8/2/0/3/7/9/tok_64f3303ab242cf9429427aa7664324d7/w900_h675_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "950w": "/imgs/32/4/7/8/2/0/3/7/9/tok_337a6ef9e85960cb9e93a4ae3840fa3e/w950_h712_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "1200w": "/imgs/32/4/7/8/2/0/3/7/9/tok_d6a532c66633b8224faa1de38b1edccf/w1200_h900_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg",
+                              "1900w": "/imgs/32/4/7/8/2/0/3/7/9/tok_a7ef12da07f5cbecd843c7d4613a1708/w1900_h1425_x1500_y888_20120705_bfunk_dpa_1481CA00974C7890-74ae21d413a36743.jpg"
+                            },
+                            "alt": "",
+                            "href": "/wirtschaft/unternehmen/spaeter-generationswechsel-bei-fielmann_aid-36559091",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Optiker-Imperium"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Später Generationswechsel bei Fielmann"
+                            }
+                          },
+                          {
+                            "id": 36558963,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/8/1/9/7/4/7/tok_1ad1529aef3a064f4a27c02bb7421442/w250_h187_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "400w": "/imgs/32/4/7/8/1/9/7/4/7/tok_67108502db2ce9e96c83ee3928ffe968/w400_h300_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "600w": "/imgs/32/4/7/8/1/9/7/4/7/tok_c788f44e279cd91c521ed1a09c1f350e/w600_h450_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "900w": "/imgs/32/4/7/8/1/9/7/4/7/tok_13d6cfecb9e93f41d098ad67b748e47f/w900_h675_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "950w": "/imgs/32/4/7/8/1/9/7/4/7/tok_28ff1ca66ef2f2bbfcf0e8f3c478ca39/w950_h712_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "1200w": "/imgs/32/4/7/8/1/9/7/4/7/tok_d1253c57819592cc697df57fbd460a72/w1200_h900_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg",
+                              "1900w": "/imgs/32/4/7/8/1/9/7/4/7/tok_3bbb17cb5fab0b0795cdcfbea2b994f1/w1900_h1249_x1280_y624_b6d8669f-a231-43e1-b726-3ef21b73689e-25e7f28ac0afbf48.jpg"
+                            },
+                            "alt": "Verschiedene Kryptowährungen (Symbolbild).",
+                            "href": "/wirtschaft/unternehmen/quadrigacx-verstorbener-chef-nimmt-passwoerter-mit-ins-grab-120-millionen-euro-verloren_aid-36558963",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "115.000 Kunden kommen nicht mehr an ihr Geld "
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Plötzlich verstorbener Chef von Kryptowährungs-Plattform nimmt Passwörter mit ins Grab"
+                            }
+                          },
+                          {
+                            "id": 36552527,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/9/7/9/6/5/tok_f7521fb390ee41f877798e7061846e3d/w250_h187_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "400w": "/imgs/32/4/7/7/9/7/9/6/5/tok_3b5d9a3878ab1324a91391ba4e6d629d/w400_h300_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "600w": "/imgs/32/4/7/7/9/7/9/6/5/tok_b3889ec298da0710a27b04aef65324da/w600_h450_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "900w": "/imgs/32/4/7/7/9/7/9/6/5/tok_6fa810e3df850cddd5f962be17555abf/w900_h675_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "950w": "/imgs/32/4/7/7/9/7/9/6/5/tok_297f5a7fe85ef651f6667499b72d5c27/w950_h712_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "1200w": "/imgs/32/4/7/7/9/7/9/6/5/tok_e7ad74a75625d9abbff49f6a452372bf/w1200_h900_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "1900w": "/imgs/32/4/7/7/9/7/9/6/5/tok_22c10d98d1442110a5042d571917b5c8/w1900_h1425_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg"
+                            },
+                            "alt": "Aus dem Zusammengehen der beiden Firmen",
+                            "href": "/wirtschaft/unternehmen/kreise-eu-wird-wohl-siemens-alstom-fusion-am-mittwoch-verbieten_aid-36552527",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Informierte Kreise"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "EU wird wohl Siemens-Alstom-Fusion am Mittwoch verbieten"
+                            }
+                          },
+                          {
+                            "id": 36550075,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/9/7/9/6/5/tok_f7521fb390ee41f877798e7061846e3d/w250_h187_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "400w": "/imgs/32/4/7/7/9/7/9/6/5/tok_3b5d9a3878ab1324a91391ba4e6d629d/w400_h300_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "600w": "/imgs/32/4/7/7/9/7/9/6/5/tok_b3889ec298da0710a27b04aef65324da/w600_h450_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "900w": "/imgs/32/4/7/7/9/7/9/6/5/tok_6fa810e3df850cddd5f962be17555abf/w900_h675_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "950w": "/imgs/32/4/7/7/9/7/9/6/5/tok_297f5a7fe85ef651f6667499b72d5c27/w950_h712_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "1200w": "/imgs/32/4/7/7/9/7/9/6/5/tok_e7ad74a75625d9abbff49f6a452372bf/w1200_h900_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg",
+                              "1900w": "/imgs/32/4/7/7/9/7/9/6/5/tok_22c10d98d1442110a5042d571917b5c8/w1900_h1425_x1500_y1005_DPA_bfunk_dpa_5F9C8A009B1FC52A-2bcb5ea906a0dc21.jpg"
+                            },
+                            "alt": "Aus dem Zusammengehen der beiden Firmen",
+                            "href": "/wirtschaft/unternehmen/einigung-mit-frankreich-apple-zahlt-eine-halbe-milliarde-euro-steuern-nach_aid-36550075",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Offenbar Einigung mit Frankreich"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Apple zahlt eine halbe Milliarde Euro Steuern nach"
+                            }
+                          },
+                          {
+                            "id": 36546789,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/7/6/6/2/1/tok_24b47177071e4f12c268f4b0b32496d5/w250_h187_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "400w": "/imgs/32/4/7/7/7/6/6/2/1/tok_8f85b8e87674425b8661681ab35c288a/w400_h300_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "600w": "/imgs/32/4/7/7/7/6/6/2/1/tok_89a5630034fb6e5e26b475c370f04cce/w600_h450_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "900w": "/imgs/32/4/7/7/7/6/6/2/1/tok_06d58f11c3c6dd90c71525dc180d2621/w900_h675_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "950w": "/imgs/32/4/7/7/7/6/6/2/1/tok_1a3b261cb29dfb954788e0473e4aa182/w950_h712_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "1200w": "/imgs/32/4/7/7/7/6/6/2/1/tok_1dba340d6e984ac36a074a76fba8faab/w1200_h900_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg",
+                              "1900w": "/imgs/32/4/7/7/7/6/6/2/1/tok_0125388890ca2295aeca8287307212af/w1900_h1425_x1355_y1544_AFP_fAFP_1D08N2-1c9eed9ec2d25a85.jpg"
+                            },
+                            "alt": "Ein Flieger von Ryanair in Rom",
+                            "href": "/wirtschaft/unternehmen/ryanair-hat-preiskampf-angefacht-jetzt-sorgen-die-sinkenden-ticketpreise-fuer-verluste_aid-36546789",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Nur noch 30 Euro pro Ticket"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Ryanair schreibt Verluste wegen Preiskampf"
+                            }
+                          },
+                          {
+                            "id": 36546371,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/7/5/3/4/3/tok_6f41de40c3e61eb02a8bb5e9ead8d697/w250_h187_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "400w": "/imgs/32/4/7/7/7/5/3/4/3/tok_872d4237f76ce126ded09a65053c8e70/w400_h300_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "600w": "/imgs/32/4/7/7/7/5/3/4/3/tok_8b9459343c8222e78ed74a55ba5ae0d2/w600_h450_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "900w": "/imgs/32/4/7/7/7/5/3/4/3/tok_d8bd9f3fab05dbb973197463dace2cf0/w900_h675_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "950w": "/imgs/32/4/7/7/7/5/3/4/3/tok_f96bf568de006330b8bce4665bde2af7/w950_h712_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "1200w": "/imgs/32/4/7/7/7/5/3/4/3/tok_ede292f38697cd82a2a2085878ba0b01/w1200_h900_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg",
+                              "1900w": "/imgs/32/4/7/7/7/5/3/4/3/tok_4279a0365e7a8dbfb075532e65717ee5/w1900_h1425_x1373_y940_DPA_bfunk_dpa_5F9C8A008CA01862-c38cdb669a36bb75.jpg"
+                            },
+                            "alt": "Vor dem Werkstor des Stahlkonzerns Thyssenkrupp",
+                            "href": "/wirtschaft/unternehmen/tarifverhandlungen-im-umbruch-mehr-freizeit-wichtiger-als-hoeherer-lohn_aid-36546371",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Tarifverhandlungen im Umbruch"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Freizeit für Arbeitnehmer immer wichtiger als Lohn"
+                            }
+                          },
+                          {
+                            "id": 36541815,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/5/9/0/7/3/tok_59a840bacd510d77af942bc3045ded47/w250_h187_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "400w": "/imgs/32/4/7/7/5/9/0/7/3/tok_e41e4427131ab9615fc8372fb4c32ca8/w400_h300_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "600w": "/imgs/32/4/7/7/5/9/0/7/3/tok_6e4090e9b39d5e2c31d561a7ef73ef5b/w600_h450_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "900w": "/imgs/32/4/7/7/5/9/0/7/3/tok_c19f3481eee659dd1e380f526f8e3995/w900_h675_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "950w": "/imgs/32/4/7/7/5/9/0/7/3/tok_506def2daafae9623fecc65621e220d9/w950_h712_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "1200w": "/imgs/32/4/7/7/5/9/0/7/3/tok_4858eda7d4be73d579a9319661c66370/w1200_h900_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG",
+                              "1900w": "/imgs/32/4/7/7/5/9/0/7/3/tok_b2ffc978dc97a753a6b1e9a245692a15/w1900_h1425_x1750_y1076_RTR_2019-01-18T152658Z_2100673959_RC1F80A85AA0_RTRMADP_3_GERMANY-GERMANIA-AIRLINE-65b2364b84ced31b.JPG"
+                            },
+                            "alt": "Eine Germania-Maschine auf dem Rollfeld in",
+                            "href": "/wirtschaft/unternehmen/germania-airline-das-muessen-passagiere-nach-der-insolvenz-wissen_aid-36541815",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Airline meldet Insolvenz an"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Das müssen Germania-Passagiere jetzt wissen"
+                            }
+                          },
+                          {
+                            "id": 36527481,
+                            "type": "article",
+                            "src": {
+                              "250w": "/imgs/32/4/7/7/1/7/1/9/7/tok_ddb9d43af9524073cd416cc12e892e77/w250_h187_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "400w": "/imgs/32/4/7/7/1/7/1/9/7/tok_2974db4e08e7636ed385bc714f636e58/w400_h300_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "600w": "/imgs/32/4/7/7/1/7/1/9/7/tok_eee729f269c761fe2fdc70825b461738/w600_h450_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "900w": "/imgs/32/4/7/7/1/7/1/9/7/tok_dd9cd9d69f979eeebc187ff7fa6539ce/w900_h675_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "950w": "/imgs/32/4/7/7/1/7/1/9/7/tok_5f2cf184bb127e6680dd935be8b15281/w950_h712_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "1200w": "/imgs/32/4/7/7/1/7/1/9/7/tok_5beea2048264d963cf98625db70cf85a/w1200_h900_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg",
+                              "1900w": "/imgs/32/4/7/7/1/7/1/9/7/tok_b6ce5a226e6c15bcbb02fa5453fefe35/w1900_h1425_x1526_y1490_DPA_bfunk_dpa_5F9C7A00A2D8DABA-aaee96ed0498f8e8.jpg"
+                            },
+                            "alt": "",
+                            "href": "/wirtschaft/unternehmen/mere-in-leipzig-russischer-billig-discounter-muss-schon-wieder-schliessen_aid-36527481",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Warenlager leer"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Russischer Billig-Discounter in Leipzig schon wieder dicht"
+                            }
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "component": "tags",
+            "data": {
+              "withAd": true,
+              "links": [
+                {
+                  "href": "/thema/usa/",
+                  "text": "USA"
+                },
+                {
+                  "href": "/thema/peter-altmaier/",
+                  "text": "Peter Altmaier"
+                },
+                {
+                  "href": "/thema/dortmund/",
+                  "text": "Dortmund"
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "free",
+            "html": "<img src=\"https://placehold.it/300x250\">",
+            "lazy": false,
+            "sticky": false
+          },
+          "desktop": {
+            "type": "free",
+            "html": "<img src=\"https://placehold.it/300x600\">",
+            "lazy": false,
+            "sticky": false
+          }
+        }
+      }
+    }
+  ]
+}

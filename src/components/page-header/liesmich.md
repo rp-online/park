@@ -1,0 +1,1 @@
+Dies ist eine generische Komponente, die man z.B. in Dossiers, im Archiv oder in der Suche oberhalb des Hauptinhalts platzieren kann, und die einführende Texte enthält und/oder Filtermöglichkeiten für den Hauptinhalt bereitstellt.

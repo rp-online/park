@@ -1,0 +1,135 @@
+{
+  "id": 1,
+  "timestamp": 1499074591,
+  "headline": {
+    "tag": "h2",
+    "text": "Berühmte Tweets"
+  },
+  "items": [
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "embed-twitter-tweet",
+        "data": {
+          "url": "https://twitter.com/die_vom_amt/status/935075987842363393"
+        }
+      },
+      "caption": "Auf lange Sicht das Beste für alle Beteiligten. Kurze Phasen kann man durchhalten, aber dauerhaft macht es sonst krank. Finanzielle Sicherheit erleichtert es natürlich."
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "embed-twitter-tweet",
+        "data": {
+          "url": "https://twitter.com/die_vom_amt/status/934734125893869568"
+        }
+      },
+      "caption": "Na, danke!"
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+      },
+      "figure": {
+        "component": "embed-twitter-tweet",
+        "data": {
+          "url": "https://twitter.com/die_vom_amt/status/934684162900070400"
+        }
+      },
+      "caption": "Und so schürt man unter einem Ausgangstweet über die Abschaffung von \"HartzIV\" nochmal schnell Hass. Lässt sich ja praktischerweise nicht belegen. Widerlich. Und komplett erlogen."
+    }
+  ],
+  "lastItem": {
+    "headline": {
+      "tag": "p",
+      "text": "Auch interessant"
+    },
+    "figure": {
+      "component": "teaser-tiles",
+      "data": {
+        "items": [
+          {
+            "id": 1,
+            "type": "article",
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schön auf die Zwölf"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Hier übt Barack Obama Kitesurfen"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Zukünftiger Rennfahrer"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schnarch..."
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schnarch..."
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "ads": {
+    "slides": {
+      "interval": 5,
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    }
+  }
+}

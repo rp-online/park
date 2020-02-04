@@ -1,0 +1,41 @@
+.park-embed-twitter-tweet {
+  background-color: $global-embed-background-color;
+
+  blockquote {
+    display: inline;
+    border-left: 10px solid #ccc;
+    font-weight: $global-font-weight-sans-serif-bold;
+    quotes: '\201C''\201D''\2018''\2019';
+
+    &::before {
+      margin-right: 0.25em;
+      color: #ccc;
+      content: open-quote;
+      font-size: 4em;
+      line-height: 0.1em;
+      vertical-align: -0.4em;
+    }
+
+    a {
+      vertical-align: baseline;
+    }
+
+    > p {
+      font-weight: $global-font-weight-sans-serif-regular;
+    }
+  }
+
+  > * {
+    margin: 0 auto;
+  }
+
+  > .twitter-tweet {
+    margin: 0;
+    margin-top: 0 !important;
+    padding: $global-spacing;
+  }
+
+  iframe {
+    background-color: #fff;
+  }
+}

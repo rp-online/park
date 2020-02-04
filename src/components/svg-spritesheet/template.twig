@@ -1,0 +1,20 @@
+<svg class="park-svg-spritesheet" xmlns="http://www.w3.org/2000/svg">
+  {% set symbols = [
+    'type-article',
+    'type-image',
+    'type-info',
+    'type-video',
+    'bookmark'
+  ] %}
+  {% for symbol in symbols %}
+    {% set template %}
+      {% include 'components/../svg/' ~ symbol ~ '.svg' %}
+    {% endset %}
+    {{ template|replace({
+      '<svg': '<symbol id="park-svg-spritesheet-' ~ symbol ~ '"',
+      '</svg>': '</symbol>',
+      ' version="1.1"': '',
+      ' xmlns="http://www.w3.org/2000/svg"': '',
+    })|raw }}
+  {% endfor %}
+</svg>

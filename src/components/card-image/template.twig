@@ -1,0 +1,90 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set headlineLevel = false %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set headlineTag = 'span' %}
+    {% if 'h' in headline.tag %}
+      {% set headlineLevel = headline.tag|replace({'h': ''}) %}
+    {% endif %}
+  {% else %}
+    {% set headlineTag = headline.tag %}
+  {% endif %}
+  {% set classes = [
+    'park-card-image'
+  ] %}
+  {% if mode is defined and mode is same as('display') %}
+    {% set classes = classes|merge([
+      'park-card-image--display'
+    ]) %}
+  {% endif %}
+  {% if (kicker is not defined or kicker.text is not defined or not kicker.text) and (headline is not defined or headline.text is not defined or not headline.text) %}
+    {% set classes = classes|merge([
+      'park-card-image--no-caption'
+    ]) %}
+  {% endif %}
+  {% set text = '' %}
+  {% if display is defined and kicker.text is defined and kicker.text %}
+    {% set text = text ~ kicker.text %}
+  {% endif %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+    {% set text = text ~ headline.text %}
+  {% endif %}
+  {% if text|length > 60 %}
+    {% set classes = classes|merge([
+      'park-card-image--cramped'
+    ]) %}
+  {% endif %}
+  {% set link = {
+    'href': href,
+    'target': target,
+    'rel': rel,
+    'classes': classes,
+    'config': config
+  } %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set link = link|merge({
+      'isAd': true,
+      'classes': link.classes|merge(['park-card-image--sugardaddy'])
+    }) %}
+  {% endif %}
+  {% set content %}
+    <figure role="group" class="park-card-image__figure">
+      <div class="park-card-image__wrapper">
+        {% set image = {
+          'src': src,
+          'alt': alt,
+          'sizes': { 'mobile': '300px', 'desktop': '300px' },
+          'config': config} %}
+        {% if mode is not defined or mode is not same as('display') %}
+          {% set image = image|merge({
+            'width': 300,
+            'height': 169
+          }) %}
+        {% endif %}
+        {% include 'components/image/template.twig' with image %}
+      </div>
+      {% if (kicker is defined and kicker.text is defined and kicker.text) or (headline is defined and headline.text is defined and headline.text) %}
+        <figcaption class="park-card-image__caption">
+          <{{ headlineTag }}
+          {% if headlineLevel %}
+            role="heading" aria-level="{{ headlineLevel }}"
+          {% endif %}
+          class="park-card-image__headlines">
+          {% if kicker is defined and kicker.text is defined and kicker.text %}
+            <span class="park-card-image__kicker">{{ kicker.text | raw }}</span>
+          {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}
+            <span class="park-card-image__headline">{{ headline.text }}</span>
+          {% endif %}
+          </{{ headlineTag }}>
+        </figcaption>
+      {% endif %}
+    </figure>
+  {% endset %}
+  {% if href is defined and href %}
+    {% set link = link|merge({
+      'text': content
+    }) %}
+    {% include 'components/link-helper/template.twig' with link only %}
+  {% else %}
+    <span class="{{ link.classes|join(' ')|escape('html') }}">{{ content|raw }}</span>
+  {% endif %}
+{% endif %}

@@ -1,0 +1,13 @@
+{
+  "type": "article",
+  "src": "./assets/images/950x534.jpg",
+  "href": "#void",
+  "alt": "Obama beim Kitesurfen",
+  "kicker": {
+    "text": "Schön auf die Zwölf"
+  },
+  "headline": {
+    "tag": "h3",
+    "text": "Hier übt Barack Obama Kitesurfen"
+  }
+}

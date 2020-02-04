@@ -1,0 +1,56 @@
+{% if config.appMode is not defined or not config.appMode or (config.notifications is defined and config.notifications.distribution is defined and config.notifications.distribution.onsite is defined and config.notifications.distribution.onsite) %}
+  {% if config.notifications is defined and config.notifications.showSubscriptionButtons is defined and config.notifications.showSubscriptionButtons %}
+  {% if itemType is same as('topic') %}
+      {% set subscribeText = 'Thema folgen' %}
+      {% set unsubscribeText = 'Thema entfolgen' %}
+      {% set subscribeSuccessText = 'Beiträge zu diesem Thema erfolgreich abonniert.' %}
+      {% set unsubscribeSuccessText = 'Beiträge zu diesem Thema nicht mehr abonniert.' %}
+      {% set subscribeErrorText = 'Um Themen folgen zu können, müssen Sie angemeldet sein.' %}
+    {% endif %}
+    {% if itemType is same as('author') %}
+      {% if name is defined and name %}
+        {% set subscribeText = name ~ ' folgen' %}
+        {% set unsubscribeText = name ~ ' entfolgen' %}
+        {% set subscribeSuccessText = 'Sie werden in Zukunft über neue Beiträge von ' ~ name ~ ' benachrichtigt.' %}
+        {% set unsubscribeSuccessText = 'Beiträge von ' ~ name ~ ' nicht mehr abonniert.' %}
+        {% set subscribeErrorText = 'Um ' ~ name ~ ' folgen zu können, müssen Sie angemeldet sein.' %}
+      {% else %}
+        {% set subscribeText = 'Autorin/Autor folgen' %}
+        {% set unsubscribeText = 'Autorin/Autor entfolgen' %}
+        {% set subscribeSuccessText = 'Sie werden in Zukunft über neue Beiträge dieser Autorin/dieses Autors benachrichtigt.' %}
+        {% set unsubscribeSuccessText = 'Beiträge dieser Autorin/dieses Autors nicht mehr abonniert.' %}
+        {% set subscribeErrorText = 'Um einer Autorin/einem Autor folgen zu können, müssen Sie angemeldet sein.' %}
+      {% endif %}
+    {% endif %}
+    {% set classes = [
+      'park-button-subscribe'
+    ] %}
+    {% set data = {
+      'subscribe': true,
+      'subscription-item-type': itemType,
+      'subscription-item-id': itemId,
+      'subscribe-text': subscribeText,
+      'unsubscribe-text': unsubscribeText,
+      'subscribe-success-text': subscribeSuccessText,
+      'unsubscribe-success-text': unsubscribeSuccessText,
+      'subscribe-error-text': subscribeErrorText,
+      'authentication-required': true,
+    } %}
+    {% if isCompact is defined and isCompact %}
+      {% set classes = classes|merge([
+        'park-button-subscribe--is-compact'
+      ]) %}
+      {% set data = data|merge({
+        'tooltip': true,
+      }) %}
+    {% endif %}
+    {% include 'components/button/template.twig' with {
+      'classes': classes,
+      'style': 'subscribe',
+      'text': subscribeText,
+      'title': subscribeText,
+      'data': data,
+      'config': config
+    } only %}
+  {% endif %}
+{% endif %}

@@ -1,0 +1,12 @@
+{
+  "notification": {
+    "headline": "Registrierung erfolgreich",
+    "body": "Die Aktivierung Ihres Kontos war erfolgreich. Sie können sich jetzt anmelden.",
+    "type": "success"
+  },
+  "action": "#void",
+  "passwordResetURL": "#void",
+  "registrationURL": "#void",
+  "fbLoginUrl": "#void",
+  "recaptchaSitekey": "6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK"
+}

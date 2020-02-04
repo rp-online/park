@@ -1,0 +1,7 @@
+.park-date {
+  opacity: 0;
+
+  .js-disabled & {
+    opacity: 1;
+  }
+}

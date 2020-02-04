@@ -1,0 +1,54 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Wetter in Düsseldorf"
+  },
+  "aside": "Wetter in Düsseldorf powered by wetter.de",
+  "items": [
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "Heute"
+      },
+      "temps": {
+        "day": 24,
+        "night": 8
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+      "href": "#void",
+      "caption": "Sonnig, teils bewölkt"
+    },
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "Morgen"
+      },
+      "temps": {
+        "day": 24,
+        "night": 8
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+      "href": "#void",
+      "caption": "Sonnig, teils bewölkt"
+    },
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "Übermorgen"
+      },
+      "temps": {
+        "day": 24,
+        "night": 8
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+      "href": "#void",
+      "caption": "Sonnig, teils bewölkt"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "cta-newsletter",
+  "initialState": {
+    "header": {
+      "headline": "Total Lokal",
+      "text": "Die Lokalredaktion informiert Sie jeden Samstag um 7 Uhr über die wichtigsten Nachrichten aus Ihrer Region."
+    },
+    "groupName": "total-lokal",
+    "optin": "<p>Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) persönlich informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an leserservice@rheinischepost.de)</p><p>Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Features auf RP ONLINE (z.B. Personalisierung der Seite) vereinbart. Die Angabe einer gültigen E-Mail-Adresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen. it der Registrierung erkläre ich mich mit dem Teilnahmebdeingungen und der Datenschutzerklärung einverstanden.</p>"
+  }
+}

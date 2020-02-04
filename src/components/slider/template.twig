@@ -1,0 +1,85 @@
+<article class="park-slider
+{% set types = [] %}
+{% for item in items %}
+  {% if item.type is not same as('portal') and item.type not in types %}
+    {% set types = types|merge([item.type]) %}
+  {% endif %}
+{% endfor %}
+{% if types|length == 1 %}
+park-slider--{{ types[0] }}
+{% endif %}
+{% if autoforward is defined and autoforward is same as(true) %}
+park-slider--autoforward
+{% endif %}
+{% set allAdvertorials = true %}
+{% for item in items %}
+  {% if item.isAd is not defined or item.isAd is same as(false) %}
+    {% set allAdvertorials = false %}
+  {% endif %}
+{% endfor %}
+{% if allAdvertorials is same as(true) %}
+park-portal-marker
+{% endif %}
+">
+  {% if src is defined %}
+    <div class="park-slider__background">
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': '',
+        'width': 960,
+        'height': 390,
+        'fit': 'cover',
+        'sizes': { 'mobile': '100vw', 'desktop': '960px' },
+        'config': config} %}
+    </div>
+  {% endif %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+    <header class="park-slider__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <div class="park-slider__relative-container">
+      <div class="park-slider__list-wrapper">
+        <ul class="park-slider__list">
+          {% for item in items %}
+            {% set renderItem = false %}
+            {% if config.disableAds is defined and config.disableAds is same as(true) %}
+              {% if (item.isAd is not defined or not item.isAd is same as(true)) and (item.type is not defined or not item.type is same as('portal')) %}
+                {% set renderItem = true %}
+              {% endif %}
+            {% else %}
+              {% set renderItem = true %}
+            {% endif %}
+            {% if renderItem is same as(true) %}
+              {# The following injects the global config #}
+              {% set item = item|merge({'config': config}) %}
+              <li class="park-slider__item park-slider__item-{{ item.type }}">
+                {% if config.advertorial is defined and config.advertorial is same as(true) %}
+                  {% set item = item|merge({
+                  'isAd': true
+                  }) %}
+                {% endif %}
+                {% include 'components/card-' ~ item.type ~ '/template.twig' with item only %}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      <ul class="park-slider__arrow-nav">
+        <li class="park-slider__arrow-nav-prev" aria-hidden="true">
+          <button type="button"
+                  class="park-slider__arrow-nav-prev-button park-slider__arrow-nav-button">zurück
+          </button>
+        </li>
+        <li class="park-slider__arrow-nav-next" aria-hidden="true">
+          <button type="button" class="park-slider__arrow-nav-next-button park-slider__arrow-nav-button">weiter
+          </button>
+        </li>
+      </ul>
+  </div>
+  {% if aside is defined %}
+    <aside class="park-slider__aside">{{ aside|raw }}</aside>
+  {% endif %}
+</article>

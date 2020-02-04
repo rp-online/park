@@ -1,0 +1,76 @@
+{% set uuid = random() %}
+<section class="park-card-author{% if isAd is defined and isAd %} park-card-author--sugardaddy{% endif %}">
+  {% set content %}
+    <figure role="group"
+            id="park-card-author__figure-{{ uuid }}"
+            class="park-card-author__figure">
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': name,
+        'width': 300,
+        'height': 169,
+        'sizes': { 'mobile': '300px', 'desktop': '300px' },
+        'fit': 'cover',
+        'config': config} %}
+      <figcaption class="park-card-author__caption">
+        <h5 class="park-card-author__headline">{{ name }}</h5>
+        <h6 class="park-card-author__subheadline">{{ position }}</h6>
+      </figcaption>
+    </figure>
+  {% endset %}
+  {% include 'components/link-helper/template.twig' with {
+    href: href,
+    text: content,
+    config: config,
+  } only %}
+  <div class="park-card-author__bottom">
+    <button class="park-card-author__toggle"
+            aria-expanded="false"
+            aria-controls="park-card-author__articles-{{ uuid }} park-card-author__description-{{ uuid }}">{% include 'svg/chevron-down.svg' %}
+      Die neuesten
+      Beiträge von {{ name }} zeigen
+    </button>
+    <div id="park-card-author__description-{{ uuid }}"
+         class="park-card-author__description">
+      <div class="park-card-author__description-text">
+        <p><strong class="park-card-author__article-count">{{ count }} Beiträge</strong></p>
+        {% include 'components/markdown/template.twig' with {
+          'text': description,
+          'config': config
+        } only %}
+      </div>
+      {% if config.appMode is not defined or not config.appMode or (config.notifications is defined and config.notifications.distribution is defined and config.notifications.distribution.onsite is defined and config.notifications.distribution.onsite) %}
+        {% if config.notifications is defined and config.notifications.showSubscriptionButtons is defined and config.notifications.showSubscriptionButtons %}
+          {% include 'components/button-subscribe/template.twig' with {
+            'itemType': 'author',
+            'itemId': id,
+            'name': name,
+            'config': config} %}
+        {% else %}
+          {% include 'components/button/template.twig' with {
+            'href': href,
+            'text': 'Alle Beiträge',
+            'config': config} %}
+        {% endif %}
+      {% else %}
+        {% include 'components/button/template.twig' with {
+          'href': href,
+          'text': 'Alle Beiträge',
+          'config': config} %}
+      {% endif %}
+    </div>
+    <aside id="park-card-author__articles-{{ uuid }}"
+           class="park-card-author__articles"
+           aria-hidden="true">
+      {% if items is defined and items is iterable %}
+        {% include 'components/teaser-image-list/template.twig' with {
+          'items': items,
+          'config': config} %}
+      {% endif %}
+      {% include 'components/button/template.twig' with {
+        'href': href,
+        'text': 'Alle Beiträge',
+        'config': config} %}
+    </aside>
+  </div>
+</section>

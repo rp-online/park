@@ -1,0 +1,82 @@
+{
+  "expandable": true,
+  "label": "optionale Angaben",
+  "children": [
+    {
+      "component": "radio-group",
+      "data": {
+        "name": "salutation",
+        "autocomplete": "honorific-prefix",
+        "label": "Anrede",
+        "options": [
+          {
+            "label": "Frau",
+            "value": "Mrs."
+          },
+          {
+            "label": "Herr",
+            "value": "Mr."
+          }
+        ]
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "firstname",
+        "autocomplete": "given-name",
+        "label": "Vorname"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "familyname",
+        "autocomplete": "family-name",
+        "label": "Nachname"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "street",
+        "label": "Straße",
+        "autocomplete": "address-line1"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "address-suffix",
+        "autocomplete": "address-line2",
+        "label": "Adresszusatz"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "postalcode",
+        "autocomplete": "postal-code",
+        "inputmode": "numeric",
+        "label": "PLZ"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "city",
+        "autocomplete": "locality",
+        "label": "Ort"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "tel",
+        "name": "phone",
+        "autocomplete": "tel",
+        "label": "Handynummer"
+      }
+    }
+  ]
+}

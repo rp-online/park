@@ -1,0 +1,8 @@
+{
+  "action": "#void",
+  "method": "post",
+  "name": "q",
+  "value": "nrw",
+  "label": "Search",
+  "placeholder": "Searchterm..."
+}

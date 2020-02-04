@@ -1,0 +1,30 @@
+{% if isNumeric is defined and isNumeric is same as(true) %}
+<ol class="park-teaser-list park-teaser-list--is-numeric">
+  {% else %}
+  <ul class="park-teaser-list">
+    {% endif %}
+    {% for item in items %}
+      <li class="park-teaser-list__item">
+        {# The following injects the global config #}
+        {% set item = item|merge({
+        'config': config,
+        'isNumeric': isNumeric
+        }) %}
+        {% if config.advertorial is defined and config.advertorial is same as(true) %}
+          {% set item = item|merge({
+            'isAd': true
+          }) %}
+        {% endif %}
+        {% if item.src is defined %}
+          {% set item = item|merge({
+            'src': undefined_var
+          }) %}
+        {% endif %}
+        {% include 'components/teaser-list-item/template.twig' with item only %}
+      </li>
+    {% endfor %}
+    {% if isNumeric is defined and isNumeric is same as(true) %}
+</ol>
+{% else %}
+  </ul>
+{% endif %}

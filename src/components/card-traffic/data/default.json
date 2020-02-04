@@ -1,0 +1,10 @@
+{
+  "type": "traffic",
+  "headline": {
+    "tag": "h2",
+    "badge": "A1",
+    "time": "13:12",
+    "text": "Köln Richtung Dortmund"
+  },
+  "text": "zwischen Kreuz Köln-Nord und Kreuz Leverkusen-West (99) 3 km Stau"
+}

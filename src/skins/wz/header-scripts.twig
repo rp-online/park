@@ -1,0 +1,146 @@
+<script src="/js/ads.js"></script>
+
+
+<!-- apple-itunes-app-->
+<meta name="apple-itunes-app" content="app-id=1450172507">
+
+<!-- Linkpulse -->
+{% if config.webview_linkpulse_channel is defined and not config.webview_linkpulse_channel is empty %}
+  <meta property="lp:channel" content="{{  config.webview_linkpulse_channel }}"/>
+{% endif %}
+  <script type="text/javascript" src="//pp.lp4.io/app/57/29/f0/5729f042e45a1d284411090b.js" async></script>
+
+<!-- PaidTime -->
+{% if config.disableAds is not defined or not config.disableAds is same as(true) %}
+  <script type="text/javascript">
+    var isClickDummy = (
+      window.park.exports &&
+      window.park.exports.config &&
+      window.park.exports.config.isClickDummy
+    );
+
+    var wzMobile = window.location.href.indexOf('/mobile/') >= 0;
+    var wzAB = (typeof jsABLoaded == 'undefined') || !(jsABLoaded); // GERACM-5963
+
+    // Do not run paidtime when we build clickdummy pages
+    if (typeof isClickDummy === "undefined" || !isClickDummy) {
+      // PaidTime
+      window.addEventListener('keydown', function (e) {
+        if (e.keyCode == 27) {e.preventDefault()}
+      });
+
+      function init() {
+        if (!document.body) {
+          window.setTimeout(init, 100);
+          return;
+        }
+
+        (function (t, i, m, e) {
+          m = t.createElement(i);
+          m.src = 'https://admin.paidtime.com/webclient/client.1000.js';
+          m.id = 'pt-app-main';
+          m.pid = 4195;
+          m.cid = '';
+          m.ab = wzAB;
+          m.root = '.park-section-portal-top__content';
+          m.yOffsetTop = wzMobile ? 250 : 400;
+          m.yOffsetBottom = wzMobile ? 0 : 0;
+          m.xOffset = 0;
+          e = t.getElementsByTagName(i)[0];
+          e.parentNode.insertBefore(m, e);
+        }(document, 'script'));
+      }
+      init();
+    }
+  </script>
+{% endif %}
+
+<script type="text/javascript">
+  //GERACM-2924
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var style = document.createElement('style');
+    style.textContent = '.park-embed-image .park-image.park-image { clip: auto }';
+    document.head.appendChild(style);
+  });
+
+
+  // Google
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-32633745-1', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+
+  // Livereporting
+  // Fix: GERACM-5161
+  document.addEventListener('DOMContentLoaded', function() {
+    if (
+      !window.dataLayer ||
+      !dataLayer.length ||
+      (!dataLayer[0].rho_url && !dataLayer[0].rhoUrl)
+    ) {
+      return;
+    }
+
+    var rhoUrl = dataLayer[0].rho_url || dataLayer[0].rhoUrl;
+    rhoUrl = eval("'" + rhoUrl.replace(/^'/, ''));
+
+    try {
+      var xhttp = new XMLHttpRequest();
+      xhttp.open('GET', rhoUrl);
+      xhttp.send();
+    } catch(e) {}
+  });
+
+  // nativendo.de
+  (function() {
+    var s	= document.createElement('script'); s.type = 'text/javascript';
+    s.async = true;
+    s.src	= '//d.nativendo.de/cds/delivery/init';
+    var sc = document.getElementsByTagName('script')[0];
+    sc.parentNode.insertBefore(s, sc);
+  })();
+</script>
+
+
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '582594625248880');
+  fbq('track', 'PageView');
+</script>
+<noscript>
+  <img height="1" width="1"
+       src="https://www.facebook.com/tr?id=582594625248880&ev=PageView
+&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+
+
+{#
+<script>
+    function sendEvent(eventName, isActive) { if (typeof ga != "undefined" ) { ga('send', 'event', eventName, isActive, {'dimension1': isActive, nonInteraction: true}); }; };
+    sendEvent('Adblock JS detection', (typeof jsABLoaded == 'undefined') || !(jsABLoaded));
+</script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32633745-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-32633745-1', { 'anonymize_ip': true });
+</script>
+#}

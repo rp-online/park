@@ -1,0 +1,3299 @@
+{
+  "title": "Aktuelle Nachrichten | RP ONLINE",
+  "globals": {
+    "rootBase": "https://www-rpd.rp-online.de",
+    "assetsBase": "https://www-rpd.rp-online.de/assets",
+    "title": "Aktuelle Nachrichten | RP ONLINE",
+    "url": "https://www-rpd.rp-online.de/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1510750913",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Die neuesten Nachrichten, Bilder und Videos aus Politik, Wirtschaft, Sport, Kultur, Gesellschaft, Auto, Digitale Welt sowie Düsseldorf und ganz NRW."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "/",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "Index",
+      "analyticsUrl": "https://www-rpd.rp-online.de/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "/",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=7725599&cstr=6840336&l=&tit=Aktuelle+Nachrichten+%7C+RP+ONLINE&url=https%3A%2F%2Fwww-rpd.rp-online.de%2F&sep=%7C&tce=1&tid=50327&tn=Startseite&tp=50327&tpn=Startseite&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 6840336,
+      "doctype": "section",
+      "contentid": "/",
+      "channel": 50327
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Homepage",
+        "sv": "ke",
+        "co": "https://www-rpd.rp-online.de/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Homepage",
+        "sv": "ke",
+        "co": "https://www-rpd.rp-online.de/"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///homepage",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///homepage",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///homepage",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle",
+            "adUnitPath": "///homepage",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "doctype": "esklappt"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-1__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382501",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-reisen"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382205",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-nrw"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382469",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-sport"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-2__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382491",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-politik"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-3__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382573",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-wirtschaft"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382585",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-digitales"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-4__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382595",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "home-auto"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-5__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "desktop"
+        },
+        "zone": "homepage"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///homepage",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///homepage",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "doctype": "auchmobile"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382501",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-reisen"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382205",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-nrw"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382439",
+            "adUnitPath": "/1017380/RPO",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-home-panorama"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382469",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-sport"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///homepage",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382491",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-politik"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382573",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-wirtschaft"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382585",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-digitales"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22382595",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-home-auto"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "mobile"
+        },
+        "zone": "homepage"
+      },
+      "reloadFrequency": "100"
+    },
+    "tisoomi": {
+      "javascript": "!function(e,t,i){ function x(i){ \"use strict\";i.pID=\"H15VUbd\",i.pList=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Billboard\",\"Layer\"],i.regexp=/H15VUbd\\([\"']([\\w\\s\\.-]+)[\"']\\)/i,i.arr=[],i.done=[],i.srch=function(){ var t,n=e.scripts;for(t=0;t<n.length;t+=1)i.doesContentMatch(n[t])&&i.matchInPList(n[t])&&i.matchNotDone(n[t])&&(i.collectAdTagContents(n[t]),i.createAdTag(i.regexp.exec(n[t].innerHTML)[1],n[t]),i.done.push(i.regexp.exec(n[t].innerHTML)[1]));i.done=[] },i.doesContentMatch=function(e){ return e&&i.regexp.test(e.innerHTML) },i.mFn=i.doesContentMatch,i.matchInPList=function(e){ return e&&i.pList.indexOf(i.regexp.exec(e.innerHTML)[1])>=0 },i.mEn=i.matchInPList,i.matchNotDone=function(e){ return e&&i.done.indexOf(i.regexp.exec(e.innerHTML)[1])<0 },i.mNd=i.matchNotDone,i.collectAdTagContents=function(e){ if(e){ var s,t=e.parentNode.childNodes,n=null,r=null,o=null,a=i.regexp.exec(e.innerHTML)[1];for(s=0;s<t.length;s+=1)if(n=t[s],\"SCRIPT\"===n.nodeName&&i.regexp.test(n.innerHTML)&&i.regexp.exec(n.innerHTML)[1]===a){ r=s;break }if(null!==r)for(s=r+1;s<t.length;s+=1)if(n=t[s],\"SPAN\"===n.nodeName&&n.className.indexOf(i.pID+\"_end\")+1){ o=s;break }if(null!==r&&null!==o)for(s=r+1;s<o;s+=1)n=t[s],Node.ELEMENT_NODE!==n.nodeType&&Node.CDATA_SECTION_NODE!==n.nodeType&&Node.COMMENT_NODE!==n.nodeType||i.arr.push(n) } },i.col=i.collectAdTagContents,i.crS=function(t){ var n,r=e.scripts;for(n=0;n<r.length;n+=1)if(i.doesContentMatch(r[n])&&i.regexp.exec(r[n].innerHTML)[1]===t){ i.collectAdTagContents(r[n]),i.createAdTag(i.regexp.exec(r[n].innerHTML)[1],r[n]);break } },i.postProcessUnitArray=[],i.addPostProcessUnit=function(e,t){ i.postProcessUnitArray.push({ priority:e,f:t }) },i.postProcessUnit=function(e,t){ i.postProcessUnitArray=i.postProcessUnitArray.sort(function(e,t){ return e.priority>t.priority?1:e.priority===t.priority?0:-1 });var n;for(n=0;n<i.postProcessUnitArray.length;n+=1)e=i.postProcessUnitArray[n].f.call(t||i,e);return e },i.createAdTag=function(s,f){ if(f){ var p,l=e.createElement(\"div\"),d=e.createElement(\"div\"),u=e.createElement(\"div\");i.arr&&(p=i.arr,setTimeout(function(){ for(var e=0;e<p.length;e+=1)void 0!==p[e].style?p[e].style.setProperty(\"display\",\"none\"):d.appendChild(p[e]) },100)),i.arr=[];var h,m=function(){ f.parentNode.insertBefore(l,f.nextSibling),l.appendChild(u) };switch(s){ case\"Sky\":var h={ st:\"GK3UvY8oLiH0\",ss:\"cursor:pointer; max-width:800px; max-height:800px;\",sd:\"position:absolute; top:0px; left:1020px; max-width:300px; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhHYU1jWQ9l3M2BQMm4.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhHYU1jWBQQHk.gif\" },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Medium\":var h={ st:\"uylMTzftDMgj\",ss:\"cursor:pointer; max-width:300px; max-height:250px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhHNB1efd70ZUCBQMG5.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhHNB1efBQdHt.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Sky2\":var h={ st:\"epmuqpyL8r6l\",ss:\"cursor:pointer; max-width:160px; max-height:600px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhIKF2EJRo8Th0BQMZ0.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhIKF2EJBQRHi.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Super\":var h={ st:\"KPzyjsmxVeTj\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"margin:0 0 0 36px; max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhHIH1cfLW0pDPBQMS1.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhHIH1cfBQLHs.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"142.31px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"WP\":var h={ st:\"qGdEPObeIodr\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"\",sm:\"\",im:[n+\"image/public/U/\"+a+\"/\"+o+\"1pkfhICM2Kwk6XJzFBQMS4.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"1pkfhICM2Kwk6XJzFBQMS6.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"1pkfhICM2Kwk6XJzFBQMS2.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"1pkfhICM2Kwk6XJzFBQMS7.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"1pkfhICM2Kwk6XJzFBQMS9.gif\"],wp:function(){ var i=e.createElement(\"div\"),n=e.createElement(\"div\"),r=e.createElement(\"div\"),o=e.createElement(\"div\"),a=e.createElement(\"style\");a.type=\"text/css\",a.innerHTML=\"#qGdEPObeIodr{ position:relative; width:1020px; }#qGdEPObeIodr4 img{ cursor:pointer; }#qGdEPObeIodrM{ float:none;position:absolute;top:0; }#qGdEPObeIodr6{ position:absolute;top:0; left:1020px; }#qGdEPObeIodr6 img{ cursor:pointer; }#qGdEPObeIodr7{ position:absolute;top:0;right:0; }#qGdEPObeIodr7 img{ cursor:pointer; }\",l.appendChild(a),l.id=\"qGdEPObeIodr\",i.id=\"qGdEPObeIodr4\",n.id=\"qGdEPObeIodrM\",r.id=\"qGdEPObeIodr6\",o.id=\"qGdEPObeIodr7\";var f=e.createElement(\"img\"),c=e.createElement(\"img\"),d=e.createElement(\"img\"),u=e.createElement(\"img\");f.src=h.im[2],f.onerror=function(){ },f.onload=function(){ function v(e){ var e=e||t.event,i=e.target||e.srcElement,n=i.tagName||i.nodeName,r=i.id||\"\";i.className;if(\"HTML\"==n||\"BODY\"==n||\"qGdEPObeIodr\"===r){ e.preventDefault?e.preventDefault():e.returnValue=!1,e.stopPropagation?e.stopPropagation():e.cancelBubble=!0;var a=h.cl[2](0,0,e);a&&(t.location.href=a) } }var a=this.height-1;if(a>10)f.onclick=function(e){ e.preventDefault(),e.stopPropagation();var n=(P(e),h.cl[0](0,0,e));n&&(t.location.href=n) },i.appendChild(f),l.appendChild(i),h.ins();else{ var s=a%2,p=(a-s)%4;if(4==(a-s-p)%8){ var g=e.createElement(\"style\");g.type=\"text/css\",g.innerHTML=\"body{ background-image: url(\"+h.im[4]+\") !important; }\",l.appendChild(g) }2==p&&(e.attachEvent?e.attachEvent(\"onclick\",v):e.addEventListener&&e.addEventListener(\"click\",v)),c.src=h.im[0],c.onload=function(){ this.height>2&&(d.src=h.im[1]) },d.onload=function(){ if(this.height>2)if(1==s)u.src=h.im[3];else{ var t=e.createElement(\"style\");t.type=\"text/css\",t.innerHTML=\"#qGdEPObeIodr4{ float:right; }\",i.appendChild(t);var o=e.createElement(\"div\");o.style.cssText=\"clear:both;\",i.appendChild(c),r.appendChild(d),l.appendChild(i),l.appendChild(o),n.appendChild(r),l.appendChild(n),h.ins() } },u.onload=function(){ this.height>2&&(i.appendChild(c),r.appendChild(d),o.appendChild(u),l.appendChild(i),n.appendChild(r),n.appendChild(o),l.appendChild(n),h.ins()) } } },c.onclick=function(e){ var i=h.cl[0](0,0,e);i&&(t.location.href=i) },d.onclick=function(e){ var i=h.cl[1](0,0,e);i&&(t.location.href=i) },u.onclick=function(e){ var i=h.cl[3](0,0,e);i&&(t.location.href=i) } },cl:[function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhICM2KwBQkHe.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhICM2KwBQ6Hh.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhICM2KwBQXHr.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhICM2KwBQJHu.gif\" }],extra:\"\",ins:function(){ var t=e.getElementById(\"topcontainer\");t&&t.parentNode.insertBefore(l,t);var i=l.getElementsByTagName(\"img\");i[1]&&i[1].parentNode.style.setProperty(\"position\",\"fixed\") },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Billboard\":var h={ st:\"iXu8D8AiP5ZI\",ss:\"cursor:pointer; max-width:975px; max-height:300px;\",sd:\"max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhIFW2CeWXZgSqBQMG6.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"1pkfhIFW2CeBQWHt.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"106.2px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Layer\":var h={ st:\"X8W6rxKcJ04p\",ss:\"cursor:pointer; max-width:1024px; max-height:1024px;\",sd:\"top:50%; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"1pkfhHYW29cmd6s8uBQME8.gif\",m:1,cl:function(t,i,r){ r.preventDefault();var f=0,c=[[495,400,685,450],[495,620,685,670],[0,0,935,752]],l=function(){ return n+\"image/public/\"+a+\"/\"+t+\"f\"+i+\"/\"+o+\"1pkfhHYW29cBQmHo.gif\" },d=function(){ var t=e.getElementById(\"X8W6rxKcJ04p\");t.parentNode.removeChild(t) },u=function(e){ switch(e){ case 0:case 1:return l();default:return d() } };if(c.length>0){ var p=D(t,i,c);if(p<0)return;if(3<=p)return l();if(f<=p&&\"function\"==typeof u)return u(p-f) }d() },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),u.style.setProperty(\"z-index\",\"10000\"),u.style.setProperty(\"margin\",\"-300px 0 0 40px\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } } }if(void 0!==h)if(h.mkStyleDyn&&h.mkStyleDyn(i.profile||{ }),h=i.postProcessUnit(h),h.wp)h.wp();else{ var g=e.createElement(\"style\");if(g.type=\"text/css\",\"M\"===r&&h.m?h.ss+=h.sm:h.ss+=h.sd,g.innerHTML=\"#\"+h.st+\"{ \"+h.ss+\" }\",e.getElementsByTagName(\"head\")[0].appendChild(g),u.id=h.st,h.ifr){ return void(\"string\"==typeof h.fb&&i.createAdTag(h.fb,f)) }else{ var k=e.createElement(\"img\");k.onload=function(){ h.bs&&(k.style.cssText+=\"width:\"+this.width+\"px;height:\"+this.height+\"px;max-width:\"+this.width+\"px;max-height:\"+this.height+\"px;\"),u.appendChild(k),\"function\"==typeof h.ins?h.ins():m(),\"function\"==typeof h.extra&&h.extra(),\"function\"==typeof h.onLoaded&&h.onLoaded(k) },k.onerror=function(e){ \"function\"==typeof H&&H(s) },k.src=h.im,k.onclick=function(e){ e.preventDefault(),e.stopPropagation();var i=P(e),n=h.cl(i.x,i.y,e);n&&(t.location.href=n) } } } } },i.crt=i.createAdTag }function T(){ if(!t.trckd){ var i=e.getElementsByTagName(\"body\")[0],n=e.createElement(\"img\");N()&&i.appendChild(n),n.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/retrad.bmp\",n.onerror=function(){ w(),k(this) },n.onload=function(){ 3!=this.width&&(w(),k(this)) } } }function b(){ s=!0,setTimeout(function(){ s=!1 },2e3) }function w(){ if(!s&&!t.trckd){ b(),t.trckd=!0,o=O(8,8,c+l+d);var i=e.createElement(\"script\"),n=e.getElementsByTagName(\"body\")[0];/* @preserve Opt-out cookie link */\ni.src=\"https://www.tisoomi-services.com/cookie\",i.onload=E,i.onerror=E,n.appendChild(i) } }function E(){ var e=M(\"_TStfc\");(\"\"===e||e.length>32)&&(e=e.substr(32)||Date.now()%1e10+i.floor(35*i.random()).toString(36)+\"5\",B(\"_TStfc\",e,2592e3,\"/\")),a=!t.userOptOut&&t.ti_id?t.ti_id+e:e,L(),k(this),y.srch() }function k(e){ e&&e.parentNode&&e.parentNode.removeChild(e) }function C(i){ function r(){ n||(n=!0,i()) }function o(){ if(!n&&e.body)try{ e.documentElement.doScroll(\"left\"),r() }catch(e){ setTimeout(o,0) } }var n=!1;\"complete\"===e.readyState?setTimeout(r,0):e.addEventListener?e.addEventListener(\"DOMContentLoaded\",r,!1):e.attachEvent&&(e.documentElement.doScroll&&t==t.top&&o(),e.attachEvent(\"onreadystatechange\",function(){ \"complete\"===e.readyState&&r() })),t.addEventListener?t.addEventListener(\"load\",r,!1):t.attachEvent&&t.attachEvent(\"onload\",r) }function N(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function M(t){ for(var i=e.cookie.split(\";\"),n=\"\",r=0;r<i.length;r+=1){ var o=i[r].trim();0===o.indexOf(t+\"=\")&&(n=o.replace(t+\"=\",\"\")) }return n }function B(t,i,n,r){ void 0===n&&(n=2592e3);for(var o=Date.now(),a=e.domain,s=a.split(\".\"),f=\"_gd\"+o,c=2;c<=s.length&&-1===e.cookie.indexOf(f+\"=\"+f);c+=1)a=s.slice(-c).join(\".\"),e.cookie=f+\"=\"+f+\";domain=\"+a+\";\";var l=new Date(0);e.cookie=f+\"=;expires=\"+l.toUTCString()+\";domain=\"+a+\";\",l.setTime(o+1e3*n),e.cookie=t+\"=\"+i+\"; expires=\"+l.toUTCString()+\";\"+(a?\"domain=\"+a+\";\":\"\")+\"path=\"+(r||\"/\") }function L(){ var e=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];r=\"D\";for(var t=0;t<e.length;t+=1)if(navigator.userAgent.indexOf(e[t])>-1)return void(r=\"M\") }function P(e){ var t=e.target,n=t.getBoundingClientRect(),r=e.clientX-n.left,o=e.clientY-n.top;return r*=t.naturalWidth/n.width,o*=t.naturalHeight/n.height,{ x:i.floor(r),y:i.floor(o) } }function D(e,t,i){ if(\"number\"!=typeof e||\"number\"!=typeof t||!U(i))return-1;for(var n,r,o,a,s,f=0;f<i.length;f+=1)if(n=i[f],r=n[0],o=n[1],a=n[2],s=n[3],r<=e&&e<=a&&o<=t&&t<=s)return f;return-1 }function O(e,t,n){ for(var r=\"\",o=e+i.floor(i.random()*(t-e));o;)r+=n[i.floor(i.random()*n.length)],o-=1;return r }function U(e){ return Array.isArray?Array.isArray(e):\"[object Array]\"===Object.prototype.toString.call(e) }function _(){ return!1 }function H(t){ h||(p.indexOf(t)>-1&&(m+=1,g[t]=1),(m===p.length||_())&&u&&(h=!0,y.crt(u,e.body))) }var n=t.xH15VUbdx||\"/\",r=\"U\",o=\"\",a=\"\",s=!1,c=\"0123456789\",l=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",d=\"bcdefghijklmnoqrstuvxyz\",u=\"WP\",p=[\"Sky\"],m=0,h=!1,g={ },y={ };x(y),C(T),y.t=\"20180625104824\" }(document,window,Math);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/politik/ausland/slowenien-janez-jansa-gewinnt-parlamentswahl_aid-23202367"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www-rpd.rp-online.de/politik/deutschland/andrea-nahles-will-das-soziale-profil-der-spd-schaerfen_aid-23195963"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www-rpd.rp-online.de/politik/deutschland/annegret-kramp-karrenbauer-reden-ist-silber-zuhoeren-ist-gold_aid-23178759"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/viersen/sport/union-nettetal-muss-in-die-verlaengerung_aid-23204925"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/mettmann/sport/kellerduell-mettmann-trauert-amern-jubelt_aid-23205153"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www-rpd.rp-online.de/digitales/manueller-teaser-testartikel-newsletter_aid-23207347"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www-rpd.rp-online.de/sport/fussball/wm/brasilien-schlaegt-kroatien-2-0-neymar-trifft-bei-traum-comeback_aid-23196037"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://www-rpd.rp-online.de/leben/auto/news/der-schaltknueppel-stirbt-aus-100-jahre-unverzichtbar-im-auto_aid-23208607"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<script type=\"text/javascript\">//H15VUbd(\"Sky2\")</script><div id=\"sky\"></div><span class=\"H15VUbd_end\"></span>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"out-of-page\"></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "billboard",
+            "html": "<script type=\"text/javascript\">//H15VUbd(\"Billboard\")</script><div id=\"banner\"></div><span class=\"H15VUbd_end\"></span>"
+          },
+          "mobile": {
+            "type": "mobile-banner",
+            "html": "<div id=\"topmobile\"></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "linkpulseGroup": "top",
+              "children": [
+                {
+                  "component": "quick-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Direkt zu"
+                    },
+                    "cities": [
+                      {
+                        "href": "/nrw/staedte/neuss/",
+                        "text": "Neuss"
+                      },
+                      {
+                        "href": "/nrw/staedte/duesseldorf/",
+                        "text": "Düsseldorf"
+                      },
+                      {
+                        "href": "/nrw/staedte/",
+                        "text": "Städte"
+                      },
+                      {
+                        "href": "/nrw/staedte/duisburg/",
+                        "text": "Duisburg"
+                      }
+                    ],
+                    "sportsclubs": [
+                      {
+                        "href": "/sport/fussball/fortuna/",
+                        "text": "Fortuna",
+                        "icon": "https://www-rpd.rp-online.de/assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf"
+                      },
+                      {
+                        "href": "/nrw/staedte/duisburg/sport/msv/",
+                        "text": "MSV Duisburg",
+                        "icon": "https://www-rpd.rp-online.de/assets/images/sprite.sportsclubs.svg#msv-duisburg"
+                      }
+                    ],
+                    "settingsURL": "/sso/settings"
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "id": 23204925,
+                    "href": "/nrw/staedte/viersen/sport/union-nettetal-muss-in-die-verlaengerung_aid-23204925",
+                    "type": "article",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Union Nettetal muss in die Verlängerung"
+                    },
+                    "intro": "Weil Velbert nicht patzt, reicht der 3:0-Heimsieg gegen Düsseldorf den Nettetaler Landesliga-Fußballern nicht zum direkten Aufstieg. Jetzt geht's in die Relegation. Schon am Mittwoch steht das erste Spiel bei den Sportfreunden Niederwenigern an.",
+                    "authors": "Von Wiltrud Wolters",
+                    "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/0/4/3/tok_24ea8bca966a599be40d9eac276b41fb/w490_h368_x470_y264_3f32945deba6d3ec.jpg",
+                    "alt": "",
+                    "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/0/4/3/3f32945deba6d3ec.jpg",
+                    "source": "Viersen",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Fußball"
+                    },
+                    "backgroundColor": "rgba(146, 159, 161,1)",
+                    "backgroundLuma": 156.3806
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-image-list",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"topmobile2\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"rectangle\"></div><span class=\"H15VUbd_end\"></span>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "span",
+                        "text": "Themen des TageS1"
+                      },
+                      "items": [
+                        {
+                          "id": 23202367,
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Rechtsruck in Slowenien"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Rechtskonservativer Jansa gewinnt Parlamentswahl "
+                          },
+                          "href": "/politik/ausland/slowenien-janez-jansa-gewinnt-parlamentswahl_aid-23202367",
+                          "isAd": false,
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/2/6/1/5/tok_479257210d46494a0aba3f50528e8f4b/w100_h75_x1500_y1000_DPA_bfunk_dpa_5F99860010F9AEE2-b7c112c630679171.jpg"
+                        },
+                        {
+                          "id": 23195963,
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Genossen suchen Wege aus der Krise"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Andrea Nahles will das soziale Profil der SPD schärfen"
+                          },
+                          "href": "/politik/deutschland/andrea-nahles-will-das-soziale-profil-der-spd-schaerfen_aid-23195963",
+                          "isAd": false,
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/0/3/6/3/tok_bceda5bad45ad1ba3fc7519fbecf01d8/w100_h75_x1500_y978_DPA_bfunk_dpa_5F9986008EE91988-4f224bcb909cd28a.jpg"
+                        },
+                        {
+                          "id": 23178759,
+                          "kicker": {
+                            "tag": "span",
+                            "text": "CDU-Generalsekretärin Kramp-Karrenbauer"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Reden ist Silber, Zuhören ist Gold"
+                          },
+                          "href": "/politik/deutschland/annegret-kramp-karrenbauer-reden-ist-silber-zuhoeren-ist-gold_aid-23178759",
+                          "isAd": false,
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/6/5/3/3/3/tok_3761d793bb5c2567ab83ff59be7fb051/w100_h75_x1600_y1030_DPA_bfunk_dpa_5F9974009FE6A66B-f2715db352fda209.jpg"
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23205153,
+                        "href": "/nrw/staedte/mettmann/sport/kellerduell-mettmann-trauert-amern-jubelt_aid-23205153",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Kellerduell: Mettmann trauert, Amern jubelt"
+                        },
+                        "intro": "In der letzten Minute der Landesliga-Partie ist die Niederlage der ASV-Fußballer und damit der Abstieg in die Bezirksliga besiegelt.",
+                        "authors": "Von Klaus Müller",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/5/3/9/tok_3090a065a5d1caefaeb42f86cec02a31/w490_h368_x470_y264_82c385232ae354fa.jpg",
+                        "alt": "Nach dem Schlusspfiff springen Ersatzspieler und",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/6/5/3/9/82c385232ae354fa.jpg",
+                        "source": "Mettmann",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fußball"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-1__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-1__---\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23207347,
+                        "href": "/digitales/manueller-teaser-testartikel-newsletter_aid-23207347",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Hier steht ein manueller Teaser-Titel"
+                        },
+                        "intro": "Hier steht ein manueller Teasertext",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/8/7/7/tok_357aeeee21d9591ee01a48691cbd8b63/w490_h368_x779_y552_Bild_47cd7362-1c1b-11e6-a02f-d8e457f0c6a1-46e4d4c7d7651f37.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/8/7/7/Bild_47cd7362-1c1b-11e6-a02f-d8e457f0c6a1-46e4d4c7d7651f37.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hier steht eine manuelle Dachzeile"
+                        }
+                      },
+                      {
+                        "id": 23196037,
+                        "href": "/sport/fussball/wm/brasilien-schlaegt-kroatien-2-0-neymar-trifft-bei-traum-comeback_aid-23196037",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Neymar trifft bei Traum-Comeback, Schweiz trotzt Spanien ein Remis ab"
+                        },
+                        "intro": "Brasilien sammelte beim erfolgreichen Comeback von Superstar Neymar Selbstvertrauen, Spanien erhielt ohne seine Real-Stars in der Startelf einen Dämpfer.\n",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/0/4/5/3/tok_db1f0fe7851634469ec0c08490a74ac9/w490_h368_x1500_y960_DPA_bfunk_dpa_5F998600A02B4CC9-a5a17a1a49066b72.jpg",
+                        "alt": "Ausgelassener Jubel: Brasiliens Neymar feiert seinen",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/0/4/5/3/DPA_bfunk_dpa_5F998600A02B4CC9-a5a17a1a49066b72.jpg",
+                        "source": "Liverpool",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "WM-Testspiele"
+                        }
+                      },
+                      {
+                        "id": 23208607,
+                        "href": "/leben/auto/news/der-schaltknueppel-stirbt-aus-100-jahre-unverzichtbar-im-auto_aid-23208607",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Der Schaltknüppel stirbt aus"
+                        },
+                        "intro": "Der Schaltknauf, er ist seit 100 Jahren ein so unverzichtbares Bestandteil des Autos wie Hupe und Lenkrad. Doch während Letztere auch weiterhin zu finden sein werden, geht es dem Schaltknüppel an den Kragen. Schuld sind auch die Elektroautos.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/0/1/1/8/tok_800f0508b5102228b4c0912d87d54d75/w490_h368_x1500_y1023_DPA_obsbd_dpa_5F988C000AF0CC38-df59b0b0a6e963f5.jpg",
+                        "alt": "Er kennt ihn noch: den Schaltknüppel",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/0/1/1/8/DPA_obsbd_dpa_5F988C000AF0CC38-df59b0b0a6e963f5.jpg",
+                        "source": "Düsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "100 Jahre lang unverzichtbar im Auto"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "html",
+                  "data": {
+                    "html": "<!-- BEGIN ADITIONSSLTAG Website-Tag -->\r\n<script type=\"text/javascript\" src=\"https://imagesrv.adition.com/js/adition.js\"></script>\r\n<script type=\"text/javascript\" src=\"https://ad1.adfarm1.adition.com/js?wp_id=4277819\"></script> \r\n<!-- END ADITIONSSLTAG-->"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Fotos und Videos"
+                    },
+                    "items": [
+                      {
+                        "id": 23207417,
+                        "href": "/soko/showrooms/schachschal/woops-poop-hanging_bid-23207417",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Woops poop Cats\n\n"
+                        },
+                        "intro": "Woops poop hanging from butt must get rid run run around house drag poop on floor maybe it comes off woops left brown marks on floor human slave clean lick butt now ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/9/3/7/tok_c956cdbf7c8cb0cab3c84ca40e23f10a/w306_h175_x500_y333_1.7164076-6936bbebda037bda.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Testgalerie\n"
+                        }
+                      },
+                      {
+                        "id": 23207399,
+                        "href": "/leben/reisen/obertilliach_bid-23207399",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Obertilliach\n"
+                        },
+                        "intro": "Ein wunderschöner Ort in dem Natur noch groß geschrieben wird. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/9/1/9/tok_2b0a8b2fab95b19a91467e8a750552d9/w306_h175_x1152_y864_Dscn0181-d059d1cbd8fda02b.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Osttirol\n"
+                        }
+                      },
+                      {
+                        "id": 23207405,
+                        "href": "/leben/reisen/impressionen-aus-england-und-wales_bid-23207405",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Impressionen aus England und Wales\n"
+                        },
+                        "intro": "Auf der Insel sieht man sehr reizvolle Orte verschiedenster Art. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/9/2/5/tok_f6387964b5b17e6acc24f832f61b3d0f/w306_h175_x1632_y918_20160328_162656-9429988f52958039.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Großbritannien\n"
+                        }
+                      },
+                      {
+                        "id": 23207402,
+                        "href": "/leben/reisen/fuerteventura_bid-23207402",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Fuerteventura\n"
+                        },
+                        "intro": "Sommer auch im Winter ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/8/9/2/2/tok_520462ce9190190b64a37f75ce224951/w306_h175_x1632_y918_20151217_150530-0fb8237da426d352.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kanarische Inseln\n"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Reisen",
+                      "href": "/leben/reisen/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "News",
+                        "href": "/leben/reisen/news/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Deutschland",
+                        "href": "/leben/reisen/deutschland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Inseln",
+                        "href": "/leben/reisen/inseln/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Fernreisen",
+                        "href": "/leben/reisen/fernreisen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Mallorca Urlaub",
+                        "href": "/leben/reisen/mallorca/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23188231,
+                        "href": "/nrw/panorama/gelsenkirchen-polizei-schlichtet-tumult_aid-23188231",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Polizei schlichtet Tumult in Gelsenkirchen"
+                        },
+                        "intro": "In Gelsenkirchen musste die Polizei eine aggressive Auseinandersetzung auf offener Straße schlichten. Auslöser war ein Streit zwischen einer Jugendlichen und einem jungen Mann, den sie zuvor angezeigt hatte.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/7/8/2/6/5/tok_6e348f05fe8e36872eb1b1e509aeeefa/w490_h368_x1500_y962_20161109_bfunk_dpa_1492D200B71601B2-ebd4b36e703aa8c2.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/7/8/2/6/5/20161109_bfunk_dpa_1492D200B71601B2-ebd4b36e703aa8c2.jpg",
+                        "source": "Gelsenkirchen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mehr als 30 Beteiligte"
+                        }
+                      },
+                      {
+                        "id": 23205599,
+                        "href": "/bootsungluecke-im-mittelmeer-sterben-ueber-57-migranten_aid-23205599",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mehr als 57 Migranten ertrinken im Mittelmeer"
+                        },
+                        "intro": "Vor der türkischen Küste und vor Tunesien sind erneut mehrere Boote gesunken. Die Küstenwachen konnten viel Opfer bergen, doch bei zwei Unglücken starben Dutzende Migranten.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/0/7/1/tok_4148b3b2acd519bb932ac4e9cb3ce504/w490_h368_x1500_y909_DPA_bfunk_dpa_5F994E00F6EEDA3A-66e68e4982a22ce5.jpg",
+                        "alt": "Mehrere hundert Migranten rettete im Mai",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/0/7/1/DPA_bfunk_dpa_5F994E00F6EEDA3A-66e68e4982a22ce5.jpg",
+                        "source": "Tunis/Istanbul ",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mehrere Bootsunglücke"
+                        }
+                      },
+                      {
+                        "id": 23206068,
+                        "href": "/leben/reisen/reise-artikel-von-uta-ueber-obertilliach_aid-23206068",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Uta testet in Obertilliach"
+                        },
+                        "intro": "Urlaub ist doch das größte! Vor allem, in Osttirol. Mitten in den Bergen, weitab von großen Städten und ihrer Hektik liegt das \"verschlafene\" wunderschöne Obertilliach.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/2/2/tok_2f654eb4e1b6e5d1bb58039ebefacceb/w490_h368_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/2/2/Dscn0323-bb9d7f078574a4f5.jpg",
+                        "source": "Lienz",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Osttirol\n "
+                        },
+                        "related": [
+                          {
+                            "headline": "Impressionen aus Obertilliach",
+                            "href": "/leben/reisen/obertilliach_bid-23207399",
+                            "kicker": "Osttirol",
+                            "type": "image"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382501\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382501\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382501\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382501\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "NRW",
+                      "href": "/nrw/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Panorama",
+                        "href": "/nrw/panorama/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Städte",
+                        "href": "/nrw/staedte/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Düsseldorf",
+                        "href": "/nrw/staedte/duesseldorf/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "/nrw/landespolitik/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Kultur",
+                        "href": "/nrw/kultur/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Datenjournalismus",
+                        "href": "/nrw/datenjournalismus/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23205919,
+                        "href": "/nrw/staedte/duesseldorf/auge-gelasert-in-26-sekunden_aid-23205919",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Auge gelasert in 26 Sekunden"
+                        },
+                        "intro": "Jährlich lassen sich in Deutschland rund 100.000 Menschen die Augen lasern. Schwere Komplikationen treten selten auf. Unser Autor hat sich in Düsseldorf die Augen mit der neuesten Methode korrigieren lassen. Ein Erfahrungsbericht.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/tok_8f7d9c3061438be89e3de71be716b3f5/w490_h368_x480_y320_80e6db7b-9ef6-48cb-829f-9c4f7128eeea-d81024e48607f8ab.jpg",
+                        "alt": "Kein Auge sondern eine Wurst",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/80e6db7b-9ef6-48cb-829f-9c4f7128eeea-d81024e48607f8ab.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Erfahrungsbericht von der Operation"
+                        }
+                      },
+                      {
+                        "id": 23206084,
+                        "href": "/nrw/toller-test-artikel_aid-23206084",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Toller Test Teaser-Titel"
+                        },
+                        "intro": "Ganz toller Teasertest",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/3/7/tok_a8b1555b0567bba0f787ac6fb0f6f8a4/w490_h368_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/6/3/7/Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Test Teaser-Dachzeile"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382205\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382205\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382205\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382205\"); })</script>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23203923,
+                        "href": "/nrw/staedte/duisburg/sport/msv/der-tag-der-abschiede-beim-msv-duisburg_aid-23203923",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Der Tag der Abschiede beim MSV Duisburg"
+                        },
+                        "intro": "Fast wäre es dann doch noch passiert. 21 Saisonspiele hatten die Fußballerinnen des MSV Duisburg in der Bundesliga hinter sich gebracht, ohne einmal mit einer Punkteteilung vom Platz zu gehen. In der finalen Partie gegen den USV Jena sah es bis kurz vor Schluss dann tatsächlich nach einem torlosen Remis aus, ehe Geldona Morina mit ihrem Treffer den 1:0-Sieg gegen den Absteiger sicherte.",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/4/5/5/3/935ba49be7396168.jpg",
+                        "source": "Duisburg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lokalsport"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-list",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div class=\"activeinternational\"><iframe id=\"aiger_ms3\" style=\"margin: 0px auto; background-color: #ffffff; display: block; border: 0px; width: 0px; height: 0px;\" scrolling=\"no\"></iframe></div>\r\n<script>/* 09/19 */var aims3 = \"aiger_ms3\"; var wms3 = \"300\"; var hms3 = \"600\"; var sms3 = \"4137546\"; var hp = \"https\"; \r\nvar px = \"px\"; var wi = window; var yl = \"//ad.yieldlab.net\"; var id = \"/2348890/\"; var dc = document; var ims3 = dc.getElementById(aims3); \r\nvar iyms3 = ims3.style; iyms3.width = wms3+px; iyms3.height = hms3+px; ims3.src = yl+\"/d/\"+sms3+id+wms3+\"x\"+hms3+\"?ts=\"+Date.now()+\"&type=h\"; \r\nwi.addEventListener(\"message\", function(e) { if (e.origin === hp+\":\"+yl && e.data.m === aims3) { \r\niyms3.width = e.data.w+px; iyms3.height = e.data.h+px; if (e.data.s !== undefined) { ims3.src = e.data.s; } } }, false);</script>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "id": 23191091,
+                          "href": "/sport/fussball/dritteliga/lizenzentscheidung-was-wird-aus-dem-kfc-uerdingen_aid-23191091",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Was wird aus dem KFC?"
+                          },
+                          "intro": "Am Montag entscheidet der DFB in Frankfurt, ob der KFC Uerdingen die Lizenz für die Dritte Liga bekommt. Wir haben vier Mögliche Szenarien durchgespielt.",
+                          "authors": "Von Gianni Costa und Thomas Schulze",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/7/9/3/9/tok_9f763fa8f6531aaef570fe711a035074/w490_h368_x1500_y1123_DPA_bfunk_dpa_5F997E00400205AA-fbe305fc4fdd3fee.jpg",
+                          "alt": "KFC-Spieler feiern auf dem Rathausbalkon den",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/7/9/3/9/DPA_bfunk_dpa_5F997E00400205AA-fbe305fc4fdd3fee.jpg",
+                          "source": "Frankfurt/Krefeld",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Vier Szenarien für die Lizenzentscheidung"
+                          }
+                        },
+                        {
+                          "id": 22727531,
+                          "href": "/nrw/staedte/viersen/unwetter-in-viersen-schaden-nach-tornado-in-millionenhoehe_aid-22727531",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Tornado verursachte Schaden von mehreren Millionen\n"
+                          },
+                          "intro": "Der Tornado im Kreis Viersen hat einige Häuser schlimmer getroffen als vermutet. Die Polizei warnt vor Dieben, die sich die Lage zunutze machen. ",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/4/3/8/4/3/tok_03dd0bc46dbf4987abcc90c64e8ffae2/w490_h368_x1500_y1000_DPA_bfunk_dpa_5F9962006EBD9E0B-bbc2292a16d2e145.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/4/3/8/4/3/DPA_bfunk_dpa_5F9962006EBD9E0B-bbc2292a16d2e145.jpg",
+                          "source": "Viersen",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Unwetter in Viersen\n"
+                          }
+                        },
+                        {
+                          "id": 22724823,
+                          "href": "/nrw/staedte/viersen/tornado-in-viersen-17-jaehrige-hilft-mann-und-erleidet-stromschlag_aid-22724823",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Die Heldin von Schwalmtal\n"
+                          },
+                          "intro": "Ein schwerer Ast stürzt während des Tornados in Viersen auf einen Mann. Alina Libudda zögert nicht: Sofort rennt sie auf die Straße und hilft dem Verletzten. Dass sie wenig später selbst auf der Intensivstation landet, ahnt die 17-Jährige nicht.",
+                          "authors": "Von Elena Erbrich",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/3/3/4/1/5/tok_d07a22419948deda892dd50b59b4b6cd/w490_h368_x1500_y1000_DPA_bfunk_dpa_5F996000DDFF4841-b5ee175d95b31ae9.jpg",
+                          "alt": "Ein Ast hat bei dem Tornado",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/3/3/4/1/5/DPA_bfunk_dpa_5F996000DDFF4841-b5ee175d95b31ae9.jpg",
+                          "source": "Viersen",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "17-jährige Tornado-Retterin"
+                          }
+                        },
+                        {
+                          "id": 22714711,
+                          "href": "/nrw/staedte/viersen/tornado-und-unwetter-im-kreis-viersen-opfer-halten-zusammen_aid-22714711",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Tornado-Opfer halten zusammen"
+                          },
+                          "intro": "Der Tornado hat im Kreis Viersen erhebliche Schäden angerichtet. Besonders betroffen ist das Dörfchen Boisheim. Dort deckte der Wirbelsturm besonders viele Dächer ab. Die Anwohner helfen sich gegenseitig beim Aufräumen.",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/1/8/3/6/7/tok_e86e2bf8449912d73e8798820b4030cd/w490_h368_x1795_y1197_11391598788-fa4f1607a4c31fcf.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/4/1/8/3/6/7/11391598788-fa4f1607a4c31fcf.jpg",
+                          "source": "Viersen",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Aufräumarbeiten im Kreis Viersen"
+                          }
+                        },
+                        {
+                          "id": 22451981,
+                          "href": "/nrw/staedte/leverkusen/leverkusen-so-ist-die-aussicht-vom-wasserturm_aid-22451981",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "So ist der Ausblick vom Wasserturm"
+                          },
+                          "intro": "Seit gestern ist bis September die Aussichtsplattform an jedem zweiten Sonntag zwischen 10 und 18 Uhr zu besichtigen.",
+                          "authors": "Von Gabi Knops-Feiler",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/5/6/8/5/3/6/1/tok_77ee24b786184d9b4572aec729acc567/w490_h368_x310_y232_f40a5ff0f13ff995.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/5/6/8/5/3/6/1/f40a5ff0f13ff995.jpg",
+                          "source": "Leverkusen",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Hoch über Leverkusen"
+                          }
+                        },
+                        {
+                          "id": 18603135,
+                          "href": "/nrw/staedte/krefeld/revolution-in-der-bestrahlungstechnik_aid-18603135",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Revolution in der Bestrahlungstechnik"
+                          },
+                          "intro": "Die Bestrahlungstechnik hat sich komplett geändert; zusammen mit modernen 3-D-Bildern vom Tumor können Ärzte heute Krebszellen mit nie gekannter Präzision von allen Seiten beschießen - gesundes Gewebe wird geschont.",
+                          "authors": "Von Jens Voss",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/1/5/6/6/0/0/5/tok_5b7715755982ccb9413d4164088ac602/w490_h368_x310_y232_3c58a2c5faaab6f6.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/1/5/6/6/0/0/5/3c58a2c5faaab6f6.jpg",
+                          "source": "Krefeld",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Kampf gegen den Krebs (4)"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "weather",
+                  "data": {
+                    "initialState": {
+                      "headline": {
+                        "tag": "span",
+                        "text": "Wetter in Düsseldorf"
+                      },
+                      "aside": "Wetter in Düsseldorf powered by <a href=\"https://www.wetter.de/deutschland\" target=\"wetterde\">wetter.de</a>",
+                      "items": [
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Heute"
+                          },
+                          "temps": {
+                            "day": "23",
+                            "night": "13"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/wolke_hell-sonne.png",
+                          "alt": "Symbolgrafik: überwiegend heiter und trocken",
+                          "href": "/app/wetter/detail/d%C3%BCsseldorf/40210",
+                          "caption": "überwiegend heiter und trocken",
+                          "description": "Es ist überwiegend heiter, d.h. mehr Sonne als Wolken, und im Wesentlichen trocken."
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Morgen"
+                          },
+                          "temps": {
+                            "day": "23",
+                            "night": "12"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/wolke_hell-sonne.png",
+                          "alt": "Symbolgrafik: überwiegend heiter und trocken",
+                          "href": "/app/wetter/detail/d%C3%BCsseldorf/40210",
+                          "caption": "überwiegend heiter und trocken",
+                          "description": "Es ist überwiegend heiter, d.h. mehr Sonne als Wolken, und im Wesentlichen trocken."
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Übermorgen"
+                          },
+                          "temps": {
+                            "day": "28",
+                            "night": "14"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/sonne.png",
+                          "alt": "Symbolgrafik: sonnig",
+                          "href": "/app/wetter/detail/d%C3%BCsseldorf/40210",
+                          "caption": "Sonnig",
+                          "description": "Es ist sonnig und am Himmel gibt es kaum Quellwolken oder nur dünne Schleierwolken, die den Sonnenschein nicht wesentlich beeinträchtigen."
+                        }
+                      ]
+                    },
+                    "personalized": true,
+                    "settingsURL": "/sso/settings",
+                    "ajax": {
+                      "baseUrl": "https://www.rp-online.de/app/wetter/park_detail.json/",
+                      "defaultRegion": "düsseldorf"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div class=\"activeinternational\"><div id=\"ma_ms2\" style=\"margin: 0px auto; display: block; border: 0px;\"></div>\r\n<iframe id=\"aiger_ms2\" style=\"margin: 0px auto; background-color: #ffffff; display: block; border: 0px; width: 0px; height: 0px;\" scrolling=\"no\"></iframe></div>\r\n<script>/* 09/19 */var aims2 = \"aiger_ms2\"; var wms2 = \"300\"; var hms2 = \"600\"; var sms2 = \"2445901\"; var hp = \"https\"; \r\nvar px = \"px\"; var wi = window; var yl = \"//ad.yieldlab.net\"; var id = \"/2348890/\"; var dc = document; var ims2 = dc.getElementById(aims2); \r\nvar iyms2 = ims2.style; var mams2 = \"ma_ms2\"; var ma_width = \"320\"; var ma_height = \"200\"; var vsms2 = \"5774544\"; var dms2 = dc.getElementById(mams2); \r\nvar dyms2 = dms2.style; dyms2.width = \"320\"+px; dyms2.height = \"215\"+px; var ma_autoclose = \"true\"; var ma_fraction = \"0\";\r\nvar ma_audio = \"hover\"; var ma_container = mams2; var ma_vastUrl = yl+\"/d/\"+vsms2+id+ma_width+\"x\"+ma_height+\"?ts=\"+Date.now(); \r\nvar ma_onPassback = function() { dyms2.width = dyms2.height = \"0\"+px; iyms2.width = wms2+px; iyms2.height = hms2+px; \r\nims2.src = yl+\"/d/\"+sms2+id+wms2+\"x\"+hms2+\"?ts=\"+Date.now()+\"&type=h\"; }; wi.addEventListener(\"message\", function(e) { if (e.origin === hp+\":\"+yl && \r\ne.data.m === aims2) { iyms2.width = e.data.w+px; iyms2.height = e.data.h+px; if (e.data.s !== undefined) { ims2.src = e.data.s; } } }, false);</script>\r\n<script id=\"ma_adscr118065\" src=\"//ad2.movad.net/dynamic.ad?a=o118065\"></script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div class=\"activeinternational\"><div id=\"ma_ms5\" style=\"margin: 0px auto; display: block; border: 0px;\"></div>\r\n<iframe id=\"aiger_ms5\" style=\"margin: 0px auto; background-color: #ffffff; display: block; border: 0px; width: 0px; height: 0px;\" scrolling=\"no\"></iframe></div>\r\n<script>/* 09/19 */var aims5 = \"aiger_ms5\"; var wms5 = \"970\"; var hms5 = \"250\"; var sms5 = \"5064311\"; var hp = \"https\"; \r\nvar px = \"px\"; var wi = window; var yl = \"//ad.yieldlab.net\"; var id = \"/2348890/\"; var dc = document; var ims5 = dc.getElementById(aims5); \r\nvar iyms5 = ims5.style; var mams5 = \"ma_ms5\"; var ma_width = \"650\"; var ma_height = \"250\"; var vsms5 = \"5064371\"; var dms5 = dc.getElementById(mams5); \r\nvar dyms5 = dms5.style; dyms5.width = \"650\"+px; dyms5.height = \"385\"+px; var ma_autoclose = \"true\"; var ma_fraction = \"0\";\r\nvar ma_audio = \"hover\"; var ma_container = mams5; var ma_vastUrl = yl+\"/d/\"+vsms5+id+ma_width+\"x\"+ma_height+\"?ts=\"+Date.now(); \r\nvar ma_onPassback = function() { dyms5.width = dyms5.height = \"0\"+px; iyms5.width = wms5+px; iyms5.height = hms5+px; \r\nims5.src = yl+\"/d/\"+sms5+id+wms5+\"x\"+hms5+\"?ts=\"+Date.now()+\"&type=h\"; }; wi.addEventListener(\"message\", function(e) { if (e.origin === hp+\":\"+yl && \r\ne.data.m === aims5) { iyms5.width = e.data.w+px; iyms5.height = e.data.h+px; if (e.data.s !== undefined) { ims5.src = e.data.s; } } }, false);</script>\r\n<script id=\"ma_adscr118065\" src=\"//ad2.movad.net/dynamic.ad?a=o118065\"></script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Panorama",
+                      "href": "/panorama/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Deutschland",
+                        "href": "/panorama/deutschland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Ausland",
+                        "href": "/panorama/ausland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Leute",
+                        "href": "/panorama/leute/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Fernsehen",
+                        "href": "/panorama/fernsehen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Wissen",
+                        "href": "/panorama/wissen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Adel",
+                        "href": "/panorama/adel/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23197745,
+                        "href": "/panorama/deutschland/bei-rock-am-ring-2018-standen-stars-wie-jared-leto-im-vordergrund_aid-23197745",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Ein ganz normales Spektakel"
+                        },
+                        "intro": "Nach turbulenten Jahren mit Unwettern und Verletzten standen bei „Rock am Ring“ wieder die Musiker im Fokus. Rund 71.000 Menschen erlebten ein rundum gelungenes Festival. Nächstes Jahr sollen die Ärzte kommen.",
+                        "authors": "Von Tobias Dupke",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/4/7/2/5/tok_167e9ecdd2fd09a604a895d391ad0514/w490_h368_x496_y272_RP_27194097_578023567_4c_190_2_1_c01869a9e800f9f21754bc007980bd2f_1528039693_578023567_53efaa477e-ec0e55c5a19567bd.jpg",
+                        "alt": "Das Festivalpublikum, hier beim Auftritt von",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/4/7/2/5/RP_27194097_578023567_4c_190_2_1_c01869a9e800f9f21754bc007980bd2f_1528039693_578023567_53efaa477e-ec0e55c5a19567bd.jpg",
+                        "source": "Nürburg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Rock am Ring 2018"
+                        },
+                        "related": [
+                          {
+                            "headline": "Die Gesichter von Rock am Ring 2018",
+                            "href": "/kultur/musik/rock-am-ring-2018-gesichter-des-festivals_bid-23173591",
+                            "kicker": "Musikfestival am Nürburgring",
+                            "type": "image"
+                          },
+                          {
+                            "headline": "So läuft Rock am Ring 2018",
+                            "href": "/kultur/musik/bilder-rock-am-ring-2018_bid-19493025",
+                            "kicker": "Fotos",
+                            "type": "image"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 22469525,
+                        "href": "/panorama/fernsehen/tv-nachlese-anne-will-olaf-scholz-will-umstrittene-einstellungspraxis-der-deutschen-post-aendern_aid-22469525",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "\"Nicht alle Unternehmer sind so freundlich wie Sie\""
+                        },
+                        "intro": "Zum 200. Geburtstag von Karl Marx diskutierte Anne Will mit ihren Gästen über Kapitalismus, Amazon und die Deutsche Post. Während Vizekanzler Scholz vielen Postboten Hoffnung machte, widersprach Kardinal Marx dem Bild vom Unternehmer, der nur Gutes für seine Mitarbeiter will. ",
+                        "authors": "Von Markus Werning",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/5/7/0/9/0/4/9/tok_52c737eb3ebb55ccb0f2b87270b9120a/w490_h368_x310_y232_b5a86a9942fbbc31.PNG",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/5/7/0/9/0/4/9/b5a86a9942fbbc31.PNG",
+                        "source": "Düsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "TV-Nachlese \"Anne Will\""
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382439\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382439\"); })</script>",
+                          "lazy": true
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382439\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382439\"); })</script>",
+                          "lazy": true
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Sport",
+                      "href": "/sport/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Fußball",
+                        "href": "/sport/fussball/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Borussia Mönchengladbach",
+                        "href": "/sport/fussball/borussia/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Fortuna Düsseldorf",
+                        "href": "/sport/fussball/fortuna/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Olympia 2018",
+                        "href": "/sport/olympia-winter/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Formel 1",
+                        "href": "/sport/formel1/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Tennis",
+                        "href": "/sport/tennis/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Handball",
+                        "href": "/sport/handball/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23152947,
+                        "href": "/sport/fussball/wm/andere-teams/wm-2018_aid-23152947",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": " Ex-Schalker Farfan führt Perus WM-Kader an"
+                        },
+                        "intro": "Fünf Tage vor Ablauf der Meldefrist hat Peru seinen 23-Mann-Kader für die WM in Russland verkündet. Peru trifft in der Gruppe C auf Dänemark, Frankreich und Australien.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/0/9/7/5/3/1/tok_5cb373c1b4f688b6329049bad09a96af/w490_h368_x1690_y1339_AFP_fAFP_15G7DK-6e330dd94d0f46ad.jpg",
+                        "alt": "Jefferson Farfan fährt mit Peru zur",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/0/9/7/5/3/1/AFP_fAFP_15G7DK-6e330dd94d0f46ad.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Paolo Guerrero fehlt im Aufgebot"
+                        }
+                      },
+                      {
+                        "id": 23204497,
+                        "href": "/sport/fussball/wm/andere-teams/wm-testspiel-paolo-guerrero-trifft-doppelt-fuer-peru-gegen-saudi-arabien_aid-23204497",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Perus Guerrero feiert Comeback nach Dopingsperre mit Doppelpack gegen Saudi-Arabien"
+                        },
+                        "intro": "Perus Stürmerstar Paolo Guerrero hat im Duell der WM-Teilnehmer mit dem kommenden DFB-Gegner Saudi-Arabien ein fulminantes Comeback gegeben. Elf Tage vor dem Auftakt der Fußball-WM in Russland (14. Juni bis 15. Juli) erzielte der ehemalige Bundesliga-Profi beim 3:0 (1:0)-Sieg in St. Gallen/Schweiz am Sonntag zwei Treffer.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/5/4/1/1/tok_dbf428b5991c1b25b57a1f9de7b5452d/w490_h368_x1443_y962_AP_32998600F7802470-490dcd1c6ecbe3c4.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/5/4/1/1/AP_32998600F7802470-490dcd1c6ecbe3c4.jpg",
+                        "source": "St. Gallen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "WM-Testspiel"
+                        },
+                        "related": [
+                          {
+                            "headline": " Ex-Schalker Farfan führt Perus WM-Kader an",
+                            "href": "/sport/fussball/wm/andere-teams/wm-2018_aid-23152947",
+                            "kicker": "Paolo Guerrero fehlt im Aufgebot",
+                            "type": "article"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 23204003,
+                        "href": "/sport/fussball/wm/dfb/dfb-team-nationalspieler-diskutieren-mit-angela-merkel-ueber-russland_aid-23204003",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Nationalspieler diskutieren mit Kanzlerin Merkel über Russland"
+                        },
+                        "intro": "Bundeskanzlerin Angela Merkel hat bei ihrem Besuch im WM-Vorbereitungscamp auch über das Gastgeberland Russland informiert. „Sie hat uns natürlich viel Glück gewünscht und uns einiges mit auf den Weg gegeben“, berichtete Nationalspieler Sami Khedira von dem rund dreistündigen Treffen in Südtirol.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/4/6/9/7/tok_77a854573b0ba6f360419e354248b133/w490_h368_x862_y495_AFP_fAFP_15L2RW-4a5bc9c088374b4f.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/4/6/9/7/AFP_fAFP_15L2RW-4a5bc9c088374b4f.jpg",
+                        "source": "Eppan",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hoher Besuch im Trainingslager"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382469\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382469\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382469\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382469\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-list",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "\r\n<div id=\"div-gptrpd_rec2\"></div>\r\n\r\n<script>\r\n\r\nfunction init() {\r\n    if(!window.SDG) {\r\n      window.setTimeout(init, 100);\r\n      return;  \r\n    }\r\n    var  rpd_zone= window.ads.desktop.zone;\r\n    googletag.cmd.push(function() {\r\n        googletag.pubads().disableInitialLoad();\r\n        googletag.pubads().enableSingleRequest();\r\n        googletag.enableServices();\r\n\r\n        var slots = googletag.defineSlot(\"/5766/oms.rp-online.de/\"+rpd_zone,[[300,300],[301,600],[300,251]],\"div-gptrpd_rec2\").addService(googletag.pubads());\r\n        var slot = googletag.defineSlot('/1234567/sports', [160, 600], 'div-1').addService(googletag.pubads());\r\n        googletag.cmd.push(function() {googletag.display('div-gptrpd_rec2')});\r\n\r\n        googletag.pubads().refresh(slots);\r\n    });\r\n};\r\ninit();\r\n</script>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "id": 23188993,
+                          "href": "/sport/fussball/wm/dfb/wm-2018-bundestrainer-joachim-loew-hat-die-qual-der-wahl_aid-23188993",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Löw hat die Qual der Wahl"
+                          },
+                          "intro": "Am Montag wird es ernst für Joachim Löw: Der Bundestrainer muss seinen endgültigen Kader für die WM in Russland bekanntgeben. Alle Infos rund um die Nominierung gibt es in unserem Liveblog.",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/1/0/1/1/tok_9758ce00c609616a2e03fefc5fc2d738/w490_h368_x1500_y843_DPA_bfunk_dpa_5F9982000AABB76E-e8e4ff4a1202490c.jpg",
+                          "alt": "Bundestrainer Joachim Löw muss noch vier",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/1/8/1/0/1/1/DPA_bfunk_dpa_5F9982000AABB76E-e8e4ff4a1202490c.jpg",
+                          "source": "",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Liveblog zur WM-Nominierung"
+                          }
+                        },
+                        {
+                          "id": 22879467,
+                          "href": "/sport/fussball/wm/andere-teams/wm-2018-gesperrter-paolo-guerrero-zieht-vor-schweizer-bundesgericht_aid-22879467",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Gesperrter Guerrero zieht vor Schweizer Bundesgericht\n"
+                          },
+                          "intro": "Der ehemalige peruanische Bundesligaprofi Paolo Guerrero zieht gegen seine Sperre wegen Kokainmissbrauchs vor das Schweizer Bundesgericht. Das teilte der peruanische Fußballverband FPF am Freitagabend mit. ",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/6/7/3/4/0/9/5/tok_2dc6a2af87d62cd09b1a3d15ee4e1f7b/w490_h368_x1500_y1000_DPA_bfunk_dpa_5F99740056535295-fbb65ce3eac1ea4b.jpg",
+                          "alt": "Paolo Guerrero kommt zu einer Anhörung",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/7/3/4/0/9/5/DPA_bfunk_dpa_5F99740056535295-fbb65ce3eac1ea4b.jpg",
+                          "source": "Lima",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Peruaner will zur WM\n"
+                          }
+                        },
+                        {
+                          "id": 20723991,
+                          "href": "/sport/fussball/wm/teams/wm-2018-peru-im-portraet_aid-20723991",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Dopingfall Guerrero, Umweg Play-off - Peru leidet sich zur WM"
+                          },
+                          "intro": "Nach 36 Jahren sind die Blanquirrojas wieder auf der großen Fußballbühne dabei. Und setzen in Russland auf Bundesliga-Erfahrung.",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/3/7/9/8/6/1/1/tok_19551d59eee06b20d106f934443148d4/w490_h368_x1500_y1000_20150623_bfunk_dpa_148DAE004846D9A2-fa98984a64057d6b.jpg",
+                          "alt": "Jefferson Farfan ebnete Peru den Weg",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/3/7/9/8/6/1/1/20150623_bfunk_dpa_148DAE004846D9A2-fa98984a64057d6b.jpg",
+                          "source": "Lima",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "WM-Starter Peru im Porträt"
+                          }
+                        },
+                        {
+                          "id": 22795669,
+                          "href": "/sport/fussball/wm/fussball-wm-2018-paolo-guerrero-bleibt-gesperrt_aid-22795669",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Keine WM für Paolo Guerrero\n"
+                          },
+                          "intro": "Der Fußball-Weltverband Fifa hat es abgelehnt, gegen die Dopingsperre von Perus Kapitän Paolo Guerrero vorzugehen, der wegen der Sanktion die WM in Russland verpasst. ",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/6/5/6/6/1/6/5/tok_59ef11eff767104eaa4731fa2a40d33a/w490_h368_x377_y498_DPA_bfunk_dpa_5F996C004D9CF168-93747174282ef765.jpg",
+                          "alt": "Paolo Guerrero.",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/6/5/6/6/1/6/5/DPA_bfunk_dpa_5F996C004D9CF168-93747174282ef765.jpg",
+                          "source": "",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Fifa hält an Dopingsperre fest\n"
+                          }
+                        },
+                        {
+                          "id": 16062621,
+                          "href": "/sport/formel1/kampf-um-die-nummer-eins-im-silberpfeil_aid-16062621",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Kampf um die Nummer eins im Silberpfeil"
+                          },
+                          "intro": "Mercedes setzt seine Hoffnungen in dieser Saison vor allem auf das dynamische Duo Lewis Hamilton und Nico Rosberg. Die beiden Freunde wollen im Silberpfeil ähnlich erfolgreich sein wie zu gemeinsamen Kart-Zeiten.",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/1/8/8/5/9/3/5/9/tok_604d8ba834510cbb8e5510f2ef49fadb/w490_h368_x470_y264_30b9c6a8056feba8.jpg",
+                          "alt": "",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/1/8/8/5/9/3/5/9/30b9c6a8056feba8.jpg",
+                          "source": "Jerez ",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Nico Rosberg und Lewis Hamilton"
+                          }
+                        },
+                        {
+                          "id": 23206099,
+                          "href": "/sport/fussball/bayer-04/leno-vor-besonderem-spiel_aid-23206099",
+                          "type": "article",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Leno vor \"besonderem Spiel\""
+                          },
+                          "intro": "Mit Respekt vor dem Gegner, aber auch mit Selbstbewusstsein ob des ersten Saisonsieges geht Bayer Leverkusen das Auswärtsspiel am Samstag beim VfB Stuttgart (15.30 Uhr/Live-Ticker) an. \"Ich gehe davon aus, dass Stuttgart am Ende unter den ersten sechs landet\", sagte Leverkusens Trainer Robin Dutt am Donnerstag. \"Bei uns ist die Stimmung nach dem Sieg gegen Bremen natürlich gut.\"",
+                          "orig_src": null,
+                          "source": "",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Bayer Leverkusen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-2__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-2__---\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "portal-marker",
+                  "data": {
+                    "children": [
+                      {
+                        "component": "portal-marker",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "cards-container",
+                              "data": {
+                                "headline": {
+                                  "tag": "span",
+                                  "text": "Themenwelten"
+                                },
+                                "items": [
+                                  {
+                                    "type": "narrow",
+                                    "text": "Grillgut",
+                                    "href": "/nrw/extra/grillgut/",
+                                    "isAd": false,
+                                    "image": {
+                                      "src": "https://www-rpd.rp-online.de/imgs/33/2/5/5/7/2/7/2/5/tok_d37a41980091b93e53ff368a7ed19683/w100_h75_x1796_y1268_37a47eb586e9413489def25d1d90696c-20c1d09154d9c35d.jpg",
+                                      "alt": ""
+                                    }
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Schule.Studium.Weiterbildung.",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/schulestudiumweiterbildung-02062018/60486261",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Kultur findet Stadt",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/kultur-findet-stadt-02062018/60486543",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Einrichten mit Schaffrath",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/einrichten-mit-schaffrath-19052018/60236874",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Freizeitspaß",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/freizeitspass-18052018/60234464",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Baumschulen Schmitz",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/baumschulen-schmitz-10052018/60200259",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Stella Bikes",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/stella-bikes-10052018/60200268",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Beruf & Karriere",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/beruf-karriere-12052018/60204285",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Marktgeflüster",
+                                    "href": "https://rp-online.de/app/marktgefluester",
+                                    "isAd": false
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Politik",
+                      "href": "/politik/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Berliner Republik",
+                        "href": "/politik/deutschland/kolumnen/berliner-republik/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Deutschland",
+                        "href": "/politik/deutschland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "/nrw/landespolitik/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "EU-Politik",
+                        "href": "/politik/eu/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Ausland",
+                        "href": "/politik/ausland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Bundestagswahl",
+                        "href": "/politik/deutschland/bundestagswahl/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 18090737,
+                        "href": "/politik/90-strafanzeigen-wegen-uebergriffen-in-koeln-henriette-reker-raet-frauen-zu-anderem-verhalten_aid-18090737",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Kölns OB rät Frauen zu anderem Verhalten"
+                        },
+                        "intro": "Als Konsequenz aus den Übergriffen auf Frauen in der Silvesternacht will die Stadt Köln für Karneval ein eigenes Sicherheitskonzept. CSU-Generalsekretär Scheuer fordert eine rasche Abschiebung der Täter.",
+                        "authors": "Von Christian Schwerdtfeger und Eva Quadbeck",
+                        "orig_src": null,
+                        "source": "Köln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Köln"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382491\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382491\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382491\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382491\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-3__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-3__---\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Wirtschaft",
+                      "href": "/wirtschaft/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Unternehmen",
+                        "href": "/wirtschaft/unternehmen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Finanzen",
+                        "href": "/wirtschaft/finanzen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Kolumnen",
+                        "href": "/wirtschaft/wirtschaftskolumnen/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382573\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382573\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382573\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382573\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Digital",
+                      "href": "/digitales/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Smartphones",
+                        "href": "/digitales/smartphones/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Internet",
+                        "href": "/digitales/internet/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "TV",
+                        "href": "/digitales/tv/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "PC und Tablets",
+                        "href": "/digitales/pc-tablets/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Games",
+                        "href": "/digitales/games/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Kameras",
+                        "href": "/digitales/kameras/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Apps",
+                        "href": "/digitales/apps/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 23207345,
+                        "href": "/digitales/autoteaser-testartikel-newsletter_aid-23207345",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Autoteaser Testartikel Newsletter"
+                        },
+                        "intro": "orem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.",
+                        "orig_src": null,
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Autoteaser Testartikel Newsletter Dachzeile"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382585\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382585\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382585\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382585\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-4__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-4__---\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Spiele"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "http://spiele.rp-online.de/",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Pausenspiele mit Suchtfaktor"
+                        },
+                        "intro": "Solitär, Bubbles, Sudoku - probieren Sie jetzt diese und viele andere Spiele aus!",
+                        "src": "https://www-rpd.rp-online.de/imgs/33/2/5/7/3/1/1/1/7/tok_5a6c94b41b618a500828edee2f1a4d80/w268_h201_x134_y100_Solitaer_Teaser-12f9313f594011fc.jpg"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Auto",
+                      "href": "/leben/auto/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "News",
+                        "href": "/leben/auto/news/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Fahrberichte",
+                        "href": "/leben/auto/fahrberichte/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Oldtimer",
+                        "href": "/leben/auto/oldtimer/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Gebrauchtwagen",
+                        "href": "/leben/auto/gebrauchtwagen/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22382595\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382595\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22382595\"></div><script>googletag.cmd.push(function() { googletag.display(\"22382595\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Bill-5__---\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Bill-5__---\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Footer__Z_Footer\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Footer__Z_Footer\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"Z_Footer__Z_Footer\"></div><script>googletag.cmd.push(function() { googletag.display(\"Z_Footer__Z_Footer\"); })</script>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "_blank"
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank"
+        },
+        {
+          "text": "Sistrix",
+          "href": "https://www.sistrix.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "Kalaydo",
+          "href": "https://www.kalaydo.de/?Bundesland=Nordrhein-Westfalen#utm_source=Verlage&utm_medium=Dachleiste&utm_content=D_Kalaydo_rp&utm_campaign=Dachleiste_rp",
+          "target": "_blank"
+        },
+        {
+          "text": "Tonight",
+          "href": "https://www.tonight.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "Prisma",
+          "href": "https://www.prisma.de/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=50327"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/"
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/"
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "Städte",
+          "href": "/nrw/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": true,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": true,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": true,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": true,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#nrw"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

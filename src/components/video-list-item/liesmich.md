@@ -1,0 +1,1 @@
+Diese Komponente stellt einen Teaser für Video-Beiträge im Kontext einer [Video-List](#video-list)-Komponente dar.

@@ -1,0 +1,395 @@
+{
+  "title": "Archivseite",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für das Archiv"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/archiv.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Rheinkirmes"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Archiv",
+                        "href": "#void"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "page-header",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Alle Panorama-Artikel vom 8. September 2017"
+                    },
+                    "children": [
+                      {
+                        "component": "calendar",
+                        "data": {
+                          "years": [
+                            {
+                              "text": "2017",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/01/01/",
+                              "active": true
+                            }
+                          ],
+                          "months": [
+                            {
+                              "text": "Januar",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/01/01/"
+                            },
+                            {
+                              "text": "Februar",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/02/01/"
+                            },
+                            {
+                              "text": "März",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/03/01/"
+                            },
+                            {
+                              "text": "April",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/04/01/"
+                            },
+                            {
+                              "text": "Mai",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/05/01/"
+                            },
+                            {
+                              "text": "Juni",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/06/01/"
+                            },
+                            {
+                              "text": "Juli",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/07/01/"
+                            },
+                            {
+                              "text": "August",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/08/01/",
+                              "active": true
+                            },
+                            {
+                              "text": "September",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/09/01/"
+                            },
+                            {
+                              "text": "Oktober",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/10/01/"
+                            },
+                            {
+                              "text": "November",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/11/01/"
+                            }
+                          ],
+                          "days": [
+                            {
+                              "text": "1",
+                              "active": true
+                            },
+                            {
+                              "text": "2"
+                            },
+                            {
+                              "text": "3"
+                            },
+                            {
+                              "text": "4"
+                            },
+                            {
+                              "text": "5"
+                            },
+                            {
+                              "text": "6"
+                            },
+                            {
+                              "text": "7"
+                            },
+                            {
+                              "text": "8"
+                            },
+                            {
+                              "text": "9",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/08/09/"
+                            },
+                            {
+                              "text": "10"
+                            },
+                            {
+                              "text": "11",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/08/11/"
+                            },
+                            {
+                              "text": "12"
+                            },
+                            {
+                              "text": "13"
+                            },
+                            {
+                              "text": "14",
+                              "href": "/nrw/staedte/duesseldorf/archiv/2017/08/14/"
+                            },
+                            {
+                              "text": "15"
+                            },
+                            {
+                              "text": "16"
+                            },
+                            {
+                              "text": "17"
+                            },
+                            {
+                              "text": "18"
+                            },
+                            {
+                              "text": "19"
+                            },
+                            {
+                              "text": "20"
+                            },
+                            {
+                              "text": "21"
+                            },
+                            {
+                              "text": "22"
+                            },
+                            {
+                              "text": "23"
+                            },
+                            {
+                              "text": "24"
+                            },
+                            {
+                              "text": "25"
+                            },
+                            {
+                              "text": "26"
+                            },
+                            {
+                              "text": "27"
+                            },
+                            {
+                              "text": "28"
+                            },
+                            {
+                              "text": "29"
+                            },
+                            {
+                              "text": "30"
+                            },
+                            {
+                              "text": "31"
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "tab-links",
+                        "data": {
+                          "links": [
+                            {
+                              "href": "#void",
+                              "text": "217 Artikel",
+                              "active": true
+                            },
+                            {
+                              "href": "#void",
+                              "text": "57 Bilder"
+                            },
+                            {
+                              "href": "#void",
+                              "text": "17 Videos"
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-shapeshifter",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "page-footer",
+                  "data": {
+                    "children": [
+                      {
+                        "component": "pager-previous-next",
+                        "data": {
+                          "previous": {
+                            "text": "7. September 2017",
+                            "href": "#previous"
+                          },
+                          "next": {
+                            "text": "9. September 2017",
+                            "href": "#next"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        }
+      }
+    }
+  ]
+}

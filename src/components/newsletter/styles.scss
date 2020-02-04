@@ -1,0 +1,32 @@
+.park-newsletter {
+  padding: $global-spacing;
+  background-color: #59749d;
+  color: #fff;
+  text-align: center;
+
+  &__logo-image {
+    width: rem(119px);
+    height: rem(27px);
+    margin-bottom: $global-spacing;
+  }
+
+  &__header {
+    @include global-sans-serif-font-size(2);
+
+    font-weight: $global-font-weight-sans-serif-regular;
+  }
+
+  &__form {
+    .park-select__label,
+    .park-input__label {
+      text-align: left;
+      text-transform: uppercase;
+      letter-spacing: rem(2.4px);
+      opacity: 0.65;
+    }
+  }
+
+  &__footer {
+    @include global-sans-serif-font-size(3);
+  }
+}

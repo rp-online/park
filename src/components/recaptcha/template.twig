@@ -1,0 +1,8 @@
+
+ {% set uuid = random() %}
+ {% if id is not defined or not id %}
+    {% set id = 'park-recaptcha__recaptcha-' ~ uuid %}
+  {% endif %}
+<div id="{{ id }}" class="park-recaptcha {% if name is defined %} park-input--{{ name }} {% endif %}">
+<div class="g-recaptcha" data-sitekey="{{sitekey}}" data-size="{{type}}"></div>
+</div>

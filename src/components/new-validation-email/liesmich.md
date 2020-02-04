@@ -1,0 +1,1 @@
+Diese Komponente ist eine Komponenten- und [Formular](#form)-Zusammenstellung, speziell für den Bildschirm fürs Versenden für einen neuen Validierungs-Link.

@@ -1,0 +1,10 @@
+{
+  "type": "cta-newsletter",
+  "initialState":{
+    "header": {
+      "headline": "Total Lokal",
+      "text": "Die Lokalredaktion informiert Sie jeden Samstag um 7 Uhr über die wichtigsten Nachrichten aus Ihrer Region."
+    },
+    "groupName": "total-lokal"
+  }
+}

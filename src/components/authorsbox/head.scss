@@ -1,0 +1,55 @@
+.park-authorsbox {
+  display: block;
+
+  &__wrapper {
+    @include global-sans-serif-font-size(2);
+
+    display: flex;
+    align-items: center;
+    min-height: rem(50px);
+    padding: $global-spacing;
+    color: $global-color-text-black;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    box-shadow: none !important;
+
+    @include mq(desktop) {
+      padding: $global-spacing $global-spacing $global-spacing 0;
+    }
+  }
+
+  .park-image {
+    overflow: hidden;
+    width: rem(75px);
+    height: rem(75px);
+    margin: rem(-10px) $global-spacing rem(-10px) 0;
+    border-radius: 50%;
+  }
+
+  &__authors {
+    display: block;
+    vertical-align: baseline;
+  }
+
+  &__name {
+    font-weight: $global-font-weight-sans-serif-bold;
+    vertical-align: baseline;
+  }
+
+  &__link {
+    @include text-link;
+
+    font-weight: $global-font-weight-sans-serif-bold;
+    white-space: nowrap;
+    vertical-align: baseline;
+  }
+
+  &__position {
+    display: block;
+    margin-top: $global-spacing;
+  }
+
+  .park-button-subscribe {
+    margin-left: auto;
+  }
+}

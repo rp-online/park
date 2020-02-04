@@ -1,0 +1,34 @@
+{
+  "title": "Notification",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für eine Notification"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/notification.html"
+      }
+    ],
+    "personalArea": true
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "notification",
+            "data": {
+              "headline": "Passwortänderung",
+              "body": "Wir haben Ihnen eine E-Mail mit einem Link zur Passwortänderung zugesendet.",
+              "type": "success"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

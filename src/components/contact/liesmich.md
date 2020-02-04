@@ -1,0 +1,1 @@
+Diese Komponente ist im Prinzip nur eine Zusammenstellung anderer Komponenten, zugeschnitten auf die Kontakt-Infoboxen auf der Seite. 

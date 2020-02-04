@@ -1,0 +1,20 @@
+{
+  "name": "preferredcolors",
+  "label": "Lieblingsfarben",
+  "value": ["red"],
+  "options": [
+    {
+      "label": "rot",
+      "value": "red"
+    },
+    {
+      "label": "grün",
+      "value": "green"
+    },
+    {
+      "label": "blau",
+      "value": "blue"
+    }
+  ],
+  "required": true
+}

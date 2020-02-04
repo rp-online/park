@@ -1,0 +1,3 @@
+Die Widget-Komponente ist sowas wie ein Einhakpunkt für unsere clientseitig gerenderten Widgets. Die Eigenschaft `type` ist zwingend erforderlich und benennt das einzuhängende Widget. Ein `type: "sample"` hätte zur Folge, dass die Widget-Datei `/assets/widgets/sample.js` geladen und an dieser Stelle eingehängt würde.
+
+Übergibt man zusätzlich noch in `component` die Bezeichnung der einzuhängenden Komponente, und in `initialState` einen initialen Datensatz, so wird die Komponente mit diesen Daten initial serverseitig vorgerendert. Dann werden die initialen Daten vom Widget-JavaScript übernommen (Hydration). Ändert sich ab dem Moment etwas im Widget an diesen Daten, übernimmt das Widget das Aktualisieren der Darstellung.

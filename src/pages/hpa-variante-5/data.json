@@ -1,0 +1,2157 @@
+{
+  "title": "Panorama: Nachrichten aus Fernsehen, Mode, Leute und Adel",
+  "globals": {
+    "rootBase": "https://www-rpd.rp-online.de",
+    "assetsBase": "/assets",
+    "title": "Panorama: Nachrichten aus Fernsehen, Mode, Leute und Adel",
+    "url": "https://www-rpd.rp-online.de/panorama/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1510750913",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Das Ressort Panorama von RP ONLINE bietet aktuelle Nachrichten, Fotos und Videos aus Deutschland und der Welt. Besuchen Sie es hier und sehen Sie sich die bunte Welt der Nachrichten an."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "panorama",
+      "subressort": "",
+      "dossier": null,
+      "contentType": "Index",
+      "analyticsUrl": "https://www-rpd.rp-online.de/panorama/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "/panorama/",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=8792934&cstr=7203126&l=&tit=Panorama%3A+Nachrichten+aus+Fernsehen%2C+Mode%2C+Leute+und+Adel&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fpanorama%2F&sep=%7C&tce=1&tid=64964&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 7203126,
+      "doctype": "section",
+      "contentid": "/panorama/",
+      "channel": 64964
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/panorama/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/panorama/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/panorama/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/panorama/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/panorama/"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252181",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-1__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22300609",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-2__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-3__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-4__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Bill-5__---",
+            "adUnitPath": "/1017380/rp-online.de/billboard_passback_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "hpa",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "doctype": "hpa",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252181",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22300609",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-15"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "zone": "localnews"
+      },
+      "reloadFrequency": "100"
+    },
+    "tisoomi": {
+      "javascript": "!function(e,t,i){ function x(i){ \"use strict\";i.pID=\"H15VUbd\",i.pList=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Billboard\",\"Layer\"],i.regexp=/H15VUbd\\([\"']([\\w\\s\\.-]+)[\"']\\)/i,i.arr=[],i.done=[],i.srch=function(){ var t,n=e.scripts;for(t=0;t<n.length;t+=1)i.doesContentMatch(n[t])&&i.matchInPList(n[t])&&i.matchNotDone(n[t])&&(i.collectAdTagContents(n[t]),i.createAdTag(i.regexp.exec(n[t].innerHTML)[1],n[t]),i.done.push(i.regexp.exec(n[t].innerHTML)[1]));i.done=[] },i.doesContentMatch=function(e){ return e&&i.regexp.test(e.innerHTML) },i.mFn=i.doesContentMatch,i.matchInPList=function(e){ return e&&i.pList.indexOf(i.regexp.exec(e.innerHTML)[1])>=0 },i.mEn=i.matchInPList,i.matchNotDone=function(e){ return e&&i.done.indexOf(i.regexp.exec(e.innerHTML)[1])<0 },i.mNd=i.matchNotDone,i.collectAdTagContents=function(e){ if(e){ var s,t=e.parentNode.childNodes,n=null,r=null,o=null,a=i.regexp.exec(e.innerHTML)[1];for(s=0;s<t.length;s+=1)if(n=t[s],\"SCRIPT\"===n.nodeName&&i.regexp.test(n.innerHTML)&&i.regexp.exec(n.innerHTML)[1]===a){ r=s;break }if(null!==r)for(s=r+1;s<t.length;s+=1)if(n=t[s],\"SPAN\"===n.nodeName&&n.className.indexOf(i.pID+\"_end\")+1){ o=s;break }if(null!==r&&null!==o)for(s=r+1;s<o;s+=1)n=t[s],Node.ELEMENT_NODE!==n.nodeType&&Node.CDATA_SECTION_NODE!==n.nodeType&&Node.COMMENT_NODE!==n.nodeType||i.arr.push(n) } },i.col=i.collectAdTagContents,i.crS=function(t){ var n,r=e.scripts;for(n=0;n<r.length;n+=1)if(i.doesContentMatch(r[n])&&i.regexp.exec(r[n].innerHTML)[1]===t){ i.collectAdTagContents(r[n]),i.createAdTag(i.regexp.exec(r[n].innerHTML)[1],r[n]);break } },i.postProcessUnitArray=[],i.addPostProcessUnit=function(e,t){ i.postProcessUnitArray.push({ priority:e,f:t }) },i.postProcessUnit=function(e,t){ i.postProcessUnitArray=i.postProcessUnitArray.sort(function(e,t){ return e.priority>t.priority?1:e.priority===t.priority?0:-1 });var n;for(n=0;n<i.postProcessUnitArray.length;n+=1)e=i.postProcessUnitArray[n].f.call(t||i,e);return e },i.createAdTag=function(s,f){ if(f){ var p,l=e.createElement(\"div\"),d=e.createElement(\"div\"),u=e.createElement(\"div\");i.arr&&(p=i.arr,setTimeout(function(){ for(var e=0;e<p.length;e+=1)void 0!==p[e].style?p[e].style.setProperty(\"display\",\"none\"):d.appendChild(p[e]) },100)),i.arr=[];var h,m=function(){ f.parentNode.insertBefore(l,f.nextSibling),l.appendChild(u) };switch(s){ case\"Sky\":var h={ st:\"JVFRsB7oR99O\",ss:\"cursor:pointer; max-width:800px; max-height:800px;\",sd:\"position:absolute; top:0px; left:1020px; max-width:300px; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJPY20gmRLFTIBEM95.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJPY20gBEmHj.gif\" },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Medium\":var h={ st:\"bgqYJEIX7Z1L\",ss:\"cursor:pointer; max-width:300px; max-height:250px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvIUJ1s7igTocSBEMv4.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvIUJ1s7BEiHu.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Sky2\":var h={ st:\"POQPttxX3aeE\",ss:\"cursor:pointer; max-width:160px; max-height:600px;\",sd:\"\",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJGI2N6sGfg07BEM38.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJGI2N6BEsHc.gif\" },extra:\"\",ins:\"\",ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Super\":var h={ st:\"R9EfX6C1jyaw\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"margin:0 0 0 36px; max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJYC244ZFLm7cBEM01.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJYC244BEZHu.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"142.31px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"WP\":var h={ st:\"xikFgo5Wq1Qo\",ss:\"cursor:pointer; max-width:728px; max-height:90px;\",sd:\"\",sm:\"\",im:[n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM54.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM56.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM52.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM57.gif\",n+\"image/public/U/\"+a+\"/\"+o+\"7GgTvJSK2czJhR8gKBEM59.gif\"],wp:function(){ var i=e.createElement(\"div\"),n=e.createElement(\"div\"),r=e.createElement(\"div\"),o=e.createElement(\"div\"),a=e.createElement(\"style\");a.type=\"text/css\",a.innerHTML=\"#xikFgo5Wq1Qo{ position:relative; width:1020px; }#xikFgo5Wq1Qo4 img{ cursor:pointer; }#xikFgo5Wq1QoI{ float:none;position:absolute;top:0; }#xikFgo5Wq1Qo6{ position:absolute;top:0; left:1020px; }#xikFgo5Wq1Qo6 img{ cursor:pointer; }#xikFgo5Wq1Qo7{ position:absolute;top:0;right:0; }#xikFgo5Wq1Qo7 img{ cursor:pointer; }\",l.appendChild(a),l.id=\"xikFgo5Wq1Qo\",i.id=\"xikFgo5Wq1Qo4\",n.id=\"xikFgo5Wq1QoI\",r.id=\"xikFgo5Wq1Qo6\",o.id=\"xikFgo5Wq1Qo7\";var f=e.createElement(\"img\"),c=e.createElement(\"img\"),d=e.createElement(\"img\"),u=e.createElement(\"img\");f.src=h.im[2],f.onerror=function(){ },f.onload=function(){ function v(e){ var e=e||t.event,i=e.target||e.srcElement,n=i.tagName||i.nodeName,r=i.id||\"\";i.className;if(\"HTML\"==n||\"BODY\"==n||\"xikFgo5Wq1Qo\"===r){ e.preventDefault?e.preventDefault():e.returnValue=!1,e.stopPropagation?e.stopPropagation():e.cancelBubble=!0;var a=h.cl[2](0,0,e);a&&(t.location.href=a) } }var a=this.height-1;if(a>10)f.onclick=function(e){ e.preventDefault(),e.stopPropagation();var n=(D(e),h.cl[0](0,0,e));n&&(t.location.href=n) },i.appendChild(f),l.appendChild(i),h.ins();else{ var s=a%2,p=(a-s)%4;if(4==(a-s-p)%8){ var g=e.createElement(\"style\");g.type=\"text/css\",g.innerHTML=\"body{ background-image: url(\"+h.im[4]+\") !important; }\",l.appendChild(g) }2==p&&(e.attachEvent?e.attachEvent(\"onclick\",v):e.addEventListener&&e.addEventListener(\"click\",v)),c.src=h.im[0],c.onload=function(){ this.height>2&&(d.src=h.im[1]) },d.onload=function(){ if(this.height>2)if(1==s)u.src=h.im[3];else{ var t=e.createElement(\"style\");t.type=\"text/css\",t.innerHTML=\"#xikFgo5Wq1Qo4{ float:right; }\",i.appendChild(t);var o=e.createElement(\"div\");o.style.cssText=\"clear:both;\",i.appendChild(c),r.appendChild(d),l.appendChild(i),l.appendChild(o),n.appendChild(r),l.appendChild(n),h.ins() } },u.onload=function(){ this.height>2&&(i.appendChild(c),r.appendChild(d),o.appendChild(u),l.appendChild(i),n.appendChild(r),n.appendChild(o),l.appendChild(n),h.ins()) } } },c.onclick=function(e){ var i=h.cl[0](0,0,e);i&&(t.location.href=i) },d.onclick=function(e){ var i=h.cl[1](0,0,e);i&&(t.location.href=i) },u.onclick=function(e){ var i=h.cl[3](0,0,e);i&&(t.location.href=i) } },cl:[function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBEJHd.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBEhHm.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBERHn.gif\" },function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvJSK2czBE8Hz.gif\" }],extra:\"\",ins:function(){ var t=e.getElementById(\"topcontainer\");t&&t.parentNode.insertBefore(l,t);var i=l.getElementsByTagName(\"img\");i[1]&&i[1].parentNode.style.setProperty(\"position\",\"fixed\") },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Billboard\":var h={ st:\"rtCL28lVkpcS\",ss:\"cursor:pointer; max-width:975px; max-height:300px;\",sd:\"max-width:970px; max-height:250px; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvIYX2KZPK8Q1rBEMr8.gif\",m:1,cl:function(e,t,i){ return n+\"image/public/\"+a+\"/\"+e+\"f\"+t+\"/\"+o+\"7GgTvIYX2KZBEPHq.gif\" },extra:\"\",ins:function(){ 728==k.width&&u.style.setProperty(\"margin-left\",\"106.2px\");var e=f.parentNode;e.parentNode.insertBefore(l,e),l.appendChild(u) },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } };break;case\"Layer\":var h={ st:\"zJzvApB4IHG2\",ss:\"cursor:pointer; max-width:1024px; max-height:1024px;\",sd:\"top:50%; position:relative; \",sm:\"\",im:n+\"image/public/\"+r+\"/\"+a+\"/\"+o+\"7GgTvJYI2VDjz31hwBEMx9.gif\",m:1,cl:function(t,i,r){ r.preventDefault();var f=0,c=[[495,400,685,450],[495,620,685,670],[0,0,935,752]],l=function(){ return n+\"image/public/\"+a+\"/\"+t+\"f\"+i+\"/\"+o+\"7GgTvJYI2VDBEjHy.gif\" },d=function(){ var t=e.getElementById(\"zJzvApB4IHG2\");t.parentNode.removeChild(t) },u=function(e){ switch(e){ case 0:case 1:return l();default:return d() } };if(c.length>0){ var p=P(t,i,c);if(p<0)return;if(3<=p)return l();if(f<=p&&\"function\"==typeof u)return u(p-f) }d() },extra:\"\",ins:function(){ u.style.setProperty(\"position\",\"fixed\"),u.style.setProperty(\"z-index\",\"10000\"),u.style.setProperty(\"margin\",\"-300px 0 0 40px\"),m() },ifr:!1,fb:!1,ifrBlock:!1,mkStyleDyn:function(){ } } }if(void 0!==h)if(h.mkStyleDyn&&h.mkStyleDyn(i.profile||{ }),h=i.postProcessUnit(h),h.wp)h.wp();else{ var g=e.createElement(\"style\");if(g.type=\"text/css\",\"M\"===r&&h.m?h.ss+=h.sm:h.ss+=h.sd,g.innerHTML=\"#\"+h.st+\"{ \"+h.ss+\" }\",e.getElementsByTagName(\"head\")[0].appendChild(g),u.id=h.st,h.ifr){ return void(\"string\"==typeof h.fb&&i.createAdTag(h.fb,f)) }else{ var k=e.createElement(\"img\");k.onload=function(){ h.bs&&(k.style.cssText+=\"width:\"+this.width+\"px;height:\"+this.height+\"px;max-width:\"+this.width+\"px;max-height:\"+this.height+\"px;\"),u.appendChild(k),\"function\"==typeof h.ins?h.ins():m(),\"function\"==typeof h.extra&&h.extra(),\"function\"==typeof h.onLoaded&&h.onLoaded(k) },k.onerror=function(e){ \"function\"==typeof H&&H(s) },k.src=h.im,k.onclick=function(e){ e.preventDefault(),e.stopPropagation();var i=D(e),n=h.cl(i.x,i.y,e);n&&(t.location.href=n) } } } } },i.crt=i.createAdTag }function T(){ if(!t.trckd){ var i=e.getElementsByTagName(\"body\")[0],n=e.createElement(\"img\");N()&&i.appendChild(n),n.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/retrad.bmp\",n.onerror=function(){ w(),k(this) },n.onload=function(){ 3!=this.width&&(w(),k(this)) } } }function b(){ s=!0,setTimeout(function(){ s=!1 },2e3) }function w(){ if(!s&&!t.trckd){ b(),t.trckd=!0,o=O(8,8,c+l+d);var i=e.createElement(\"script\"),n=e.getElementsByTagName(\"body\")[0];/* @preserve Opt-out cookie link */\ni.src=\"https://www.tisoomi-services.com/cookie\",i.onload=E,i.onerror=E,n.appendChild(i) } }function E(){ var e=M(\"_TStfc\");(\"\"===e||e.length>32)&&(e=e.substr(32)||Date.now()%1e10+i.floor(35*i.random()).toString(36)+\"5\",B(\"_TStfc\",e,2592e3,\"/\")),a=!t.userOptOut&&t.ti_id?t.ti_id+e:e,L(),k(this),y.srch() }function k(e){ e&&e.parentNode&&e.parentNode.removeChild(e) }function C(i){ function r(){ n||(n=!0,i()) }function o(){ if(!n&&e.body)try{ e.documentElement.doScroll(\"left\"),r() }catch(e){ setTimeout(o,0) } }var n=!1;\"complete\"===e.readyState?setTimeout(r,0):e.addEventListener?e.addEventListener(\"DOMContentLoaded\",r,!1):e.attachEvent&&(e.documentElement.doScroll&&t==t.top&&o(),e.attachEvent(\"onreadystatechange\",function(){ \"complete\"===e.readyState&&r() })),t.addEventListener?t.addEventListener(\"load\",r,!1):t.attachEvent&&t.attachEvent(\"onload\",r) }function N(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function M(t){ for(var i=e.cookie.split(\";\"),n=\"\",r=0;r<i.length;r+=1){ var o=i[r].trim();0===o.indexOf(t+\"=\")&&(n=o.replace(t+\"=\",\"\")) }return n }function B(t,i,n,r){ void 0===n&&(n=2592e3);for(var o=Date.now(),a=e.domain,s=a.split(\".\"),f=\"_gd\"+o,c=2;c<=s.length&&-1===e.cookie.indexOf(f+\"=\"+f);c+=1)a=s.slice(-c).join(\".\"),e.cookie=f+\"=\"+f+\";domain=\"+a+\";\";var l=new Date(0);e.cookie=f+\"=;expires=\"+l.toUTCString()+\";domain=\"+a+\";\",l.setTime(o+1e3*n),e.cookie=t+\"=\"+i+\"; expires=\"+l.toUTCString()+\";\"+(a?\"domain=\"+a+\";\":\"\")+\"path=\"+(r||\"/\") }function L(){ var e=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];r=\"D\";for(var t=0;t<e.length;t+=1)if(navigator.userAgent.indexOf(e[t])>-1)return void(r=\"M\") }function D(e){ var t=e.target,n=t.getBoundingClientRect(),r=e.clientX-n.left,o=e.clientY-n.top;return r*=t.naturalWidth/n.width,o*=t.naturalHeight/n.height,{ x:i.floor(r),y:i.floor(o) } }function P(e,t,i){ if(\"number\"!=typeof e||\"number\"!=typeof t||!U(i))return-1;for(var n,r,o,a,s,f=0;f<i.length;f+=1)if(n=i[f],r=n[0],o=n[1],a=n[2],s=n[3],r<=e&&e<=a&&o<=t&&t<=s)return f;return-1 }function O(e,t,n){ for(var r=\"\",o=e+i.floor(i.random()*(t-e));o;)r+=n[i.floor(i.random()*n.length)],o-=1;return r }function U(e){ return Array.isArray?Array.isArray(e):\"[object Array]\"===Object.prototype.toString.call(e) }function _(){ return!1 }function H(t){ h||(p.indexOf(t)>-1&&(m+=1,g[t]=1),(m===p.length||_())&&u&&(h=!0,y.crt(u,e.body))) }var n=t.xH15VUbdx||\"/\",r=\"U\",o=\"\",a=\"\",s=!1,c=\"0123456789\",l=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",d=\"bcdefghijklmnoqrstuvxyz\",u=\"WP\",p=[\"Sky\"],m=0,h=!1,g={ },y={ };x(y),C(T),y.t=\"20180613124825\" }(document,window,Math);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/panorama/ich-freue-mich-auf-tolle-maenner_aid-23212404"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://www-rpd.rp-online.de/panorama/wels-frisst-teich-leer-erst-fische-jetzt-enten_aid-23212402"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://www-rpd.rp-online.de/panorama/taufe-bei-den-royals-ohne-uroma-queen-elizabeth_aid-23212400"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://www-rpd.rp-online.de/panorama/frank-fussbroich-kehrt-zurueck_aid-23212398"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://www-rpd.rp-online.de/panorama/beim-thema-kinder-hoert-fuer-daniela-der-spass-auf_aid-23212393"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/auge-gelasert-in-26-sekunden_aid-23205919"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://www-rpd.rp-online.de/politik/bootsungluecke-im-mittelmeer-sterben-ueber-57-migranten_aid-23205599"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://www-rpd.rp-online.de/panorama/deutschland/bei-rock-am-ring-2018-standen-stars-wie-jared-leto-im-vordergrund_aid-23197745"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://www-rpd.rp-online.de/panorama/fernsehen/tv-nachlese-anne-will-olaf-scholz-will-umstrittene-einstellungspraxis-der-deutschen-post-aendern_aid-22469525"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<script type=\"text/javascript\">//H15VUbd(\"Sky2\")</script><div id=\"sky\"></div><span class=\"H15VUbd_end\"></span>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"out-of-page\"></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem erm\u00f6glichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie k\u00f6nnen auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erkl\u00e4ren Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerkl\u00e4rung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerkl\u00e4rung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<script type=\"text/javascript\">//H15VUbd(\"Billboard\")</script><div id=\"banner\"></div><span class=\"H15VUbd_end\"></span>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isHidden": true
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Panorama"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Deutschland",
+                        "href": "/panorama/deutschland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Ausland",
+                        "href": "/panorama/ausland/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Leute",
+                        "href": "/panorama/leute/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Fernsehen",
+                        "href": "/panorama/fernsehen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Wissen",
+                        "href": "/panorama/wissen/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Mode",
+                        "href": "/panorama/mode/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Adel",
+                        "href": "/panorama/adel/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Jahresr\u00fcckblick",
+                        "href": "/panorama/jahresrueckblick/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "NSU-Prozess",
+                        "href": "/panorama/nsu-prozess/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "So wird 2018",
+                        "href": "/panorama/so-wird-2018/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "TV-Programm",
+                        "href": "/panorama/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Cannabis",
+                        "href": "/panorama/cannabis/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Lotto",
+                        "href": "/advertorial/lotto/#Lotto",
+                        "isAd": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "isAd": true,
+                    "id": 23212404,
+                    "href": "/panorama/ich-freue-mich-auf-tolle-maenner_aid-23212404",
+                    "type": "article",
+                    "headline": {
+                      "tag": "span",
+                      "text": "\"Ich freue mich auf tolle M\u00e4nner\""
+                    },
+                    "intro": "Auf RTL k\u00e4mpfen bald wieder 20 M\u00e4nner um die \u201eBachelorette\u201c. Dieses Mal geht es um das Herz von Nadine Klein. Sie war schon einmal in einer Kuppelshow des Senders - allerdings mit m\u00e4\u00dfigem Erfolg.",
+                    "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/4/tok_6229aeeb26ecc77a39654fa7eb20ed9a/w490_h368_x1500_y977_DPA_bfunk_dpa_5F998600CA24A5C9-16f24ee5fd055a0b.jpg",
+                    "alt": "Die Kandidaten.",
+                    "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/4/DPA_bfunk_dpa_5F998600CA24A5C9-16f24ee5fd055a0b.jpg",
+                    "source": "D\u00fcsseldorf",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "RTL pr\u00e4sentiert neue \u201eBachelorette\u201c"
+                    },
+                    "backgroundColor": "rgba(66, 68, 73,1)",
+                    "backgroundLuma": 67.9358
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 14226337,
+                        "href": "/panorama/bilder-des-tages_bid-14226337",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Bilder des Tages\n"
+                        },
+                        "intro": "Das sind die Bilder des Tages. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/6/9/3/9/9/1/9/tok_eb03eab2885ca45929a474cebfd3af09/w306_h175_x1500_y1023_DPA_zbreg_dpa_5F99860042B963E1-00cf2e5dfc5e2c1e.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Rund um die Welt\n"
+                        }
+                      },
+                      {
+                        "id": 8799691,
+                        "href": "/panorama/leute/wer-ist-2018-gestorben-prominente-tote-des-jahres_bid-8799691",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Diese bekannten Menschen sind 2018 gestorben\n"
+                        },
+                        "intro": "Prominente Todesf\u00e4lle 2018: Von Avicii \u00fcber Stephen Hawking bis zu Karl Lehmann \u2013 von diesen Prominenten nahmen wir im Jahr 2018 Abschied. ",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/1/3/4/0/5/4/3/tok_6879cac5b9dbc1be64284b29cc88ee0a/w306_h175_x1500_y1016_DPA_bfunk_dpa_5F997E000F84A1D4-c4d89b488065e55a.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 9638139,
+                        "href": "/panorama/jahresrueckblick/wichtige-ereignisse-2018-was-passierte-in-der-welt_bid-9638139",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Das ist alles im Jahr 2018 passiert\n"
+                        },
+                        "intro": "Jahresr\u00fcckblick: Was ist 2018 in NRW, Deutschland und der Welt passiert? Ob historisch oder bewegend \u2013 das sind die Bilder des Jahres zu den wichtigen Ereignissen und Nachrichten des Weltgeschehens.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/2/2/2/8/4/2/5/tok_b77b69814efd4264357748c71924f499/w306_h175_x1425_y836_AP_3299660053938FD2-954f7d00d23373e1.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "R\u00fcckblick\n"
+                        }
+                      },
+                      {
+                        "id": 22778009,
+                        "href": "/panorama/adel/prinz-harry-und-meghan-markle-das-sind-die-offiziellen-hochzeitsfotos_bid-22778009",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Das sind ihre Hochzeitsfotos\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/6/5/2/6/0/1/3/tok_8ac84270d1c108966c0195435b96a7b9/w306_h175_x1500_y1125_DPA_bfunk_dpa_5F996A008361A807-6952aea1b3ea63de.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Prinz Harry und seine Meghan\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-collection",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"topmobile2\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"rectangle\"></div><span class=\"H15VUbd_end\"></span>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "id": 23212402,
+                          "href": "/panorama/wels-frisst-teich-leer-erst-fische-jetzt-enten_aid-23212402",
+                          "type": "article",
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Wels frisst Teich leer - erst Fische, jetzt Enten"
+                          },
+                          "intro": "Im Umgang mit einem sogenannten Problemwels im Parkteich sucht die Stadt Offenbach weiterhin nach einem Berufsfischer, der das Tier aus dem mittlerweile leergefressenen Weiher f\u00e4ngt.",
+                          "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/2/tok_695654591a91e550a29bd091e4608d47/w490_h368_x1500_y887_DPA_bfunk_dpa_5F998600A8CE0277-8d09559e5b8498b0.jpg",
+                          "alt": "Lebt wahrscheinlich auch nicht mehr lang.",
+                          "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/2/DPA_bfunk_dpa_5F998600A8CE0277-8d09559e5b8498b0.jpg",
+                          "source": "Offenbach",
+                          "kicker": {
+                            "tag": "span",
+                            "text": "\u201eK\u00fcken-Killer\u201c"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22250755\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22250755\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23212400,
+                        "href": "/panorama/taufe-bei-den-royals-ohne-uroma-queen-elizabeth_aid-23212400",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Taufe bei den Royals ohne Uroma Queen Elizabeth"
+                        },
+                        "intro": "Louis Arthur Charles hei\u00dft der j\u00fcngste Sohn von Prinz William und Herzogin Kate. Im Kreise der Familie ist er jetzt getauft worden. Wichtige Familienmitglieder fehlten bei der Feier.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/0/tok_8193ced7cff4f5daef338e79564f11a6/w490_h368_x1500_y973_DPA_bfunk_dpa_5F997C003253D104-27cc2d3baa10ef98.jpg",
+                        "alt": "Ob sie ihn gebracht haben?",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/5/0/DPA_bfunk_dpa_5F997C003253D104-27cc2d3baa10ef98.jpg",
+                        "source": "London",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Prinz Louis"
+                        }
+                      },
+                      {
+                        "id": 23212398,
+                        "href": "/panorama/frank-fussbroich-kehrt-zurueck_aid-23212398",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Frank Fussbroich kehrt zur\u00fcck"
+                        },
+                        "intro": "Im \u201eSommerhaus der Stars\u201c trifft der K\u00f6lner unter anderem auf\u00a0\u201eMallorca-Jens\u201c B\u00fcchner. F\u00fcr einen sch\u00f6nen Fernsehabend sollte der Zuschauer allerdings auf die alten Fussbroich-DVDs setzen.",
+                        "authors": "Von Peter Clement",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/4/8/tok_259ac0bc3e25a9e67033fe5b79d5edce/w490_h368_x2000_y1309_HJB_2164-7cf894483ee1654f.jpg",
+                        "alt": "Vielleicht grillen die auch in Portugal.",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/4/8/HJB_2164-7cf894483ee1654f.jpg",
+                        "source": "*\u00f6ln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "K\u00f6lscher Kult-Star"
+                        }
+                      },
+                      {
+                        "id": 23212393,
+                        "href": "/panorama/beim-thema-kinder-hoert-fuer-daniela-der-spass-auf_aid-23212393",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Beim Thema Kinder h\u00f6rt f\u00fcr Daniela der Spa\u00df auf"
+                        },
+                        "intro": "RTL schickt wieder Promi-Paare in den gemeinsamen Urlaub. Im \u201eSommerhaus der Stars\u201c k\u00e4mpfen sie um Geld und Aufmerksamkeit. Schon in der Auftaktfolge landet ein P\u00e4rchen auf der Abschussliste.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/4/3/tok_c5d22bd7b685a20d5b9b6e7a43510b3a/w490_h368_x1332_y1796_ullstein_high_00828244-641362dceec570f4.jpg",
+                        "alt": "Man muss ja wissen was man",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/8/4/3/ullstein_high_00828244-641362dceec570f4.jpg",
+                        "source": "D\u00fcsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "\u201eSommerhaus der Stars\u201c"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 23205919,
+                        "href": "/nrw/staedte/duesseldorf/auge-gelasert-in-26-sekunden_aid-23205919",
+                        "type": "video",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Auge gelasert in 26 Sekunden"
+                        },
+                        "intro": "J\u00e4hrlich lassen sich in Deutschland rund 100.000 Menschen die Augen lasern. Schwere Komplikationen treten selten auf. Unser Autor hat sich in D\u00fcsseldorf die Augen mit der neuesten Methode korrigieren lassen. Ein Erfahrungsbericht.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/tok_c5859a6c6bee33136f29b9260e49f279/w490_h276_x470_y264_07a15161161c2253.jpg",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/4/7/7/07a15161161c2253.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Erfahrungsbericht von der Operation"
+                        }
+                      },
+                      {
+                        "id": 23205599,
+                        "href": "/politik/bootsungluecke-im-mittelmeer-sterben-ueber-57-migranten_aid-23205599",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Mehr als 57 Migranten ertrinken im Mittelmeer"
+                        },
+                        "intro": "Vor der t\u00fcrkischen K\u00fcste und vor Tunesien sind erneut mehrere Boote gesunken. Die K\u00fcstenwachen konnten viel Opfer bergen, doch bei zwei Ungl\u00fccken starben Dutzende Migranten.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/0/7/1/tok_4148b3b2acd519bb932ac4e9cb3ce504/w490_h368_x1500_y909_DPA_bfunk_dpa_5F994E00F6EEDA3A-66e68e4982a22ce5.jpg",
+                        "alt": "Mehrere hundert Migranten rettete im Mai",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/1/7/0/7/1/DPA_bfunk_dpa_5F994E00F6EEDA3A-66e68e4982a22ce5.jpg",
+                        "source": "Tunis/Istanbul ",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mehrere Bootsungl\u00fccke"
+                        }
+                      },
+                      {
+                        "id": 23197745,
+                        "href": "/panorama/deutschland/bei-rock-am-ring-2018-standen-stars-wie-jared-leto-im-vordergrund_aid-23197745",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Ein ganz normales Spektakel"
+                        },
+                        "intro": "Nach turbulenten Jahren mit Unwettern und Verletzten standen bei \u201eRock am Ring\u201c wieder die Musiker im Fokus. Rund 71.000 Menschen erlebten ein rundum gelungenes Festival. N\u00e4chstes Jahr sollen die \u00c4rzte kommen.",
+                        "authors": "Von Tobias Dupke",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/4/7/2/5/tok_167e9ecdd2fd09a604a895d391ad0514/w490_h368_x496_y272_RP_27194097_578023567_4c_190_2_1_c01869a9e800f9f21754bc007980bd2f_1528039693_578023567_53efaa477e-ec0e55c5a19567bd.jpg",
+                        "alt": "Das Festivalpublikum, hier beim Auftritt von",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/0/4/7/2/5/RP_27194097_578023567_4c_190_2_1_c01869a9e800f9f21754bc007980bd2f_1528039693_578023567_53efaa477e-ec0e55c5a19567bd.jpg",
+                        "source": "N\u00fcrburg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Rock am Ring 2018"
+                        },
+                        "related": [
+                          {
+                            "headline": "Die Gesichter von Rock am Ring 2018",
+                            "href": "/kultur/musik/rock-am-ring-2018-gesichter-des-festivals_bid-23173591",
+                            "kicker": "Musikfestival am N\u00fcrburgring",
+                            "type": "image"
+                          },
+                          {
+                            "headline": "So l\u00e4uft Rock am Ring 2018",
+                            "href": "/kultur/musik/bilder-rock-am-ring-2018_bid-19493025",
+                            "kicker": "Fotos",
+                            "type": "image"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 22469525,
+                        "href": "/panorama/fernsehen/tv-nachlese-anne-will-olaf-scholz-will-umstrittene-einstellungspraxis-der-deutschen-post-aendern_aid-22469525",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "\"Nicht alle Unternehmer sind so freundlich wie Sie\""
+                        },
+                        "intro": "Zum 200. Geburtstag von Karl Marx diskutierte Anne Will mit ihren G\u00e4sten \u00fcber Kapitalismus, Amazon und die Deutsche Post. W\u00e4hrend Vizekanzler Scholz vielen Postboten Hoffnung machte, widersprach Kardinal Marx dem Bild vom Unternehmer, der nur Gutes f\u00fcr seine Mitarbeiter will. ",
+                        "authors": "Von Markus Werning",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/5/7/0/9/0/4/9/tok_52c737eb3ebb55ccb0f2b87270b9120a/w490_h368_x310_y232_b5a86a9942fbbc31.PNG",
+                        "alt": "",
+                        "orig_src": "https://www-rpd.rp-online.de/imgs/32/2/5/7/0/9/0/4/9/b5a86a9942fbbc31.PNG",
+                        "source": "D\u00fcsseldorf",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "TV-Nachlese \"Anne Will\""
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Panorama Deutschland",
+                      "href": "/panorama/deutschland/"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": []
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Fernsehen",
+                      "href": "/panorama/fernsehen/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Streaming",
+                        "href": "/panorama/fernsehen/streaming/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": []
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Bilder aus der TV-Welt"
+                    },
+                    "items": [
+                      {
+                        "id": 17084947,
+                        "href": "/panorama/fernsehen/gntm-2018-wer-ist-raus-wer-ist-germany-s-next-topmodel-2018_iid-17084947",
+                        "type": "info",
+                        "headline": {
+                          "tag": "span",
+                          "text": "GNTM 2018 - wer ist raus bei \"Germany's Next Topmodel\"?\n"
+                        },
+                        "intro": "Wer ist kurz vor dem GNTM-Finale raus und wer hat es zur Gewinnerin 2018 geschafft? Hier erfahren Sie, welche der Kandidatinnen wie weit bei \u201eGermany's Next Topmodel\u201c 2018 gekommen ist.\n",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/9/9/7/2/2/2/9/tok_153e5473624adab9a4d1d471406a99d8/w306_h175_x470_y264_918ad5f97e818b1f.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Bilder\n"
+                        }
+                      },
+                      {
+                        "id": 17084943,
+                        "href": "/panorama/fernsehen/gntm-kandidatinnen-2018-welche-favoritin-wird-die-gewinnerin_iid-17084943",
+                        "type": "info",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Das sind die Top-Kandidatinnen bei GNTM 2018\n"
+                        },
+                        "intro": "Diese GNTM-Kandidatinnen haben Heidi Klum \u00fcberzeugt und sich bis unter die Top-Teilnehmerinnen gek\u00e4mpft. Welche M\u00e4dchen k\u00f6nnen sich als Favoritinnen Hoffnungen auf den Einzug ins Finale von \"Germany's Next Topmodel\" 2018 machen?",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/9/9/7/2/2/2/5/tok_b42bc807acd11a81b7c689d288d9a1ef/w306_h175_x470_y264_8116dfd4f1efe9ef.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Bilder\n"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "medium-rectangle",
+                          "html": "<div id=\"blockerad\"></div>\r\n<script>\r\n(function() {\r\nfunction init() {\r\n  if (!window.SDG) {\r\n    window.setTimeout(init, 100);\r\n    return;  \r\n  }\r\ndocument.getElementById(\"blockerad\").parentElement.parentElement.parentElement.style.display=\"none\";\r\nvar newNode = document.createElement(\"div\");\r\n    newNode.id = 'topmobile2';\r\n    newNode.style.marginBottom = '20px';\r\n    newNode.style.textAlign = 'center';\r\nvar parentDiv = document.getElementById(\"blockerad\").parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;\r\nvar sp2 = undefined; \r\nparentDiv.insertBefore(newNode, sp2); \r\nSDG.Publisher.registerSlot('topmobile2', 'topmobile2').load();\r\n}\r\n\r\ninit();\r\n})();\r\n</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "medium-rectangle",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nconsole.log(\"%c ID pr\u00fcfen\",\"color: #08ff00; padding: 10px;font-weight:bold; font-size:20px; padding:20px;\" );\r\nif(document.querySelectorAll(\"#rectangle\").length<1){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').removeSizes([300,600]).load();\r\n    }\r\n    init();\r\n    })();\r\n    console.log(\"%c Rectangle 1 = \"+document.querySelectorAll(\"#rectangle\").length ,\"color: #08ff00; padding: 10px;font-weight:bold; font-size:20px; padding:20px;\" );\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,251],[300,slotloc]], false).load();\r\n    }\r\n    init();\r\n    })();\r\n    console.log(\"%c adid: \"+adid + \" iccount: \" + iccount,\"color: #08ff00; padding: 10px;font-weight:bold; font-size:20px; padding:20px;\" );\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 16703969,
+                        "href": "/panorama/fernsehen/serien-2018-die-neuen-staffeln-auf-netflix-und-amazon-prime_iid-16703969",
+                        "type": "info",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Die Termine der neuen Serien-Staffeln\n"
+                        },
+                        "intro": "Regelm\u00e4\u00dfig starten neue Staffeln popul\u00e4rer Serien auf Netflix, Amazon Prime und Sky. Dazu h\u00e4ufen sich schnell Fragen wie: Wann startet die finale Staffel von \"Game of Thrones\"? Gibt es eine Fortsetzung von \"Stranger Things\"? Wann kommt die sechste Staffel \"Orange is the New Black\"? Und wird die zw\u00f6lfte Ausgabe von \"The Big Bang Theory\" die letzte sein? Alle Fakten und Ger\u00fcchte gibt es hier.",
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/9/5/5/3/6/1/3/tok_d10ee5dec601430aeb58413e26ebecfc/w306_h175_x310_y232_269268950f46a42a.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Netflix, Amazon Prime und Sky\n"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Datenjournalismus"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "/nrw/datenjournalismus/",
+                        "headline": {
+                          "tag": "span",
+                          "text": "NRW in Zahlen, Daten, Fakten"
+                        },
+                        "intro": "Wie viele Straftaten gab es wirklich in Ihrem Bezirk? Wie hoch ist der Stickstoffdioxid-Wert an Ihrer Stra\u00dfe? Und wo wird Alt oder K\u00f6lsch getrunken? Hier finden Sie Grafiken, interaktive Karten und Datenvisualisierungen.",
+                        "src": "https://www-rpd.rp-online.de/imgs/33/2/5/3/5/1/8/2/1/tok_26d605e1cbdd0b8997382ce29ac8ea81/w490_h368_x350_y250_cover_final-0916c940bac9117e.jpg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Datenjournalismus"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "cards-container",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Rubriken Panorama"
+                    },
+                    "items": [
+                      {
+                        "type": "narrow",
+                        "text": "NSU-Prozess",
+                        "href": "/panorama/nsu-prozess/",
+                        "isAd": false
+                      },
+                      {
+                        "type": "narrow",
+                        "text": "Jahresr\u00fcckblick",
+                        "href": "/panorama/jahresrueckblick/",
+                        "isAd": false
+                      },
+                      {
+                        "type": "narrow",
+                        "text": "Cannabis",
+                        "href": "/panorama/cannabis/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den t\u00e4glichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=64964"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/"
+            },
+            {
+              "text": "Podcast h\u00f6ren",
+              "href": "https://rp-online.de/digitales/podcasts/"
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "St\u00e4dte",
+          "href": "/nrw/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "D\u00fcsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "H\u00fcckelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "H\u00fcckeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "H\u00fcnxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "J\u00fcchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "K\u00f6ln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "M\u00f6nchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "T\u00f6nisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "W\u00fclfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#nrw"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#panorama",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Deutschland",
+              "href": "/panorama/deutschland/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Ausland",
+              "href": "/panorama/ausland/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Leute",
+              "href": "/panorama/leute/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Fernsehen",
+              "href": "/panorama/fernsehen/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Wissen",
+              "href": "/panorama/wissen/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Bildung und Hochschule",
+                  "href": "/panorama/wissen/bildung/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Forschung",
+                  "href": "/panorama/wissen/forschung/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Klima",
+                  "href": "/panorama/wissen/klima/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Weltraum",
+                  "href": "/panorama/wissen/weltraum/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Mode",
+              "href": "/panorama/mode/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Adel",
+              "href": "/panorama/adel/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "TV-Programm",
+              "href": "/panorama/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

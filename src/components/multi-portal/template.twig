@@ -1,0 +1,134 @@
+{% set uuid = random() %}
+{% set alphabet = [
+    'a',
+    'b',
+    'c',
+    'd',
+    'e',
+    'f',
+    'g',
+    'h',
+    'i',
+    'j',
+    'k',
+    'l',
+    'm',
+    'n',
+    'o',
+    'p',
+    'q',
+    'r',
+    's',
+    't',
+    'u',
+    'v',
+    'w',
+    'x',
+    'y',
+    'z',
+] %}
+{% if (config.disableAds is not defined or not config.disableAds is same as(true)) and items is defined and items|length %}
+    {% if type is not defined or type is same as('slider') %}
+        <style>
+        {% if widthFractionDesktop is defined and widthFractionDesktop and widthFractionDesktop > 1 %}
+            #park-multi-portal-{{ uuid }} {
+                width: -webkit-calc(100% / {{ widthFractionDesktop }});
+                width: calc(100% / {{ widthFractionDesktop }});
+                float: right;
+                margin-left: 0.9375rem;
+                margin-right: 0;
+            }
+        {% endif %}
+        {% if sliderItemWidthFraction is defined and sliderItemWidthFraction %}
+            #park-multi-portal-{{ uuid }} .park-slider__item {
+                --slider-item-width-fraction: {{ sliderItemWidthFraction }};
+                width: -webkit-calc(100% / {{ sliderItemWidthFraction }});
+                width: calc(100% / {{ sliderItemWidthFraction }});
+            }
+            #park-multi-portal-{{ uuid }} .park-slider__item .park-portal:not(.park-portal--is-empty) {
+                width: auto;
+            }
+        {% endif %}
+        </style>
+        <div role="complementary" id="park-multi-portal-{{ uuid }}"
+               class="park-multi-portal park-multi-portal--slider">
+            {% include 'components/slider/template.twig' with {
+                'headline': headline,
+                'autoforward': sliderAutoforward,
+                'items': items,
+                'config': config
+            } %}
+        </div>
+    {% endif %}
+    {% if type is same as('grid') %}
+        {% set layout = '' %}
+        {% if gridLayout is defined and gridLayout %}
+            {% if '1' in gridLayout %}
+                {% set gridLayoutRows = gridLayout|split("\\n") %}
+                {% set rows = [] %}
+                {% for gridLayoutRow in gridLayoutRows %}
+                    {% set gridLayoutCells = gridLayoutRow|trim|split(' ') %}
+                    {% set cells = [] %}
+                    {% for gridLayoutCell in gridLayoutCells %}
+                        {% set cell = alphabet[(1 * gridLayoutCell - 1)] %}
+                        {% set cells = cells|merge([cell]) %}
+                    {% endfor %}
+                    {% set row = cells|join(' ') %}
+                    {% set rows = rows|merge([row]) %}
+                {% endfor %}
+                {% set layout = rows|join('" "') %}
+            {% else %}
+                {% set layout = gridLayout|replace({"\\n": '" "'}) %}
+            {% endif %}
+        {% endif %}
+        <style>
+        {% if widthFractionDesktop is defined and widthFractionDesktop and widthFractionDesktop > 1 %}
+            #park-multi-portal-{{ uuid }} {
+                width: -webkit-calc(100% / {{ widthFractionDesktop }});
+                width: calc(100% / {{ widthFractionDesktop }});
+                float: right;
+                margin-left: 0.9375rem;
+                margin-right: 0;
+            }
+        {% endif %}
+        {% if gridLayout is defined and layout %}
+            #park-multi-portal-{{ uuid }} .park-multi-portal__items {
+                grid-template-areas: "{{ layout|raw }}";
+            }
+        {% endif %}
+        </style>
+        <div id="park-multi-portal-{{ uuid }}"
+             class="park-portal park-multi-portal park-multi-portal--grid"
+             role="complementary">
+            {% if headline is defined and headline.text is defined and headline.text %}
+                <header class="park-slider__header">
+                    {# The following injects the global config #}
+                    {% set headline = headline|merge({'config': config}) %}
+                    {% include 'components/section-headline/template.twig' with headline only %}
+                </header>
+            {% endif %}
+            <ul class="park-multi-portal__items">
+                {% for item in items %}
+                    <li class="park-multi-portal__item" style="grid-area: {{ alphabet[loop.index0] }}">
+                        {% if item.mobile is defined and item.mobile.type is defined %}
+                            {% set item = item|merge({
+                                'mobile': item.mobile|merge({
+                                    'type': 'free'
+                                })
+                            }) %}
+                        {% endif %}
+                        {% if item.desktop is defined and item.desktop.type is defined %}
+                            {% set item = item|merge({
+                                'desktop': item.desktop|merge({
+                                    'type': 'free'
+                                })
+                            }) %}
+                        {% endif %}
+                        {% set item = item|merge({'config': config}) %}
+                        {% include 'components/portal/template.twig' with item only %}
+                    </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endif %}
+{% endif %}

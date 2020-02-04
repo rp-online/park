@@ -1,0 +1,25 @@
+{
+  "title": "Einbettbare Einzelkomponente",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist ein Beispiel für eine einzelne einbettbare Komponente"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/einbettbare-einzelkomponente.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "video",
+      "data": {
+        "type": "youtube",
+        "id": "Chr5v2iWRyw",
+        "title": "Martin Schulz: Noch kein Grünes Licht für GroKo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "event",
+  "href": "https://rp-online.de/sport",
+  "headline": {
+    "tag": "span",
+    "text": "Latschenkiefer-Creme selbst gemacht - Deutsche Bank Corporate Ass...",
+    "title": "Latschenkiefer-Creme selbst gemacht - Deutsche Bank Corporate Assets lädt ein"
+  },
+  "widgetIcons": [
+    "https://rp-online.de/icon",
+    "https://rp-online.de/icon2"
+  ],
+  "openingTimes": "23.04.2019 bis 25.04.2019",
+  "distanceKm": "0,40",
+  "fullCity": "41065 Mönchengladbach",
+  "fullStreet": "Wilhelm-Elfes-Straße 27"
+}

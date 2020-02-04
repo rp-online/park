@@ -1,0 +1,56 @@
+{
+  "type": "slider",
+  "headline": {
+    "tag": "h6",
+    "text": "Tolle Angebote vong uns, für Sie"
+  },
+  "widthFractionDesktop": 1,
+  "sliderItemWidthFraction": 3,
+  "sliderAutoforward": true,
+  "items": [
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x400\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x400\">"
+      }
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    }
+  ]
+}

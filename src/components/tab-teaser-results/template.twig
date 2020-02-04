@@ -1,0 +1,14 @@
+<div class="park-tab-teaser-results">
+  {% if links is defined %}
+    {% include 'components/tab-links/template.twig' with {
+    'links': links,
+    'config': config
+    } only %}
+  {% endif %}
+  {% if items is defined %}
+    {% include 'components/teaser-shapeshifter/template.twig' with {
+    'items': items,
+    'config': config
+    } only %}
+  {% endif %}
+</div>

@@ -1,0 +1,131 @@
+<article
+  class="park-article
+ {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}park-article--reduced{% endif %}
+  {% if centeredAds is defined and centeredAds is same as(true) %} park-article--has-centered-portals{% endif %}" {% if fragmentCount is defined and fragmentCount %} data-fragment-count="{{ fragmentCount }}"{% endif %}>
+  {% if config.appMode is not defined or config.appMode is not same as('embedded') and config.noShare is not defined %}
+    <div class="park-article__buttons" aria-hidden="true">
+      <div class="park-article__buttons-wrapper">
+        {% include 'components/social-buttons/template.twig' with {
+          'withPrint': true,
+          'config': config
+        } %}
+        {% include 'components/action-buttons/template.twig' with {
+          'id': id,
+          'config': config
+        } only %}
+      </div>
+    </div>
+  {% endif %}
+  <div class="park-article__body">
+    <aside class="park-article__action-buttons">
+      {% include 'components/action-buttons/template.twig' with {
+        'id': id,
+        'config': config
+      } only %}
+    </aside>
+    <header class="park-article__header park-article__content">
+      <aside class="park-article__meta">
+        {% if timestamp is defined and timestamp > 0 %}
+          {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+        {% endif %}
+        <link rel="preload" href="{{ comments.url|escape('html') }}" as="fetch">
+        <span class="park-article__readtime"></span>
+      </aside>
+      <{{ headline.tag }} class="park-article__headlines">
+      {% if kicker is defined and kicker.text is not empty %}
+        <span class="park-article__kicker">
+          {% include 'components/content-label/template.twig' with {
+            'contentLabel': contentLabel,
+            'config': config
+          } only %}
+          {{ kicker.text | raw }}
+        </span>:
+      {% endif %}
+      <span class="park-article__headline">{{ headline.text | raw }}</span>
+    </{{ headline.tag }}>
+    </header>
+    {% if cover is defined and cover.type is defined %}
+    <div class="park-article__cover">
+      {# The following injects the global config #}
+      {% set cover = cover|merge({
+        'config': config
+      }) %}
+      {% if cover.type == 'image' or cover.type == 'info' %}
+        {% set cover = cover|merge({
+        'width': 950,
+        'height': 526
+        }) %}
+      {% include 'components/figure/template.twig' with cover only %}
+      {% else %}
+      {% include 'components/embed-video/template.twig' with cover only %}
+      {% endif %}
+    </div>
+    {% endif %}
+    <p class="park-article__intro park-article__content">
+      {% if label is defined and label %}<em class="park-article__label">{{ label }}</em>{% endif %}
+      {% if dateline is defined and dateline %}<em class="park-article__dateline">{{ dateline }}</em>{% endif %}
+      {{ intro | raw }}
+    </p>
+    {% if (config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true)) %}
+    {% if topic is defined %}
+      {% set topic = topic|merge({ 'config': config }) %}
+    {% endif %}
+    {% if authorsbox is defined %}
+      {% set authorsbox = authorsbox|merge({ 'config': config }) %}
+    {% else %}
+      {% set authorsbox = { 'config': config } %}
+    {% endif %}
+    {% if ads is defined %}
+    {% set portalChildren = [] %}
+    {% if config.appMode is not defined or config.appMode is not same as('embedded') and config.noShare is not defined %}
+      {% set portalChildren = portalChildren|merge([{
+        'component': 'social-buttons',
+        'data': {
+          'withPrint': true,
+          'config': config
+        }
+      }]) %}
+    {% endif %}
+    {% if topic is defined and topic.id is defined and topic.title is defined %}
+      {% set portalChildren = portalChildren|merge([{
+        'component': 'topicbox',
+        'data': topic
+      }]) %}
+    {% endif %}
+    {% if authorsbox is defined and authorsbox.text is not empty %}
+      {% set portalChildren = portalChildren|merge([{
+        'component': 'authorsbox',
+        'data': authorsbox
+      }]) %}
+    {% endif %}
+    {% set portalChildren = portalChildren|merge([{
+      'component': 'offer-slot',
+      'data': {}
+    }]) %}
+    {% include 'components/section-portal-right/template.twig' with {
+      'children': portalChildren,
+      'ad': ads.article,
+      'float': true,
+      'config': config} only %}
+    {% else %}
+    {% if config.appMode is not defined or config.appMode is not same as('embedded')  and config.noShare is not defined %}
+      {% include 'components/social-buttons/template.twig' with {'withPrint': true, 'config': config} %}
+    {% endif %}
+    {% if authorsbox is defined and authorsbox.text is defined %}
+      {% include 'components/authorsbox/template.twig' with authorsbox only %}
+    {% endif %}
+    {% include 'components/offer-slot/template.twig' with {} only %}
+    {% endif %}
+    <div class="park-article__scroll-indicator"></div>
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+    {% if sign is defined %}
+      <footer class="park-article__sign">{{ sign }}</footer>
+    {% endif %}
+  {% else %}
+    {% include 'components/paywall/template.twig' with { 'config': config} %}
+  {% endif %}
+  </div>
+</article>

@@ -1,0 +1,77 @@
+{
+  "readme": "This is the main browser showing all components.",
+  "navigation": {
+    "header": [
+      {
+        "headline": {
+          "tag": "strong",
+          "text": "Seiten"
+        },
+        "items": [
+          {
+            "text": "Startseite",
+            "href": "#void"
+          },
+          {
+            "text": "Artikelseite",
+            "href": "#void"
+          },
+          {
+            "text": "Bilderstrecke",
+            "href": "#void"
+          },
+          {
+            "text": "Infostrecke",
+            "href": "#void"
+          }
+        ]
+      }
+    ],
+    "main": [
+      {
+        "text": "example",
+        "href": "#example"
+      }
+    ],
+    "footer": [
+      {
+        "headline": {
+          "tag": "strong",
+          "text": "Autoren"
+        },
+        "items": [
+          {
+            "text": "Christian \"Schepp\" Schaefer",
+            "href": "#void"
+          },
+          {
+            "text": "Pascal Weiland",
+            "href": "#void"
+          },
+          {
+            "text": "Tobias Block",
+            "href": "#void"
+          }
+        ]
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "example",
+      "readme": "This is the **example** component. It does nothing.",
+      "sourcecodes": {
+        "template": "<div class=\"park-example\">{{ text }}</div>",
+        "styles": ".park-example {\r\n  display: block;\r\n}\r\n",
+        "scripts": "(() => {\r\n  window.park.observer.initialize('.park-example', (elem) => {\r\n    window.park.console.log('Example component found!');\r\n  });\r\n})();\r\n"
+      },
+      "variants": [
+        {
+          "name": "default",
+          "preview": "https://templates.park.works/iframe.html",
+          "data": "{\r\n  \"text\": \"Hello world\"\r\n}"
+        }
+      ]
+    }
+  ]
+}

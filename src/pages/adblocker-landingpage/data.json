@@ -1,0 +1,144 @@
+{
+  "title": "Adblocker Landingpage",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für die Adblocker Landingpage"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/artikel.html"
+      }
+    ],
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "vgwort": "http://rp-online.met.vgwort.de/na/b46514c398394c3f808f6533a998b785",
+    "cre": {
+      "trackingApiUrl": "https://www.rp-online.de/cre-1.0/tracking/call.js",
+      "offerApiUrl": "https://www.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "https://www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "https://www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsOfferApiUrl": "./assets/ajax/offer/default.json",
+      "site": "RP-Online",
+      "serviceid": "rpo",
+      "origin": "web",
+      "cms_id": "1.7223902",
+      "contentid": "%2FStartseite%2FNRW%2FRegio-Karneval%2FStaedtetag-fordert-finanzielle-Hilfe-fuer-Karnevalszuege-1.7223902",
+      "channel": "2.1769",
+      "subchannel": "2.3576",
+      "doctype": "article",
+      "kicker": "Gestiegene Kosten wegen Sicherheitsauflagen",
+      "heading": "Staedtetag fordert finanzielle Hilfe fuer Karnevalszuege",
+      "entitlementid": "digital_web",
+      "registrationBarrierDisabled": false
+    }
+  },
+  "skyscraper": {},
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "adblocker-screen",
+                  "data": {
+                    "intro": {
+                      "image": {
+                        "src": "./assets/skins/rp-online/images/adblocker-journalist.png",
+                        "alt": "Zeichnung eines Journalisten mit Schreibutensilien über einen Tisch gebeugt",
+                        "width": 415,
+                        "height": 273
+                      },
+                      "headline": "Guter Journalismus kostet Geld",
+                      "text": "RP ONLINE wird vor allem durch Werbung finanziert. Mit den Einnahmen bezahlen wir unsere Redaktion, unsere Texte, Fotos und Videos. Ad-Blocker verhindern, dass Werbeanzeigen ausgespielt werden. Helfen Sie uns, unser Angebot aufrecht zu erhalten!"
+                    },
+                    "offer": {
+                      "image": {
+                        "src": "./assets/skins/rp-online/images/adblocker-offer.png",
+                        "alt": "Gezeichneter Laptop mit einer Sprechblase mit unserem Angebot daran"
+                      },
+                      "headline": "Sie wollen RP ONLINE unbegrenzt und ohne Werbung lesen?",
+                      "text": "Dann testen Sie unser Digital Paket für einen Monat kostenlos.",
+                      "cta": {
+                        "text": "jetzt testen",
+                        "href": "#offer"
+                      }
+                    },
+                    "disableAdblocker": {
+                      "image": {
+                        "src": "./assets/skins/rp-online/images/adblocker-turn-off.png",
+                        "alt": "Gezeichneter Laptop mit durchgestrichenem Adblock-Symbol"
+                      },
+                      "headline": "Bitte schalten Sie Ihren Adblocker für RP ONLINE aus.",
+                      "text": "1. Neben der Adresszeile auf das Adblocker-Symbol klicken\n2. Das Häkchen bei \"Auf dieser Seite aktiviert\" wegklicken bzw. für unser Seite deaktivieren und die Seite neu laden.",
+                      "cta": {
+                        "class": "reload",
+                        "text": "Seite neu laden",
+                        "data": {
+                          "reload": ""
+                        }
+                      }
+                    },
+                    "welect": {
+                      "headline": "Sie möchten Ihren Adblocker aktiviert lassen?",
+                      "text": "Dann schauen Sie ausgewählte Werbespots und surfen Sie einen Tag lang ohne Werbung weiter",
+                      "cta": {
+                        "class": "video",
+                        "text": "Werbespot ansehen",
+                        "href": "#welect"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {}
+      }
+    }
+  ]
+}

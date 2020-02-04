@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    {% for entry in entries %}
+        <url>
+            <loc>{{ entry['url'] }}</loc>
+            <news:news>
+                <news:publication>
+                    <news:name>{{ sitemap_name }}</news:name>
+                    <news:language>de</news:language>
+                </news:publication>
+                <news:publication_date>{{ entry['datum'] }}</news:publication_date>
+                <news:title><![CDATA[{{ entry['titel'] | raw }}]]></news:title>
+                {% if entry['keywords'] %}<news:keywords>{{ entry['keywords']|join(',') }}</news:keywords>{% endif %}
+
+            </news:news>
+            {% if entry['bild_url'] %}
+                <image:image>
+                    <image:loc>{{ entry['bild_url'] }}</image:loc>
+                    {% if entry['bild_alt'] %}
+                        <image:caption>{{ entry['bild_alt'] }}</image:caption>
+                    {% endif %}
+                </image:image>
+            {% endif %}
+        </url>
+    {% endfor %}
+</urlset>

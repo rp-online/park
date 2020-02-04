@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>{{ pagetitle }}{{ title }}</title>
+        <link>{{ link }}</link>
+        <description>{{ description }}</description>
+        <language>{{ language }}</language>
+        <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
+        <atom:link rel="self" href="{{ link }}"/>
+        {% for item in items %}
+            <item>
+                <title>{{ item['titel'] }} </title>
+                {% if output == 'rss_pylba' %}
+                    <paidcontent>{{ item['paid_content'] }}</paidcontent>
+                {% endif %}
+                <link>{{ item['url'] }}</link>
+                <guid isPermaLink="false">{{ item['guid'] }}</guid>
+                {% if output == 'rss_newsletter' %}
+                    <subline>{{ item['dachzeile'] }}</subline>
+                {% endif %}
+                <description>
+                    <![CDATA[
+                    {% if item['teaserbild'] and output != 'xml' and output != 'xml_compact' and output != 'playkiosk' and output != 'rss_newsletter' %}
+                        <img src="{{ item['teaserbild']['src'] }}" hspace="5" align="left"/>
+                    {% endif %}
+                    {% if output == 'rss_pylba' %}
+                        <strong>{{ item['ortsmarke'] }}. </strong> {{ item['teasertext'] }}
+                    {% endif %}
+
+                    {% if output == 'rss_complex' or output == 'rss_pylba'  or output == 'playkiosk' %}
+                        {{ item['volltext'] }}
+                    {% else %}{{ item['teasertext'] }}
+                    {% endif %}
+                    ]]>
+                </description>
+                {% if item.content %}
+                    <content:encoded><![CDATA[{{ item.content }}]]></content:encoded>
+                {% endif %}
+                {% if item['orig_bild'] and output != 'rss_simple' and output != 'xml' and output != 'xml_compact' %}
+                    <enclosure url="{{ item['orig_bild']['src'] }}" length="{{ item['orig_bild']['filesize'] }}"
+                               type="image/jpeg"/>
+                {% endif %}
+                {% if item['treenodes_name_path'] and output != 'xml' %}
+                    <category>{{ item['treenodes_name_path'] }}</category>
+                {% endif %}
+                {% if item['datum_rfc'] %}
+                    <pubDate>{{ item['datum_rfc'] }}</pubDate>
+                {% endif %}
+            </item>
+        {% endfor %}
+    </channel>
+</rss>

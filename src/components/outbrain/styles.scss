@@ -1,0 +1,14 @@
+.park-outbrain {
+  position: relative;
+  display: block;
+
+  &::before {
+    @extend %sugardaddy-label;
+
+    position: absolute;
+    z-index: 1;
+    top: $global-spacing;
+    right: $global-spacing;
+    line-height: rem(20px);
+  }
+}

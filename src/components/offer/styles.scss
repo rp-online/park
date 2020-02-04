@@ -1,0 +1,61 @@
+.park-offer {
+  display: block;
+  padding-right: rem(30px);
+  background-color: #2f2f2f;
+  color: #fff;
+
+  &__content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100%;
+    padding: 0 $global-spacing;
+    color: #fff;
+
+    .park-image {
+      flex: 0 0 100px;
+      width: auto;
+      height: 100%;
+      max-height: rem(75px);
+      margin-right: $global-spacing;
+    }
+
+    .park-image__image {
+      object-fit: contain;
+      background-size: contain;
+      max-height: rem(58px);
+    }
+  }
+
+  &__text {
+    @include global-sans-serif-font-size(2);
+
+    flex: 1 1 auto;
+    padding: rem(10px) 0;
+  }
+
+  &__linktext {
+    text-decoration: underline;
+  }
+
+  &__button {
+    display: none;
+
+    @include mq(desktop) {
+      @include button;
+
+      display: flex;
+      margin-left: $global-spacing;
+      background-color: #6f6f6f;
+      border-color: #6f6f6f;
+
+      &:hover {
+        background-color: lighten(#6f6f6f, 10);
+      }
+    }
+  }
+}
+
+.park-section-portal-right__content .park-offer {
+  margin: 0;
+}

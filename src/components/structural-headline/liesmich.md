@@ -1,0 +1,1 @@
+Diese Komponente kann genutzt werden, um eine unvollständige Überschriftenstruktur einer Seite durch Einfügen an den passenden Stellen semantisch zu korrigieren. Diese Überschrift ist optisch nicht zu sehen, wohl steht Sie aber Screenreader-Nutzern zur Navigation zur Verfügung.

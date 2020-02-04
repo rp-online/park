@@ -1,0 +1,59 @@
+{
+  "title": "Rahmenseite",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für eine Rahmenseite"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/rahmenseite.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    }
+  }
+}

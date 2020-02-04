@@ -1,0 +1,10 @@
+.park-article {
+  .park-suppressible {
+    margin-bottom: rem(22px);
+
+    @include mq(desktop) {
+      margin-left: $article-spacing;
+      margin-right: $article-spacing;
+    }
+  }
+}

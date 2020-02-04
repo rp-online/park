@@ -1,0 +1,13 @@
+@mixin mq($mq-name, $breakpoints: $global-mq-breakpoints) {
+  $breakpoint-condition: map-get($global-mq-breakpoints, $mq-name);
+
+  @if ($breakpoint-condition) {
+    @media #{$breakpoint-condition} {
+      @content;
+    }
+  }
+
+  @else {
+    @error "Breakpoint ‘#{$mq-name}’ does not exist.";
+  }
+}

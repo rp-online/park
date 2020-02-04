@@ -1,0 +1,53 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Neueste Schlagzeilen"
+  },
+  "items": [
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.", "authors": "von Kristina Dunst"
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<p style='font-size: 16px'>Hier könnte Ihre mobile Werbung stehen</p>"
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<p style='font-size: 16px'>Hier könnte Ihre Desktop-Werbung stehen</p>"
+      }
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.", "authors": "von Kristina Dunst"
+    }
+  ]
+}

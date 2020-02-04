@@ -1,0 +1,404 @@
+{
+  "title": "Bilderstrecke",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für eine Bilderstrecke"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/bilderstrecke.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "vgwort": "http://rp-online.met.vgwort.de/na/b46514c398394c3f808f6533a998b785"
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Wer ist 2016 gestorben?"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Leute",
+                        "href": "#void"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "gallery",
+                  "data": {
+                    "id": 1,
+                    "timestamp": 1499074591,
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Von diesen Bären nahmen wir 2016 Abschied"
+                    },
+                    "items": [
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/800x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "./assets/images/large-portrait.jpg"
+                        },
+                        "caption": "Herbert, der Bär",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/800x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "./assets/images/large-portrait.jpg"
+                        },
+                        "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et [dolore magna](#void) aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/450x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "./assets/images/large-portrait.jpg"
+                        },
+                        "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      }
+                    ],
+                    "lastItem": {
+                      "headline": {
+                        "tag": "p",
+                        "text": "Auch interessant"
+                      },
+                      "figure": {
+                        "component": "teaser-tiles",
+                        "data": {
+                          "items": [ {
+                              "type": "image",
+                              "isAd": false,
+                              "src": "/assets/images/300x170.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/40-jahre-zakk_bid-6843830",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fotos\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)40 Jahre Zakk\n"
+                              }
+                            },
+                            {
+                              "type": "image",
+                              "isAd": false,
+                              "src": "/assets/images/300x170.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/das-ist-emmanuel-iyoha_bid-6843952",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bilder\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Das ist Emmanuel Iyoha\n"
+                              }
+                            },
+                            {
+                              "type": "image",
+                              "isAd": false,
+                              "src": "/assets/images/300x170.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/ein-tag-am-duesseldorfer-flughafen_bid-6843799",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fotos\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Ein Tag am Düsseldorfer Flughafen\n"
+                              }
+                            },
+                            {
+                              "type": "image",
+                              "isAd": false,
+                              "src": "/assets/images/300x170.jpg",
+                              "alt": "",
+                              "href": "/nrw/bs-koeln_bid-6844505",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bölubb\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)BS Köln\n"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    "enlargable": true,
+                    "ads": {
+                      "caption": {
+                        "mobile": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        },
+                        "desktop": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        }
+                      },
+                      "slides": {
+                        "interval": 5,
+                        "mobile": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        },
+                        "desktop": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "mobile": {
+                      "type": "medium-rectangle",
+                      "html": "<img src=\"https://placehold.it/300x250\">"
+                    },
+                    "desktop": {
+                      "type": "superbanner",
+                      "html": "<img src=\"https://placehold.it/970x250\">"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "headline": {
+                      "tag": "h3",
+                      "text": "Weiteres aus dem Ressort"
+                    },
+                    "items": [
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "id": 1,
+                            "type": "article",
+                            "href": "#void",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "id": 1,
+                            "type": "image",
+                            "href": "#void",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 1,
+                        "type": "video",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "id": 1,
+                        "type": "article",
+                        "href": "#void",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        }
+      }
+    }
+  ]
+}

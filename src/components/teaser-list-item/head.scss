@@ -1,0 +1,98 @@
+.park-teaser-list-item {
+  @extend %teaser-hover;
+
+  position: relative;
+  display: block;
+
+  &--is-numeric {
+    counter-increment: park-teaser-list-counter;
+    position: relative;
+    padding-left: rem(60px);
+
+    &::before { // stylelint-disable-line max-nesting-depth
+      content: counter(park-teaser-list-counter);
+      position: absolute;
+      left: $global-spacing;
+      width: 32px;
+      color: $global-brand-color;
+      font-size: rem(29px);
+      font-weight: $global-font-weight-sans-serif-bold;
+      text-align: left;
+
+      .park-portal-marker &,
+      .is-advertorial & {
+        color: $global-advertisement-color;
+      }
+    }
+  }
+
+  &__image {
+    .park-image__image {
+      width: 100%;
+      padding-bottom: 0.5rem;
+    }
+  }
+
+  &__link {
+    display: block;
+    padding: $global-spacing/2 $global-spacing;
+
+    .park-teaser-list-item--sugardaddy & {
+      &::before {
+        @extend %sugardaddy-label;
+
+        display: block;
+        float: right;
+        margin-left: $global-spacing;
+      }
+    }
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__kicker {
+    display: block;
+    margin-bottom: rem(4px);
+    padding-right: rem(20px);
+    color: $global-kicker-color;
+    font-size: rem(16px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (21 / 16);
+
+    .park-portal-marker &,
+    .is-advertorial &,
+    .park-teaser-list-item--sugardaddy & {
+      color: $global-advertisement-color;
+    }
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+
+    display: block;
+    color: $global-color-text-black;
+    font-size: rem(18px);
+    line-height: (26 / 18);
+
+    @include mq(desktop) {
+      margin-bottom: rem(10px);
+    }
+  }
+
+  &__user-actions {
+    position: absolute;
+    top: rem(10px);
+    right: $global-spacing;
+  }
+
+  &--with-image &__user-actions {
+    margin-top: 68%;
+
+    @include mq(desktop) {
+      margin-top: 70%;
+    }
+  }
+}

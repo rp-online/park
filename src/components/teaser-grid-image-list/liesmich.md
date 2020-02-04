@@ -1,0 +1,1 @@
+Diese Komponente stellt eine zusammengehöriges Grid an [Teaser-Grid-Image-List](#teaser-grid-image-list)-Komponenten dar.

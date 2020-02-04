@@ -1,0 +1,2657 @@
+{
+  "title": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "bookmarksPage": "/sso/bookmarks",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre",
+    "url": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1556859221",
+    "container_id": 38548041,
+    "beitrag_id": 53570583,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Hausärzte sind gefragt in Nordrhein-Westfalen, vor allem in der Voreifel, im Bergischen Land und in der Region Westfalen-Lippe fehlt es an Medizinern, die Praxen übernehmen oder eröffnen. Förderprogramme sollen Ärzte in unterversorgte Regionen locken.  "
+      },
+      {
+        "name": "author",
+        "content": "Claudia Hauser"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497, 50327854366"
+      },
+      {
+        "name": "keywords",
+        "content": "Nordrhein, Land, Hausärzte, Allgemeinmediziner, Region, 100.000, Städten, Einwohner, fehlt, Landarzt, Rheinland, Hausarzt, Voreifelregion, Hausarztsitze, Landarztquote, Hausärztemangel, Landesausschuss, Hausarztpraxis, Praxis, haus"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Nordrhein, Land, Hausärzte, Allgemeinmediziner, Region, 100.000, Städten, Einwohner, fehlt, Landarzt, Rheinland, Hausarzt, Voreifelregion, Hausarztsitze, Landarztquote, Hausärztemangel, Landesausschuss, Hausarztpraxis, Praxis, haus"
+      },
+      {
+        "property": "og:title",
+        "content": "Ärztemangel und Nachfolger-Probleme in NRW: Jeder dritte Hausarzt ist älter als 60 Jahre"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      {
+        "property": "og:description",
+        "content": "Hausärzte sind gefragt in Nordrhein-Westfalen, vor allem in der Voreifel, im Bergischen Land und in der Region Westfalen-Lippe fehlt es an Medizinern, die Praxen übernehmen oder eröffnen. Förderprogramme sollen Ärzte in unterversorgte Regionen locken.  "
+      },
+      {
+        "property": "og:image",
+        "content": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_4276e1ec3d0aae475c92f594b785e05e/w1200_h630_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Hausärzte sind gefragt in Nordrhein-Westfalen, vor allem in der Voreifel, im Bergischen Land und in der Region Westfalen-Lippe fehlt es an Medizinern, die Praxen übernehmen oder eröffnen. Förderprogramme sollen Ärzte in unterversorgte Regionen locken.  "
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_4276e1ec3d0aae475c92f594b785e05e/w1200_h630_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": "panorama",
+      "contentType": "PlusArtikel",
+      "analyticsUrl": "/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041",
+      "author": "Claudia Hauser",
+      "date": "2019-05-03T14:47:00+0200",
+      "datePublished": "2019-05-03 14:47",
+      "dateModified": "2019-05-03 16:14",
+      "daysSincePublication": "+0 days",
+      "origin": "4",
+      "seo": "/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=53570583&cstr=38548041&l=1251&tit=NRW%3A+%C4rztemangel+-+Jeder+dritte+Hausarzt+ist+%E4lter+als+60+Jahre&url=https%3A%2F%2Frp-online.de%2Fnrw%2Fpanorama%2Fnrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041&sep=%7C&tce=1&tid=64697&tn=64600&tp=50327%7C64600&tpn=50327%7C64600&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "nrw",
+      "secondaryLevel": "panorama",
+      "contentGroup": "",
+      "interredBID": 53570583,
+      "interredCID": 38548041,
+      "title": "Jeder dritte Hausarzt ist älter als 60 Jahre",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Jeder dritte Hausarzt ist älter als 60 Jahre",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AJeder dritte Hausarzt ist älter als 60 Jahre%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "false",
+      "cms_id": 38548041,
+      "doctype": "article",
+      "contentid": "/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041",
+      "channel": 64600,
+      "subchannel": 64697,
+      "heading": "Jeder dritte Hausarzt ist älter als 60 Jahre",
+      "kicker": "Köln",
+      "tag": "panorama"
+    },
+    "links": [
+      {
+        "rel": "amphtml",
+        "href": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041?output=amp"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/panorama/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      }
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041"
+      },
+      "headline": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_61c972b8875005bb2e155e33ea859482/w950_h526_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-05-03T14:47:00+0200",
+      "dateModified": "2019-05-03T16:14:03+0200",
+      "author": {
+        "@type": "Person",
+        "name": "Claudia Hauser"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Hausärzte sind gefragt in Nordrhein-Westfalen, vor allem in der Voreifel, im Bergischen Land und in der Region Westfalen-Lippe fehlt es an Medizinern, die Praxen übernehmen oder eröffnen. Förderprogramme sollen Ärzte in unterversorgte Regionen locken.  ",
+      "isAccessibleForFree": "True"
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/rp-online.de/localnews/leaderboard_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                960,
+                90
+              ],
+              [
+                970,
+                66
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                110
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/rp-online.de/localnews/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/localnews/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/rp-online.de/localnews/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/halfpagead_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/localnews/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                275
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "38548041",
+          "pfad1": "nrw",
+          "pfad2": "panorama",
+          "pfad3": "stop",
+          "mode": "desktop",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "38548041",
+          "pfad1": "nrw",
+          "pfad2": "panorama",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/localnews/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_3",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_4",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/localnews/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "38548041",
+          "pfad1": "nrw",
+          "pfad2": "panorama",
+          "pfad3": "stop",
+          "mode": "mobile",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "38548041",
+          "pfad1": "nrw",
+          "pfad2": "panorama",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/vertriebsicon_50x50-4f1c5dd61fa27c3a.jpg",
+      "text": "",
+      "href": "https://leserservice.rp-online.de/services/rp-osc/abo-shop.htm?digital=E-RP_EPRO_24_NO;96162&ai=RPO;D77N046V",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Panorama",
+                        "href": "https://rp-online.de/nrw/panorama/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Jeder dritte Hausarzt ist älter als 60 Jahre"
+                    },
+                    "id": 38548041,
+                    "kicker": {
+                      "text": "Ärztemangel und Nachfolger-Probleme in NRW"
+                    },
+                    "timestamp": "1556887620",
+                    "contentLabel": [],
+                    "cover": {
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_d6cd3fe2300e62842fb009bd202cccee/w250_h138_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "400w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_ab398e1cd77724f5f55ddb54ffba7dac/w400_h221_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "600w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_301a3774724c0b6a43db80c8799ceb1c/w600_h332_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "900w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_d9b446cf568d4f80078a259a9d683108/w900_h498_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "950w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_61c972b8875005bb2e155e33ea859482/w950_h526_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "1200w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_21d95ad0fc027f46d2a40eafdf72ba7d/w1200_h664_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                        "1900w": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_79e459a4eb05e5be2a344f88597d7976/w1900_h1052_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg"
+                      },
+                      "src_zoom": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_30080a4d76ae7b8aa3fc309da6ee9df2/w1900_h1264_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                      "src_fit": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_e44921c390f34891d8ff5cfca24116f2/w790_h526_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg",
+                      "alt": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre",
+                      "caption": " NRW braucht Hausärzte, die in ländlichen Gebieten praktizieren wollen. (Symbolbild) ",
+                      "source": {
+                        "text": "dpa"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://rp-online.de/imgs/32/5/3/5/7/0/5/8/3/tok_30080a4d76ae7b8aa3fc309da6ee9df2/w1900_h1264_x1500_y998_20160814_bfunk_dpa_14921C00B1A878AC-e77ec898eb684f0f.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Köln",
+                    "intro": "Hausärzte sind gefragt in Nordrhein-Westfalen, vor allem in der Voreifel, im Bergischen Land und in der Region Westfalen-Lippe fehlt es an Medizinern, die Praxen übernehmen oder eröffnen. Förderprogramme sollen Ärzte in unterversorgte Regionen locken.  ",
+                    "sign": "",
+                    "fragmentCount": 5,
+                    "authorsbox": {
+                      "text": "Von Claudia Hauser",
+                      "authors": [
+                        {
+                          "src": "https://rp-online.de/imgs/33/2/6/0/3/8/4/5/1/1.6316896-d73b6814cc14961a.jpg",
+                          "name": "Claudia Hauser",
+                          "position": "Reporterin",
+                          "bio": "Claudia Hauser (hsr) ist Reporterin für das südliche Rheinland bei RP Online.",
+                          "links": {
+                            "profile": "/autor/claudia-hauser/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"mobilebanner_2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"halfpagead\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"> In den großen Städten dürfte niemand ein Problem haben, einen Allgemeinmediziner zu finden: In Düsseldorf etwa gibt es pro 100.000 Einwohner 70,4 Hausärzte, in Köln 71,3 und in Bonn sogar 78,7. Aber in den ländlichen Regionen Nordrhein-Westfalens sieht das anders aus. Für den Kreis Viersen etwa sind 62,5 Allgemeinmediziner für 100.000 Einwohner zuständig, für Wesel 56,2. In der Stadt Herford gibt es mit 50,4 Hausärzten die wenigsten bundesweit. Kaufbeuren in Bayern ist dagegen mit 95,9 Hausärzten am besten aufgestellt. Die Region Westfalen-Lippe hat mit 59,9 Ärzten pro 100.000 Einwohner den größten Hausärztemangel in der gesamten Bundesrepublik.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Der<a href=\"/nrw/panorama/aerzte-in-nrw-wo-es-auf-dem-land-besonders-wenig-gibt_aid-38538077\" target=\"_blank\"> Ärztemangel auf dem Land </a>ist seit Jahren Thema – NRW liegt nach aktuellen Zahlen des Bundesarztregisters insgesamt noch im Mittelmaß. Eine gesetzliche „Bedarfsplanung“ regelt, wie viele Ärzte in bestimmten Regionen und Städten niedergelassen sein sollten. „Gemessen an diesen Vorgaben liegt derzeit in keinem haus- und fachärztlichen Versorgungsbereich eine Unterversorgung vor“, sagt Christopher Schneider von der Kassenärztlichen Vereinigung Nordrhein (KV Nordrhein). Die letzte Prüfung fand demnach im Februar 2019 statt.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Aber es gibt im Rheinland eine „wachsende Zahl von unbesetzten hausärztlichen Sitzen“, erklärt Schneider. <a href=\"/nrw/staedte/hueckeswagen/hueckeswagen-der-hausarzt-ist-vom-aussterben-bedroht_aid-37093005\" target=\"_blank\">Vor allem fehlt es an Nachfolgern, wenn ein Landarzt seine Praxis etwa aus Altersgründen aufgibt. </a>Dieses Problem wird in den kommenden Jahren noch wachsen: Etwa jeder dritte heute noch aktive Hausarzt in Nordrhein-Westfalen ist älter als 60 Jahre und wird in den kommenden Jahren wahrscheinlich einen Praxisnachfolger suchen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "figure",
+                              "data": {
+                                "type": "image",
+                                "width": 950,
+                                "height": 526,
+                                "src": {
+                                  "250w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_2d27ecbeb5cec0905410f709ddda2803/w250_h138_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "400w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_03b13235c2077a45d584f53dd7436785/w400_h221_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "600w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_9b758ba585115b397b4d149a72e40924/w600_h332_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "900w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_762593b32cb4bc49a284361da2a891e3/w900_h498_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "950w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_c81fcf48e0203b9ae90b4bafc53f55a7/w950_h526_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "1200w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_a1565645dcefbf7403e963799f385b9a/w1200_h664_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg",
+                                  "1900w": "https://rp-online.de/imgs/32/5/3/5/4/3/2/7/5/tok_bce16a8015b5bdb49fa4180165ed083e/w1900_h1052_x1500_y921_DPA_bfunk_dpa_5F9C7600122F03A5-83ad6a768f4e1d3e.jpg"
+                                },
+                                "alt": "",
+                                "source": {
+                                  "text": "dpa/Daniel Karmann"
+                                },
+                                "caption": "Hausarztpraxen in NRW\n",
+                                "link": {
+                                  "type": "info",
+                                  "text": "Infos",
+                                  "href": "/nrw/panorama/hausarztpraxen-in-nrw_iid-38541169"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_e36a38fed2c91ae7151a6a08c2ffcf3f/w306_h175_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                              "alt": "Helmut Beckert mit Mitarbeiterin Claudia Kramer:",
+                              "href": "/nrw/staedte/hueckeswagen/hueckeswagen-der-hausarzt-ist-vom-aussterben-bedroht_aid-37093005",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Landarztquote"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Der Hausarzt ist vom Aussterben bedroht"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_026a1ad8ba9c20dbd19480a69a52dd44/w306_h175_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                              "alt": "Auch in Kerken gibt es Sorgen,",
+                              "href": "/nrw/staedte/geldern/kerken-will-dem-aerztemangel-begegnen_aid-37350501",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "SPD will Runden Tisch"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kerken will dem Ärztemangel begegnen"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_5dfd5ec6e32b13cecbec40eb9a766db9/w306_h175_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                              "alt": "Ein Landarzt nimmt sein Stethoskop aus",
+                              "href": "/nrw/landespolitik/aerztemangel-nrw-fuehrt-landarztquote-in-medizinstudiengaengen-ein_aid-35083465",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Acht Prozent der Studienplätze"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW führt Landarztquote in Medizinstudiengängen ein"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Um dieser Versorgungslücke entgegenzusteuern, gibt es in NRW ab dem kommenden Wintersemester 145 Landarzt-Studienplätze. Wer einen Platz erhält, verpflichtet sich, nach der Aus- und Weiterbildung zehn Jahre als Hausarzt in einer unterversorgten Region zu arbeiten. Wer den Vertrag nicht erfüllt, muss mit einer Strafe in Höhe von 250.000 Euro rechnen. Die neuen Landarzt-Studienplätze sind gefragt: Von Ende März bis Ende April gingen 1312 Bewerbungen ein, wie das Gesundheitsministerium am Freitag mitteilte. Auf einen Studienplatz kommen somit neun Bewerber. „Der hohe Zuspruch zeigt einmal mehr: Wir haben mit der Landarztquote den Nerv der Zeit getroffen“, sagte Gesundheitsminister Karl-Josef Laumann (CDU).</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die KV Nordrhein bietet seit Mitte 2018 auch ein spezielles Förderprogramm, den so genannten Strukturfond. Die Förderung hält bis zu 70.000 Euro für jeden Arzt bereit, der eine Hausarztpraxis in unterversorgten Regionen eröffnet oder übernimmt. Das Geld ist an die Verpflichtung geknüpft, dort mindestens fünf Jahre tätig zu sein. Großer Bedarf besteht nach Angaben der KV Nordrhein in der Voreifelregion, im Bergischen Land und am linken Niederrhein. Nach Berechnungen des Bedarfsplans gibt es im Rheinland insgesamt etwa 250 freie Hausarztsitze, die besetzt werden könnten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"><em>Mit Material der dpa</em></p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041\" data-widget-id=\"AR_10\"></div>\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>"
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/panorama/nrw-aerztemangel-jeder-dritte-hausarzt-ist-aelter-als-60-jahre_aid-38548041\" data-widget-id=\"AR_10\"></div>\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>"
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"dev.rp-online.de\";\r\n            var rpd_adunit2 = \"contentad_inreco_1\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"contentad_inreco_1\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"mobilebanner_3\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_29607e8d6432ef9de1609bd9c8dffab1/w250_h140_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_4bcd379359f87394d7908b54b6d4cc2a/w400_h224_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_388f17a3ba49a73660875d87ae3db205/w600_h336_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_d962433e22ee9f11c34f10a090f36dda/w900_h504_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_2d8fd26816087814c3e5aae76fc22ed1/w950_h532_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_4ee2170db9ac76a45c10669a02ff1c68/w1200_h672_x1796_y1009_20190226_122219-913d708d253d741d.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/9/3/9/3/5/7/5/tok_b6414455d4ff4d604932d38556b292e9/w1900_h1064_x1796_y1009_20190226_122219-913d708d253d741d.jpg"
+                        },
+                        "alt": "Helmut Beckert mit Mitarbeiterin Claudia Kramer:",
+                        "href": "/nrw/staedte/hueckeswagen/hueckeswagen-der-hausarzt-ist-vom-aussterben-bedroht_aid-37093005",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Landarztquote"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Der Hausarzt ist vom Aussterben bedroht"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_d5f14cd65d07bb26c030b9d1d3471610/w250_h140_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                          "400w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_03d75a790761b3bead397a22e1a9faeb/w400_h224_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                          "600w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_084b850703d4741dc1a92cf29a2ca83e/w600_h336_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                          "900w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_4e0c952cd5a701095f736885d96cdfa4/w900_h504_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                          "950w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_0fd9adbc7a380135aea8ced4fcc01f98/w950_h532_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/5/0/0/2/1/0/7/7/tok_8793dc2fb60616075647ad4d00422dbb/w1200_h672_x600_y376_RP_49917885_1124267443_RGB_190_1_1_13a9f9c9d0d78d9da1f93c7d14df07d9_1552299989_1124267443_b3c2f4b60c-fa74f9a8cc160e19.jpg"
+                        },
+                        "alt": "Auch in Kerken gibt es Sorgen,",
+                        "href": "/nrw/staedte/geldern/kerken-will-dem-aerztemangel-begegnen_aid-37350501",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "SPD will Runden Tisch"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Kerken will dem Ärztemangel begegnen"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_b36736c9841114eec537be2fb619da78/w250_h140_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_bd208fa016f5251f2a3026efe282b412/w400_h224_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_e8d34cf3afac927b32dd3f4584c3506a/w600_h336_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_5b0365d5adf0f7d6f1e93c2862de3d86/w900_h504_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_5b364616d42352bb29c1dc114d81f0c8/w950_h532_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_5c5920902f25258e4b8500142e77ce94/w1200_h672_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/4/1/9/1/9/2/1/tok_37106a7f27f9d1dce10042351cefab3e/w1900_h1064_x470_y44_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg"
+                        },
+                        "alt": "Ein Landarzt nimmt sein Stethoskop aus",
+                        "href": "/nrw/landespolitik/aerztemangel-nrw-fuehrt-landarztquote-in-medizinstudiengaengen-ein_aid-35083465",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Acht Prozent der Studienplätze"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "NRW führt Landarztquote in Medizinstudiengängen ein"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"mobilebanner_4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"halfpagead_2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 23235639,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_030e63e64b69bcfc4779c14bb5de0dda/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "400w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_668f28360259b013f2e6a5e450dca47d/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "600w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_e94cae11d0ed5e211e6afa03d03d539c/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "900w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_add6c3e92eb36159e58413c6e12fa880/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "950w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_b0cf4052934abdb5e1ed98fcede97a44/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_4a2278bdf1d66246c0a6525bfe51d04d/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/2/7/2/8/9/9/5/1/tok_d182d0e858a716ad594bd9d7ed9429f3/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F998A002BC6DBE0-32fb030bfe785bd3.jpg"
+                              },
+                              "alt": "Karl-Josef Laumann (CDU), Minister für Arbeit,",
+                              "href": "/nrw/landespolitik/nrw-fuehrt-landarztquote-im-medizinstudium-ein_aid-23235639",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Tricksern drohen Strafen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW führt Landarztquote im Medizinstudium ein "
+                              }
+                            },
+                            {
+                              "id": 24203595,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/3/0/1/2/3/6/7/5/tok_8136ec0c8701f9a2369543ef85352737/w250_h187_x236_y200_RP_30093093_662115909_4c_190_1_1_41cd09ceb32914b6fdc581a0a1721c34_1533299765_662115909_34d08589b5-c87ef03a9c6217ee.jpg",
+                                "400w": "https://rp-online.de/imgs/32/3/0/1/2/3/6/7/5/tok_0b41ee6285115e6f936bd387d7413c8a/w400_h300_x236_y200_RP_30093093_662115909_4c_190_1_1_41cd09ceb32914b6fdc581a0a1721c34_1533299765_662115909_34d08589b5-c87ef03a9c6217ee.jpg"
+                              },
+                              "alt": "Johann Heinrich Arens leitet das Hausarztzentrum.",
+                              "href": "/nrw/staedte/viersen/robert-bosch-stiftung-foerdert-hausarztzentrum-brueggen_aid-24203595",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Brüggen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Hausarzt-Zentrum bekommt 100.000 Euro"
+                              }
+                            },
+                            {
+                              "id": 38538077,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_75ea0616e8c0cd9739dc70107f3758e6/w250_h187_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_3e6075994a554de4eae0d763444fe27d/w400_h300_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_29bb6ad11d59a30ac198fa3b8aa04dbf/w600_h450_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_adc3fa3a2431f6e90b5810f8daf8dc93/w900_h675_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_99aa9986e718fd2de00ba542cc3cf230/w950_h712_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_b52b072a820c358ef6e2da8496ca8a86/w1200_h900_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/3/3/3/3/7/tok_076921a5f03b5336b1b8f8214ca5f732/w1900_h1425_x1500_y870_DPA_bfunk_dpa_5F9B040077B83F76-9e0df5d078d278f2.jpg"
+                              },
+                              "alt": "In den ländlichen Gebieten von NRW",
+                              "href": "/nrw/panorama/aerzte-in-nrw-wo-es-auf-dem-land-besonders-wenig-gibt_aid-38538077",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Aktuelle Zahlen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Wo es auf dem Land in NRW besonders wenig Ärzte gibt"
+                              }
+                            },
+                            {
+                              "id": 38551121,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_3b41dd938aaa2502a7a20edf740f89e6/w250_h187_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_e2e7708d59c6e44a620c0a5ca368e001/w400_h300_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_a7221b70b9ce5c92b6d7e694d38aae5e/w600_h450_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_53674bff2b483e53415bcaa6665035fc/w900_h675_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_14f67cbcabdb5d1d1e3da9b007c55967/w950_h712_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_d7ef06691b6f9607726dabcfcaef6378/w1200_h900_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg"
+                              },
+                              "alt": "Der ausgebrannte und zum Teil eingestürzte",
+                              "href": "/nrw/panorama/brand-in-schleiden-15-jaehriger-soll-mehrere-feuer-in-eifel-gelegt-haben_aid-38551121",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Staatsanwaltschaft beantragt Haftbefehl"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "15-Jähriger gesteht Brandserie in der Eifel"
+                              }
+                            },
+                            {
+                              "id": 38547835,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_7cc77004d718de8a8898a862c8104ff4/w250_h187_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_d9c2e21966a1d2d1af753572727b4f8d/w400_h300_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_c12091e3b7152944023dcb0edcc71180/w600_h450_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_906c781338644efb1c7c1404e7c21802/w900_h675_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_29fcf0c7fd80391898761161c12b4aa7/w950_h712_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_62559366c57554064c81a42b60300ee6/w1200_h900_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_a790bba668a04770b2f868681f770b4b/w1900_h1425_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg"
+                              },
+                              "alt": "Behälter stehen in einer Lagerhalle in",
+                              "href": "/nrw/panorama/preussisch-oldendorf-grosses-drogenlabor-nach-lagerhallen-brand-aufgedeckt_aid-38547835",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nach Lagerhallen-Brand"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Großes Drogenlabor in Preußisch Oldendorf aufgedeckt"
+                              }
+                            },
+                            {
+                              "id": 38549007,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/7/4/5/0/1/tok_92a0119ea7184eee7a4ac91cf74f05bb/w250_h187_x284_y195_Unbenannt-315ac79b363cf7d7.JPG",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/7/4/5/0/1/tok_b1ff70f8c8fb2780ab780137a516b40a/w400_h300_x284_y195_Unbenannt-315ac79b363cf7d7.JPG"
+                              },
+                              "alt": "Mit diesem Foto fahndet die Polizei",
+                              "href": "/nrw/panorama/guetersloh-speicherkarte-mit-kindesmissbrauchsszenen-gefunden_aid-38549007",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Polizei Gütersloh fahndet mit Foto"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Unbekannter verliert Speicherkarte mit Kindesmissbrauchsszenen"
+                              }
+                            },
+                            {
+                              "id": 23295237,
+                              "type": "article",
+                              "href": "/nrw/staedte/viersen/kreis-viersen-droht-aerztemangel_aid-23295237",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kreis Viersen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kreis Viersen droht Ärztemangel"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 38551121,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_3b41dd938aaa2502a7a20edf740f89e6/w250_h187_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_e2e7708d59c6e44a620c0a5ca368e001/w400_h300_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_a7221b70b9ce5c92b6d7e694d38aae5e/w600_h450_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_53674bff2b483e53415bcaa6665035fc/w900_h675_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_14f67cbcabdb5d1d1e3da9b007c55967/w950_h712_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/8/3/5/3/3/tok_d7ef06691b6f9607726dabcfcaef6378/w1200_h900_x800_y600_DPA_bfunk_dpa_5F9AE80073B4B6A9-b1ce31c2a285b702.jpg"
+                              },
+                              "alt": "Der ausgebrannte und zum Teil eingestürzte",
+                              "href": "/nrw/panorama/brand-in-schleiden-15-jaehriger-soll-mehrere-feuer-in-eifel-gelegt-haben_aid-38551121",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Staatsanwaltschaft beantragt Haftbefehl"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "15-Jähriger gesteht Brandserie in der Eifel"
+                              }
+                            },
+                            {
+                              "id": 38547835,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_7cc77004d718de8a8898a862c8104ff4/w250_h187_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_d9c2e21966a1d2d1af753572727b4f8d/w400_h300_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_c12091e3b7152944023dcb0edcc71180/w600_h450_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_906c781338644efb1c7c1404e7c21802/w900_h675_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_29fcf0c7fd80391898761161c12b4aa7/w950_h712_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_62559366c57554064c81a42b60300ee6/w1200_h900_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/9/7/3/9/tok_a790bba668a04770b2f868681f770b4b/w1900_h1425_x1500_y980_DPA_bfunk_dpa_5F9D3A00349DDC66-f4695928704415fc.jpg"
+                              },
+                              "alt": "Behälter stehen in einer Lagerhalle in",
+                              "href": "/nrw/panorama/preussisch-oldendorf-grosses-drogenlabor-nach-lagerhallen-brand-aufgedeckt_aid-38547835",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nach Lagerhallen-Brand"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Großes Drogenlabor in Preußisch Oldendorf aufgedeckt"
+                              }
+                            },
+                            {
+                              "id": 38549007,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/7/4/5/0/1/tok_92a0119ea7184eee7a4ac91cf74f05bb/w250_h187_x284_y195_Unbenannt-315ac79b363cf7d7.JPG",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/7/4/5/0/1/tok_b1ff70f8c8fb2780ab780137a516b40a/w400_h300_x284_y195_Unbenannt-315ac79b363cf7d7.JPG"
+                              },
+                              "alt": "Mit diesem Foto fahndet die Polizei",
+                              "href": "/nrw/panorama/guetersloh-speicherkarte-mit-kindesmissbrauchsszenen-gefunden_aid-38549007",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Polizei Gütersloh fahndet mit Foto"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Unbekannter verliert Speicherkarte mit Kindesmissbrauchsszenen"
+                              }
+                            },
+                            {
+                              "id": 38546149,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_22a614aced576f2e5f39ac6f516b524e/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_68954a23c23530c34f112e03c28a9c36/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_8c461ccd29664a5032c0b75291470879/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_75cbb3f148e775964c0747ba6592919e/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_ac8def22e580aed8f41151f735010404/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_82565d3d2b16db02b495990aa229d8ac/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/3/4/2/1/tok_852fec53d754d4f360b570c6a13a81d9/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9D2000CBEE0CB7-d855c1b5f469d40a.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/panorama/fall-luegde-missbrauch-auf-campingplatz-zahl-der-opfer-steigt-auf-41_aid-38546149",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Missbrauchsfall Lügde"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Zahl der Opfer steigt auf 41"
+                              }
+                            },
+                            {
+                              "id": 38546141,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_1b374a9ba63f8d1311fddf4a3210f96a/w250_h187_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_b90415e9ff82b0762bc35af528009764/w400_h300_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_358deb574138e35c662b5eae714c462e/w600_h450_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_6ecdebe597885417dd7efcfd2ee4bf35/w900_h675_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_6c0a36f4e04340f5117889569ffc8918/w950_h712_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_64c781c7f814e2068e14f471f585a5eb/w1200_h900_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/3/3/5/7/tok_5dc8f3efbcffc1d25443cb1fb46fc312/w1900_h1425_x1428_y1119_DPA_bfunk_dpa_5F9B14005B4E1C15-aaceeaa485391009.jpg"
+                              },
+                              "alt": "Ein Landarzt nimmt sein Stethoskop aus",
+                              "href": "/nrw/panorama/nrw-grosser-andrang-auf-landarzt-studienplaetze_aid-38546141",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "1312 Bewerbungen auf 145 Plätze"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Großer Andrang auf Landarzt-Studienplätze in NRW"
+                              }
+                            },
+                            {
+                              "id": 38545655,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_e7905140c2bfb1276ab2169e7f77badb/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_7e7f117b0cc6165c95fe4f0f2c1270e5/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_95caa138ba5b722ffdeb1e95d9db422f/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_6150e2f958eb710ccedaa9b1b61b769b/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_0344f080e209ff06bffaf37ab0f87594/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_e0ab014bceed0a0f4623c2fa17ccd7d2/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/1/6/2/9/tok_1ec2b081966eebfae8a09f8fb72915a6/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9D460036D2A329-2545585b6b9088e1.jpg"
+                              },
+                              "alt": "Lkw stauen sich auf der Talbrücke",
+                              "href": "/nrw/panorama/rinsdorf-100000-tonnen-schwere-autobahn-bruecke-wird-verschoben_aid-38545655",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Einzigartiges Projekt in NRW"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "100.000 Tonnen schwere Autobahn-Brücke wird verschoben"
+                              }
+                            },
+                            {
+                              "id": 38545595,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_d93c4c33edf20d910194df5e03f193a9/w250_h187_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_4668eda8d14bb6df535c044c8ceac18f/w400_h300_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_e69e8e068eed0589db0686362cc4a603/w600_h450_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_13cf2995381441ca8b65b49367c5cbdb/w900_h675_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_56c26d4385804aa472267f06d32c76a9/w950_h712_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_1c562c1567c96aaccb98d14b4a4e1a86/w1200_h900_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/6/1/3/6/3/tok_5a72c319cf0ee4c7e31f7da1716db3c6/w1900_h1425_x1500_y988_DPA_bfunk_dpa_5F9D46003A18F64D-fb2e0a563f447393.jpg"
+                              },
+                              "alt": "Eine Schülerin im Rollstuhl (Symbolbild).",
+                              "href": "/nrw/panorama/inklusion-in-nrw-gemeinsam-lernen-mit-behinderten-betroffene-fuehlen-sich-getaeuscht_aid-38545595",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Inklusion in NRW"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Gemeinsam Lernen mit Behinderten - Betroffene fühlen sich getäuscht"
+                              }
+                            },
+                            {
+                              "id": 38544151,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_26ab1a16cd6f066d4bb6dd885cd14ee4/w250_h187_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_722dbe6e25c168f65a2105ce061cf1ae/w400_h300_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_39f5b407977f6ae507ee77822798cc57/w600_h450_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_9df10c21f908a27b52e1a826a4b45d98/w900_h675_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_f2d4c3d3f8b5718d37af87e6853ad967/w950_h712_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_bf73d5ecf642b396b5deb6703bace62e/w1200_h900_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/5/6/2/0/1/tok_86d7d762b30177188397f9008d5c75dc/w1900_h1425_x1796_y1165_RTR_2019-05-03T104109Z_1383872266_RC14B77467F0_RTRMADP_3_RWE-AGM-01fd4534df0f4381.JPG"
+                              },
+                              "alt": "",
+                              "href": "/nrw/panorama/essen-zahlreiche-proteste-bei-hauptversammlung-von-rwe_aid-38544151",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "„Fridays for Future“ in Essen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Zahlreiche Proteste bei Hauptversammlung von RWE"
+                              }
+                            },
+                            {
+                              "id": 38543379,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/5/3/0/5/7/tok_dde4a782c99e5edb95e5e7d0b51207e2/w250_h187_x470_y264_7e0388553bb7afae.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/5/3/0/5/7/tok_1d83be7f682a1b2192343441f1d0fa79/w400_h300_x470_y264_7e0388553bb7afae.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/5/3/0/5/7/tok_b170025c340e8a03fca2b3ca576505a7/w600_h450_x470_y264_7e0388553bb7afae.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/5/3/0/5/7/tok_7847e81f540034bd78977c7e2c21c28d/w900_h528_x470_y264_7e0388553bb7afae.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/panorama/dortmund-cannabis-messe-cnbs-hanf-messe-am-45-und-65_aid-38543379",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kleidung, Kosmetik, Kuchen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Auf dieser Messe in Dortmund dreht sich alles um Cannabis"
+                              }
+                            },
+                            {
+                              "id": 38541221,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_cfdd7a897d56ef6469bbb82385834517/w250_h187_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "400w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_9b15836c5e460222027c48bd2500dd82/w400_h300_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "600w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_2e60ca0c3a95f45310eb7be0cb6f55d8/w600_h450_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "900w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_3036d7d3b9eafe660f467220b7d90c70/w900_h675_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "950w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_bef993561b83640d81738abd9cefd865/w950_h712_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_b5fde0e15c5d60a0a232e054ce0de299/w1200_h900_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/5/3/5/4/3/6/3/5/tok_4f8c4e18630d4e972724299d5e1cfc23/w1900_h1294_x1000_y647_DPA_bfunk_dpa_5F9D440047A6E1F3-8d211f9bad4898c9.jpg"
+                              },
+                              "alt": "Der Tatort in Weilerswist.",
+                              "href": "/nrw/panorama/weilerswist-sohn-gesteht-toetung-seiner-eltern_aid-38541221",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Familiendrama in Weilerswist"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Sohn gesteht Tötung seiner Eltern"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "NRW: Ärztemangel - Jeder dritte Hausarzt ist älter als 60 Jahre"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Unser Community-Dienst ist am Samstag ausnahmsweise nicht besetzt. Wir öffnen den Kommentarbereich wieder am Sonntag. Wir freuen uns, wenn Sie dann wie gewohnt mit uns diskutieren."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 53570583,
+                      "url": "",
+                      "counturl": ""
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/kundenservice/abonnementservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": ""
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/dinslaken/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Solutions",
+              "href": "https://www.rp-digital-solutions.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Zeitungsarchiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "News to Use",
+              "href": "https://www.news-to-use.de/?utm_source=RPO&utm_medium=Navi&utm_campaign=news2use",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Aktion Zeitungspate",
+              "href": "/schulprojekte/zeitungspate/?utm_source=RPO&utm_medium=Navi&utm_campaign=zeitungspate",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Vergleichstests",
+              "href": "https://vergleich.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

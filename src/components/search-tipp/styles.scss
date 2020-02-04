@@ -1,0 +1,79 @@
+.park-search-tipp {
+  position: relative;
+  padding: $global-spacing 0;
+  background-color: #5a5f65;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 15 23' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.84 11.42l.01.02L3.43 22.86.57 19.99l8.56-8.56L.56 2.86 3.42 0l11.42 11.42z' fill='#{$global-brand-color}'/%3E%3C/svg%3E");
+  background-position: right center;
+  background-position: right $global-spacing center;
+  background-size: rem(40px) rem(40px);
+  background-clip: content-box;
+  color: #fff;
+
+  &:hover {
+    background-color: darken(#5a5f65, 8);
+  }
+
+  &__link {
+    @include clearfix;
+
+    display: block;
+    padding: $global-spacing;
+    color: inherit;
+
+    .park-teaser--sugardaddy & {
+      &::before {
+        @extend %sugardaddy-label;
+
+        display: block;
+        float: right;
+        margin-left: $global-spacing;
+      }
+    }
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__kicker {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    margin-bottom: rem(5px);
+    color: $global-brand-color;
+    font-weight: $global-font-weight-sans-serif-bold;
+
+    @include mq(desktop) {
+      margin-bottom: rem(10px);
+    }
+
+    .park-teaser--sugardaddy & {
+      color: $global-advertisement-color;
+    }
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+    @include global-serif-font-size(1);
+
+    display: block;
+    margin-bottom: rem(5px);
+    color: inherit;
+
+    @include mq(desktop) {
+      margin-bottom: rem(10px);
+    }
+  }
+
+  &__intro {
+    @include global-sans-serif-font-size(2);
+
+    margin-bottom: $global-spacing;
+    color: inherit;
+
+    @include mq(mobile) {
+      @include visuallyhidden;
+    }
+  }
+}

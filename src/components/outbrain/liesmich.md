@@ -1,0 +1,1 @@
+Über diese Komponente lässt sich Outbrain einbinden, und zwar bei Bedarf in unterschiedlicher Weise, je nachdem, ob man sich gerade auf `mobile` oder `desktop` befindet.

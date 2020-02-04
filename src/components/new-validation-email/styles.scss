@@ -1,0 +1,31 @@
+.park-new-validation-email {
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+
+  &__paragraph {
+    margin-bottom: $global-spacing;
+  }
+
+  .park-form {
+    padding: 0;
+  }
+
+  /* The following is a trick to artificially increase specificity */
+  .park-button.park-button.park-button {
+    display: inline-block;
+    width: 100%;
+    align-self: stretch;
+  }
+
+  &__aside {
+    @include global-sans-serif-font-size(3);
+
+    margin-top: $global-spacing;
+    text-align: right;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+}

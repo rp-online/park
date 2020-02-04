@@ -1,0 +1,14 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Passwortänderung"
+  },
+  "text": "Bitte geben Sie Ihr neues Passwort ein.",
+  "form": {
+    "action": "#void",
+    "method": "post",
+    "username": "SneakyJoe",
+    "hash": ""
+  },
+  "loginURL": "#void"
+}

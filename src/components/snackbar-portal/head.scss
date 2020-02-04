@@ -1,0 +1,19 @@
+.park-snackbar-portal {
+  .park-snackbar {
+    padding-top: 1px;
+    background-color: #fff;
+    font-size: 0;
+  }
+
+  .park-snackbar__wrapper {
+    justify-content: center;
+
+    .park-portal {
+      margin: rem(4px) auto;
+    }
+  }
+
+  .park-snackbar__close {
+    display: none;
+  }
+}

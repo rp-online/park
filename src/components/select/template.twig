@@ -1,0 +1,133 @@
+{% if multiple is defined and value is defined and value is not iterable %}
+  {% set value = [value] %}
+{% endif %}
+<div class="park-select
+  park-select--{{ name }}
+  {% if multiple is defined and multiple is same as(true) %}
+     park-select--multiple
+  {% endif %}
+  {% if required is defined and required is same as(true) %}
+     park-select--required
+  {% endif %}
+  park-input-group
+  park-input-group--select"
+  {% if multiple is defined and multiple is same as(true) and max is defined and max %}
+    data-max="{{ max }}"
+  {% endif %}
+  {% if validationMessage is defined and validationMessage %}
+  data-validation-message="{{ validationMessage }}"
+  {% endif %}>
+  {% set uuid = random() %}
+  <label id="park-select__label-{{ uuid }}"
+         for="park-select__select-{{ uuid }}"
+         tabindex="-1"
+         class="park-select__label{% if labelHidden is defined and labelHidden is same as(true) %} park-select__label--is-hidden{% endif %}">{{ label }}
+    {% if required is defined and required is same as(true) %}
+      <abbr class="park-select__required" title="Dieses Eingabefeld ist erforderlich">*</abbr>
+    {% endif %}</label>
+  {% if multiple is not defined or multiple is not same as(true) %}
+    <select id="park-select__select-{{ uuid }}"
+            class="park-select__select"
+      {% if name is defined %}
+        name="{{ name }}"
+      {% endif %}
+      {% if hint is defined and hint %}
+        aria-labelledby="park-select__label-{{ uuid }} park-select__hint-{{ uuid }}"
+      {% endif %}
+      {% if autocomplete is defined is same as(true) %}
+        autocomplete="{{ autocomplete }}"
+      {% endif %}
+      {% if required is defined and required is same as(true) %}
+        required
+      {% endif %}
+      {% if readonly is defined and readonly is same as(true) %}
+        readonly
+      {% endif %}
+      {% if disabled is defined and disabled is same as(true) %}
+        disabled
+      {% endif %}>
+      {% if placeholder is defined %}
+        <option value=""
+                class="park-select__option park-select__option--placeholder">{{ placeholder|escape('html') }}</option>
+      {% endif %}
+      {% for option in options %}
+        <option value="{{ option.value|escape('html') }}"
+                {% if value is defined and value == option.value %}selected{% endif %}
+                class="park-select__option park-select__option--{{ option.value|escape('html') }}">{{ option.label|escape('html') }}</option>
+      {% endfor %}
+    </select>
+  {% else %}
+    <span id="park-select__select-{{ uuid }}"
+          class="park-select__multiple-input"
+      {% if hint is defined and hint %}
+        aria-labelledby="park-select__label-{{ uuid }} park-select__hint-{{ uuid }}"
+      {% endif %}
+      {% if placeholder is defined %}
+        data-placeholder="{{ placeholder }}"
+      {% endif %}
+      {% if required is defined and required is same as(true) %}
+        aria-required="true"
+      {% endif %}
+      {% if readonly is defined and readonly is same as(true) %}
+        aria-readonly="true"
+      {% endif %}
+      {% if disabled is defined and disabled is same as(true) %}
+        aria-disabled="true"
+      {% endif %}
+          aria-autocomplete="list"
+          aria-owns="park-select__multiple-list-{{ uuid }}">
+      <span class="park-select__multiple-editor" contenteditable="true"></span>
+    </span>
+    <select multiple
+            size="10"
+      {% if name is defined %}
+        name="{{ name }}[]"
+      {% endif %}
+      {% if required is defined and required is same as(true) %}
+        required
+      {% endif %}
+            class="park-select__multiple-hidden-input">
+      {% set selectedOptions = [] %}
+      {% set unselectedOptions = [] %}
+      {% if value is defined and value is iterable %}
+        {% for currentValue in value %}
+          {% for option in options %}
+            {% if currentValue is same as(option.value) %}
+              {% set selectedOptions = selectedOptions|merge([option]) %}
+            {% endif %}
+          {% endfor %}
+        {% endfor %}
+      {% endif %}
+      {% for option in options %}
+        {% if value is not defined or value is not iterable or option.value not in value %}
+          {% set unselectedOptions = unselectedOptions|merge([option]) %}
+        {% endif %}
+      {% endfor %}
+      {% for option in selectedOptions %}
+        <option value="{{ option.value }}" selected>{{ option.label }}</option>
+      {% endfor %}
+      {% for option in unselectedOptions %}
+        <option value="{{ option.value }}">{{ option.label }}</option>
+      {% endfor %}
+    </select>
+    <button class="park-select__multiple-toggle"
+            type="button"
+            aria-controls="park-select__multiple-list-{{ uuid }}"
+            aria-expanded="false">Optionen anzeigen
+    </button>
+    <ul id="park-select__multiple-list-{{ uuid }}"
+        class="park-select__multiple-list"
+        role="listbox"
+        aria-hidden="true">
+      {% for option in options %}
+        <li class="park-select__multiple-listitem"
+            role="listitem"
+            tabindex="0"
+            data-value="{{ option.value }}">{{ option.label }}</li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  {% if hint is defined and hint %}
+    <span id="park-select__hint-{{ uuid }}" tabindex="-1" class="park-select__hint">{{ hint|raw }}</span>
+  {% endif %}
+</div>

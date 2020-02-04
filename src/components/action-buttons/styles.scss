@@ -1,0 +1,57 @@
+.park-action-buttons {
+  @include buttons-bar;
+
+  .park-portal-marker &,
+  .is-advertorial & {
+    display: none;
+  }
+
+  .park-button--style-comments {
+    position: relative;
+    overflow: hidden;
+    margin-right: 0;
+
+    > .park-button__icon {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: rem(20px);
+      height: rem(20px);
+      margin: auto;
+    }
+
+    [data-comments-count] {
+      margin-left: rem(22px);
+      padding-right: rem(2px);
+
+      @include mq(desktop) {
+        margin-left: rem(30px);
+      }
+    }
+  }
+
+  @include mq(mobile) {
+    &__button {
+      display: block;
+      margin-right: rem(4px);
+
+      &:last-child {
+        margin-right: 0;
+      }
+
+      [data-comments-count] {
+        &::after {
+          content: attr(data-comments-count);
+          display: inline-block;
+          margin-left: rem(4px);
+          font-size: rem(15px);
+        }
+      }
+
+      > .park-button {
+        display: block;
+      }
+    }
+  }
+}

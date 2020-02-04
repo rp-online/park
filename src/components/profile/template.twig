@@ -1,0 +1,56 @@
+<article class="park-profile"
+         itemscope
+         itemtype="http://schema.org/Person">
+  <div class="park-profile__image">
+    {% if src is defined and src %}
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': name.text,
+        'width': 200,
+        'height': 200,
+        'fit': 'cover',
+        'itemprop': 'image',
+        'sizes': { "mobile": "150px", "desktop": "200px" },
+        'config': config
+      } only %}
+    {% endif %}
+    {% include 'components/button-subscribe/template.twig' with {
+      'itemId': id,
+      'itemType': 'author',
+      'name': name.text,
+      'isCompact': true,
+      'config': config
+    } only %}
+  </div>
+  <div class="park-profile__text">
+    <{{ name.tag }} class="park-profile__name" itemprop="name">{{ name.text }}</{{ name.tag }}>
+  {% if contact is defined and contact is iterable %}
+  <ul class="park-profile__contact">
+    {% for link in contact %}
+    <li class="park-profile__contact-item">
+      {% set content %}
+        {% include 'svg/' ~ link.type ~ '.svg' ignore missing %}{{ link.text }}
+      {% endset %}
+      {% set link = link|merge({
+        'text': content,
+        'classes': [
+          'park-profile__contact-link',
+          'park-profile__contact-link--' ~ link.type
+        ],
+        'attributes': {
+          'itemprop': 'sameAs'
+        },
+        'config': config
+      }) %}
+      {% include 'components/link-helper/template.twig' with link only %}
+    </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+  <p class="park-profile__bio">{{ bio }}</p>
+  <div class="park-profile__long-bio" itemprop="description">{% include 'components/markdown/template.twig' with {
+      'text': longBio,
+      'config': config
+    } only %}</div>
+  </div>
+</article>

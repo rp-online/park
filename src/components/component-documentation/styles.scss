@@ -1,0 +1,78 @@
+.park-component-documentation {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+
+  .park-page-headline {
+    flex: 0 0 auto;
+  }
+
+  &__wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    flex: 1 1 auto;
+    width: 100%;
+  }
+
+  &__description {
+    flex: 1 1 50%;
+    min-width: rem(500px);
+    max-width: rem(800px);
+    border-right: 1px solid #ccc;
+  }
+
+  &__variants {
+    flex: 1 1 50%;
+  }
+
+  &__description,
+  &__variants {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    padding: $global-spacing;
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+
+  .park-section-headline {
+    margin-left: 0;
+  }
+
+  &__content {
+    @include richtext;
+  }
+
+  &__details {
+    margin-bottom: rem(30px);
+  }
+
+  &__summary {
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: 1.5;
+    cursor: pointer;
+
+    > code {
+      padding: 0 rem(2px);
+      background-color: #ccc;
+      color: #000;
+      font-weight: normal;
+    }
+  }
+
+  &__details-content {
+    display: none;
+  }
+
+  &__details[open] &__details-content {
+    display: block;
+  }
+
+  .park-iframe,
+  .park-sourcecode {
+    margin: $global-spacing 0;
+  }
+}

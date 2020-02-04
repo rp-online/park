@@ -1,0 +1,49 @@
+[data-bookmark] {
+  &::before {
+    content: '';
+    position: absolute;
+    backface-visibility: hidden;
+  }
+
+  &.was-just-toggled {
+    .user-is-authenticated & {
+      position: relative;
+      z-index: 1;
+      overflow: visible;
+      opacity: 1 !important;
+      transition-duration: 0s !important;
+
+      &::before {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        top: 50%;
+        left: rem(8px);
+        width: rem(100px);
+        height: rem(100px);
+        box-sizing: border-box;
+        background: lighten($global-brand-color, 35);
+        color: transparentize($global-brand-color, 1);
+        border: solid rem(50px) $global-brand-color;
+        border-radius: 50%;
+        animation-name: park-bubble;
+        animation-duration: 1.25s;
+        animation-timing-function: cubic-bezier(0.21, 0.61, 0.35, 1);
+        animation-fill-mode: both;
+      }
+    }
+  }
+
+  svg {
+    stroke-width: 2;
+    stroke: currentColor;
+    fill: transparent;
+  }
+
+  &.is-bookmarked {
+    svg {
+      stroke-width: 0;
+      fill: currentColor;
+    }
+  }
+}

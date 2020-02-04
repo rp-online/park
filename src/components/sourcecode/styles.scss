@@ -1,0 +1,33 @@
+.park-sourcecode {
+  max-width: 100%;
+  margin-bottom: $global-spacing;
+  border-radius: rem(3px);
+  visibility: hidden;
+
+  &:not(&--is-initialized) {
+    @extend %spinner;
+
+    position: relative;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      background-color: #000;
+      visibility: visible;
+    }
+  }
+
+  &--is-initialized {
+    animation: park-fade-in 600ms;
+    visibility: visible;
+  }
+
+  pre[class*="language-"] {
+    border: none;
+    border-radius: rem(3px);
+  }
+}

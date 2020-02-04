@@ -1,0 +1,784 @@
+<!doctype html>
+<html ⚡>
+<head>
+  {% block head_prependChildren %} {% endblock %}
+  <meta charset="utf-8">
+  <title>{{ pagetitle }}</title>
+  <link rel="canonical" href="{{ baseurl_canonical }}">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="robots" content="index,follow,noarchive,noodp">
+  <link href="{{ googleFont }}" rel="stylesheet">
+
+  {% block head_schemaOrgDefinition %}
+  <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ baseurl_canonical }}"
+      },
+      "headline": {{ pagetitle|json_encode()|raw }},
+      "image": {
+        "@type": "ImageObject",
+        "url": "{{ siteurl }}{{ metaImage.src }}",
+        "height": "{{ metaImage.height }}",
+        "width": "{{ metaImage.width }}"
+      },
+      "datePublished": "{{ datum_iso }}",
+      "dateModified": "{{ meta_article_modified_time }}",
+      "author": {
+        "@type": "Person",
+        "name": {% if credittext %}{{ credittext|json_encode()|raw }}{% else %}{{ meta_default_autor|json_encode()|raw }}{% endif %}
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": {{ meta_default_autor|json_encode()|raw }},
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ siteurl }}{{ ampPublisher }}",
+          "width": 600,
+          "height": 60
+        }
+      },
+      "description": {{ vorspann|json_encode()|raw }}
+    }
+  </script>
+  {% endblock %}
+
+  {% block head_ampSubscriptions %} {% endblock %}
+
+  <style amp-custom>
+    {% block head_ampCustomStyle_prependChildren %} {% endblock %}
+    html {
+      box-sizing: border-box;
+    }
+    *,
+    *::before,
+    *::after {
+      box-sizing: inherit
+    }
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      margin: 0;
+      padding: 0
+    }
+    a {
+      -moz-transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+      -o-transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+      -webkit-transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+      -webkit-transition-delay: 0s;
+      transition: color 0.28s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+      color: #004a83;
+      text-decoration: none
+    }
+    a:hover {
+      color: #007ad8;
+    }
+    body {
+      font-family: {{ fontText|raw }};
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font-style: normal;
+      font-weight: 400;
+      vertical-align: middle;
+    }
+
+    ul {
+      padding: 0;
+      margin: 0;
+    }
+    progress {
+      -webkit-appearance: none;
+      appearance: none;
+      height: 4px;
+      left: 0;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 5
+    }
+    progress::-webkit-progress-bar {
+      background: rgba(255, 255, 255, 0.33)
+    }
+    progress::-webkit-progress-value {
+      background: {{ brandColor }};
+    }
+    .amp-header,
+    .amp-footer {
+      overflow: hidden;
+    }
+    .hidden {
+      display: none;
+    }
+    .picture {
+      text-align: center;
+      position: relative;
+    }
+    .figure img.-loaded,
+    .figure cat-img img {
+      height: auto;
+      margin: auto;
+      width: 100%
+    }
+    .figure picture {
+      font-size: 0
+    }
+    figcaption{
+      font-family: {{ fontHead|raw }};
+      font-size: 13px;
+      line-height: 1.35em;
+      font-weight: 900;
+      margin: .5em 10px 12px 11px;
+    }
+    figcaption::after {
+      content: '';
+      display: block;
+      clear: both;
+    }
+    .caption-source{
+      font-family: {{ fontText|raw }};
+      float:right;
+      font-weight: normal;
+    }
+    .figure {
+      max-width: 820px;
+      margin: auto;
+      display: block;
+      padding: 0
+    }
+    .image .picture>img {
+      height: auto;
+      width: 100%
+    }
+    h2 {
+      font-weight: bold;
+    }
+    p a {
+      color: #313131;
+      font-weight: bold;
+      border-bottom: 1px solid #000000;
+    }
+    a:link,
+    a:visited,
+    a:active,
+    a:hover,
+    a:focus {
+      color: #313131;
+      text-decoration: none;
+      outline: none
+    }
+    a:visited { color:#787878; }
+    p a:active,
+    p a:hover,
+    p a:focus {
+      color: {{ brandColor }};
+      border-bottom: 1px solid {{ brandColor }};
+
+    }
+    .figure .picture>img {
+      height: auto;
+      width: 100%
+    }
+    .figure img.-loaded,
+    .figure amp-img img {
+      height: auto;
+      margin: auto;
+      width: 100%
+    }
+    .figure picture {
+      font-size: 0
+    }
+    .amp-header {
+      height: 60px;
+      width: 100%;
+      padding: 13px 14px;
+      border-bottom: .125rem solid {{ brandColor }};
+      background-color: #fff;
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+
+    .amp-header-oe {
+      flex: 0 1 auto;
+    }
+    .amp-header-partner {
+      flex: 0 1 auto;
+      margin-left: 1rem;
+      margin-right: auto;
+      min-width: 1px;
+    }
+    .amp-header-partner amp-img {
+      width: 100%;
+    }
+    .amp-header-menuswitch {
+      flex: 0 0 auto;
+    }
+
+    .amp-footer {
+      text-align: center;
+      font-weight: bold;
+      font-size: 16px;
+      line-height: 1.1em;
+      text-transform: uppercase;
+      margin-top: 30px
+    }
+    .amp-footer img {
+      margin-bottom: 10px;
+    }
+    .amp-footer div {
+      padding: 0px 0 20px 0;
+      font-family: {{ fontText|raw }};
+    }
+    .amp-footer div a:link,
+    .amp-footer div a:visited {
+      color: #444;
+      text-decoration: none;
+      border: none
+    }
+    .amp-footer div a:active,
+    .amp-footer div a:hover,
+    .amp-footer div a:focus {
+      border-bottom: 1px solid rgba(68, 68, 68, 0.5)
+    }
+    .amp-footer div span {
+      margin: 0 0.25em;
+      color: #707070
+    }
+    .amp-header-logo {
+      display: block;
+      background: url('{{ siteurl }}{{ ampLogo }}') 0/100% no-repeat;
+      width: {{ logoWidth }};
+      height: 34px;
+      max-width: 10rem;
+      background-position: center bottom;
+    }
+
+    .hamburger {
+      font-size: 2rem;
+      align-self: center;
+    }
+
+    .sidebar {
+      font-family: {{ fontText|raw }};
+      position: absolute;
+      top: 60px;
+      padding: 10px;
+      margin: 0;
+      width: 200px;
+      background-color: #fff;
+    }
+    .sidebar ul li {
+      list-style: none;
+      border-bottom: 1px solid #ccc;
+      padding: 5px;
+    }
+    .sidebar a, a:visited {
+      color: #313131;
+      text-decoration: none;
+      display: block;
+      width: 100%;
+      height: 100%;
+    }
+
+    .sidebar h6 {
+      padding: 5px;
+      text-transform: uppercase;
+      color: #484848;
+      border-bottom: 1px solid #ccc;
+    }
+
+    .partner-link {
+      margin: 0 1em;
+    }
+
+    .amp-footer-logo {
+      display: block;
+      background: url('{{ siteurl }}{{ ampLogo }}') 0/100% no-repeat;
+      width: {{ logoWidth }};
+      height: 53px;
+      margin: 10px auto
+    }
+
+    button.calltoaction{
+      position: absolute;
+      background-color: rgba(0, 0, 0, 0.8);
+      border-radius: 4px;
+      text-indent: 5px;
+      bottom: 5px;
+      right: 5px;
+      font-weight: 900;
+      font-size: 14px;
+      border:none;
+      color:#fff;
+      padding: 7px 24px 7px 5px;
+      background-image: url('{{ siteurl }}{{ arrowSVG }}');
+      background-size: 18px 20.5px;
+      background-repeat: no-repeat;
+      background-position: right center;
+
+    }
+
+    article header {
+      text-align: left;
+      color: #313131;
+      margin: 0 14px 7px 14px;
+      max-width: 660px;
+    }
+
+    h1 {
+      font-family: {{ fontHead|raw }};
+      font-size: {{ h1_font_size|raw }};
+      display: block;
+      color: #2f2f2f;
+      line-height: 1.3;
+      font-weight: {{ h1_font_weight|raw }};
+      margin-top: .25em;
+      font-style: normal;
+      margin-bottom: .6em;
+      vertical-align: middle;
+    }
+    time {
+      font-family: {{ fontText|raw }};
+      color: rgba(130, 130, 130, 0.721569);
+      font-size: .8125rem;
+      line-height: 1.38462;
+      margin: 8px 0 6px 0;
+      display: block;
+    }
+    .kicker {
+      font-size: 1rem;
+      line-height: 1.3125;
+      display: block;
+      margin-bottom: .125rem;
+      color: {{ kickerColor }};
+      font-weight: 600
+    }
+
+    article p, article ol, article ul, article div.park-embed-infobox {
+      margin: 0 14px 12px 14px;
+      max-width: 660px;
+      color: #2f2f2f;
+      line-height: 1.5;
+    }
+    span.location{
+      margin-right: .125rem;
+      font-weight: 600;
+      font-style: normal;
+      vertical-align: baseline
+    }
+    span.location:after {
+      content: ".";
+      vertical-align: baseline
+    }
+    span.exclusiv {
+      font-family: {{ fontText|raw }};
+      font-weight: 900;
+      color: #cf3f14;
+    }
+    .entrySummary{
+      font-size: 1rem;
+      margin-bottom: .375rem;
+      color: #2f2f2f;
+      font-weight: 600;
+      line-height: 1.5
+    }
+    .amp-image-lightbox-caption {
+      font-family: {{ fontHead|raw }};
+    }
+
+    amp-facebook, amp-twitter, amp-instagram, amp-iframe, amp-youtube {
+      max-width:660px;
+      margin: 0 auto 10px auto;
+    }
+
+    .external-teaser {
+      position: relative;
+      max-width: 660px;
+      height:200px;
+      background-image: linear-gradient(-143deg, {{ brandColor }} 0%, {{ brandColor }} 100%);
+      text-align: center;
+      display: block;
+    }
+
+    .external-teaser button.calltoaction{
+      position: relative;
+      margin-top: 90px;
+      font-size: 19px;
+      padding: 7px 29px 8px 8px;
+      background-size: 21px 24px;
+      font-weight: bold;
+    }
+    article div.park-section-headline {
+      padding: 0.5rem 0.5rem 0.5rem 0;
+      display: block;
+      margin-bottom: 0.5rem;
+      letter-spacing: .05625rem;
+      text-transform: uppercase;
+      font-weight: 400;
+      line-height: 1.25rem;
+      font-size: 1.125rem;
+    }
+
+    article div.park-embed-infobox {
+      margin: 0 auto;
+      background-color: #f7f7f7;
+      padding: .75rem;
+    }
+
+    article ol {
+      clear: both;
+      counter-reset: ol_item;
+      list-style: none;
+      padding: 0;
+      padding-bottom: 10px;
+    }
+    article ul{
+      clear: both;
+      padding: 0;
+      list-style: none;
+    }
+
+    article ol li, article ul li  {
+      clear: both;
+      padding: 0 0 .6em 0;
+    }
+
+    article ul li:before {
+      color: {{ brandColor }};
+      content: "▉";
+      font: 400 10px / 18px "icon-font";
+      display: inline-block;
+      width: 12px;
+      float: left;
+      margin: 3px 10px 0 0;
+    }
+
+    article ol li:before {
+      font-family: {{ fontText|raw }};
+      font-weight: 700;
+      font-size: 200%;
+      height: 1.5em;
+      color: {{ brandColor }};
+      content: counter(ol_item);
+      counter-increment: ol_item;
+      float: left;
+      margin: 0.135em 10px 0 0;
+    }
+    amp-ad {
+      margin: 0 auto 20px auto;
+      display: block;
+    }
+    amp-ad[type=adsense], amp-ad[type=doubleclick] {
+      display: block;
+    }
+    .share-buttons {
+      display: flex;
+      flex-wrap: nowrap;
+      width: 100%;
+      margin-bottom: .9375rem;
+      padding: 1px;
+    }
+    amp-social-share {
+      width: 100%;
+      height: 50px;
+      background-size: 30px;
+      display: flex;
+      flex: 1 1 auto;
+      margin: 0 .5px .125rem;
+    }
+    amp-social-share[type="facebook"] {
+      background-color: #3865a1;
+      background-size: 25px;
+    }
+    amp-social-share[type="whatsapp"] {
+      background-color: #52ad33;
+      background-size: 25px;
+    }
+    amp-social-share[type="twitter"] {
+      background-color: #78c3f1;
+    }
+    amp-social-share[type="email"] {
+      background-color: #6f6f6f;
+    }
+    @media (min-width: 840px) {
+      .figure {
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 900px
+      }
+    }
+    @media (min-width: 688px) {
+      article p, article ol, article ul {
+        margin: 0 auto 20px auto;
+      }
+      ul {
+        padding: 0;
+      }
+      article header {
+        margin: 0 auto 20px auto;
+      }
+    }
+    @media (min-width: 980px) {
+      h1 {
+        font-size: 28px;
+      }
+      article p, article ol, article ul {
+        font-size: 20px;
+        line-height: 1.5em
+      }
+      article ol li, article ul li {
+        clear: both;
+        padding: 0 0 0.8em 0;
+      }
+      figcaption {
+        font-family: {{ fontHead|raw }};
+        font-size: 16px;
+        margin-bottom: 32px;
+      }
+      button.calltoaction {
+        font-size: 16px;
+        padding: 7px 28px 8px 8px;
+        background-size: 21px 24px;
+      }
+    }
+    {% block head_ampCustomStyle_appendChildren %} {% endblock %}
+  </style>
+  <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <script async custom-element="amp-image-lightbox" src="https://cdn.ampproject.org/v0/amp-image-lightbox-0.1.js"></script>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+  <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+  {% if global_ad_config.werbesteuerung_amp.type.sticky %}
+    <script async custom-element="amp-sticky-ad" src="https://cdn.ampproject.org/v0/amp-sticky-ad-1.0.js"></script>
+  {% endif %}
+  {% if global_ad_config.werbesteuerung_amp.type.flyingcarpet %}
+    <script async custom-element="amp-fx-flying-carpet" src="https://cdn.ampproject.org/v0/amp-fx-flying-carpet-0.1.js"></script>
+  {% endif %}
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <script async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script>
+  <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+  {% for js in amp_javascripts %}
+    {{ js|raw }}
+  {% endfor %}
+
+  {% block head_appendChildren %} {% endblock %}
+</head>
+<body>
+{% block body_prependChildren %} {% endblock %}
+<amp-sidebar id="sidebar"
+             layout="nodisplay"
+             side="right"
+             class="sidebar">
+  <h6>Themen</h6>
+  <ul>
+    {% for element in navigation %}
+      <li><a href="{{ element.href }}">{{ element.text }}</a></li>
+    {% endfor %}
+  </ul>
+</amp-sidebar>
+<amp-analytics type="infonline" id="infonline">
+  <script type="application/json">
+    {
+      "vars": {
+        "st": "{{ ivw_mobil_st }}",
+        "co": "{{ baseurl_canonical }}",
+        "cp": "{{ ivw.cp }}"
+      },
+      "requests": {
+        "url": "{{ ivw_requests_url }}"
+      }
+    }
+  </script>
+</amp-analytics>
+{% if gtm_id is defined and gtm_id != '' and gtm_htmlfile != '' %}
+  <amp-analytics type="infonline" id="infonlinegtm">
+    <script type="application/json">
+      {
+        "vars": {{ data_layer|raw }},
+        "requests": {
+          "url": "{{ gtm_htmlfile }}",
+          "pageview": "${url}?platform=amp&gtm=${gtm}&referer=${externalReferrer}&title=${title}&ressort=${ressort}&subressort=${subressort}&dossier=${dossier}&contentType=${contentType}&author=${author}&date=${date}&datePublished=${datePublished}&dateModified=${dateModified}&daysSincePublication=${daysSincePublication}&origin=${origin}&analyticsUrl=${analyticsUrl}&isPremiumContent=${analyticsUrl}"
+        }
+      }
+    </script>
+  </amp-analytics>
+{% endif %}
+
+{% if linkpulse is defined and linkpulse != '' %}
+  {% set section = section != '' ? section : (config.dataLayer.dossier is defined ? config.dataLayer.dossier : config.dataLayer.ressort) %}
+  <amp-analytics type="linkpulse">
+    <script type="application/json">
+      {
+        "vars": {
+          "id"      : "{{ linkpulse }}",
+          "pageUrl" : "{{ baseurl_full }}",
+          "title"   : {{ pagetitle|json_encode()|raw }},
+          "section" : {{ section|json_encode()|raw }},
+          "channel" : "amp",
+          "type"    : "{{ contentType_raw }}",
+          "image"   : "{{ siteurl }}{{ metaImage.src }}"
+        }
+      }
+    </script>
+  </amp-analytics>
+{% endif %}
+
+{% if gtm_id is not defined and analytics1 is defined and analytics1 != '' %}
+  <amp-analytics type="googleanalytics" id="analytics1">
+    <script type="application/json">
+      {
+        "vars": {
+          "account": "{{ analytics1 }}"
+        },
+        "extraUrlParams": {
+          "cd10": "AMP"
+        },
+        "triggers": {
+          "trackPageviewWithCustomData": {
+            "on": "visible",
+            "request": "pageview",
+            "vars": {
+              "title": {{ pagetitle|json_encode()|raw }},
+              "documentLocation": "{{ baseurl_full }}"
+            }
+          }
+        }
+      }
+    </script>
+  </amp-analytics>
+{% endif %}
+{% if gtm_id is not defined and analytics2 is defined and analytics2 != '' %}
+  <amp-analytics type="googleanalytics" id="analytics2">
+    <script type="application/json">
+      {
+        "vars": {
+          "account": "{{ analytics2 }}"
+        },
+        "extraUrlParams": {
+          "cd10": "AMP"
+        },
+        "triggers": {
+          "trackPageviewWithCustomData": {
+            "on": "visible",
+            "request": "pageview",
+            "vars": {
+              "title": {{ pagetitle|json_encode()|raw }},
+              "documentLocation": "{{ baseurl_full }}"
+            }
+          }
+        }
+      }
+    </script>
+  </amp-analytics>
+{% endif %}
+{% if vgwort_ic_oeffentlich != '' %}
+  <amp-pixel src="{{ vgwort_pixel_url }}" layout="nodisplay"></amp-pixel>
+{% endif %}
+
+{% block main_header %}
+  <header class="amp-header">
+    <a href="{{ siteurl }}/?utm_source=Google&utm_medium=amp&utm_campaign=header" target=_blank class='amp-header-oe'><span class="amp-header-logo"></span></a>
+    {% if activatePartnerLink %}
+    <a href="{{ partner_link }}" class="amp-header-partner"><amp-img src="{{ partner_logo }}" alt="Partner von RP ONLINE" width="134" height="17" /></a>
+    {% endif %}
+    <div role="button" on="tap:sidebar.toggle" tabindex="0" class="hamburger amp-header-menuswitch">☰</div>
+  </header>
+{% endblock %}
+<main>
+  {% block pre_article %} {% endblock %}
+  <article>
+    <header>
+      <time class="date">{{ datum | date('j. F Y', 'Europe/Berlin')|replace({
+          'January': 'Januar',
+          'February': 'Februar',
+          'March': 'März',
+          'April': 'April',
+          'May': 'Mai',
+          'June': 'Juni',
+          'July': 'Juli',
+          'August': 'August',
+          'September': 'September',
+          'October': 'Oktober',
+          'November': 'November',
+          'December': 'Dezember'
+        }) }} um {{ datum|date('H:i', 'Europe/Berlin') }} Uhr</time>
+      <strong class="kicker">{{ dachzeile }}</strong>
+      <h1 class="articleheadline">{{ titel }}</h1>
+    </header>
+    <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
+
+    {% if coverHtml != null %}{{ coverHtml|raw }}{% endif %}
+
+    <div class="share-buttons">
+      {% if fb_app_id %}
+        <amp-social-share type="facebook" data-param-app_id="{{ fb_app_id }}"></amp-social-share>
+      {% endif %}
+      <amp-social-share type="whatsapp"></amp-social-share>
+      <amp-social-share type="twitter"></amp-social-share>
+      <amp-social-share type="email"></amp-social-share>
+    </div>
+
+    <p class="entrySummary">
+      {% if artikelmarkierung != '' %}<span class="exclusiv">{{ artikelmarkierung }}</span>{% endif %}
+      {% if ortsmarke != '' %}<span class="location">{{ ortsmarke }}</span>{% endif %}
+      {{ vorspann }}
+    </p>
+    {% if credittext != '' %}
+      <p class="author">
+        <span itemprop="author">{{ credittext }}</span>
+      </p>
+    {% endif %}
+
+    {% block body_article_bodyParagraphs %}
+      {% for paragraph in body %}
+        {{ paragraph.html|raw }}
+      {% endfor %}
+    {% endblock %}
+
+    {% if meldung_agentur != '' %}
+      <p>{{ meldung_agentur }}</p>
+    {% endif %}
+
+    {% if tickaroo_id != '' %}
+      <amp-iframe
+        width="50"
+        height="200"
+        layout="responsive"
+        sandbox="allow-scripts allow-same-origin allow-popups"
+        allowfullscreen
+        resizable
+        src="https://cdn.tickaroo.com/embed/amp.html?client_id={{ tickaroo_client_id }}&id={{ tickaroo_id }}&style={% if tickaroo_kachelformat %}imagegrid{% else %}v2{% endif %}&showEventSharing={% if tickaroo_sharing %}true{% else %}false{% endif %}&coalesceRepeatedMeta={% if tickaroo_autorenbilder_zusammenfassen %}true{% else %}false{% endif %}&reverseEvents={% if tickaroo_beitragsreihenfolge_umkehren %}true{% else %}false{% endif %}&limit={{tickaroo_limit}}&showEventMeta=reporter">
+        <amp-img layout="fixed-height" height="100px" width="auto"
+                 src="https://cdn.tickaroo.com/embed/placeholder.png" placeholder>
+        </amp-img>
+        <div overflow="">Liveblog öffnen</div>
+      </amp-iframe>
+    {% endif %}
+
+    {% block body_article_appendChildren %}
+      {{ global_ad_config.werbesteuerung_amp.artikelende|raw }}
+    {% endblock %}
+  </article>
+
+  {% block body_postArticle %} {% endblock %}
+
+  <footer class="amp-footer"><a href="{{ siteurl }}/?utm_source=Google&utm_medium=amp&utm_campaign=footer" target=_blank><span class="amp-footer-logo"></span></a>
+    <div>
+      <a href="{{ link_imprint }}" target=_blank>Impressum</a>
+    <span> |  </span>
+      <a href="{{ link_tba }}" target=_blank>Datenschutz</a>
+    </div>
+  </footer>
+</main>
+{% block body_appendChildren %} {% endblock %}
+</body>
+</html>

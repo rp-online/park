@@ -1,0 +1,2294 @@
+{
+  "title": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "title": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias",
+    "url": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1541664896",
+    "container_id": 34703273,
+    "beitrag_id": 42954091,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Ein Jahr nach dem Tod des Siebenjährigen in einer Klinik in Düsseldorf hat die Staatsanwaltschaft ihre Ermittlungen noch nicht abgeschlossen. Für die Familie des Kindes eine zusätzliche Belastung. Die Mutter glaubt: „Mein Sohn hätte gerettet werden können.“"
+      },
+      {
+        "name": "author",
+        "content": "Stefani Geilhausen"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Mohammad, Mutter, Belgis, Kind, Familie, Naserie, Tod, Mohammads, Elias, Notfallpraxis, Kinderärzte, Kinderärztin"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Mohammad, Mutter, Belgis, Kind, Familie, Naserie, Tod, Mohammads, Elias, Notfallpraxis, Kinderärzte, Kinderärztin"
+      },
+      {
+        "property": "og:title",
+        "content": "Siebenjähriger starb in Düsseldorfer Klinik: Familie plant Mahnwache für Mohammad Elias am Krankenhaus"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      {
+        "property": "og:description",
+        "content": "Ein Jahr nach dem Tod des Siebenjährigen in einer Klinik in Düsseldorf hat die Staatsanwaltschaft ihre Ermittlungen noch nicht abgeschlossen. Für die Familie des Kindes eine zusätzliche Belastung. Die Mutter glaubt: „Mein Sohn hätte gerettet werden können.“"
+      },
+      {
+        "property": "og:image",
+        "content": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_7f86e2136f3001d034b206296fad556f/w1200_h630_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Ein Jahr nach dem Tod des Siebenjährigen in einer Klinik in Düsseldorf hat die Staatsanwaltschaft ihre Ermittlungen noch nicht abgeschlossen. Für die Familie des Kindes eine zusätzliche Belastung. Die Mutter glaubt: „Mein Sohn hätte gerettet werden können.“"
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_7f86e2136f3001d034b206296fad556f/w1200_h630_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "staedte",
+      "dossier": "duesseldorf",
+      "contentType": "Artikel",
+      "analyticsUrl": "/nrw/staedte/duesseldorf/nach-ungeklaertem-kindstod-mutter-organisiert-mahnwache-vor-duesseldorfer-klinik_aid-34703273",
+      "author": "Stefani Geilhausen",
+      "date": "2018-11-26",
+      "origin": "4",
+      "seo": "/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=42954091&cstr=34703273&l=1251&tit=EVK+in+D%FCsseldorf%3A+Mutter+organisiert+Mahnwache+vor+Klinik+nach+Tod+von+Mohammad+Elias&url=https%3A%2F%2Frp-online.de%2Fnrw%2Fstaedte%2Fduesseldorf%2Fevk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273&sep=%7C&tce=1&tid=64710&tn=64701&tp=50327%7C64600%7C64701&tpn=50327%7C64600%7C64701&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 34703273,
+      "doctype": "article",
+      "contentid": "/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273",
+      "channel": 64600,
+      "subchannel": 64701,
+      "subsubchannel": 64710,
+      "heading": "Familie plant Mahnwache für Mohammad Elias am Krankenhaus",
+      "kicker": "Düsseldorf",
+      "tag": "duesseldorf"
+    },
+    "links": [
+      {
+        "rel": "amphtml",
+        "href": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273?output=amp"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/duesseldorf/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/83f6ee779cba4f76bdd6777cf820ded9",
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD_4__Z_MB_6",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "hpa": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512541",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512597",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-4"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "34703273",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "34703273",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews",
+        "subZone": "duesseldorf"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD_4__Z_MB_6",
+            "adUnitPath": "/1017380/rp-online.de/mobil_banner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///localnews/duesseldorf",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad-mew",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512541",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512597",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-4"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "34703273",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews/duesseldorf",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "34703273",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews/duesseldorf",
+          "mode": "mobile"
+        },
+        "zone": "localnews",
+        "subZone": "duesseldorf"
+      },
+      "reloadFrequency": "100"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273"
+      },
+      "headline": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_79a41745ad9be2e44fd9df07b4f2a804/w950_h526_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-11-26 05:15",
+      "dateModified": "2018-11-26 06:48:14",
+      "author": {
+        "@type": "Person",
+        "name": "Stefani Geilhausen"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Ein Jahr nach dem Tod des Siebenjährigen in einer Klinik in Düsseldorf hat die Staatsanwaltschaft ihre Ermittlungen noch nicht abgeschlossen. Für die Familie des Kindes eine zusätzliche Belastung. Die Mutter glaubt: „Mein Sohn hätte gerettet werden können.“"
+    },
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"gpt_outofpage\"></div>\r\n<script>\r\n(function() {\r\n    var isApp = document.documentElement.classList.contains('is-app');\r\n    if(isApp===false){\r\n        function init() {\r\n            var slot_cad1;\r\n            var adslot = \"/1017380/rp-online.de/outofpage\";\r\n            var adslotid = \"gpt_outofpage\";\r\n            if(!window.SDG) {\r\n                window.setTimeout(init, 100);\r\n                return;  \r\n            }\r\n            googletag.cmd.push(function() {\r\n            slot_cad1 = googletag.defineSlot(adslot,[1, 1],adslotid).setCollapseEmptyDiv(true).addService(googletag.pubads());\r\n            googletag.cmd.push(function() {googletag.display(adslotid)});\r\n            googletag.enableServices();\r\n            });\r\n        };\r\n        init();\r\n    }\r\n})();\r\n</script>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Städte",
+                        "href": "https://rp-online.de/nrw/staedte/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      },
+                      {
+                        "text": "Düsseldorf",
+                        "href": "https://rp-online.de/nrw/staedte/duesseldorf/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 3
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Familie plant Mahnwache für Mohammad Elias am Krankenhaus"
+                    },
+                    "id": 34703273,
+                    "kicker": {
+                      "text": "Siebenjähriger starb in Düsseldorfer Klinik"
+                    },
+                    "timestamp": "1543158240",
+                    "cover": {
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_6958a62b06214656c2fd9024c72f10f8/w250_h138_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "400w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_1133e2fdfa594cbe5e8cb79ceb6b0434/w400_h221_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "600w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_41ce661ba684b1bfaa904b4785b5f840/w600_h332_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "900w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_eb847495b524d1c4f4c750b2377308c9/w900_h498_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "950w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_79a41745ad9be2e44fd9df07b4f2a804/w950_h526_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "1200w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_40f0508b9e23b7fe8a6171f74ae6eeea/w1200_h664_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                        "1900w": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_a8e7fd973a173853e0eb75b420bfca7e/w1900_h1052_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG"
+                      },
+                      "src_zoom": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_23f39d0d6bd1b209b48c7351ad711597/w1900_h1200_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                      "src_fit": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_8cba7292c15dc84f5a02cac127ee6db9/w791_h526_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG",
+                      "alt": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias",
+                      "caption": "Die Bilder ihres Sohnes begleiten Belgis Naserie immer. „Er hätte nicht sterben müssen“, glaubt sie. ⇥RP-Foto: hpaw ",
+                      "source": {
+                        "text": "Helene Pawlitzki"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://rp-online.de/imgs/32/4/2/9/5/4/0/9/1/tok_23f39d0d6bd1b209b48c7351ad711597/w1900_h1200_x1504_y1000_be3286c57710447ba50f180655b2a0b5-d44a243427c4551b.JPG"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Ein Jahr nach dem Tod des Siebenjährigen in einer Klinik in Düsseldorf hat die Staatsanwaltschaft ihre Ermittlungen noch nicht abgeschlossen. Für die Familie des Kindes eine zusätzliche Belastung. Die Mutter glaubt: „Mein Sohn hätte gerettet werden können.“",
+                    "sign": "",
+                    "authorsbox": {
+                      "text": "Von Stefani Geilhausen"
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": false,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text_ohne_einzug\">Am zweiten Weihnachtstag jährt sich der Tod des kleinen Mohammad Elias zum ersten Mal. Doch für seine Familie ist die Wunde frisch wie am ersten Tag. Mutter Belgis kann nicht mehr arbeiten, seit ihr Kind nach einer Notoperation gestorben ist, die sie selbst für überflüssig hält. „Hätten die Ärzte auf mich gehört, ihm ein Antibiotikum gegeben, dann könnte er noch leben“, gaubt sie.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Medizinrechtlerin Xenia Weiß hat im Namen von Mohammads Mutter rechtliche Schritte gegen das EVK und gegen zwei Kinderärzte, die Mohammad in der zentralen Notfallpraxis behandelt hatten, eingeleitet. Sie führten keinen Rachefeldzug, sagt die Anwältin. „Es geht uns darum, herauszufinden, zu welchem Zeitpunkt anders hätte gehandelt werden müssen, um das Kind zu retten.“</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Info"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Ein Todesfall mit öffentlichen Folgen"
+                                },
+                                "body": {
+                                  "tag": "span",
+                                  "text": "<p class=\"info_text\"><strong>Politik</strong> Der Tod des Kindes löste Anfang des Jahres intensive Debatten um die Notfallversorgung in Düsseldorf aus. Im Gespräch ist etwa eine zweite Notfallpraxis.</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>Internet</strong> Facebook-Nutzer diskreditierten Mohammads Familie als Salafisten. „Plötzlich schauten uns Bekannte komisch an. Das hat uns zusätzlich belastet,“ sagt die Mutter.</p>"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"><a href=\"/nrw/staedte/duesseldorf/duesseldorf-evk-aerzte-nach-tod-eines-siebenjaehrigen-angeklagt_aid-32274519\" target=\"_blank\">Das will auch die Staatsanwaltschaft klären, </a>die das tote Kind, das bereits beigesetzt worden war, im Januar exhumieren und obduzieren ließ. Demnach starb Mohammad an einer bakteriellen Lungenentzündung. Die Ergebnisse der komplexen feingeweblichen und toxikologischen Untersuchungen stehen noch aus. „Ich weiß, dass das für die Familie eine enorme Belastung bedeutet“, sagt Staatsanwalt Peters. „Aber wir brauchen größtmögliche Sicherheit.“ Unabhängig von den zivilrechtlichen Schritten der Familie geht es nämlich auch um die Frage, ob ein strafbares Fehlverhalten zum Tode Mohammads geführt hat.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_e799c6ef61d5eb394cd4a17259d927bf/w306_h175_x470_y264_3493b85b98452bf3.JPG",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/tod-eines-7-jaehrigen-im-evk-in-duesseldorf-interview-mit-mutter-bilgis_aid-17733923",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Mutter des toten Elias aus Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "\"Ich will nur, dass die Ärzte ihre Fehler zugeben\""
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>googletag.cmd.push(function() { googletag.display(\"22512525\"); })</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512541\"></div><script>googletag.cmd.push(function() { googletag.display(\"22512541\"); })</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512541\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "href": "/nrw/staedte/duesseldorf/elias-mohammad-wird-am-dienstag-obduziert_aid-17709587",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Elias Mohammad wird am Dienstag obduziert"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512597\"></div><script>googletag.cmd.push(function() { googletag.display(\"22512597\"); })</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512597\"></div>",
+                                "lazy": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Gerade in diesen Tagen erlebt Belgis Naserie <a href=\"/nrw/staedte/duesseldorf/blaulicht/siebenjaehriger-stirbt-in-duesseldorf-kind-kam-unter-extrem-kritischen-bedingungen-in-uni-klinik_aid-17658441\" target=\"_blank\">die Ereignisse vom Dezember vor einem Jahr immer wieder neu.</a> Wie ihr Jüngster anfing zu kränkeln, wie sie ihn versorgte mit der Erfahrung einer Mutter, die einst in Afghanistan selbst eine Ausbildung zur Krankenschwester gemacht hat, und wie sie dann zur Kinderärztin ging, weil Mohammad schwer atmete. Die Ärztin diagnostizierte einen Infekt, empfahl reichlich Flüssigkeit und Tee. Doch nach einer Woche bekam das Kind Fieber. Auch die Atmung war nicht besser geworden. Die Kinderärztin war bereits im Weihnachtsurlaub, also ging Belgis Naserie mit ihrem Jungen in die Notfallpraxis. Sie sagt: „Ich bat um ein Antibiotikum, gerade weil die Feiertage bevorstanden und ich keinen Arzt erreichen können würde. Doch der Arzt meinte, ich soll abwarten.“ Drei Tage später bekam sie ein Rezept für Ibuprofen und Paracetamol. „Ich wollte eine Blutuntersuchung und das Röntgen der Lunge. Aber er schickte mich weg,“ sagt Naserie. Einen Tag später ging sie deshalb erst gar nicht mehr in die Notfallpraxis, sondern ins Evangelische Krankenhaus. Mohammad ging an ihrer Hand, antwortete auf die Fragen der Krankenschwestern. „Er war kein sterbendes Kind, er war schwach, aber lebendig“, sagt die Mutter. Doch nach zwei Stunden im Warteraum verschlechterte sich Mohammads Zustand. Seine Haut verfärbte sich gelblich, er bekam Ausschlag. „Ich wusste, dass muss mit der Leber zu tun haben“, sagt Belgis Naserie, deren Schwestern-Ausbildung in Deutschland nicht anerkannt wird. Auf ihr Drängen habe eine Krankenschwester die Blutsättigung getestet. „Die Werte waren so schlecht, dass sie glaubte, das Gerät sei kaputt.“ Danach sei alles schnell gegangen: Mohammad kam in den OP, wurde notoperiert. „Sie sagten uns, sein Magen habe sich gedreht“, sagt Belgis Naserie. Anwältin Weiß hält für möglich, dass bei der schnellen Not-OP auch etwas anderes eine Rolle spielte: Ein Jahr zuvor war im selben Krankenhaus ein Kind an einem nicht operierten Darmverschluss gestorben, <a href=\"/nrw/staedte/duesseldorf/duesseldorf-evk-aerzte-nach-tod-eines-siebenjaehrigen-angeklagt_aid-32274519\" rel=\"nofollow\">auch da ermittelte die Staatsanwaltschaft</a>.  Belgis Naserie glaubt, die OP könne ihr Kind zusätzlich geschwächt haben. Tatsächlich war Mohammad danach notfallmäßig in die Uni-Klinik verlegt worden, wo er schließlich starb.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Am 22. Dezember, auf den Tag genau ein Jahr nach ihrem ersten Besuch in der Notfallpraxis, will Belgis Naserie mit ihrer Familie vor dem EVK eine Mahnwache abhalten. „Wir wollen an Mohammad Elias erinnern, der zu früh gestorben ist“, sagt die Mutter. „Wir gehen davon aus, dass der Tod des Jungen auch die Ärzte schmerzt“, betont Rechtsanwältin Weiß. Es gehe nicht darum, die Mediziner anzugreifen oder zu beleidigen. Die Anwältin will vor allem Klarheit. Mohammads Mutter vor allem eine Entschuldigung. „Ich brauche kein Geld,“, sagt sie, „ich will niemanden ins Gefängnis bringen. <a href=\"/nrw/staedte/duesseldorf/tod-eines-7-jaehrigen-im-evk-in-duesseldorf-interview-mit-mutter-bilgis_aid-17733923\" target=\"_blank\">Ich will nur, dass mir jemand ehrlich sagt: ,Wir haben einen Fehler gemacht. Es tut uns leid.’“</a></p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273\" data-widget-id=\"AR_10\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/staedte/duesseldorf/evk-in-duesseldorf-mutter-organisiert-mahnwache-vor-klinik-nach-tod-von-mohammad-elias_aid-34703273\" data-widget-id=\"AR_10\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_e4fc31f977421f8deb886c3b2bd4851a/w250_h140_x470_y264_3493b85b98452bf3.JPG",
+                          "400w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_f337dbfe4faf29b448e81ad33415e318/w400_h224_x470_y264_3493b85b98452bf3.JPG",
+                          "600w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_0cae9513b2bf064b9a629cf382b2d65c/w600_h336_x470_y264_3493b85b98452bf3.JPG",
+                          "900w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_6449c117b5a1ba1f274cfbeda853a491/w900_h504_x470_y264_3493b85b98452bf3.JPG",
+                          "950w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_07540282cbb666d02697697ff41af525/w940_h528_x470_y264_3493b85b98452bf3.JPG",
+                          "1200w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_07540282cbb666d02697697ff41af525/w940_h528_x470_y264_3493b85b98452bf3.JPG",
+                          "1900w": "https://rp-online.de/imgs/32/2/0/6/8/0/1/3/5/tok_07540282cbb666d02697697ff41af525/w940_h528_x470_y264_3493b85b98452bf3.JPG"
+                        },
+                        "alt": "",
+                        "href": "/nrw/staedte/duesseldorf/tod-eines-7-jaehrigen-im-evk-in-duesseldorf-interview-mit-mutter-bilgis_aid-17733923",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mutter des toten Elias aus Düsseldorf"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "\"Ich will nur, dass die Ärzte ihre Fehler zugeben\""
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_79d156b1bf2373cc382e8b9c3a664b0a/w250_h140_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_e08051024cbba48535770010b04c4da2/w400_h224_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_e5a4d0c3473d9d3f97ba2f437e451b27/w600_h336_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_1a343d7c51c73639a4ff734fed72ba69/w900_h504_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_485497eeea5a95fd4e4ccc5acd6be768/w950_h532_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_34a154a231f92715ce0ce4bdda80fcca/w1200_h672_x639_y455_181_Morris-ab0048de552f11dd.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/3/0/8/9/6/3/7/tok_49e137135024859b023253171366f870/w1278_h911_x639_y455_181_Morris-ab0048de552f11dd.jpg"
+                        },
+                        "alt": "Dieses Plakat finden viele Düsseldorfer sexistisch.",
+                        "href": "/nrw/staedte/duesseldorf/duesseldorf-sexismus-debatte-um-plakate-fuer-duesseldorfer-leichtathletik-meeting_aid-34747087",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Debatte in der Landeshauptstadt"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Sexismus-Vorwurf - Plakate für Düsseldorfer Leichtathletik-Meeting sollen verschwinden"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_a6c5455164f1d75545d7fe5ce15099bf/w250_h140_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_fc7e40e7ad2873e0cd0d4e63dcd4baaa/w400_h224_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_b86fd73310e70821490aaab4a8959fea/w600_h336_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_2f6fb5324d961c1020c1a301642d0d4a/w900_h504_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_c495bc1aa6594861764d2cb892d6d70f/w950_h532_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_55bf623b66fd4a89e5b257aa39857197/w1200_h672_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/3/0/7/1/9/6/3/tok_e3cf044f414ac1f55c675101395537a6/w1900_h1064_x1212_y1127_7dce58bd-9a04-423a-94d6-854d36c1bb15-ba719756c3c9073b.jpg"
+                        },
+                        "alt": "Die geplante U81-Brücke über den Nordstern.",
+                        "href": "/nrw/staedte/duesseldorf/stadtbahnlinie-u81-in-duesseldorf-plaene-werden-konkreter-bau-koennte-2019-starten_aid-34742451",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Bauabschnitt zwischen Düsseldorf Flughafen und Freiligrathplatz "
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Pläne für die Stadtbahnlinie U81 werden konkreter"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 34736945,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_b4c6f7af1bfd915702c491e5668908d4/w250_h187_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_69d6d0783691648e1c027bf81567a79c/w400_h300_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_a25cad4009364233243a618e57026261/w600_h450_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_d49c616d57ff1d4479497efeebe7bdbc/w900_h622_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_4976cbb71d5f09a445ec33c15510bc8c/w950_h622_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_a2ae64ddfb1df478c64126c9d0246ea6/w1200_h622_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/3/0/6/3/1/5/1/tok_a2ae64ddfb1df478c64126c9d0246ea6/w1200_h622_x600_y311_RP_43005283_917805793_RGB_190_1_1_c14d44c4d5d056d215cfb37f7a3dcb69_1543259558_917805793_2e0e109f54-6a71e1402474206a.jpg"
+                              },
+                              "alt": "(V.r.) Stadtwerkevorstand Udo Brockmeier, Dezernentin Cornelia",
+                              "href": "/nrw/staedte/duesseldorf/duesseldorf-gaslaternen-teststrecke-im-stadtwerkepark-in-flingern_aid-34736945",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Teststrecke im Stadtwerkepark"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Düsseldorfer dürfen bei Gaslaternen mitreden"
+                              }
+                            },
+                            {
+                              "id": 34744223,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_710241083eb892d565d78c4c66542cb9/w250_h187_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_dd991db2cb20833272ee943e51cb1c78/w400_h300_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_1b828240a91229dfa0eff7368834ecdd/w600_h450_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_131ab5416f07aa054bb969c9a3272d93/w900_h675_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_fa1631491e0a27f44e6a7e2cb8e0a836/w950_h712_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_0392fcf17911d81a13509968eb0a43f6/w1200_h900_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/3/0/7/6/8/5/7/tok_03db987abcf222327f9708c76a1b6fb3/w1900_h1425_x1841_y1884_gYSAoKiKnw-e287da9d822057bd.jpg"
+                              },
+                              "alt": "Benno Faymonville vor den 80 und",
+                              "href": "/nrw/staedte/koeln/bahnstrecke-aachen-koeln-deutsche-bahn-fordert-anlieger-auf-ihre-baeume-zu-faellen_aid-34744223",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "An der Bahnstrecke Köln-Aachen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Deutsche Bahn fordert 50 Anlieger auf, ihre Bäume zu fällen "
+                              }
+                            },
+                            {
+                              "id": 34734753,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_445fd0a59a94785f65bb96045a160875/w250_h187_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_bf79994e8d62467b3bab7c67c242ca5e/w400_h300_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_2cca712a6218aa60dc9d4cb42ab47a49/w600_h450_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_c85fc62e8b32cfd6e08014f9d9e28663/w900_h675_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_421f977d2c215e34a311d4dfa357f53d/w950_h712_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_78cc55778d1c71e6e1a1354159ff03f2/w1200_h900_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/3/0/5/6/7/3/9/tok_973bc4a6c5791492b188c10197062f62/w1900_h1425_x2263_y864_Ferienstart_51173706-0a8ca8b4bcc907bf.jpg"
+                              },
+                              "alt": "Den Turm der Mauritius-Kirche überfliegen die",
+                              "href": "/nrw/staedte/duesseldorf/fluglaerm-in-meerbusch-piloten-sollen-hoeher-fliegen_aid-34734753",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kampf gegen Fluglärm in Meerbusch"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Piloten sollen am Düsseldorfer Airport in Zukunft wieder höher fliegen"
+                              }
+                            },
+                            {
+                              "id": 34744821,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_33d2968938d52d15d7ca0e13ea294556/w250_h187_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_6a842246512c5ec1d2f56503c022ec92/w400_h300_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_dce2ccc19dfbcf4992aaddcdf3418d71/w600_h450_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_997f61b3ad991f73000099d33ea6b35b/w900_h675_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_f20891882818116d453d9e469287edab/w950_h712_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_791b3bff9e59d42580ab219075a8c2b9/w1200_h900_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/3/0/7/8/7/8/5/tok_15b8e0b06bdb6bc4817f62f870899b2c/w1358_h1425_x679_y856_9cd06d05a05f493cacdf3edd807ce919-d2a8d887901605cc.jpg"
+                              },
+                              "alt": "Eine pinke Parkscheibe mit der Aufschrift",
+                              "href": "/nrw/panorama/sankt-augustin-knoellchen-fuer-pinke-parkscheibe-verteilt_aid-34744821",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Ordnungsamt in Sankt Augustin"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Knöllchen für pinke Parkscheibe verteilt"
+                              }
+                            },
+                            {
+                              "id": 17709587,
+                              "type": "article",
+                              "href": "/nrw/staedte/duesseldorf/elias-mohammad-wird-am-dienstag-obduziert_aid-17709587",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Elias Mohammad wird am Dienstag obduziert"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 34701415,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_f883e056fabed9042d54afd994bd46b9/w250_h187_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_860da8990cdc220f13d6e97411743f83/w400_h300_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_5b1f2cf5764a5c87fc54f7b3b01613d9/w600_h450_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_3bba4cad3fa1280cc1a92665f5585824/w900_h623_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_8eb4cbd490af854a345b681fa74e3691/w950_h623_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_0d6a1f4b7016e0ac78942807431cd419/w1200_h623_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/4/6/9/4/7/tok_0d6a1f4b7016e0ac78942807431cd419/w1200_h623_x600_y311_RP_42933381_915804951_RGB_190_1_1_ba3b14a6a387e5c76d1582149ecb0f84_1543167237_915804951_59b3bcefef-b4c33bcbb0bd600a.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/gerresheim/gerresheimer-basilika-bekommt-touristisches-hinweissschid_aid-34701415",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gerresheim"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Gerresheimer Basilika bekommt touristisches Hinweisschild"
+                              }
+                            },
+                            {
+                              "id": 34698855,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_f9c8854a2bb05bfd7c274848a4f01deb/w250_h187_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_254b38f435f65e21081142f2ee517c3b/w400_h300_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_b297e9c18e8f87303994fa94b51e74ad/w600_h450_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_a82d0bddfd54b71713ece49a4b9d9210/w900_h675_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_19fd6203f217c399f71a342a6cc8d4f0/w950_h712_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_da3072d90936cfe898a3afb12a11fab5/w1200_h900_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/3/6/4/3/9/tok_e493839e6f083d2a5416c361ed2bdd04/w1900_h1425_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/blaulicht/duesseldorfer-polizei-fasst-fahrraddieb_aid-34698855",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Verbrechen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Polizei fasst Fahrraddieb"
+                              }
+                            },
+                            {
+                              "id": 34698695,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_f5a7295a072aafb4694a7a24a602debf/w250_h187_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_3de9762147ed1b41245ce004a5271f18/w400_h300_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_1d8285dc6e9f8d44acd6c8f44f78d4c3/w434_h343_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_1d8285dc6e9f8d44acd6c8f44f78d4c3/w434_h343_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_1d8285dc6e9f8d44acd6c8f44f78d4c3/w434_h343_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_1d8285dc6e9f8d44acd6c8f44f78d4c3/w434_h343_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/3/5/6/0/9/tok_1d8285dc6e9f8d44acd6c8f44f78d4c3/w434_h343_x217_y171_Feuerwehr-Symbol-Platzhalter-Feuer_HBfVEcX-908d174e4428c019.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/blaulicht/loeschfahrzeug-rammt-drehleiter-auf-einsatzfahrt-in-duesseldorf_aid-34698695",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unfall"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Löschfahrzeug rammt Drehleiter auf Einsatzfahrt"
+                              }
+                            },
+                            {
+                              "id": 34688941,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_7a4176fa34b5210037de131285c05a41/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_ef6d0be4cb21a576984233b8e34ec806/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_4be32dd5ee10cef9441eea5a6adc9122/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_9cc3394b2ba64081543bcf919d284c13/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_666eb971405bb7b2851fb9c8aceb7c4d/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_32babd9b8cea12d6106c92952057fde7/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/2/0/2/3/5/tok_0217d72cc01e590b5ffc1504aa2bd62f/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9AF0006BD3795C-c885ddce04b4f5da.jpg"
+                              },
+                              "alt": "Der Landtag in der Abenddämmerung (Archivbild).",
+                              "href": "/nrw/staedte/duesseldorf/duesseldorf-darum-leuchtete-der-landtag-in-der-nacht-zu-sonntag-orange_aid-34688941",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Aktion in Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Darum leuchtete der Landtag in der Nacht zu Sonntag orange"
+                              }
+                            },
+                            {
+                              "id": 34679391,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_92b472289aa6b1a12f7150678b10cf4a/w250_h187_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_a1f3f6bb31bc88c5d01764a3d5c40695/w400_h300_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_df1cb78780234e986f95c74fae7e1d09/w600_h450_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_c2782a2ed0bc9f6dc8a3eb282db451d5/w900_h675_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_83eead881712443b16c1505682bf21dc/w950_h712_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_a57efd31d9912df7141750403c573119/w1200_h779_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/0/4/6/6/7/tok_a57efd31d9912df7141750403c573119/w1200_h779_x600_y389_RP_42852493_913962431_RGB_190_1_1_aec638df604d90fc53a12e1637aa8a2d_1542989987_913962431_0eb094510b-d997a4c58ddcae1b.jpg"
+                              },
+                              "alt": "Ein SUV vom Typ Land Rover",
+                              "href": "/nrw/staedte/duesseldorf/autos-in-der-nrw-landeshauptstadt-jeder-vierte-duesseldorfer-faehrt-suv_aid-34679391",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Autos in der Landeshauptstadt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Jeder vierte Düsseldorfer fährt SUV"
+                              }
+                            },
+                            {
+                              "id": 34679187,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_9e0f886666bab3858206804aae145fcc/w250_h187_x470_y264_6c6de116a499c26e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_55a0ba174b0563deb3795ae35a7b1125/w400_h300_x470_y264_6c6de116a499c26e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_a6455a7e22054f3ae164fba4c721116c/w600_h450_x470_y264_6c6de116a499c26e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_02dc6d85d7aabd271155997f18551d57/w900_h528_x470_y264_6c6de116a499c26e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_e8490d9304b98fc2340ac3fe8dfcf019/w940_h528_x470_y264_6c6de116a499c26e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_e8490d9304b98fc2340ac3fe8dfcf019/w940_h528_x470_y264_6c6de116a499c26e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/0/3/6/9/7/tok_e8490d9304b98fc2340ac3fe8dfcf019/w940_h528_x470_y264_6c6de116a499c26e.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/einkaufen-in-duesseldorf-so-will-der-handel-das-weihnachtsgeschaeft-ankurbeln_aid-34679187",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Einkaufen in Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "So will der Handel das Weihnachtsgeschäft ankurbeln"
+                              }
+                            },
+                            {
+                              "id": 16455635,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_e206cc4143b38c53c49047f98286c812/w250_h187_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_b162a3d8bfed6f7bcae7ba22e168cc81/w400_h300_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_0552f561cddc599f9c007243e1641606/w600_h450_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_af0a521645c314cf31dfc99db9ee90bf/w900_h675_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_98860af941f2ebdacb507c5ae7da9a91/w950_h712_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_57146420276926894dccd4534c3f42f5/w1200_h900_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/1/9/2/7/2/7/1/3/tok_22a2cb845bf0d18a17eddf9a03a056ac/w1900_h1425_x1500_y1013_DPA_bfunk_dpa_5F9AD2008F7EF787-666ff2758f7b2f2a.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/freizeit/tipps-ausfluege-und-veranstaltungen-in-nrw-am-wochenende-2311-bis-2511_aid-16455635",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Noch nichts vor?"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "10 Tipps fürs Wochenende in NRW"
+                              }
+                            },
+                            {
+                              "id": 34679969,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_bc8708eaeaa94a3081e29f56781aa3ad/w250_h187_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_a13601dde1df3f5d01a19a210d40cbc0/w400_h300_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_2da343421e89c8ad34fdb29ed2bb3be6/w600_h450_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_7d463f7841a7e8e4adde134137212939/w862_h675_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_ce2af06301a0c84154754897ddd6984e/w862_h712_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_90055e57f4915d1d9201fb7af45ef146/w862_h900_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/9/0/6/5/9/3/tok_98fdd22884313cd39b49e15b45fdc852/w862_h1200_x500_y289_RP_42864025_914385843_RGB_190_1_1_6955cfc5c2612cb6e2aa662ce3cc4855_1542999012_914385843_fcabba0818-e90072b899341e1e.jpg"
+                              },
+                              "alt": "Wieland Speck und Hape Kerkeling (v.l.)",
+                              "href": "/nrw/staedte/duesseldorf/stadtgespraech/hape-kerkeling-lobt-duesseldorfer-filmfest_aid-34679969",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wettbewerb"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Hape Kerkeling lobt Düsseldorfer Filmfest"
+                              }
+                            },
+                            {
+                              "id": 34675617,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_ce8d77b00beccffdbb860c38fc044f98/w250_h187_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_b3978f41075e2fffca89ee1e371bcc1a/w400_h300_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_38cbfc5d3cdcd6f278d48574bb5d1819/w600_h450_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_85110dcee23a7db620cb1ca67ab6a1dd/w900_h675_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_dd2b755e4550b11ec8b14780f45677e4/w950_h712_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_a7eb4c84db381f080cb07acdb4e3aeec/w1200_h900_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/8/8/9/2/6/1/tok_5d495421bf854330958b96e460db00f7/w1200_h1108_x639_y486_RP_42864293_913872703_RGB_190_1_1_2286582c4754f3d52052c140ecabfbb6_1542988705_913872703_85cc1bee8f-239e882d4d68b314.jpg"
+                              },
+                              "alt": "Jacques Tilly signiert sein Buch bei",
+                              "href": "/nrw/staedte/duesseldorf/stadtgespraech/duesseldorf-jacques-tilly-spricht-ueber-demagogen_aid-34675617",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Vortrag"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Jacques Tilly spricht über Demagogen "
+                              }
+                            },
+                            {
+                              "id": 34673515,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_92fdac12945b2c24127af043759f0b2d/w250_h187_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_e4857be6524f51817f7f20efc7699c54/w400_h300_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_bdabd8a692a4cfe86e1cdf8b1decae2d/w600_h450_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_567dff3c8badcc8462ac94f39a92d129/w900_h675_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_898a9acb066e2b7f9e91fc08b91b7211/w950_h712_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_08d0095309e1ef4b9becfca181203834/w1200_h786_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/8/8/0/2/3/3/tok_08d0095309e1ef4b9becfca181203834/w1200_h786_x600_y393_RP_42208311_913457095_RGB_190_1_1_1d18fbf0e2831920049cf4f3452d5f9e_1542981035_913457095_1deaee577b-ffecc674b6157aed.jpg"
+                              },
+                              "alt": "Dagmar Nelting lebt gerne in Mörsenbroich.",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/moersenbroich/stadtteil-check-moersenbroich_aid-34673515",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Stadtteil-Check "
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Ein Stadtteil mit fließenden Grenzen"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "EVK in Düsseldorf: Mutter organisiert Mahnwache vor Klinik nach Tod von Mohammad Elias"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Hitzefrei für die Community. Wir aktualisieren derzeit unser System. Deswegen können für ein paar Stunden keine Kommentare eingereicht werden."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 42954091,
+                      "url": "/api/comments?beitrag_id=42954091",
+                      "counturl": "/api/comments?type=count&beitrag_id=42954091"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank"
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": ""
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=64710"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": ""
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": ""
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/duesseldorf/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": ""
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": ""
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": ""
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": ""
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": ""
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

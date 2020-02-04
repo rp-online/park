@@ -1,0 +1,12 @@
+{% set section = config.dataLayer.dossier is defined and config.dataLayer.dossier != '' ? config.dataLayer.dossier : config.dataLayer.ressort %}
+{% set sections = config.dataLayer.contentType is defined and config.dataLayer.contentType != "Index" ? section|capitalize  : title %}
+<script type='text/javascript'>
+    (function() {
+        var _sso_info = window.park.cookie.get("sso_info");
+        var _parse = _sso_info !== '' ? JSON.parse(decodeURIComponent(_sso_info)) : {};
+
+        var _cbq = window._cbq = (window._cbq || []);
+        var _login = window.park.user.isLoggedIn() ? (_parse != null && _parse.paid ? 'paid' : 'lgdin' ) : 'anon';
+        _cbq.push(['_acct', _login]);
+    })();
+</script>

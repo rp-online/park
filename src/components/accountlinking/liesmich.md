@@ -1,0 +1,1 @@
+Diese Komponente stellt einen Screen zum Account Linking mit Facebook zur Verfügung. 

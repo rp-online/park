@@ -1,0 +1,25 @@
+<section
+  class="park-section-portal-right{% if float is defined and float is same as(true) %} park-section-portal-right--is-floating{% endif %}">
+  {% if ad is defined and ad is iterable %}
+    {# The following injects the global config #}
+    {% set ad = ad|merge({'config': config}) %}
+      {% if ad.type is same as('portal') %}
+        {% include 'components/portal/template.twig' with ad only %}
+      {% elseif ad.type is same as('multi-portal') %}
+        {% include 'components/multi-portal/template.twig' with ad.data only %}
+      {% endif %}
+  {% endif %}
+  <div class="park-section-portal-right__content">
+    {% if children is defined and children is iterable %}
+      {% for child in children %}
+        {% set data = child.data|merge({'config': config}) %}
+        {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+      {% endfor %}
+    {% else %}
+      {% if component is defined and data is defined %}
+        {% set data = data|merge({'config': config}) %}
+        {% include 'components/' ~ component ~ '/template.twig' with data only %}
+      {% endif %}
+    {% endif %}
+  </div>
+</section>

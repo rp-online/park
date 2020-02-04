@@ -1,0 +1,20 @@
+{% if title is defined and title %}
+    <aside class="park-topicbox">
+        <p class="park-topicbox__content"><span class="park-topicbox__text"><strong class="park-topicbox__headline">Thema:</strong> {% include 'components/link-helper/template.twig' with {
+                    'href': href,
+                    'text': title,
+                    'classes': [
+                        'park-topicbox__link'
+                    ],
+                    'config': config
+                } only %}</span></p>
+        {% if id is defined and id %}
+            {% include 'components/button-subscribe/template.twig' with {
+                'itemType': 'topic',
+                'itemId': id,
+                'isCompact': true,
+                'config': config
+            } only %}
+        {% endif %}
+    </aside>
+{% endif %}

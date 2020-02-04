@@ -1,0 +1,14 @@
+<div class="park-wallpaper-portal{% if side is defined and side %} park-wallpaper-portal--{{ side }}{% endif %}">
+    {% if side is same as('left') %}
+      {% if desktop is defined and desktop is iterable %}
+        {% set desktop = desktop|merge({
+          'lazy': true
+        }) %}
+      {% endif %}
+    {% endif %}
+    {% if type is same as('portal') %}
+        {% include 'components/portal/template.twig' %}
+    {% elseif type is same as('multi-portal') %}
+        {% include 'components/multi-portal/template.twig' with data only %}
+    {% endif %}
+</div>

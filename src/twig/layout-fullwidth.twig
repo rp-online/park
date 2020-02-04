@@ -1,0 +1,17 @@
+{% extends 'twig/base.twig' %}
+
+{% block page_content %}
+  <main class="{{ ns }}layout--fullwidth" id="park-main" role="main" tabindex="-1">
+    {% block main %}
+      {% if children is defined %}
+        {% include 'twig/component.twig' with {
+        'config': config,
+        'children': children
+        } only %}
+      {% endif %}
+    {% endblock %}
+  </main>
+  {% include 'components/floating-bell/template.twig' with {
+    'config': config
+  } only %}
+{% endblock %}

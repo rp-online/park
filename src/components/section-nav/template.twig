@@ -1,0 +1,99 @@
+{% set uuid = random() %}
+<div class="park-section-nav">
+  <div class="park-section-nav__wrapper">
+    {% if breadcrumb is defined %}
+      {% set allItemsHidden = true %}
+      {% for item in breadcrumb %}
+        {% if item.isHidden is not defined or item.isHidden is same as(false) %}
+          {% set allItemsHidden = false %}
+        {% endif %}
+      {% endfor %}
+      <ul class="park-section-nav__breadcrumb{% if allItemsHidden is same as(true) %} park-section-nav__breadcrumb--is-hidden{% endif %}">
+        {% for item in breadcrumb %}
+          {% if item.isAd is not defined or item.isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+            {% set ariaHidden = item.isHidden ? 'true' : 'false' %}
+            {% set desktopHiddenClass = item.isDesktopHidden ? "park-section-nav__breadcrumb-item--desktophidden" : '' %}
+            <li itemscope
+                itemtype="http://data-vocabulary.org/Breadcrumb"
+                class="park-section-nav__breadcrumb-item {{ desktopHiddenClass }}"
+                aria-hidden="{{ ariaHidden }}">
+              {% set content %}
+                <span itemprop="title">{{ item.text }}</span>
+              {% endset %}
+              {% set link = {
+                'href': item.href,
+                'text': content,
+                'target': item.target,
+                'rel': item.rel,
+                'classes': [
+                  'park-section-nav__breadcrumb-link',
+                  item.isAd ? 'park-section-nav__breadcrumb-link--sugardaddy' : ''
+                ],
+                'isAd': item.isAd,
+                'config': config
+              } %}
+              {% include 'components/link-helper/template.twig' with link only %}
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+    {% if headline is defined %}
+    <{{ headline.tag }} class="park-section-nav__headline">{% if headline.href is defined %}{% set link = {
+      'href': headline.href,
+      'text': headline.text,
+      'target': headline.target,
+      'rel': headline.rel,
+      'classes': [
+        'park-section-nav__headline-link',
+        item.isAd ? 'park-section-nav__headline-link--sugardaddy' : ''
+      ],
+      'isAd': item.isAd,
+      'config': config
+    } %}
+    {% include 'components/link-helper/template.twig' with link only %}{% else %}{{ headline.text|raw }}{% endif %}</{{ headline.tag }}>
+  {% endif %}
+  {% if navigation is defined and navigation is iterable %}
+    <button type="button"
+            aria-controls="park-section-nav__navigation-{{ uuid }}"
+            aria-expanded="false"
+            class="park-section-nav__toggle">Schnellzugriff aufklappen
+    </button>
+  {% endif %}
+</div>
+{% if navigation is defined and navigation is iterable %}
+  <ul id="park-section-nav__navigation-{{ uuid }}"
+      class="park-section-nav__navigation">
+    {% for item in navigation %}
+      {% if item.isAd is not defined or item.isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+        <li class="park-section-nav__item">
+          {% set link = {
+            'href': item.href,
+            'text': item.text,
+            'target': item.target,
+            'rel': item.rel,
+            'classes': [
+              'park-section-nav__link',
+              item.isAd ? 'park-section-nav__link--sugardaddy' : ''
+            ],
+            'isAd': item.isAd,
+            'config': config
+          } %}
+          {% include 'components/link-helper/template.twig' with link only %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  <!--[IF !IE]> -->
+  <script>
+    (function () {
+      if (window.park.device.isMobile()) {
+        var nav = window.park.$('.park-section-nav__navigation').pop();
+        nav.setAttribute('aria-hidden', 'true');
+      }
+    })();
+  </script>
+  <!-- <![ENDIF]-->
+{% endif %}
+</div>
+

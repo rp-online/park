@@ -1,0 +1,21 @@
+{% set types = [] %}
+{% for item in items %}
+  {% if item.type not in types %}
+    {% set types = types|merge([item.type]) %}
+  {% endif %}
+{% endfor %}
+{% if types|length == 1 and types[0] in ['image', 'video'] %}
+  {% include 'components/teaser-tiles/template.twig' with {
+  'headline': headline,
+  'aside': aside,
+  'items': items,
+  'config': config
+  } %}
+{% else %}
+  {% include 'components/teaser-collection/template.twig' with {
+  'headline': headline,
+  'aside': aside,
+  'items': items,
+  'config': config
+  } %}
+{% endif %}

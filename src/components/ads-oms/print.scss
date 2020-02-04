@@ -1,0 +1,10 @@
+[id^="gpt"],
+[id^="google_ads_iframe"],
+[id^="YOC"],
+[id^="sky"],
+[class^="sdg"] {
+  &,
+  * {
+    display: none !important;
+  }
+}

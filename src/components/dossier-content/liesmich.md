@@ -1,0 +1,1 @@
+Diese Komponente ist im Prinzip die [markdown](#markdown)-Komponente, nur dass sie in einen andersfarbigen Context platziert wird. Genutzt wird sie, wie der Name schon sagt, in den Dossieres. Der Inhalt in der Eigenschaft `text` kann wahlweise als Richtext in Markdown- oder HTML-Annotation übergeben werden.

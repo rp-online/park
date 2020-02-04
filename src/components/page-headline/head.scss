@@ -1,0 +1,8 @@
+.park-page-headline {
+  @include global-sans-serif-font-size(1);
+
+  display: block;
+  margin: $global-spacing;
+  font-weight: $global-font-weight-sans-serif-regular;
+  letter-spacing: rem(0.9px);
+}

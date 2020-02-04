@@ -1,0 +1,1 @@
+Diese Komponente ist im Prinzip die [content](#content)-Komponente, allerdings mit anderen Abständen zu den Seiten.

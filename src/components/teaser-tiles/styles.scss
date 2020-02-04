@@ -1,0 +1,121 @@
+.park-teaser-tiles {
+  position: relative;
+  top: -1px;
+  padding: 0 0 1px; // padding against margin collapse effect
+  background-clip: padding-box;
+  border-top: rgba(0, 0, 0, 0.1) 1px solid;
+
+  @include mq(desktop) {
+    padding: 0 0 rem(30px) 0;
+  }
+
+  &__list {
+    display: block;
+    padding-left: rem(16px);
+    font-size: 0;
+    text-align: left;
+
+    @include mq(desktop) {
+      @supports (display: grid) {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+    }
+  }
+
+  &__listitem {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    padding: 0 rem(16px) 0 0;
+    white-space: normal;
+    text-align: left;
+    vertical-align: top;
+
+    @include mq(desktop) {
+      display: inline-block;
+      width: calc(100% / 3);
+      vertical-align: top;
+
+      @supports (display: grid) {
+        width: 100%;
+        height: 100%;
+      }
+    }
+  }
+
+  .park-card-article__wrapper,
+  .park-card-image__wrapper,
+  .park-card-info__wrapper,
+  .park-card-video__wrapper {
+    float: left;
+    width: 33%;
+
+    @include mq(desktop) {
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .park-card-article__figure,
+  .park-card-image__figure,
+  .park-card-info__figure,
+  .park-card-video__figure {
+    @include mq(mobile) {
+      padding-bottom: 0;
+    }
+  }
+
+  .park-card-article__caption,
+  .park-card-image__caption,
+  .park-card-info__caption,
+  .park-card-video__caption {
+    display: block;
+    float: right;
+    width: 66%;
+
+    @include mq(mobile) {
+      position: static;
+    }
+
+    @include mq(desktop) {
+      float: none;
+      width: 100%;
+    }
+  }
+
+  .park-image__sizer,
+  .park-image__image {
+    width: 100%;
+    height: auto;
+  }
+
+  &__aside {
+    @include global-sans-serif-font-size(3);
+
+    padding: 0 $global-spacing $global-spacing $global-spacing;
+    color: rgba(0, 0, 0, 0.6);
+    line-height: (22 / 12);
+    text-align: center;
+
+    > * {
+      vertical-align: baseline;
+    }
+
+    > svg {
+      width: auto;
+      height: 0.9em;
+    }
+
+    @include mq(desktop) {
+      position: absolute;
+      right: 0;
+      bottom: rem(4px);
+      left: 0;
+      padding: 0 $global-spacing;
+      text-align: right;
+    }
+  }
+}

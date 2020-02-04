@@ -1,0 +1,1505 @@
+{
+  "title": "Infostrecke mit Embeds",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "\/assets",
+    "title": "SEO: Zehn Navigationsger\u00e4te im Test\r\n",
+    "url": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1522902173",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Text, der nicht der Teasertext ist. Keiner wei\u00df, ob und wenn ja wo der ausgespielt wird. "
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": ""
+      },
+      {
+        "name": "news_keywords",
+        "content": ""
+      },
+      {
+        "name": "og:title",
+        "content": "Zehn Navigationsger\u00e4te im Test"
+      },
+      {
+        "name": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "name": "og:url",
+        "content": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      },
+      {
+        "name": "og:description",
+        "content": "Text, der nicht der Teasertext ist. Keiner wei\u00df, ob und wenn ja wo der ausgespielt wird. "
+      },
+      {
+        "name": "og:image",
+        "content": "https:\/\/www-int.rp-online.de\/imgs\/32\/9\/8\/7\/7\/6\/3\/6\/tok_d3a54d62dcb6f63be861c5432abb1923\/w1200_h630_x1796_y1197_RP_unverpackt-5643-48333fe13969c50d.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "SEO: Zehn Navigationsger\u00e4te im Test\r\n"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Text, der nicht der Teasertext ist. Keiner wei\u00df, ob und wenn ja wo der ausgespielt wird. "
+      },
+      {
+        "name": "twitter:url",
+        "content": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https:\/\/www-int.rp-online.de\/imgs\/32\/9\/8\/7\/7\/6\/3\/6\/tok_d3a54d62dcb6f63be861c5432abb1923\/w1200_h630_x1796_y1197_RP_unverpackt-5643-48333fe13969c50d.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "allgemeines",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "Infostrecke",
+      "analyticsUrl": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294",
+      "rho_url": "\/\/r.lausitzer-woche.de\/images\/pic.gif?m=rp&b=9877636&cstr=7848294&l=&tit=SEO%3A+Zehn+Navigationsger%E4te+im+Test&url=https%3A%2F%2Fwww-int.rp-online.de%2Fallgemeines%2Fseo-zehn-navigationsgeraete-im-test_iid-7848294&sep=%7C&tce=1&tid=64389&tn=64388&tp=50327%7C64388&tpn=50327%7C64388&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": false,
+    "appMode": "full",
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app:\/\/com.rheinischepost.wrapper\/http\/rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      },
+      {
+        "rel": "canonical",
+        "href": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      },
+      {
+        "rel": "alternate",
+        "type": "application\/rss+xml",
+        "title": "RSS Feed",
+        "href": "\/allgemeines\/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Vermischtes",
+        "sv": "i2",
+        "co": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Thema-Vermischtes",
+        "sv": "mo",
+        "co": "https:\/\/www-int.rp-online.de\/allgemeines\/seo-zehn-navigationsgeraete-im-test_iid-7848294"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "id": "topcontainer",
+            "adUnitPath": "\/5766\/oms.rp-online.de\/sonstiges_fotos",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                940,
+                200
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                468,
+                61
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "bannerrechts",
+            "adUnitPath": "\/5766\/oms.rp-online.de\/sonstiges_fotos",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ],
+              [
+                120,
+                601
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "outofpage",
+            "adUnitPath": "\/5766\/oms.rp-online.de\/sonstiges_fotos",
+            "size": "",
+            "collapse": true,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "id": "7864259",
+            "adUnitPath": "\/5766\/oms.rp-online.de\/sonstiges_fotos",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "infostrecke",
+          "cid": "7848294",
+          "pfad1": "allgemeines",
+          "pfad2": "stop",
+          "oms": "sonstiges_fotos",
+          "mode": "desktop",
+          "sitetyp": "parklayout"
+        },
+        "oms": {
+          "site": "oms.rp-online.de",
+          "zone": "sonstiges_fotos"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "id": "ist",
+            "adUnitPath": "\/8635\/mew.oms.rp-online-app.de\/sonstiges",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "id": "pos1",
+            "adUnitPath": "\/8635\/mew.oms.rp-online-app.de\/sonstiges\/pos1",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": 1,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "7864259",
+            "adUnitPath": "\/8635\/mew.oms.rp-online-app.de\/sonstiges\/pos2",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "infostrecke",
+          "cid": "7848294",
+          "pfad1": "allgemeines",
+          "pfad2": "stop",
+          "oms": "sonstiges",
+          "mode": "mobile",
+          "sitetyp": "parklayout"
+        },
+        "oms": {
+          "site": "mew.oms.rp-online-app.de",
+          "zone": "sonstiges",
+          "mobile": true
+        }
+      },
+      "reloadFrequency": "5"
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"bannerrechts\"><script>googletag.cmd.push(function() { googletag.display(\"bannerrechts\"); });<\/script><\/div>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"outofpage\"><script>googletag.cmd.push(function() { googletag.display(\"outofpage\"); });<\/script><\/div>"
+    },
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"><script>googletag.cmd.push(function() { googletag.display(\"ist\"); });<\/script><\/div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "\/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "\/nrw\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "\/politik\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "\/wirtschaft\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "\/sport\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama Test2",
+        "href": "\/panorama\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "\/kultur\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "\/digitales\/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "\/sso\/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "\/sso\/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "\/sso\/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "\/"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "\/suche\/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erkl\u00e4ren Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "http:\/\/\/info\/datenschutz\/",
+            "text": "Mehr Informationen"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-rectangle",
+            "html": "<script>document.write('<img src=\"https:\/\/placehold.it\/320x50\">')<\/script>"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"topcontainer\"><script>googletag.cmd.push(function() { googletag.display(\"topcontainer\"); });<\/script><\/div>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display(\"pos1\"); });<\/script><\/div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "SEO: Zehn Navigationsger\u00e4te im Test\r\n"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https:\/\/www-int.rp-online.de\/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Allgemeines",
+                        "href": "https:\/\/www-int.rp-online.de\/allgemeines\/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "",
+                        "href": "https:\/\/www-int.rp-online.de\/allgemeines\/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "gallery",
+                  "data": {
+                    "timestamp": "1521638700",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Zehn Navigationsger\u00e4te im Test"
+                    },
+                    "items": [
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Das Interesse der K\u00e4ufer \u00fcber Qualit\u00e4t und Preis der Navigationsger\u00e4te ist gro\u00df. Es ist wie bei den Handys: Erst hatten sie nur wenige, dann immer mehr, schlie\u00dflich fast alle. Ganz \u00e4hnlich entwickelt sich der Trend bei den kleinen, praktischen Wegweisern im Auto. Im Folgenden haben wir den j\u00fcngsten Vergleich der Zeitschrift \"auto motor und sport\" ausgewertet."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "<b>TomTomOne:\n sehr empfehlenswert<\/b>\n\nDieses Ger\u00e4t sieht \"auto motor und sport\" an der Spitze der zehn getesteten Ger\u00e4te. Zum Preis von 399 Euro sei der TomTom One sowohl bei der Zielf\u00fchrung als auch bei der Bedienung \u00fcberzeugend. Eine Europanavigation ist im Preis inbegriffen."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Fujitsu-Siemens Loox N100:\n sehr empfehlenswert\n\nDas Ger\u00e4t ist noch 100 Euro g\u00fcnstiger (299 Euro) als das TomTomOne, hat auch eine Europanavigation und wird im Test als \"Schn\u00e4ppchen\" bezeichnet. Einziger Schwachpunkt: Ein kleiner Bildschirm."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Medion PNA 515T:\n sehr empfehlenswert\n\nDer Lotse des Aldi-Hauslieferers hat die Nase dank reichhaltiger Ausstattung weit vorne. Lediglich die grafische Darstellung sei gew\u00f6hnungsbed\u00fcrftig, urteilen die Tester."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "VDO Dayton MS2110:\n empfehlenswert\n\nBei den festinstallierten Ger\u00e4ten hat VDO Dayton einen guten Ruf. Das scheint die Marke auch auf den tragbaren Bereich auszudehnen. Dank Stauumfahrung TMC, Europakarte und guter Zielf\u00fchrung kommt das Ger\u00e4t bei den Testern gut weg. Der Haken: Es kostet 499 Euro."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "KlickTel Navigator K580:\n empfehlenswert\n\nEin Neueinsteiger, der sonst nur aus dem virtuellen Telefon- und Branchenbuch-Bereich bekannt war. Die Tester halten den Einstieg f\u00fcr gelungen. Genaue Sprachbefehle und eine gute optische F\u00fchrung werden bescheinigt. Bei der Routenwahl m\u00fcsse man aber noch nachbessern und g\u00fcnstig ist KlickTel mit 499 Euro auch nicht gerade."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Pioneer AVIC-S1: \nempfehlenswert\n\nDer Experte in Sachen Einbauger\u00e4te hat sich nun auch auf den portablen Markt gewagt. Schw\u00e4chen zeigt das Ger\u00e4t laut Test nicht, daf\u00fcr ist der Preis mit 599 Euro happig."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Garmin N\u00fcvi 360:\n empfehlenswert\n\nNoch teurer ist der Garmin N\u00fcvi. 679 Euro f\u00fcr ein Ger\u00e4t, das zwar eine gute Ausstattung und einen guten Empfang hat, aber sogar in Zielf\u00fchrung noch Schw\u00e4chen aufweist, lassen die Pr\u00fcfer so gerade eben noch zu einem empfehlenswert kommen."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Navman iCN 720:\n empfehlenswert\n\nDieser Navigator besitzt sogar eine integrierte Digitalkamera (1,3 Megapixel). Sie schie\u00dft nicht nur Bilder, sondern versieht sie automatisch mit Geo-Koordinaten. Daf\u00fcr fehlt TMC, deswegen sind 599 Euro den Pr\u00fcfern ein bisschen teuer."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Magellan RoadMate 3000T:\n bedingt empfehlenswert\n\nEinfache Bedienung und gute Berechnungsgeschwindigkeit sind die Vorz\u00fcge des Ger\u00e4ts. Ansonsten ist es nicht frei von Schw\u00e4chen. Zu nennen ist die Routenf\u00fchrung und auch die Sprachausgabe ist nicht immer ganz eindeutig. Dazu fehlt sogar TMC, so dass 499 Euro wahrlich kein Schn\u00e4ppchen sind."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Medion PNA 210:\n bedingt empfehlenswert\n\nDer Basis-Lotse aus dem Hause Aldi ist zum Discountpreis von 219 Euro ein verlockendes Angebot. Allerdings haben die Tester festgestellt, dass das Ger\u00e4t nur die Mindestbed\u00fcrfnisse in Sachen Navigation erf\u00fcllt. F\u00fcr TMC sind Adapter und Software-Update erforderlich. Touchscreen-Bedienung und eine gute Sprachf\u00fchrung werden als Pluspunkte verbucht."
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Ich bin ein Youtube-Video und bin scharf auf Fame!!",
+                        "figure": {
+                          "component": "embed-video",
+                          "data": {
+                            "type": "youtube",
+                            "id": "TRUguwnzSm0"
+                          }
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Das beste f\u00fcr die Japan-Fans, nur in D\u00fcsseldorf, nirgendwo anders!",
+                        "figure": {
+                          "component": "embed-facebook-post",
+                          "data": {
+                            "url": "https:\/\/www.facebook.com\/tonight.de\/posts\/10156236416917748"
+                          }
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Wir lieben Cat Content!",
+                        "figure": {
+                          "component": "embed-instagram-post",
+                          "data": {
+                            "url": "https:\/\/www.instagram.com\/p\/BhHZb9DDWP0\/"
+                          }
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Wie kann sie nur....",
+                        "figure": {
+                          "component": "embed-twitter-tweet",
+                          "data": {
+                            "url": "https:\/\/twitter.com\/VfL_1899\/status\/980783512738463749?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fwww.rp-online.de%2Fpanorama%2Fdeutschland%2Fvfl-osnabrueck-weist-beatrix-von-storch-afd-auf-twitter-zurecht-aid-1.7490924&amp;tfw_site=rponline"
+                          }
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zehn Navigationsger\u00e4te im Test"
+                        },
+                        "caption": "Ich bin ein HTML-Element",
+                        "figure": {
+                          "component": "embed-html",
+                          "data": {
+                            "html": "<iframe width=\"854\" height=\"480\" src=\"https:\/\/www.youtube.com\/embed\/0r-2sSABdZs\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen><\/iframe>"
+                          }
+                        }
+                      }
+                    ],
+                    "ads": {
+                      "slides": {
+                        "interval": "5",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"7864259\"><script>googletag.cmd.push(function() { googletag.display(\"7864259\"); })<\/script><\/div>"
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"7864259\"><script>googletag.cmd.push(function() { googletag.display(\"7864259\"); })<\/script><\/div>"
+                        }
+                      }
+                    },
+                    "lastItem": {
+                      "headline": {
+                        "tag": "p",
+                        "text": "Auch interessant"
+                      },
+                      "figure": {
+                        "component": "teaser-tiles",
+                        "data": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<iframe style=\"width:100%\" height=\"300\" noresize=\"noresize\" scrolling=\"no\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\"\r\n    src=\"https:\/\/a.twiago.com\/adframe.php?pid=3733\" ALLOWTRANSPARENCY=\"true\">\r\n\t<a href=\"https:\/\/a.twiago.com\/adnoclick.php?pid=3733\" target=\"_top\">\r\n\t\t<img src=\"https:\/\/a.twiago.com\/adnoframe.php?pid=3733\" alt=\"Hier klicken!\" border=\"0\" width=\"970\" height=\"300\" \/>\r\n\t<\/a>\r\n<\/iframe>\r\n\r\n<div style=\"clear:both;\"><\/div>\r\n\r\n<div id=\"nativendo-galerie\" style=\"width: 100%; margin-bottom: 20px;\"><\/div>\r\n<script>\r\n  (function() {\r\n    var nativendo_s = document.createElement('script');\r\n    nativendo_s.type = 'text\/javascript';\r\n    nativendo_s.async = true;\r\n    nativendo_s.src = '\/\/d.nativendo.de\/d\/init';\r\n    var nativendo_sc = document.getElementsByTagName('script')[0];\r\n    nativendo_sc.parentNode.insertBefore(nativendo_s, nativendo_sc);\r\n  })();\r\n<\/script>"
+                    }
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Weitere Bilderstrecken"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/8\/5\/2\/3\/4\/tok_6138aebbd9f9c3b67ba9fe6bb7d62fc9\/w306_h175_x1575_y1050_a852cf42ed267566.jpg",
+                        "alt": "Das letzte Derby der Saison endete ziemlich bitter\n",
+                        "href": "\/allgemeines\/das-letzte-derby-der-saison-endete-ziemlich-bitter_bid-7766399",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Pinguine bei der DEG"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Das letzte Derby der Saison endete ziemlich bitter\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/8\/2\/2\/4\/9\/tok_af6b029936243e4b13357583248a4449\/w306_h175_x547_y365_08d0db8cafed06f9.jpg",
+                        "alt": "Winter-Nachspiel in Krefeld\n",
+                        "href": "\/allgemeines\/winter-nachspiel-in-krefeld_bid-7763420",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Wei\u00dfe Pracht"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Winter-Nachspiel in Krefeld\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/8\/1\/7\/8\/3\/tok_c4e13c4daa9bb65914ccf7af87379c5c\/w306_h175_x500_y375_06976dae985ecda0.jpg",
+                        "alt": "Wuppertaler startet f\u00fcr guten Zweck\n",
+                        "href": "\/allgemeines\/wuppertaler-startet-fuer-guten-zweck_bid-7762954",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Bilderstrecke"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Wuppertaler startet f\u00fcr guten Zweck\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/8\/0\/7\/3\/3\/tok_aeb57692c9a1aff9afa320fe5f184592\/w306_h175_x2128_y1416_d3bf3d29cedba483.jpg",
+                        "alt": "Die Golf-Weltrangliste\n",
+                        "href": "\/allgemeines\/golf-weltrangliste-martin-kaymer-der-einzige-deutsche-in-den-top-100_bid-7761904",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "\u00dcbersicht"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Die Golf-Weltrangliste\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/9\/4\/6\/4\/1\/tok_9a428f09dbcb1bb3f77b157c800e4341\/w306_h175_x353_y188_2c51d1f3c7690fcc.jpg",
+                        "alt": "Die Autofamilie Th\u00fcllen kommt\n",
+                        "href": "\/allgemeines\/die-autofamilie-thuellen-kommt_bid-7775743",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "ANZEIGE"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Die Autofamilie Th\u00fcllen kommt\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/9\/4\/7\/6\/7\/tok_1d009ea34fcb5b5b492cbb78887ee528\/w306_h175_x750_y500_4e9e9e186ad6183a.jpg",
+                        "alt": "Feuerwehrchef wurde verabschiedet\n",
+                        "href": "\/allgemeines\/feuerwehrchef-wurde-verabschiedet_bid-7775869",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": ""
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Feuerwehrchef wurde verabschiedet\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/7\/9\/0\/1\/8\/8\/tok_fbca6c767baab4a26a62785325614ecd\/w306_h175_x612_y408_2ce549333876c560.jpg",
+                        "alt": "Viele Wege, ein Genuss\n",
+                        "href": "\/allgemeines\/viele-wege-ein-genuss_bid-7771337",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Die Pfalz"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Viele Wege, ein Genuss\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/8\/7\/6\/6\/4\/5\/tok_70aab49ba4662daabbf4e989064765bd\/w306_h175_x175_y112_a9ac86d0092d6005.jpg",
+                        "alt": "Die deutschen Kanzlerkarossen\n",
+                        "href": "\/allgemeines\/die-autos-der-deutschen-bundeskanzler_bid-7847316",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": ""
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Die deutschen Kanzlerkarossen\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "\/imgs\/32\/9\/8\/7\/6\/3\/5\/7\/tok_46a59c8ab8fd74e9c26badee5086f00a\/w306_h175_x175_y150_3192a6d25eda4d00.jpg",
+                        "alt": "Tops und Flops der Modewelt\n",
+                        "href": "\/allgemeines\/tops-und-flops-der-modewelt_bid-7847028",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": ""
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Tops und Flops der Modewelt\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "\/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "Kontakt",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "AGB",
+          "href": "http:\/\/#void"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com\/rponline",
+          "href": "https:\/\/facebook.com\/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https:\/\/twitter.com\/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "\/app\/newsletter\/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den t\u00e4glichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Handy Tarife",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Strom Rechner",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Gas Rechner",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Mercedes Benz",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Schwarz Wald",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "http:\/\/spiele.rp-online.de",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Themen",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Sitemap",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Sistrix",
+          "href": "http:\/\/www.sistrix.de\/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Pressemitteilung",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "Karriere",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "##void"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "\/api\/tree?output=navigation&currentNode=64389"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "RP ePaper",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "RP Trauer",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Rp Forum",
+              "href": "http:\/\/#void"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt zur Redaktion",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Podcast abonnieren",
+              "href": "http:\/\/#void"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "Spiele",
+              "href": "http:\/\/#void"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "http:\/\/#void"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "\/assets\/images\/sprite.navigation.svg#stadtauswahl",
+          "text": "St\u00e4dte",
+          "href": "\/nrw\/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "\/nrw\/staedte\/dinslaken\/",
+              "featured": true,
+              "icon": "\/assets\/images\/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "\/nrw\/staedte\/dormagen\/",
+              "featured": true,
+              "icon": "\/assets\/images\/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "Duesseldorf",
+              "href": "\/nrw\/staedte\/duesseldorf\/",
+              "featured": true,
+              "icon": "\/assets\/images\/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "\/nrw\/staedte\/duisburg\/",
+              "featured": true,
+              "icon": "\/assets\/images\/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "\/nrw\/staedte\/emmerich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "\/nrw\/staedte\/erkelenz\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "\/nrw\/staedte\/erkrath\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "\/nrw\/staedte\/geldern\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "\/nrw\/staedte\/goch\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "\/nrw\/staedte\/grevenbroich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "\/nrw\/staedte\/haan\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "\/nrw\/staedte\/hilden\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "Hueckelhoven",
+              "href": "\/nrw\/staedte\/hueckelhoven\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "Hueckeswagen",
+              "href": "\/nrw\/staedte\/hueckeswagen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "Huenxe",
+              "href": "\/nrw\/staedte\/huenxe\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "Juechen",
+              "href": "\/nrw\/staedte\/juechen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "\/nrw\/staedte\/kaarst\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "\/nrw\/staedte\/kamp-lintfort\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "\/nrw\/staedte\/kempen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "\/nrw\/staedte\/kevelaer\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "\/nrw\/staedte\/kleve\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "Koeln",
+              "href": "\/nrw\/staedte\/koeln\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "\/nrw\/staedte\/korschenbroich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "\/nrw\/staedte\/krefeld\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "\/nrw\/staedte\/kreis-heinsberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "\/nrw\/staedte\/langenfeld\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "\/nrw\/staedte\/leichlingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "\/nrw\/staedte\/leverkusen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "\/nrw\/staedte\/meerbusch\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "\/nrw\/staedte\/mettmann\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "Moenchengladbach",
+              "href": "\/nrw\/staedte\/moenchengladbach\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "\/nrw\/staedte\/moers\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "\/nrw\/staedte\/nettetal\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "\/nrw\/staedte\/neukirchen-vluyn\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "\/nrw\/staedte\/neuss\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "\/nrw\/staedte\/radevormwald\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "\/nrw\/staedte\/ratingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "\/nrw\/staedte\/remscheid\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "\/nrw\/staedte\/rhein-kreis\/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "\/nrw\/staedte\/rheinberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "\/nrw\/staedte\/rommerskirchen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "\/nrw\/staedte\/solingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "Toenisvorst",
+              "href": "\/nrw\/staedte\/toenisvorst\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "\/nrw\/staedte\/viersen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "\/nrw\/staedte\/wassenberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "\/nrw\/staedte\/wegberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "\/nrw\/staedte\/wermelskirchen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "\/nrw\/staedte\/wesel\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "\/nrw\/staedte\/willich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#willich"
+            },
+            {
+              "text": "Wuelfrath",
+              "href": "\/nrw\/staedte\/wuelfrath\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "\/nrw\/staedte\/xanten\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "\/nrw\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#nrw"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "\/politik\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "\/wirtschaft\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "\/sport\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama Test2",
+          "href": "\/panorama\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "\/kultur\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "\/digitales\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Mehr...",
+          "href": "\/leben\/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

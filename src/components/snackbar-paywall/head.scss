@@ -1,0 +1,24 @@
+.park-snackbar-paywall {
+  .park-snackbar__wrapper {
+    justify-content: flex-end;
+
+    > :first-child {
+      justify-self: flex-start;
+      margin-right: auto;
+      margin-left: $global-spacing;
+
+      b {
+        color: $global-brand-color;
+      }
+    }
+  }
+
+  &__message {
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__count {
+    color: $global-brand-color;
+    vertical-align: baseline;
+  }
+}

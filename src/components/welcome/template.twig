@@ -1,0 +1,29 @@
+<article class="park-welcome">
+  <header class="park-welcome__headline">Wohin möchten Sie jetzt?</header>
+  <nav>
+    <ul class="park-welcome__options">
+    {% if previousURL is defined and previousURL not null %}
+      <li class="park-welcome__option park-welcome__referrer">
+        <a href="{{ previousURL }}"
+           class="park-welcome__link ">{% include 'svg/type-article.svg' %}Vorheriger Beitrag</a>
+      </li>
+    {% endif %}
+      <li class="park-welcome__option">
+        <a href="{{ homeURL }}"
+           class="park-welcome__link">{% include 'svg/home.svg' %}Startseite</a>
+      </li>
+      <li class="park-welcome__option">
+        <a href="{{ personalAreaURL }}"
+           class="park-welcome__link">{% include 'svg/user.svg' %}Einstellungen</a>
+      </li>
+    </ul>
+  </nav>
+  {% if previousURL is defined and previousURL not null %}
+  <aside class="park-welcome__notice">Sie werden in {% include 'components/countdown/template.twig' with {
+    'seconds': 60,
+    'config': config,
+    'redirectURL': previousURL
+    } %} Sekunden automatisch zum vorherigen Beitrag weitergeleitet.
+  </aside>
+  {% endif %}
+</article>  

@@ -1,0 +1,125 @@
+.park-teaser-image-list-item {
+  @extend %teaser-hover;
+
+  position: relative;
+  display: block;
+
+  &__link {
+    display: block;
+    padding: $global-spacing/2 $global-spacing;
+
+    .park-teaser-image-list-item--sugardaddy & {
+      &::before {
+        @extend %sugardaddy-label;
+
+        display: block;
+        float: right;
+        margin-left: $global-spacing;
+      }
+    }
+
+    &::after {
+      clear: both;
+      content: "";
+      display: block;
+      font-size: 0;
+    }
+  }
+
+  &__image {
+    width: rem(100px);
+    height: rem(0.75 * 100px);
+    float: left;
+  }
+
+  &--image &__image {
+    @extend %indicator-image;
+  }
+
+  &--info &__image {
+    @extend %indicator-image;
+  }
+
+  &--video &__image {
+    @extend %indicator-video;
+
+    height: rem(0.5625 * 100px);
+
+    &::after {
+      width: rem(26px);
+      height: rem(26px);
+      background-size: rem(9px) rem(12px);
+    }
+
+    @include mq(desktop) {
+      &::after {
+        width: rem(26px);
+        height: rem(26px);
+        background-size: rem(9px) rem(12px);
+      }
+    }
+  }
+
+  a[target="_blank"] &__image {
+    @extend %indicator-external;
+  }
+
+  .is-advertorial a[target="_blank"][title="Anzeige"] &__image::after {
+    display: none;
+  }
+
+  .park-image {
+    width: 100%;
+    height: 100%;
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__kicker,
+  &__headline {
+    display: block;
+  }
+
+  &__kicker {
+    display: block;
+    margin-bottom: rem(4px);
+    color: $global-kicker-color;
+    font-size: rem(16px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (21 / 16);
+
+    .park-portal-marker &,
+    .is-advertorial &,
+    .park-teaser-image-list-item--sugardaddy & {
+      color: $global-advertisement-color;
+    }
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+
+    display: block;
+    color: $global-color-text-black;
+    font-size: rem(18px);
+    line-height: (26 / 18);
+
+    @include mq(desktop) {
+      margin-bottom: rem(10px);
+    }
+  }
+
+  &__image ~ &__headlines > &__kicker,
+  &__image ~ &__headlines > &__headline {
+    display: block;
+    margin-left: rem(107px);
+  }
+
+  &__user-actions {
+    position: absolute;
+    top: $global-spacing;
+    right: $global-spacing;
+  }
+}

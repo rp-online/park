@@ -1,0 +1,2621 @@
+{
+  "title": "test: Das ganze Internet mit HTML-Embeds eingebettet",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "title": "test: Das ganze Internet mit HTML-Embeds eingebettet",
+    "url": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946",
+    "client": "rp-online"
+  },
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der"
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Haltestelle, Staatsanwaltschaft, Bahn, Bahnarbeiten, test, Staatsanwalt"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Haltestelle, Staatsanwaltschaft, Bahn, Bahnarbeiten, test, Staatsanwalt"
+      },
+      {
+        "name": "og:title",
+        "content": "test: Das ganze Internet mit HTML-Embeds eingebettet"
+      },
+      {
+        "name": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "name": "og:url",
+        "content": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      {
+        "name": "og:description",
+        "content": "Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der"
+      },
+      {
+        "name": "og:image",
+        "content": "http://www-rpd.rp-online.de/imgs/32/7/7/3/9/1/2/0/tok_73d08eade18739d8cf4311daf963d9a7/w1200_h630_x1152_y864_Dscn0375-1d29d84798399908.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "test: Das ganze Internet mit HTML-Embeds eingebettet"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der"
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      {
+        "name": "twitter:image",
+        "content": "http://www-rpd.rp-online.de/imgs/32/7/7/3/9/1/2/0/tok_73d08eade18739d8cf4311daf963d9a7/w1200_h630_x1152_y864_Dscn0375-1d29d84798399908.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "politik",
+      "subressort": "",
+      "dossier": null,
+      "contentType": "Artikel",
+      "analyticsUrl": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946",
+      "author": "RP ONLINE",
+      "date": "2018-01-17",
+      "origin": "4",
+      "seo": "/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=7739120&cstr=6850946&l=&tit=Das+ganze+Internet+mit+HTML-Embeds+eingebettet&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fpolitik%2Fdas-ganze-internet-mit-html-embeds-eingebettet_aid-6850946&sep=%7C&tce=1&tid=50958&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "https://www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "https://www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "https://www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "https://www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 6850946,
+      "doctype": "article",
+      "contentid": "/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946",
+      "channel": 50958,
+      "heading": "Das ganze Internet mit HTML-Embeds eingebettet",
+      "kicker": "",
+      "tag": "politik",
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/politik/?output=rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "id": "topcontainer",
+            "adUnitPath": "/5766/oms.rp-online.de/politik",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                940,
+                200
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "bannerrechts",
+            "adUnitPath": "/5766/oms.rp-online.de/politik",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "outofpage",
+            "adUnitPath": "/5766/oms.rp-online.de/politik",
+            "size": "",
+            "collapse": true,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "id": "6844463",
+            "adUnitPath": "/5766/oms.rp-online.de/politik",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6844096",
+            "adUnitPath": "/1017380/RPO_unter_Headline_540x90",
+            "size": [
+              [
+                540,
+                90
+              ],
+              "fluid",
+              [
+                468,
+                60
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6850184",
+            "adUnitPath": "/1017380/RPO_unter-Headline_540x90",
+            "size": [
+              [
+                540,
+                90
+              ],
+              "fluid",
+              [
+                468,
+                60
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "bottomad",
+            "adUnitPath": "/5766/oms.rp-online.de/politik",
+            "size": [
+              [
+                300,
+                300
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6850946",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "oms": "politik",
+          "mode": "desktop",
+          "sitetyp": "parklayout"
+        },
+        "oms": {
+          "site": "oms.rp-online.de",
+          "zone": "politik"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "id": "ist",
+            "adUnitPath": "/8635/mew.oms.rp-online.de/politik",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "id": "pos1",
+            "adUnitPath": "/8635/mew.oms.rp-online.de/politik/pos1",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": 1,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "6844463",
+            "adUnitPath": "/8635/mew.oms.rp-online.de/politik/pos2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                75
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6844096",
+            "adUnitPath": "/1017380/RPO_Mobile_Artikel_Unterbrecher",
+            "size": [
+              [
+                414,
+                200
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                375,
+                200
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                568,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                468,
+                90
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6850184",
+            "adUnitPath": "/8635/mew.oms.rp-online.de/politik/pos3",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "6850155",
+            "adUnitPath": "/1017380/RPO_Mobile_Artikel_Unterbrecher",
+            "size": [
+              [
+                414,
+                200
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                375,
+                200
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                568,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                468,
+                90
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6849643",
+            "adUnitPath": "/8635/mew.oms.rp-online.de/politik/pos4",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6850946",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "oms": "politik",
+          "mode": "mobile",
+          "sitetyp": "parklayout"
+        },
+        "oms": {
+          "site": "mew.oms.rp-online.de",
+          "zone": "politik",
+          "mobile": true
+        }
+      },
+      "reloadFrequency": "5"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946"
+      },
+      "headline": "test: Das ganze Internet mit HTML-Embeds eingebettet",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-rpd.rp-online.de/imgs/33/7/7/3/5/2/0/7/tok_76f3d4dae427eaab48e865f228718627/w950_h526_x1452_y1136_RP-Logo-Facebook-0e82487bd1bd505f.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-01-17 13:16",
+      "dateModified": "2018-01-18 14:06:08",
+      "author": {
+        "@type": "Person",
+        "name": "RP ONLINE"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www-rpd.rp-online.de/imgs/33/7/7/3/5/2/0/7/tok_bf1dd9648f3c496b207e5a3dd82acbee/w255_h60_x1452_y1136_RP-Logo-Facebook-0e82487bd1bd505f.jpg",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen."
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"bannerrechts\"><script>googletag.cmd.push(function() { googletag.display(\"bannerrechts\"); });</script></div>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"outofpage\"><script>googletag.cmd.push(function() { googletag.display(\"outofpage\"); });</script></div>"
+    },
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"><script>googletag.cmd.push(function() { googletag.display(\"ist\"); });</script></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "h1",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Reisen",
+        "href": "/reisen/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digital/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "label": "Anmelden",
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "navigation": {
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo/Service",
+              "href": "http://#void"
+            },
+            {
+              "text": "RP ePaper",
+              "href": "http://www.epaper.de"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "http://#void"
+            },
+            {
+              "text": "RP Trauer",
+              "href": "http://#void"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "Städte",
+          "href": "#void",
+          "children": [
+            {
+              "text": "Düsseldorf",
+              "href": "duesseldorf",
+              "icon": "/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "duisburg",
+              "icon": "/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Neuss",
+              "href": "neuss"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": true
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#nrw",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Düsseldorf",
+                  "href": "/nrw/staedte/duesseldorf/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duesseldorf",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Stadtteile",
+                      "href": "/nrw/staedte/duesseldorf/stadtteile/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Blaulicht",
+                      "href": "/nrw/staedte/duesseldorf/blaulicht/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Karneval",
+                      "href": "/nrw/staedte/duesseldorf/karneval/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Kultur",
+                      "href": "/nrw/staedte/duesseldorf/kultur/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Freizeit",
+                      "href": "/nrw/staedte/duesseldorf/freizeit/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Schützen",
+                      "href": "/nrw/staedte/duesseldorf/schuetzen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Lokalsport",
+                      "href": "/nrw/staedte/duesseldorf/lokalsport/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Duisburg",
+                  "href": "/nrw/staedte/duisburg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duisburg"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "",
+              "href": "/nrw/neuss/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "2019",
+              "href": "/nrw/2019/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "",
+              "href": "/nrw/extra/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": true,
+                  "text": "",
+                  "href": "/nrw/extra/stadtwerke-duesseldorf/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Hochschulen",
+              "href": "/nrw/hochschulen/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Mercedes-Benz",
+              "href": "/nrw/mercedes-benz/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "icon": "./assets/images/sprite.navigation.svg#weitere-sportarten",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Fußball",
+              "href": "/sport/fussball/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Vereine",
+                  "href": "/sport/fussball/vereine/",
+                  "target": "_self",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Borussia",
+                      "href": "/sport/fussball/vereine/borussia/",
+                      "target": "_self",
+                      "icon": "./assets/images/sprite.sportsclubs.svg#borussia-moenchengladbach"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Fortuna",
+                      "href": "/sport/fussball/vereine/fortuna/",
+                      "target": "_self",
+                      "icon": "./assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Borussia Dortmund",
+                      "href": "/sport/fussball/vereine/borussia-dortmund/",
+                      "target": "_self",
+                      "icon": "./assets/images/sprite.sportsclubs.svg#borussia-dortmund"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Werder Bremen",
+                      "href": "/sport/fussball/vereine/werder-bremen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Bayern München",
+                      "href": "/sport/fussball/vereine/bayern-muenchen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Hamburger SV",
+                      "href": "/sport/fussball/vereine/hamburger-sv/",
+                      "target": "_self"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Biathlon",
+              "href": "/sport/biathlon/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "icon": "./assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Reisen",
+          "href": "/reisen/",
+          "target": "_self"
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt zur Redaktion",
+              "href": "http://#void"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "http://#void"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "http://#void"
+            },
+            {
+              "text": "Podcast abonnieren",
+              "href": "http://#void"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "http://#void"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "http://#void"
+            },
+            {
+              "text": "Spiele",
+              "href": "http://#void"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "http://#void"
+            }
+          ]
+        }
+      ]
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erklären Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "http://www.rp-online.de/info/datenschutz/",
+            "text": "Mehr Informationen"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-rectangle",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"topcontainer\"><script>googletag.cmd.push(function() { googletag.display(\"topcontainer\"); });</script></div>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display(\"pos1\"); });</script></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "test: Das ganze Internet mit HTML-Embeds eingebettet"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "level": 0
+                      },
+                      {
+                        "text": "Politik",
+                        "href": "https://www-rpd.rp-online.de/politik/",
+                        "target": "_self",
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Das ganze Internet mit HTML-Embeds eingebettet"
+                    },
+                    "kicker": {
+                      "tag": "span",
+                      "text": "test"
+                    },
+                    "timestamp": "1516191360",
+                    "cover": {
+                      "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/9/1/2/0/tok_934b00f3b82a3869f0867470033f62af/w950_h526_x591_y360_IMG_2288-643866b049321833.JPG",
+                      "alt": "",
+                      "caption": "",
+                      "source": {
+                        "text": "Julia"
+                      },
+                      "enlargable": true,
+                      "type": "image"
+                    },
+                    "dateline": "",
+                    "intro": "Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.",
+                    "sign": "",
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"6844463\"><script>googletag.cmd.push(function() { googletag.display(\"6844463\"); })</script></div>"
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"6844463\"><script>googletag.cmd.push(function() { googletag.display(\"6844463\"); })</script></div>"
+                        }
+                      }
+                    },
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">🎫 Für Kurzentschlossene oder BVB-Fans aus dem Berliner Umland gibt es noch Karten für das Auswärtsspiel bei <a href=\"https://twitter.com/HerthaBSC?ref_src=twsrc%5Etfw\">@HerthaBSC</a>. Die Gästekasse öffnet am Spieltag um 18:30 Uhr und befindet sich am Südtor des Olympiastadions. <a href=\"https://twitter.com/hashtag/BSCBVB?src=hash&amp;ref_src=twsrc%5Etfw\">#BSCBVB</a> <a href=\"https://t.co/HlweSiSHh7\">pic.twitter.com/HlweSiSHh7</a></p>&mdash; Borussia Dortmund (@BVB) <a href=\"https://twitter.com/BVB/status/953593996491870209?ref_src=twsrc%5Etfw\">17. Januar 2018</a></blockquote>\r\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\r\n"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"6844096\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6844096\"); })</script></div>"
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"6844096\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6844096\"); })</script></div>"
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-video",
+                              "data": {
+                                "type": "youtube",
+                                "id": "fCLEFdvT0cI",
+                                "title": "Jamaika gescheitert: FDP-Chef Lindner erteilt Koalition eine Absage",
+                                "href": "/politik/jamaika-gescheitert-fdp-chef-lindner-erteilt-koalition-eine-absage_vid-6843527"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<blockquote class=\"twitter-tweet\" data-lang=\"de\"><p lang=\"de\" dir=\"ltr\">Herzlichen Glückwunsch an Fatih <a href=\"https://twitter.com/hashtag/Akin?src=hash&amp;ref_src=twsrc%5Etfw\">#Akin</a> und das ganze Team zum Golden Globe für „Aus dem Nichts“. Jetzt Daumen drücken für den Oscar.</p>&mdash; Steffen Seibert (@RegSprecher) <a href=\"https://twitter.com/RegSprecher/status/950247394276495360?ref_src=twsrc%5Etfw\">8. Januar 2018</a></blockquote>\r\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\r\n"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwelt%2Fvideos%2F10156406899813115%2F&show_text=1&width=267\" width=\"267\" height=\"709\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\" allowFullScreen=\"true\"></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FKlemensSkibicki%2Fposts%2F10155925108386132&width=500\" width=\"500\" height=\"664\" style=\"border:none;overflow:hidden\" scrolling=\"no\" frameborder=\"0\" allowTransparency=\"true\"></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BdGNymPBdsz/\" data-instgrm-version=\"8\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:8px;\"> <div style=\" background:#F8F8F8; line-height:0; margin-top:40px; padding:53.02593659942363% 0; text-align:center; width:100%;\"> <div style=\" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;\"></div></div> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BdGNymPBdsz/\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Merry Christmas! I am wishing you all a wonderful merry Christmas and that you have a magic and beautiful time with all your loved ones. Enjoy your time, treat yourself well. Laugh and let love rule. I can&#39;t believe that it&#39;s already Christmas eve. The time passed so fast that I was barely able to be in Christmas mood. We had some snow this December, but not on Christmas which makes me kind of sad, but snow isn&#39;t the most important thing about celebrating Christmas to get into the mood. It&#39;s about how you spend it in general and with who. Tose days, there is time to find peace in myself, to take care and to enjoy the time. Time is everything I want. To breathe, to relax, to refill energy, to spread love. This year, there wasn&#39;t a thing on my wishlist because for me, Christmas is more than presents. Maybe it&#39;s about opening hearts than opening presents. Christmas has a more important meaning than being busy all the time before the big day just to get everything prepared. All I want for Christmas is having my loved ones around me to spend some time with. Gifting doesn&#39;t has a material meaning for me. It&#39;s rather making someone happy and letting this person know how much I appreciate him/her. Here in Germany, Christmas eve is the actual special day. So I am wishing everyone a wonderful Christmas celebration, whether you will celebrate today or tomorrow. Moreover, I want to show my respect to the ones who don&#39;t celebrate Christmas, because of they don&#39;t belive in or another reason. Eventhough, I hope that your days will be filled with love and light for you and your loved ones. Take care. Lots of love from Germany. How do you celebrate Christmas?</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">Ein Beitrag geteilt von <a href=\"https://www.instagram.com/fragments_of_living/\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Sabrina | Germany</a> (@fragments_of_living) am <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2017-12-24T19:42:37+00:00\">Dez 24, 2017 um 11:42 PST</time></p></div></blockquote> <script async defer src=\"//platform.instagram.com/en_US/embeds.js\"></script>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<script src=\"//a.teads.tv/page/79797/tag\" async=\"true\"></script>"
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>"
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe src=\"https://widget.civey.com/285\" height=\"500\" width=\"100%\" frameborder=\"0\"></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/4bTfAdfrCss\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe id=\"datawrapper-chart-kAjVh\" src=\"//datawrapper.dwcdn.net/kAjVh/5/\" scrolling=\"no\" frameborder=\"0\" allowtransparency=\"true\" allowfullscreen=\"allowfullscreen\" webkitallowfullscreen=\"webkitallowfullscreen\" mozallowfullscreen=\"mozallowfullscreen\" oallowfullscreen=\"oallowfullscreen\" msallowfullscreen=\"msallowfullscreen” style=\"width: 0; min-width: 100% !important;\" height=\"503\"></iframe><script type=\"text/javascript\">if(\"undefined\"==typeof window.datawrapper)window.datawrapper={};window.datawrapper[\"kAjVh\"]={},window.datawrapper[\"kAjVh\"].embedDeltas={\"100\":798,\"200\":621,\"300\":562,\"400\":520,\"500\":503,\"600\":478,\"700\":478,\"800\":478,\"900\":478,\"1000\":461},window.datawrapper[\"kAjVh\"].iframe=document.getElementById(\"datawrapper-chart-kAjVh\"),window.datawrapper[\"kAjVh\"].iframe.style.height=window.datawrapper[\"kAjVh\"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper[\"kAjVh\"].iframe.offsetWidth/100),100))]+\"px\",window.addEventListener(\"message\",function(a){if(\"undefined\"!=typeof a.data[\"datawrapper-height\"])for(var b in a.data[\"datawrapper-height\"])if(\"kAjVh\"==b)window.datawrapper[\"kAjVh\"].iframe.style.height=a.data[\"datawrapper-height\"][b]+\"px\"});</script>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"6850184\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6850184\"); })</script></div>"
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"6850184\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6850184\"); })</script></div>"
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe src=\"https://www.google.com/maps/d/u/1/embed?mid=1NDczriktw-AhTinfIo5iLFLhsbTcru-I\" width=\"640\" height=\"480\"></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe src=\"https://widget.civey.com/285\" height=\"500\" width=\"100%\" frameborder=\"0\"></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebv</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Geb</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebv</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Ein Fehler bei den U-Bahnarbeiten hat der Staatsanwaltschaft zufolge den Einsturz des Kölner Stadtarchivs vor neun Jahren ausgelöst. Beim Ausbau der geplanten U-Bahn-Haltestelle Waidmarkt direkt unter dem Archivgebäude seien die Bauarbeiter 2005 auf einen Gesteinsblock gestoßen, sagte Staatsanwalt Torsten Elschenbroich am Mittwoch zu Beginn des seit langem erwarteten Strafprozesses. Beim Versuch, den großen Stein zu entfernen, seien die Zähne des Schaufelbaggers immer wieder abgebrochen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p>Daraufhin habe der Polier - der Baustellenleiter - unter großem Zeitdruck entschieden, das Hindernis dort zu belassen. In der Betonwand der U-Bahn-Haltestelle sei dadurch ein Loch entstanden, eine sogenannte Erdplombe. Durch diese Fehlstelle seien am Tag des Einsturzes am 3. März 2009 durch aufgestauten Druck große Mengen Sand und Kies in die Baustelle hineingebrochen. Unter dem Archiv entstand dadurch nach Angaben der Staatsanwaltschaft ein Hohlraum, wodurch das sechsstöckige Gebäude einstürzte. Zwei junge Anwohner wurden von einstürzenden Gebäudeteilen erschlagen. Das größte und bedeutendste deutsche Kommunalarchiv wurde zerstört. Nach Angaben der Stadt Köln beläuft sich der Sachschaden auf 1,2 Milliarden Euro.</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946\" data-widget-id=\"AR_10\"></div><div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946\" data-widget-id=\"AR_11\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946\" data-widget-id=\"AR_10\"></div><div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946\" data-widget-id=\"AR_11\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"6850155\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6850155\"); })</script></div>"
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"6850155\" data-lazy><script>googletag.cmd.push(function() { googletag.display(\"6850155\"); })</script></div>"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/7/0/9/tok_c42e3cb82118d6329d8f9e859e521889/w306_h175_x450_y270_d62139ec5f4647c587f5a43b67c9d420-de4f1a8f339a4db2.jpg",
+                        "alt": "",
+                        "href": "/nrw/staedte/duesseldorf/das-ist-emmanuel-iyoha_bid-6843952",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Bilder\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Das ist Emmanuel Iyoha\n"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/7/4/6/tok_402f89d1b6d4483e6ce69802893dc2ce/w306_h175_x1500_y895_3924334614-0e5f0ef16424e899.jpg",
+                        "alt": "Der Flughafen möchte die Zahl der",
+                        "href": "/nrw/staedte/duesseldorf/flughafen-duesseldorf-beantragt-mehr-starts_aid-6843991",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Nachbarn bekräftigen Widerstand 2"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Flughafen Düsseldorf beantragt mehr Starts\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/5/6/1/tok_16fd5d8190cdd10c699e4c9ded6b3be9/w306_h175_x638_y154_3220183012-e918501eb3703248.jpg",
+                        "alt": "",
+                        "href": "/nrw/staedte/duesseldorf/ein-tag-am-duesseldorfer-flughafen_bid-6843799",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Ein Tag am Düsseldorfer Flughafen\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"6849643\"><script>googletag.cmd.push(function() { googletag.display(\"6849643\"); })</script></div>"
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"bottomad\"><script>googletag.cmd.push(function() { googletag.display(\"bottomad\"); })</script></div>"
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Mehr zu test: Das ganze Internet mit HTML-Embeds eingebettet"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "type": "video",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/5/2/5/tok_b6ddcd2672d723526d39e9d1073d43de/w100_h56_x640_y360_4238487531-578ad4e723f5b28f.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/fortunas-niederlage-ist-kein-beinbruch_vid-6843762",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": ""
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)„Fortunas Niederlage ist kein Beinbruch“"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/6/2/2/7/tok_4e552a253e44c39fed5707e36a7431ad/w100_h75_x410_y230_max-schrems-noyb-sammelklagen-datenschutz-facebook-bild3-1779abab72176c50.jpeg",
+                              "alt": "",
+                              "href": "/politik/das-geht-dich-nichts-an-schufa-facebook-google_aid-6844539",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Max Schrems\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Das geht dich nichts an, Schufa-Facebook-Google\n\n"
+                              }
+                            },
+                            {
+                              "type": "info",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/2/4/6/tok_11d5418f5a943712f53ddf8f48830443/w100_h75_x1796_y1347_IMG_1877-d6ea65a2c7205171.jpg",
+                              "alt": "",
+                              "href": "/digital/advertorial/seo-titel-der-infostrecke_iid-6843457",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Informationen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Teasertitel: \"Für Deutschland ein Rückschlag\" - Pressestimmen zum Jamaika-Aus\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/9/3/5/tok_c02a3ed50c00c05a1a35e87633957117/w100_h75_x1795_y1197_2306810537-afd2f895d8ab14b2.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/Rheinkirmes/rheinkirmes-2017-in-duesseldorf-kritik-am-auftritt-der-toten-haeusern_aid-6844217",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Rheinkirmes 2017 in Düsseldorf\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Es gibt Kritik am Auftritt der Toten Hosen\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "/nrw/staedte/duesseldorf/hundm-lehrt-die-konkurrenz-das-fuerchten_aid-6844073",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Mit günstigen Preisen zum Erfolg\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)H&M lehrt die Konkurrenz das Fürchten\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/8/2/0/tok_c02a3ed50c00c05a1a35e87633957117/w100_h75_x1795_y1197_2306810537-afd2f895d8ab14b2.jpg",
+                              "alt": "Zum Jahreswechsel 2016/2017 war die Polizei",
+                              "href": "/nrw/staedte/duesseldorf/bessere-luft-weniger-gaeste-ohne-polizei_aid-6844078",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Silvester in der Düsseldorfer Altstadt\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Weniger Gäste, bessere Luft und viel Polizei\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/8/1/1/tok_84bd094e88fb01ef909ece307dcb8bfd/w100_h75_x320_y175_3838734461-a76e4ef32ddb2fd7.jpg",
+                              "alt": "v",
+                              "href": "/nrw/staedte/duesseldorf/die-irren-eisbader-rund-um-die-welt_aid-6844069",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Neujahrsschwimmen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Die irren Eisbader rund um die Welt\n"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/9/1/2/0/tok_5c420bf1b2daf81ddc2a92b0b5da7be6/w100_h75_x1152_y864_Dscn0375-1d29d84798399908.jpg",
+                              "alt": "",
+                              "href": "/politik/das-ganze-internet-mit-html-embeds-eingebettet_aid-6850946",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "test\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Das ganze Internet mit HTML-Embeds eingebettet\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/8/2/2/7/tok_92de963a1b6cf393aaaa71f2602f2bed/w100_h75_x410_y230_alexander-dobrindt-9e500f2896cf130d.jpeg",
+                              "alt": "",
+                              "href": "/politik/deutschland-soll-bayern-werden_aid-6849653",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Alexander Dobrindt\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Deutschland soll Bayern werden!\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/6/2/2/7/tok_4e552a253e44c39fed5707e36a7431ad/w100_h75_x410_y230_max-schrems-noyb-sammelklagen-datenschutz-facebook-bild3-1779abab72176c50.jpeg",
+                              "alt": "",
+                              "href": "/politik/das-geht-dich-nichts-an-schufa-facebook-google_aid-6844539",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Max Schrems\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Das geht dich nichts an, Schufa-Facebook-Google\n\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/7/6/1/tok_6fc204c7ab5d56acb488ae651cce2e21/w100_h75_x1500_y824_4de48a21-7081-4193-8094-1cbbbdf3cf91-0dd66074938596b3.jpg",
+                              "alt": "Die RP-Radtour mit ADFC-Experte Matias Steinigk",
+                              "href": "/politik/stadt-plant-radweg-fuer-worringer-platz_aid-6844011",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Düsseldorf\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Stadt plant Radweg für Worringer Platz\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/6/2/3/3/tok_922a41439ebe863996db1c4428d4dd37/w100_h75_x617_y404_905449089-fc57dfa56599f7bc.JPG",
+                              "alt": "",
+                              "href": "/politik/letzter-aufruf-sizilien_aid-6844545",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Reportage\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Letzter Aufruf Sizilien\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/6/2/3/0/tok_64272ee34b3e0022d9a95ee816db41e3/w100_h75_x410_y230_china-social-credit-system-buergerbewertung-bild-3c7f02415be64962.jpeg",
+                              "alt": "",
+                              "href": "/politik/die-aaa-buerger_aid-6844542",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "China\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die AAA-Bürger\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/6/2/1/9/tok_a0ab6159735c92f675b8464b4dc2dbad/w100_h75_x2000_y1350_3777780035__1_-6e81039105a527aa.jpg",
+                              "alt": "",
+                              "href": "/politik/grosse-koalition-rueckt-naeher_aid-6844531",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Nach dem Aus für Jamaika\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Große Koalition rückt näher\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "http://www-rpd.rp-online.de/imgs/32/7/7/3/5/2/9/0/tok_7d27c9a42855c5d26b1857ce6626fe9f/w100_h75_x1500_y1000_3667339267-df6f811aee9fb145.jpg",
+                              "alt": "",
+                              "href": "/politik/jamaika-sondierungen-gescheitert-fdp-hat-angst-vorm-regieren_aid-6843518",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Abbruch der Jamaika-Sondierungen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die Angst der FDP vor dem Regieren\n"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<iframe width=\"980\" height=\"200\" noresize=\"noresize\" scrolling=\"no\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" \r\n\tsrc=\"https://a.twiago.com/adframe.php?pid=3636\" ALLOWTRANSPARENCY=\"true\">\r\n\t<a href=\"https://a.twiago.com/adnoclick.php?pid=3636\" target=\"_top\">\r\n\t\t<img src=\"https://a.twiago.com/adnoframe.php?pid=3636\" alt=\"Hier klicken!\" border=\"0\" width=\"980\" height=\"200\" />\r\n\t</a>\r\n</iframe>"
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "http://#void"
+        },
+        {
+          "text": "Kontakt",
+          "href": "http://#void"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "http://#void"
+        },
+        {
+          "text": "AGB",
+          "href": "http://#void"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "#void",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "#void"
+        },
+        {
+          "text": "Handy Tarife",
+          "href": "#void"
+        },
+        {
+          "text": "Stromrechner",
+          "href": "#void"
+        },
+        {
+          "text": "Gasrechner",
+          "href": "#void"
+        },
+        {
+          "text": "Mercedes Benz",
+          "href": "#void"
+        },
+        {
+          "text": "Pausenspiel",
+          "href": ""
+        },
+        {
+          "text": "RP Apps",
+          "href": "#void"
+        },
+        {
+          "text": "Newsletter",
+          "href": "#void"
+        },
+        {
+          "text": "RSS Feed",
+          "href": "#void"
+        },
+        {
+          "text": "Themen",
+          "href": "#void"
+        },
+        {
+          "text": "Sitemap",
+          "href": "#void"
+        },
+        {
+          "text": "Archiv",
+          "href": "#void"
+        },
+        {
+          "text": "Sistrix",
+          "href": "http://www.sistrix.de/"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "logo": {
+        "src": "rp-logo",
+        "href": "#void",
+        "alt": "RP Online"
+      },
+      "links": [
+        {
+          "text": "Pressemitteilung",
+          "href": "http://#void"
+        },
+        {
+          "text": "Karriere",
+          "href": "http://#void"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "##void"
+        }
+      ]
+    },
+    "endnote": "© RP Digital | Alle Rechte vorbehalten."
+  }
+}

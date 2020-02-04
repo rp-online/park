@@ -1,0 +1,58 @@
+.park-tab-links {
+  display: block;
+  margin-bottom: $global-spacing;
+  color: $global-color-text-black;
+  font-size: 0;
+
+  &--inverted {
+    color: #fff;
+  }
+
+  &__tab {
+    @include global-sans-serif-font-size(2);
+
+    position: relative;
+    display: inline-block;
+    color: inherit;
+    border-bottom: 1px solid;
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__link {
+    display: inline-block;
+    margin-bottom: -1px;
+    padding: 0 rem(7.5px);
+    color: inherit;
+    border-bottom: 2px solid transparent;
+
+    &:hover,
+    &:focus,
+    &[aria-selected="true"] {
+      border-bottom-color: $global-brand-color;
+    }
+  }
+
+  &:hover &__link[aria-selected="true"]:not(:hover):not(:focus) {
+    border-bottom-color: transparent;
+  }
+
+  &__input {
+    @include visuallyhidden;
+  }
+
+  &__input + &__tab {
+    padding: 0 rem(7.5px) 1px rem(7.5px);
+    cursor: pointer;
+  }
+
+  &__input:checked + &__tab {
+    &::after {
+      content: '';
+      position: absolute;
+      right: 0;
+      bottom: -1px;
+      left: 0;
+      border-bottom: 3px solid $global-brand-color;
+    }
+  }
+}

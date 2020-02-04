@@ -1,0 +1,6 @@
+{
+  "ajax": {
+    "baseUrl": "/assets/ajax/weather/",
+    "defaultRegion": "duesseldorf"
+  }
+}

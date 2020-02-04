@@ -1,0 +1,142 @@
+{% if inline is defined and inline == true %}
+<div class="park-video-with-caption park-video-nexxtv
+  {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}park-video--reduced{% endif %}">
+  {% if (config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true)) %}
+    <iframe src="{{ video.src }}"
+            width="{{ video.width }}"
+            height="{{ video.height }}"
+            frameborder="0"
+            name="{{ name }}"
+            title="{{ title }}"
+      {% if sandbox is defined and sandbox %}
+        sandbox="{{ sandbox }}"
+      {% endif %}
+      {% if origin is defined and origin %}
+            data-origin="{{ origin }}"
+            {% endif %}webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+    {% if headline is defined %}
+      <div class="park-video-with-caption__caption">
+      <{{ headline.tag }} class="park-video-with-caption__headline">
+      {{ headline.text | raw }}
+      </{{ headline.tag }}>
+    {% endif %}
+    {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+    <div class="park-video-with-caption__text">{% markdown %}{{ text }}{% endmarkdown %}</div>
+    {% if headline is defined %}
+      </div>
+    {% endif %}
+  {% else %}
+    {% include 'components/image/template.twig' with {
+      'src': video.previewimage,
+      'alt': title,
+      'width': video.width,
+      'height': video.height,
+      'sizes': { "mobile": "140px", "desktop": "140px" },
+      'config': config} %}
+    {% if headline is defined %}
+      <div class="park-video-with-caption__caption">
+      {% if config.display_video_kicker == 1 %}
+        <{{ headline.tag }} class="park-card-video__headline">
+        {% if kicker is defined and kicker.text is defined and kicker.text %}
+          <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+        {% endif %}
+        {% if headline is defined and headline.text is defined and headline.text %}
+          <span class="park-card-video__headline">{{ headline.text }}</span>
+        {% endif %}
+        </{{ headline.tag }}>
+      {% else %}
+        <{{ headline.tag }} class="park-video-with-caption__headline">
+        {{ headline.text | raw }}
+        </{{ headline.tag }}>
+      {% endif %}
+    {% endif %}
+    {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+    <div class="park-video-with-caption__text">{% markdown %}{{ text }}{% endmarkdown %}</div>
+    {% if headline is defined %}
+      </div>
+    {% endif %}
+  {% endif %}
+  </div>
+{% else %}
+<article class="park-video-with-caption park-video-nexxtv
+  {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}park-video--reduced{% endif %}">
+  {% if (config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true)) %}
+    <iframe src="{{ video.src }}"
+            width="{{ video.width }}"
+            height="{{ video.height }}"
+            frameborder="0"
+            name="{{ name }}"
+            title="{{ title }}"
+      {% if sandbox is defined and sandbox %}
+        sandbox="{{ sandbox }}"
+      {% endif %}
+      {% if origin is defined and origin %}
+            data-origin="{{ origin }}"
+            {% endif %}webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+    {% if headline is defined %}
+      <div class="park-video-with-caption__caption">
+      {% if config.display_video_kicker == 1 %}
+        <{{ headline.tag }} class="park-card-video__headline">
+        {% if kicker is defined and kicker.text is defined and kicker.text %}
+          <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+        {% endif %}
+        {% if headline is defined and headline.text is defined and headline.text %}
+          <span class="park-card-video__headline">{{ headline.text }}</span>
+        {% endif %}
+        </{{ headline.tag }}>
+      {% else %}
+        <{{ headline.tag }} class="park-video-with-caption__headline">
+        {{ headline.text | raw }}
+        </{{ headline.tag }}>
+      {% endif %}
+    {% endif %}
+    {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+    <div class="park-video-with-caption__text">{% markdown %}{{ text }}{% endmarkdown %}</div>
+    <footer class="park-video-with-caption__footer">
+      {% if (config.output is not defined or config.output is not same as('webview')) %}
+        {% include 'components/social-buttons/template.twig' with {'config': config} only %}
+      {% endif %}
+      {% include 'components/back-to-article/template.twig' with {'config': config} only %}
+    </footer>
+    {% if headline is defined %}
+      </div>
+    {% endif %}
+  {% else %}
+    {% include 'components/image/template.twig' with {
+      'src': video.previewimage,
+      'alt': title,
+      'width': video.width,
+      'height': video.height,
+      'sizes': { "mobile": "140px", "desktop": "140px" },
+      'config': config} %}
+    {% if headline is defined %}
+      <div class="park-video-with-caption__caption">
+      {% if config.display_video_kicker == 1 %}
+        <{{ headline.tag }} class="park-card-video__headline">
+        {% if kicker is defined and kicker.text is defined and kicker.text %}
+          <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+        {% endif %}
+        {% if headline is defined and headline.text is defined and headline.text %}
+          <span class="park-card-video__headline">{{ headline.text }}</span>
+        {% endif %}
+        </{{ headline.tag }}>
+      {% else %}
+        <{{ headline.tag }} class="park-video-with-caption__headline">
+        {{ headline.text | raw }}
+        </{{ headline.tag }}>
+      {% endif %}
+    {% endif %}
+    {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+    <div class="park-video-with-caption__text">{% markdown %}{{ text }}{% endmarkdown %}</div>
+    {% if headline is defined %}
+      </div>
+    {% endif %}
+  {% endif %}
+  {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}
+    {% include 'components/paywall/template.twig' with { 'config': config} %}
+  {% endif %}
+  </article>
+{% endif %}
+

@@ -1,0 +1,1 @@
+Diese Überschriftenkomponente findet sich auf flankierenden Seiten, wie zum Beispiel dem Archiv, der Suche oder den Dossiers und befindet sich in der Regel in einer [Page-Header](#page-header)-Komponente.

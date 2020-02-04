@@ -1,0 +1,24 @@
+<ul class="park-relatedlines">
+  {% for item in items %}
+    <li class="park-relatedlines__line">
+      <a href="{{ item.href }}" class="park-relatedlines__link"
+        {% if isAd is defined and isAd is same as(true) %}
+        {% else %}
+            {% if config is defined and config.taboolaMarkup is defined and config.taboolaMarkup is same as(true) %}
+              data-tb-region-item
+            {% endif %}
+        {% endif %}
+      >
+      <span class="park-relatedlines__icon">
+        {% if config.advertorial is defined and config.advertorial is same as(true) %}
+          {% set item = item|merge({
+          'isAd': true
+          }) %}
+        {% endif %}
+        <svg><use xlink:href="#park-svg-spritesheet-type-{{ item.type }}"></use></svg>
+      </span>
+        <em class="park-relatedlines__kicker">{{ item.kicker }}{% if (item.kicker is defined and item.kicker) and (item.headline is defined and item.headline) %}:{% endif %}</em>
+        <span class="park-relatedlines__headline">{{ item.headline }}</span></a>
+    </li>
+  {% endfor %}
+</ul>

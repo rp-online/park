@@ -1,0 +1,88 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+{% if href is defined %}
+  {% set link = {
+    'href': href,
+    'rel': rel,
+    'data': data,
+    'config': config
+  } %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set link = link|merge({
+      'isAd': true
+    }) %}
+  {% else %}
+    {% if 'mailto:' not in href and target is defined %}
+      {% set link = link|merge({
+        'target': target
+      }) %}
+    {% endif %}
+  {% endif %}
+  {% if classes is not defined %}
+    {% set classes = [] %}
+  {% endif %}
+  {% set classes = classes|merge([
+    'park-button'
+  ]) %}
+  {% if style is defined %}
+    {% set classes = classes|merge([
+      'park-button--style-' ~ style
+    ]) %}
+  {% endif %}
+  {% if ghost is defined and ghost is same as(true) %}
+    {% set classes = classes|merge([
+      'park-button--ghost'
+    ]) %}
+  {% endif %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set classes = classes|merge([
+      'park-button--sugardaddy'
+    ]) %}
+  {% endif %}
+  {% set link = link|merge({
+    'classes': classes
+  }) %}
+  {% set content %}
+    {% if loader is defined and loader is same as(true) %}<span
+      class="park-button__loader">{% include 'svg/loader-bars.svg' %}</span>{% elseif class is defined %}<span
+      class="park-button__icon">{% include 'svg/' ~ class ~ '.svg' ignore missing %}</span>{% endif %}{% if 'mailto:' in href %}{% include 'components/obfuscator/template.twig' with {
+        'text': text,
+        'config': config
+      } only %}{% else %}{{ text|raw }}{% endif %}
+  {% endset %}
+  {% set link = link|merge({
+    'text': content
+  }) %}
+  {% include 'components/link-helper/template.twig' with link only %}
+{% else %}
+<button type="{% if type is defined %}{{ type }}{% else %}button{% endif %}"
+        class="park-button
+  {% if style is defined %}
+  park-button--style-{{ style }}
+  {% endif %}
+  {% if ghost is defined and ghost is same as(true) %}
+  park-button--ghost
+  {% endif %}
+  {% if isAd is defined and isAd is same as(true) %}
+  park-button--sugardaddy
+  {% endif %}
+  {{ classes|join(' ') }}"
+  {% if title is defined and title %}
+    title="{{ title|escape('html') }}"
+  {% endif %}
+  {% if data is defined and data is iterable %}
+  {% for attribute, value in data %}
+    {% if value is iterable %}
+        data-{{ attribute }}="{{ value|json_encode()|escape('html') }}"
+      {% else %}
+        data-{{ attribute }}="{{ value|escape('html') }}"
+    {% endif %}
+  {% endfor %}
+  {% endif %}
+  {% if disabled is defined and disabled is same as(true) %}
+    disabled
+  {% endif %}>{% if loader is defined and loader is same as(true) %}
+  <span class="park-button__loader">{% include 'svg/loader-bars.svg' %}</span>{% elseif class is defined %}
+  <span class="park-button__icon">{% include 'svg/' ~ class ~ '.svg' ignore missing %}</span>{% endif %}{{ text|raw }}
+</button>
+{% endif %}
+{% endif %}

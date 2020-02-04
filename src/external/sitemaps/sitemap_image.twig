@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    {% for entry in entries %}
+        <url>
+            <loc>{{ entry['url'] }}</loc>
+            {% if entry['bilder_liste'] %}
+                {% for subentry in entry['bilder_liste'] %}
+                  {% if subentry['bild_url'] %}
+                    <image:image>
+                        <image:loc>{{ subentry['bild_url'] }}</image:loc>
+                        <image:caption>{{ subentry['titel'] }}</image:caption>
+                    </image:image>
+                  {% endif %}
+                {% endfor %}
+            {% else %}
+              {% if entry['bild_url'] %}
+                <image:image>
+                    <image:loc>{{ entry['bild_url'] }}</image:loc>
+                    {% if entry['titel'] %}
+                        <image:caption>{{ entry['titel'] }}</image:caption>
+                    {% endif %}
+                </image:image>
+            {% endif %}
+            {% endif %}
+        </url>
+    {% endfor %}
+</urlset>

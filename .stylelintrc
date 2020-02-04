@@ -1,0 +1,24 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": [
+    "stylelint-selector-bem-pattern",
+    "stylelint-no-unsupported-browser-features",
+    "stylelint-order"
+  ],
+  "rules": {
+    "max-nesting-depth": [4, { "ignoreAtRules": ["include", "supports"] }],
+    "order/properties-order": [
+      "position", "z-index", "top", "right", "bottom", "left",
+      "display", "flex", "overflow",
+      "width", "max-width", "height",
+      "box-sizing",
+      "margin", "padding",
+      "background", "color", "border",
+      "font-family", "font-size", "font-weight", "line-height",
+      "white-space", "text-align", "vertical-align", "text-decoration", "text-transform", "cursor",
+      "transform", "animation", "transition"
+    ],
+    "property-no-unknown": null,
+    "plugin/no-unsupported-browser-features": null
+  }
+}

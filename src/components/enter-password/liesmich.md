@@ -1,0 +1,1 @@
+Diese Komponente stellt eine bestimmt Formular-Konfiguration für das Bestätigen des eigenen Passworts dar. 

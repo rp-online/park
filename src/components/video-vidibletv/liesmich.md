@@ -1,0 +1,3 @@
+Diese Komponente erlaubt das Einbinden externer Bestandteile per IFrame. Sie ist sie in der Breite responsiv. Soll sie nicht nur in der Breite responsiv sein, sondern sie Ihre Höhe immer einem bestimmten Seitenverhältnis anpassen, so muss das gewünschte Seitenverhältnis über die Werte `width` und `height` definiert und die boolsche Eigenschaft `keepAspectratio` auf `true` gesetzt werden.
+
+Zur automatischen Justierung der IFrame-Höhe, passend zum Inhalt des IFrames, kann in der Zielseite [ein Script eingebunden werden](https://templates.park.works/iframe.html), das die Höhe kontinuierlich misst und an das übergeordnete Iframe weiterkommuniziert.

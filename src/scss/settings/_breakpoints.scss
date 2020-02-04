@@ -1,0 +1,9 @@
+// Breakpoints
+// we use `em` instead of `rem` due to some chrome bugs
+// https://zellwk.com/blog/media-query-units/
+$global-mq-breakpoints: (
+  mobile: 'screen and (max-width: 48em)', // until 768px (iPad)
+  desktop: 'screen and (min-width: 48.0625em)', // 769px and larger
+  larger: 'screen and (min-width: 71.9375em)', // 1151px and larger
+  large: 'screen and (min-width: 60.625em)' // website container max width 970px
+);

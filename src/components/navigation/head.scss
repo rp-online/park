@@ -1,0 +1,12 @@
+.park-navigation {
+  @include side-panel('right');
+
+  &__header {
+    background-color: $global-color-park-navigation-header-color;
+    color: #fff;
+  }
+
+  &__footer {
+    color: $global-color-text-black;
+  }
+}

@@ -1,0 +1,30 @@
+<div class="park-navigation__panel">
+  <!--[IF !IE]> --><noscript><!-- <![ENDIF]-->
+    <section>
+      {% if header is defined %}
+        <header class="park-navigation__header">
+          {% for section in header %}
+            {% set section = section|merge({ 'config': config }) %}
+            {% include 'components/navigation-section/template.twig' with section only %}
+          {% endfor %}
+        </header>
+      {% endif %}
+      {% if main is defined %}
+        <ul class="park-navigation__main">
+          {% for item in main %}
+            {% set item = item|merge({ 'config': config }) %}
+            {% include 'components/navigation-item/template.twig' with item only %}
+          {% endfor %}
+        </ul>
+      {% endif %}
+      {% if footer is defined %}
+        <footer class="park-navigation__footer">
+          {% for section in footer %}
+            {% set section = section|merge({ 'config': config }) %}
+            {% include 'components/navigation-section/template.twig' with section only %}
+          {% endfor %}
+        </footer>
+      {% endif %}
+    </section>
+    <!--[IF !IE]> --></noscript><!-- <![ENDIF]-->
+</div>

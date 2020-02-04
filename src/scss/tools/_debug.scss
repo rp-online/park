@@ -1,0 +1,48 @@
+$debug-color: #4aafec;
+
+.is-development {
+  counter-reset: park-portal-counter;
+
+  .park-section {
+    .park-portal {
+      counter-increment: park-portal-counter;
+
+      &::before {
+        content: counter(park-portal-counter);
+        position: fixed;
+        z-index: 2;
+        top: rem(67px);
+        right: rem(10px);
+        width: rem(20px);
+        height: rem(20px);
+        background-color: $debug-color;
+        color: #fff;
+        border-radius: 50%;
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+        font-size: rem(12px);
+        line-height: rem(20px);
+        text-align: center;
+        backface-visibility: hidden;
+      }
+    }
+  }
+
+  .park-article__scroll-indicator {
+    background-color: $debug-color;
+  }
+
+  [data-linkpulse-id] {
+    position: relative;
+
+    &::after {
+      content: attr(data-linkpulse-id);
+      position: absolute;
+      top: 0;
+      right: 0;
+      padding: rem(2px) rem(5px);
+      background-color: $debug-color;
+      color: #fff;
+      font-size: rem(12px);
+    }
+  }
+}

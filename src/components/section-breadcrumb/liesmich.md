@@ -1,0 +1,3 @@
+Diese Komponente stellt die normale Breadcrumb dar und kann auf jeder Seite nur einmal vorkommen. Die `headline` beinhaltet die suchmaschinenrelevante SEO-Zeile, während `navigation` die eigentlichen Breadcrumb-Zwischenschritte dorthin abbildet.
+
+Manchmal kann es nötig sein, dass bestimmte Einträge zwar da sein müssen, aber nicht auftauchen sollen. In diesem Fall kann ein Navigationseintrag die boolsche Eigenschaft `isHidden` mit dem Wert `true` tragen.

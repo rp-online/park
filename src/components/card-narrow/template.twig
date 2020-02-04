@@ -1,0 +1,31 @@
+{% set content %}
+  {% if image is defined %}
+    {% include 'components/image/template.twig' with {
+      'src': image.src,
+      'alt': image.alt,
+      'width': 71,
+      'height': 54,
+      'config': config
+    } %}
+  {% endif %}
+  <div class="park-card-narrow__content">
+    <span class="park-card-narrow__kicker">{{ kicker.text | raw }}</span>
+    <p class="park-card-narrow__text">{{ text }}</p>
+  </div>
+{% endset %}
+{% if href is defined %}
+  {% set link = {
+    'href': href,
+    'text': content,
+    'target': target,
+    'rel': rel,
+    'classes': [
+      'park-card-narrow'
+    ],
+    'isAd': isAd,
+    'config': config
+  } %}
+  {% include 'components/link-helper/template.twig' with link only %}
+{% else %}
+  <article class="park-card-narrow">{{ content|raw }}</article>
+{% endif %}

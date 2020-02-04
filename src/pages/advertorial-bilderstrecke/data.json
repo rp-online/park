@@ -1,0 +1,215 @@
+{
+  "title": "Bilderstrecke",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für eine Bilderstrecke"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/bilderstrecke.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "advertorial": true
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Wer ist 2016 gestorben?"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Leute",
+                        "href": "#void"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "gallery",
+                  "data": {
+                    "id": 1,
+                    "timestamp": 1499074591,
+                    "items": [
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/800x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "caption": "Herbert, der Bär",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/800x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et [dolore magna](#void) aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": "./assets/images/450x600.jpg",
+                            "width": 800,
+                            "height": 600,
+                            "fit": "contain",
+                            "alt": "Passiv-aggressiver Bär"
+                          }
+                        },
+                        "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                        "source": {
+                          "text": "Selfie",
+                          "href": "#void"
+                        }
+                      }
+                    ],
+                    "lastItem": {
+                      "headline": {
+                        "tag": "p",
+                        "text": "Auch interessant"
+                      },
+                      "figure": {
+                        "component": "outbrain",
+                        "data": {
+                          "mobile": "<div class=\"OUTBRAIN\" data-src=\"http://m.rp-online.de/1.6127597\" data-widget-id=\"MB_3\" data-ob-template=\"DE_RPOnline.de\"></div>",
+                          "desktop": "<div class=\"OUTBRAIN\" data-src=\"http://m.rp-online.de/1.6127597\" data-widget-id=\"MB_3\" data-ob-template=\"DE_RPOnline.de\"></div>"
+                        }
+                      }
+                    },
+                    "ads": {
+                      "caption": {
+                        "mobile": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        },
+                        "desktop": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        }
+                      },
+                      "slides": {
+                        "interval": 5,
+                        "mobile": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        },
+                        "desktop": {
+                          "type": "content",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        }
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        }
+      }
+    }
+  ]
+}

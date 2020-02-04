@@ -1,0 +1,1 @@
+Diese Komponente stellt eine Paginierung zur Verfügung, wahlweise mit oder ohne Seitenzahlen.

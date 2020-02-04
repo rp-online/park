@@ -1,0 +1,7 @@
+<div class="park-sourcecode">
+  <link rel="preload" href="{{ config.assetsBase }}/prism/prism.css?v={{ config.version }}" as="style">
+  <link rel="preload" href="{{ config.assetsBase }}/prism/prism.js?v={{ config.version }}" as="script">
+  <link rel="preload" href="{{ config.assetsBase }}/prism/components.js?v={{ config.version }}" as="script">
+  <link rel="preload" href="{{ config.assetsBase }}/prism/components/prism-{{ language }}.js?v={{ config.version }}" as="script">
+  <pre><code class="language-{{ language }}">{{ code|escape }}</code></pre>
+</div>

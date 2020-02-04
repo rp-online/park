@@ -1,0 +1,274 @@
+.park-select {
+  @extend %input-groups;
+
+  &__label {
+    @extend %labels;
+  }
+
+  &__label--is-hidden {
+    @extend %labels--hidden;
+  }
+
+  &__required {
+    @extend %labels-required;
+  }
+
+  &__select,
+  &__multiple-input,
+  &__multiple-hidden-input {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 1;
+    grid-column: 2 / 3;
+    display: inline-block;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    background-color: #fff;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='%23666'%3E%3Cpolygon points='0,2 10,2 5,8'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right rem(10px) center;
+    border: rem(1px) solid rgba(0, 0, 0, 0.12);
+    border-bottom-width: rem(2px);
+    border-radius: rem(2px);
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12);
+    font-size: rem(16px); // <- Needs to be 16px+ so that mobile devices don't zoom in
+    font-weight: $global-font-weight-sans-serif-regular;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    &::-ms-expand {
+      display: none;
+    }
+
+    &:hover {
+      background-color: #f3f3f3;
+    }
+
+    &:focus {
+      border-bottom-color: $global-brand-color;
+      outline: none;
+    }
+
+    .park-select--maxed-out & {
+      background-image: none;
+    }
+  }
+
+  &__select {
+    padding: rem(7px) rem(50px) rem(7px) rem(15px);
+    line-height: (24 / 16);
+    cursor: pointer;
+  }
+
+  &__select,
+  &__multiple-hidden-input {
+    & > option {
+      @include global-font-family-sans-serif;
+
+      padding: 0 rem(15px);
+      font-size: rem(16px);
+      line-height: 1.3;
+    }
+  }
+
+  &__multiple {
+    &-hidden-input {
+      display: none;
+
+      .js-disabled & {
+        display: block;
+      }
+    }
+
+    &-input {
+      position: relative;
+      flex-wrap: wrap;
+      align-content: center;
+      padding: rem(3px) rem(50px) rem(3px) rem(15px);
+      line-height: (28 / 16);
+
+      .js-disabled & {
+        display: none;
+      }
+    }
+
+    &-tag {
+      @extend %tag;
+
+      padding-right: rem(30px);
+
+      &-remove {
+        position: absolute;
+        top: rem(5px);
+        right: rem(5px);
+        width: rem(18px);
+        height: rem(18px);
+        background-color: rgba(0, 0, 0, 0.25);
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 8 8' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M8 6.87L6.87 8 4 5.13 1.13 8 0 6.87 2.87 4 0 1.13 1.13 0 4 2.87 6.87 0 8 1.13 5.13 4z' fill='%23fff'/%3E%3C/svg%3E");
+        background-repeat: no-repeat;
+        background-position: center center;
+        background-size: rem(10px) rem(10px);
+        color: #fff;
+        border: none;
+        border-radius: 50%;
+        font-size: 0;
+        vertical-align: middle;
+      }
+    }
+
+    &-editor {
+      flex: 1 1 auto;
+      height: rem(28px);
+      margin-bottom: auto;
+      padding: rem(2px) 0;
+      cursor: text;
+      outline: none;
+
+      .js-disabled & {
+        display: none;
+      }
+
+      &::after {
+        content: '';
+        position: absolute;
+        top: 100%;
+        right: 0;
+        left: 0;
+        display: block;
+        width: 100%;
+        border-bottom: transparent rem(2px) solid;
+      }
+
+      &:empty:not(:focus)::before {
+        content: attr(data-placeholder);
+        display: inline;
+        opacity: 0.5;
+        color: inherit;
+      }
+
+      &:focus {
+        &::after {
+          border-bottom-color: $global-brand-color;
+        }
+      }
+
+      .park-select[data-validation-message] &:not(:focus) {
+        &::after {
+          border-bottom-color: $global-error-color;
+        }
+      }
+
+      .park-select--maxed-out & {
+        display: none;
+      }
+    }
+
+    &-toggle {
+      grid-column: 3;
+      position: relative;
+      z-index: 1;
+      width: rem(32px);
+      height: rem(40px);
+      margin-left: rem(-32px);
+      background-color: transparent;
+      color: transparent;
+      border: none;
+      font-size: 0;
+
+      .js-disabled & {
+        display: none;
+      }
+
+      .park-select--maxed-out & {
+        display: none;
+      }
+    }
+
+    &-list {
+      grid-column: 2;
+      position: absolute;
+      z-index: 1;
+      top: 100%;
+      display: none;
+      overflow: auto;
+      width: 100%;
+      max-height: rem(200px);
+      margin-top: rem(-25px);
+      background-color: #fff;
+      border: rem(1px) solid #bbb;
+      border-radius: rem(2px);
+      box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+      font-size: rem(16px);
+      line-height: (25 / 16);
+      animation: park-fade-in 0.3s;
+
+      &--is-empty {
+        &::before {
+          content: 'keine Suchtreffer';
+          display: block;
+          padding: rem(7px) rem(15px);
+          color: #ccc;
+          font-style: italic;
+        }
+      }
+
+      .js-disabled & {
+        display: none;
+      }
+    }
+
+    &-toggle[aria-expanded="true"] + &-list {
+      display: block;
+    }
+
+    &-listitem {
+      padding: rem(7px) rem(15px);
+      border-top: rem(1px) solid #bbb;
+      cursor: pointer;
+
+      &:first-child {
+        border-top: none;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: #eee;
+      }
+    }
+  }
+
+  &[data-validation-message] &__select:not(:focus),
+  &[data-validation-message] &__multiple-hidden-input:not(:focus),
+  &--was-touched &__select:invalid:not(:focus) {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='%23666'%3E%3Cpolygon points='0,0 10,0 5,10'/%3E%3C/svg%3E"), url("data:image/svg+xml,%3Csvg viewBox='0 0 18 18' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 0h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2C0 .9.9 0 2 0zm6.27 11.25h1.46l.32-4.7.07-2.05H7.88l.07 2.04.32 4.71zM9 14.63a1.1 1.1 0 0 0 1.13-1.12A1.1 1.1 0 0 0 9 12.38a1.1 1.1 0 0 0-1.13 1.13c0 .63.49 1.12 1.13 1.12z' fill='%23c00000'/%3E%3C/svg%3E");
+    background-position: right rem(10px) center, right rem(30px) center;
+    background-size: rem(10px) rem(10px), rem(18px) rem(18px);
+    border-bottom-color: $global-error-color;
+  }
+
+  &__hint {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 1;
+    grid-column: 2 / 3;
+    float: right;
+    margin-top: rem(3px);
+    margin-bottom: rem(-23px);
+    font-size: rem(10px);
+    line-height: (20 / 10);
+    text-align: right;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+
+  &[data-validation-message] &__select ~ &__hint,
+  &[data-validation-message] &__multiple-hidden-input ~ &__hint,
+  &--was-touched &__select:invalid ~ &__hint {
+    @include visuallyhidden;
+  }
+}

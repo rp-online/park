@@ -1,0 +1,88 @@
+{% set uuid = random() %}
+{% set noProfilePictures = true %}
+{% set authorsInText = [] %}
+{% if text is defined and text %}
+  <aside class="park-authorsbox">
+    <div class="park-authorsbox__wrapper">
+      {% if authors is defined and authors is iterable %}
+        {% if text is not defined or not text %}
+          {% set text = '' %}
+        {% endif %}
+        {% for author in authors %}
+          {% set nameParts = author.name|split(' ') %}
+          {% if nameParts|length > 1 %}
+            {% set firstNamePart = nameParts[0] %}
+            {% set firstNamePart = firstNamePart|slice(0, 1) %}
+            {% set firstNamePart = firstNamePart ~ '.' %}
+            {% set nameParts = nameParts|slice(1) %}
+            {% set nameParts = [firstNamePart]|merge(nameParts) %}
+            {% set shortname = nameParts|join(' ') %}
+          {% else %}
+            {% set shortname = author.name %}
+          {% endif %}
+          {% if author.src is defined and author.src %}
+            {% if author.name in text or shortname in text %}
+              {% set noProfilePictures = false %}
+            {% endif %}
+          {% endif %}
+          {% if author.name in text %}
+            {% set author = author|merge({
+              'searchname': author.name
+            }) %}
+            {% set authorsInText = authorsInText|merge([author]) %}
+          {% endif %}
+          {% if shortname in text %}
+            {% set author = author|merge({
+              'searchname': shortname
+            }) %}
+            {% set authorsInText = authorsInText|merge([author]) %}
+          {% endif %}
+        {% endfor %}
+        {% for author in authorsInText %}
+          {% set replace = '<b class="park-authorsbox__name">' %}
+          {% if author.links is defined and author.links.profile is defined %}
+            {% set replace = replace ~ '<a href="' ~ author.links.profile ~ '" class="park-authorsbox__link">' ~ author.name ~ '</a>' %}
+          {% endif %}
+          {% set replace = replace ~ '</b>' %}
+          {% set text = text|replace({
+            (author.searchname): replace
+          }) %}
+        {% endfor %}
+      {% endif %}
+      {% if authors|length == 1 %}
+        {% set author = authors[0] %}
+        {% if author.src is defined and author.src %}
+          {% include 'components/image/template.twig' with {
+            'src': author.src,
+            'alt': author.name,
+            'width': 75,
+            'height': 75,
+            'fit': 'cover',
+            'itemprop': 'image',
+            'sizes': { 'mobile': '75px', 'desktop': '75px' },
+            'config': config
+          } only %}
+        {% endif %}
+        <div class="park-authorsbox__text">
+          <p role="heading" aria-level="6" class="park-authorsbox__authors">{{ text|raw }}
+            {% if author.position is defined and author.position %}
+          <p class="park-authorsbox__position">{{ author.position }}</p>
+          {% endif %}
+        </div>
+        {% if author.id is defined and author.id %}
+          {% include 'components/button-subscribe/template.twig' with {
+            'itemId': author.id,
+            'itemType': 'author',
+            'name': author.name,
+            'isCompact': true,
+            'config': config
+          } only %}
+        {% endif %}
+      {% else %}
+        <div class="park-authorsbox__text">
+          <p role="heading" aria-level="5" class="park-authorsbox__authors">{{ text|raw }}</p>
+        </div>
+      {% endif %}
+    </div>
+  </aside>
+{% endif %}

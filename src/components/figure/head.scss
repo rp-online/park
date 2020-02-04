@@ -1,0 +1,155 @@
+.park-figure {
+  position: relative;
+  display: block;
+  margin: 0 0 rem(30px) 0;
+
+  .park-section-nav + & {
+    margin-bottom: 0;
+  }
+
+  &--sugardaddy {
+    &::before {
+      @extend %sugardaddy-label;
+
+      position: absolute;
+      right: 0;
+      bottom: 100%;
+      line-height: rem(20px);
+    }
+  }
+
+  figure {
+    position: relative;
+  }
+
+  &__link {
+    color: #fff;
+  }
+
+  &__wrapper {
+    position: relative;
+    display: block;
+  }
+
+  &__caption-wrapper {
+    display: block;
+    margin: 0 $global-spacing;
+    padding: rem(2px) 0 0 0;
+
+    @include mq(desktop) {
+      max-width: calc(#{$global-container-width} - #{$article-spacing} - #{$article-spacing});
+      margin: auto;
+    }
+  }
+
+  &--is-link:not(#{&}--enlargable) &__caption-wrapper {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    max-width: none;
+    margin: 0;
+    padding: rem(80px) $global-spacing rem(20px);
+    background-image: linear-gradient(to bottom, transparent, rgba(34, 34, 34, 0.8));
+
+    @include mq(desktop) {
+      padding: rem(30px) $global-spacing $global-spacing;
+    }
+  }
+
+  &__caption {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(3);
+
+    color: $global-color-text-black;
+    font-weight: $global-font-weight-sans-serif-regular;
+    font-style: normal !important;
+  }
+
+  &--is-link:not(#{&}--enlargable) &__caption {
+    @include global-font-family-serif;
+    @include global-serif-font-size(2);
+
+    display: block;
+    padding-right: rem(90px);
+    color: #fff;
+    line-height: rem(30px);
+
+    /* stylelint-disable */
+    &--image,
+    &--video,
+    &--info {
+      &::before {
+        content: '';
+        display: inline-block;
+        width: rem(20px);
+        height: rem(18px);
+        margin-right: rem(4px);
+        vertical-align: middle;
+      }
+    }
+
+    &--image {
+      &::before {
+        @extend %icon-image-white;
+      }
+    }
+
+    &--video {
+      &::before {
+        @extend %icon-video-white;
+      }
+    }
+
+    &--info {
+      &::before {
+        @extend %icon-info-white;
+      }
+    }
+    /* stylelint-enable */
+
+    .park-button {
+      position: absolute;
+      right: $global-spacing;
+      bottom: $global-spacing;
+      margin-left: 0;
+      padding: rem(10px);
+    }
+  }
+
+  &__caption--enlargable {
+    padding-right: rem(45px);
+  }
+
+  &__caption-source {
+    vertical-align: baseline;
+  }
+
+  &--is-link:not(#{&}--enlargable) &__caption-source {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(3);
+
+    position: absolute;
+    top: 100%;
+    right: $global-spacing;
+    left: $global-spacing;
+    max-width: calc(#{$global-container-width} - #{$global-spacing} - #{$global-spacing});
+    margin: rem(2px) auto 0 auto;
+    color: $global-color-text-black;
+    font-style: normal;
+    text-align: right;
+
+    @include mq(desktop) {
+      right: 0;
+      left: 0;
+    }
+  }
+
+  &__caption-source-link {
+    @include text-link;
+  }
+
+  &--with-source {
+    margin-bottom: 1.5rem !important;
+  }
+}

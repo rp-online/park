@@ -1,0 +1,125 @@
+{
+  "action": "#void",
+  "method": "post",
+  "submit": "Absenden",
+  "children": [
+    {
+      "component": "select",
+      "data": {
+        "name": "salutation",
+        "label": "Anrede",
+        "placeholder": "Bitte wählen Sie eine Anrede",
+        "options": [
+          {
+            "label": "Frau",
+            "value": "Mrs."
+          },
+          {
+            "label": "Herr",
+            "value": "Mr."
+          },
+          {
+            "label": "Ihre Durchlaucht",
+            "value": "Majesty"
+          }
+        ],
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "firstname",
+        "label": "Vorname",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "familyname",
+        "label": "Nachname",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "email",
+        "name": "email",
+        "label": "E-Mail",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "password",
+        "name": "password",
+        "label": "Passwort",
+        "required": true
+      }
+    },
+    {
+      "component": "textarea",
+      "data": {
+        "name": "message",
+        "label": "Nachricht",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "toggle",
+        "name": "autoplay",
+        "value": "yes",
+        "label": "Autoplay aktivieren"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "checkbox",
+        "name": "terms",
+        "value": "accepted",
+        "label": "Ich akzeptiere die AGB",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "radio",
+        "name": "likes_chocolate",
+        "value": "yes",
+        "label": "Ich mag Schokolade!"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "radio",
+        "name": "likes_chocolate",
+        "value": "no",
+        "label": "Ich hasse Schokolade..."
+      }
+    }
+  ],
+  "footerChildren": [
+    {
+      "component": "spacer",
+      "data": {
+        "label": "oder"
+      }
+    },
+    {
+      "component": "button",
+      "data": {
+        "class": "facebook",
+        "text": "via Facebook anmelden",
+        "href": "#void"
+      }
+    }
+  ]
+}

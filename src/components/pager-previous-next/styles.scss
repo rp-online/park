@@ -1,0 +1,52 @@
+.park-pager-previous-next {
+  position: relative;
+  display: block;
+  min-height: rem(40px);
+  margin-top: $global-spacing;
+  padding-bottom: $global-spacing;
+
+  &__list {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  &__item--previous {
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+  &__item--next {
+    margin-left: auto;
+    margin-right: 0;
+  }
+
+  .park-button[rel="next"] {
+    flex-direction: row-reverse;
+
+    .park-button__icon {
+      margin-left: rem(8px);
+      margin-right: 0;
+    }
+  }
+
+  .park-button__icon {
+    > svg {
+      width: rem(13px);
+    }
+  }
+
+  &__pages {
+    @include global-sans-serif-font-size(3);
+
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    line-height: rem(40px);
+    text-align: center;
+  }
+}

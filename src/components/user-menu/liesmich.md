@@ -1,0 +1,3 @@
+Diese Komponente stellt das ausklappbare Benutzermenü in der Header-Leiste dar. Abhängig davon, ob der Nutzer ein- oder ausgeloggt ist, wird auf Desktop der Benutzername prominent angezeigt, oder aber das Wort "Anmelden". Ebenfalls abhängig davon lautet der letzte Punkt in uafklappmenü "Abmelden" oder "Anmelden".
+
+Ob der Benutzer gerad eeingeloggt ist oder nicht, bringt die Komponente über die Promise `window.park.user.getUsername()` in Erfahrung, die entweder mit `false` oder aber mit dem Benutzernamen auflöst.

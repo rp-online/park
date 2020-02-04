@@ -1,0 +1,7 @@
+{% set logoWidth        = '145px' %}
+
+{# Refactoring #}
+{# GERAGA-418 #}
+{% if mandant == 'ga_ka' %}{% set mandant = 'ka' %}{% endif %}
+
+{% extends 'external/amp_base.twig' %}

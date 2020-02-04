@@ -1,0 +1,18 @@
+.park-video-list {
+  margin-bottom: $global-spacing;
+
+  &__autoplay {
+    float: right;
+    margin: $global-spacing $global-spacing 0 $global-spacing;
+  }
+
+  &-list {
+    clear: both;
+    margin: 0 $global-spacing $global-spacing $global-spacing;
+  }
+
+  &__item {
+    overflow: hidden;
+    margin-bottom: $global-spacing;
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "showCloseButton": false,
+  "backgroundColor": "#333",
+  "component": "promotion",
+  "data": {
+    "headline": {
+      "text": "Seitenüberschrift"
+    },
+    "text": "Immer informiert für nur 10€ im Monat. Jederzeit kündbar.",
+    "button": {
+      "text": "Zum Aboshop",
+      "icon": "shopping-cart"
+    }
+  }
+}

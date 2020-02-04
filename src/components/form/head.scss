@@ -1,0 +1,49 @@
+.park-form {
+  display: block;
+  padding: $global-spacing;
+
+  .park-section-headline {
+    margin-left: 0;
+  }
+
+  .park-button[type="submit"] {
+    align-self: center;
+  }
+
+  @include mq(desktop) {
+    display: grid;
+    grid-template-columns: 1fr 6fr;
+    width: 100%;
+
+    @include mq(desktop) {
+      > *:not(.park-input-group):not(.park-button) {
+        -ms-grid-column: 2;
+        -ms-grid-column-span: 1;
+        grid-column: 2 / 3;
+      }
+    }
+
+    @for $i from 1 through 30 {
+      > :nth-child(#{$i}) {
+        -ms-grid-row: #{$i};
+      }
+    }
+
+    .park-button[type="submit"] {
+      grid-column: 2;
+      justify-self: left;
+      min-width: 0;
+      margin-top: rem(15px);
+    }
+
+    &--vertical {
+      display: flex;
+      flex-direction: column;
+
+      .park-button[type="submit"] {
+        align-self: start;
+        margin-right: auto;
+      }
+    }
+  }
+}

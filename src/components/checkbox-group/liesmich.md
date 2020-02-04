@@ -1,0 +1,1 @@
+Diese Komponente erlaubt es, eine Mehrfachauswahl über Radio-Buttons anzulegen. Die Radios werden mit Hilfe einer unsichtbaren Überschrift zusammengefasst. Per boolscher `required`-Eigenschaft wird festgelegt, ob der Benutzer eine Auswahl treffen muss, oder nicht.

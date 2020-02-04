@@ -1,0 +1,1 @@
+Diese kartenartige Komponente wird vorwiegend in [Slidern](#slider)/Unterbrechern verwendet und teasert Artikel an. Deshalb auch `"type": "article"`.

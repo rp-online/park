@@ -1,0 +1,9 @@
+{% if vgwort is not defined and config.vgwort is defined %}
+  {% set vgwort = config.vgwort %}
+{% endif %}
+<img src="{{ vgwort }}"
+     width="1"
+     height="1"
+     alt=""
+     async="on"
+     class="park-vgwort">

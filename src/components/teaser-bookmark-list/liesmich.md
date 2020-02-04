@@ -1,0 +1,1 @@
+Diese Komponente stellt die Leseliste des Benutzers dar. Gefüllt stellt sie eine Liste [Teaser](#teaser)-Komponenten dar. Leer gibt Sie Hinweise darauf, wie man sie füllen kann.

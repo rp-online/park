@@ -1,0 +1,18 @@
+{
+  "src": {
+    "400w": "https://placehold.it/400x225",
+    "600w": "https://placehold.it/600x337",
+    "900w": "https://placehold.it/900x506",
+    "1200w": "https://placehold.it/1200x675",
+    "1600w": "https://placehold.it/1600x1125"
+  },
+  "sizes": {
+    "mobile": "100vw",
+    "desktop": "950px"
+  },
+  "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+  "width": 900,
+  "height": 300,
+  "fit": "cover",
+  "lazy": true
+}

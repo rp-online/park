@@ -1,0 +1,7 @@
+<footer class="park-section-footer">
+  {% if button is defined %}
+    {# The following injects the global config #}
+    {% set button = button|merge({'config': config}) %}
+    {% include 'components/button/template.twig' with button only %}
+  {% endif %}
+</footer>

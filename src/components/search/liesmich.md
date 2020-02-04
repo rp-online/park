@@ -1,0 +1,3 @@
+Diese Komponente ist eine Zusammenstellung aus [Searchform](#searchform)-, [Search-Tipp](#search-tipp)-, [Search-Adsense](#search-adsense)- und [Teaser-Shapeshifter](#teaser-shapeshifter)-Komponente, speziell für die Suchseite. Sie enthält sowohl das Formular, als auch die Suchergebnisse und Werbeplätze. Nachdem der erste Bildschirm serverseitig gerendert wurde, werden weitere Suchergebnisse oder Änderungen an den Suchergebnissen via AJAX nachgelasden und mit Hilfe unserer clientseitigen Widget-Mechanik gerendert.
+
+Der `searchTipp` ist ein spezieller Hinweis auf ein Ressort, die zu dem Suchbegriff passen. Er wird nicht immer ausgespielt, sondern nur, wenn es ein auf den Suchbegriff konfiguriertes Ressort gibt.

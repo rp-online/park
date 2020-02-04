@@ -1,0 +1,10 @@
+{% for child in children %}
+  {% set data = child.data|merge({'config': config}) %}
+  {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+  {% if child.children is defined %}
+    {% include 'component.twig' with {
+    'config': config,
+    'children': child.children
+    } only %}
+  {% endif %}
+{% endfor %}

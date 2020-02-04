@@ -1,0 +1,2949 @@
+{
+  "title": "Nachrichten aus Viersen, Brüggen, Schwalmtal und Niederkrüchten",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "title": "Nachrichten aus Viersen, Brüggen, Schwalmtal und Niederkrüchten",
+    "url": "https://rp-online.de/nrw/staedte/viersen/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1525873443",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Aktuelles aus Viersen, Brüggen, Schwalmtal und Niederkrüchten - dazu Fotos, Kommentare und ein RSS-Feed"
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "staedte",
+      "dossier": "viersen",
+      "contentType": "Index",
+      "analyticsUrl": "https://rp-online.de/nrw/staedte/viersen/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "/nrw/staedte/viersen/",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=8792873&cstr=7203017&l=&tit=Nachrichten+aus+Viersen%2C+Br%FCggen%2C+Schwalmtal+und+Niederkr%FCchten&url=https%3A%2F%2Frp-online.de%2Fnrw%2Fstaedte%2Fviersen%2F&sep=%7C&tce=1&tid=64937&tn=64701&tp=50327%7C64600%7C64701&tpn=50327%7C64600%7C64701&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 7203017,
+      "doctype": "section",
+      "contentid": "/nrw/staedte/viersen/",
+      "channel": 64600,
+      "subchannel": 64701,
+      "subsubchannel": 64937
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/staedte/viersen/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/nrw/staedte/viersen/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/viersen/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://rp-online.de/nrw/staedte/viersen/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://rp-online.de/nrw/staedte/viersen/"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///localnews/viersen",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///localnews/viersen",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///localnews/viersen",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-3"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "viersen",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "viersen",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews",
+        "subZone": "viersen"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "ist",
+            "adUnitPath": "///localnews/viersen",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///localnews/viersen",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-3"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "viersen",
+          "pfad4": "stop",
+          "oms": "localnews/viersen",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "viersen",
+          "pfad4": "stop",
+          "oms": "localnews/viersen",
+          "mode": "mobile"
+        },
+        "zone": "localnews",
+        "subZone": "viersen"
+      },
+      "reloadFrequency": "5"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://rp-online.de/nrw/staedte/viersen/niederkruechten-polizei-schnappt-tankstellenraeuber_aid-22578563"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://rp-online.de/nrw/staedte/viersen/viersen-exhibitionist-belaestigt-junge-frauen_aid-22577793"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://rp-online.de/nrw/staedte/viersen/viersen-betrunkener-faehrt-mit-auto-vor-baum_aid-22579711"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://rp-online.de/nrw/staedte/viersen/viersen-mann-grapscht-junge-frau-mehrfach-an_aid-22577845"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://rp-online.de/nrw/staedte/viersen/abschluss-uebernachtung-in-kitas-faellt-aus_aid-22555541"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://rp-online.de/nrw/staedte/viersen/anpfiff-fuer-das-grosse-bolzplatz-turnier_aid-22552027"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://rp-online.de/nrw/staedte/viersen/hier-bin-ich-koenig_aid-22553291"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://rp-online.de/nrw/staedte/viersen/horst-eckert-laesst-nettetaler-schmunzeln_aid-22555821"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://rp-online.de/nrw/staedte/viersen/neuer-verein-soll-brueggener-feste-organisieren_aid-22552817"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"out-of-page\"></div>"
+    },
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erklären Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "Mehr Informationen"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-rectangle",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"banner\"></div>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "",
+                        "href": "/",
+                        "isHidden": true
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "/nrw/",
+                        "isHidden": false
+                      },
+                      {
+                        "text": "Städte",
+                        "href": "/nrw/staedte/",
+                        "isHidden": false
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Viersen"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Sport Viersen und Nettetal",
+                        "href": "/nrw/staedte/viersen/sport/",
+                        "isAd": false
+                      },
+                      {
+                        "text": "Stadtgespräch",
+                        "href": "/nrw/staedte/viersen/stadtgespraech/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "id": 22578563,
+                    "href": "/nrw/staedte/viersen/niederkruechten-polizei-schnappt-tankstellenraeuber_aid-22578563",
+                    "type": "article",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Polizei schnappt Tankstellenräuber dank Zeugenaussagen\n"
+                    },
+                    "intro": "Der Viersener Polizei ist dank einer guten Täterbeschreibung und einer aufmerksamen Streifenwagenbesatzung ein Tankstellenräuber ins Netz gegangen. ",
+                    "src": "/imgs/32/2/6/0/2/4/1/7/1/tok_2db4c13390a4953bbd7546e9c9d0b7fe/w490_h368_x400_y239_Polizei-Platzhalter-Symbol-Auto-in-Blau-Silber_HBOgLoK-c4d109d268fd448a.jpg",
+                    "alt": "",
+                    "orig_src": "/imgs/32/2/6/0/2/4/1/7/1/Polizei-Platzhalter-Symbol-Auto-in-Blau-Silber_HBOgLoK-c4d109d268fd448a.jpg",
+                    "source": "Niederkrüchten",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Fahndungserfolg in Niederkrüchten\n"
+                    },
+                    "backgroundColor": "rgba(208, 208, 198,1)",
+                    "backgroundLuma": 207.278
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Bilder aus dem Kreis Viersen"
+                    },
+                    "items": [
+                      {
+                        "id": 22509959,
+                        "href": "/nrw/staedte/viersen/unfall-auf-a52-bei-viersen-motorradfahrer-und-auto-stossen-zusammen_bid-22509959",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Motorradfahrer und Auto stoßen auf A52 zusammen\n"
+                        },
+                        "intro": "Am Montagabend, 7. Mai 2018, hat es auf der A52 bei Schwalmtal (Kreis Viersen) einen Unfall mit einem Motorrad und einem Auto gegeben. Der Motorradfahrer wurde schwer verletzt. ",
+                        "src": "/imgs/32/2/5/7/7/3/0/0/1/tok_c371d367f409786a48a1a1c6cbfdb342/w306_h175_x310_y232_18fd1fae01ac301d.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 20961069,
+                        "href": "/nrw/staedte/viersen/campingplatz-in-niederkruechten-wohnwagen-brennen_bid-20961069",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Wohnwagen brennen in Niederkrüchten\n"
+                        },
+                        "intro": "Auf einem Campingplatz in Niederkrüchten-Brempt sind am Freitag, 27. April 2018, drei Wohnwagen abgebrannt. ",
+                        "src": "/imgs/32/2/4/0/5/1/9/7/1/tok_0526ffd64657e39f33088bff0a1d72de/w306_h175_x470_y264_a6eefe02fbaecf7e.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 19389167,
+                        "href": "/nrw/staedte/viersen/viersen-die-schoensten-fruehlingsfotos-unserer-leser_bid-19389167",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Die schönsten Frühlingsfotos unserer Leser\n"
+                        },
+                        "intro": "In den vergangenen Tagen ist es im April 2018 schon richtig schön warm gewesen: Zahlreiche Blumen strahlen in ihrer ganzen Pracht. Wir zeigen die schönsten Leserfotos aus dem Kreis Viersen. ",
+                        "src": "/imgs/32/2/2/4/0/1/9/3/9/tok_6d1beb50da9ed36b5d397d0a1279a37f/w306_h175_x1796_y1199_8a1c5ba6ddbf16f3.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      },
+                      {
+                        "id": 18528391,
+                        "href": "/nrw/staedte/viersen/polizei-findet-verbrannte-leiche-in-niederkruechten_bid-18528391",
+                        "type": "image",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Polizei findet verbrannte Leiche in Niederkrüchten\n"
+                        },
+                        "intro": "Anrufer haben der Polizei am Sonntagmorgen, 22. April 2018, einen brennenden Wagen in Niederkrüchten gemeldet. Darin machten Beamte eine schlimme Entdeckung. ",
+                        "src": "/imgs/32/2/1/4/8/2/5/7/3/tok_6d2318030ba25ce49eae1b5f4ea5a303/w306_h175_x960_y540_e68d9fa837d94483.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 22577793,
+                        "href": "/nrw/staedte/viersen/viersen-exhibitionist-belaestigt-junge-frauen_aid-22577793",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Unbekannter onaniert vor zwei Frauen\n"
+                        },
+                        "intro": "In Viersen hat sich am Mittwochabend ein unbekannter Mann vor zwei Frauen ausgezogen. Die Polizei sucht Zeugen. ",
+                        "src": "/imgs/32/2/6/0/1/9/1/8/5/tok_49709269ce9d9974f29bd8541ec1b828/w490_h368_x1500_y1000_20130507_kibld_dpa_14854E009CA2A028-8849627fa4a45e4e.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/6/0/1/9/1/8/5/20130507_kibld_dpa_14854E009CA2A028-8849627fa4a45e4e.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Vorfall in Viersen\n"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22250755\"></div><script>googletag.cmd.push(function() { googletag.display(\"22250755\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22250755\"></div><script>googletag.cmd.push(function() { googletag.display(\"22250755\"); })</script>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 22579711,
+                        "href": "/nrw/staedte/viersen/viersen-betrunkener-faehrt-mit-auto-vor-baum_aid-22579711",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Betrunkener fährt mit Auto vor Baum\n"
+                        },
+                        "intro": "Ein 23 Jahre alter Grefrather ist auf der Tönisvorster Straße in Viersen-Süchteln alkoholisiert gegen einen Baum gefahren. Der Unfallfahrer versuchte zu flüchten. ",
+                        "src": "/imgs/32/2/6/0/3/2/6/9/9/tok_3626c7b5c4780009003566e57d4a5e31/w490_h368_x881_y567_20140102_bfunk_dpa_148844000F82FB92-eb460f267a0f2fd2.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/6/0/3/2/6/9/9/20140102_bfunk_dpa_148844000F82FB92-eb460f267a0f2fd2.jpg",
+                        "source": "Viersen-Süchteln",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fluchtversuch\n"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div><script>googletag.cmd.push(function() { googletag.display(\"22251071\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div><script>googletag.cmd.push(function() { googletag.display(\"22251071\"); })</script>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 22577845,
+                        "href": "/nrw/staedte/viersen/viersen-mann-grapscht-junge-frau-mehrfach-an_aid-22577845",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Mann grapscht junge Frau an\n"
+                        },
+                        "intro": "In einem Park in Viersen hat ein Mann eine 27 Jahre alte Frau sexuell belästigt. Die Frau konnte flüchten. ",
+                        "src": "/imgs/32/2/6/0/1/9/6/8/1/tok_f045543ef03e4691dcf1fc18f08f99eb/w490_h368_x1500_y1094_20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/6/0/1/9/6/8/1/20150722_bfunk_dpa_148DEC0022D9710A-f204c94012389e03.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "In Viersener Park\n"
+                        }
+                      },
+                      {
+                        "id": 22555541,
+                        "href": "/nrw/staedte/viersen/abschluss-uebernachtung-in-kitas-faellt-aus_aid-22555541",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Abschluss-Übernachtung in Kitas fällt aus"
+                        },
+                        "intro": "Ein Erlass des Landes NRW sorgt für Unmut bei vielen Eltern: Die Pyjama-Party am Ende der Kita-Zeit ist nurnoch mit Nutzungsänderung möglich. Die Stadt Viersen und andere Träger verzichten jetzt darauf",
+                        "authors": "Von Sabine Janssen und Birgitta Ronge",
+                        "src": "/imgs/32/2/5/8/5/9/8/0/3/tok_05520becb4789262d8144bf8f19c18e5/w490_h368_x470_y264_f2961082414ccad8.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/5/9/8/0/3/f2961082414ccad8.jpg",
+                        "source": "Kreis Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kreis Viersen"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div><script>googletag.cmd.push(function() { googletag.display(\"22252155\"); })</script>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div><script>googletag.cmd.push(function() { googletag.display(\"22252155\"); })</script>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "id": 22552027,
+                        "href": "/nrw/staedte/viersen/anpfiff-fuer-das-grosse-bolzplatz-turnier_aid-22552027",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Anpfiff für das große Bolzplatz-Turnier"
+                        },
+                        "intro": "Sechs- bis 17-Jährige können kostenfrei beim zweiten offenen Turnier mitmachen. Auf dem grünen Rasen kicken die Teams gegeneinander, der Duft von Grillwürstchen weht über dem Platz. Doch Gewinnen ist nicht alles",
+                        "authors": "Von Bianca Treffer",
+                        "src": "/imgs/32/2/5/8/5/4/3/1/7/tok_0d60a59ffa44f2a9e4548c74642fda6a/w490_h368_x470_y264_3bbd7bb55fb16a22.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/5/4/3/1/7/3bbd7bb55fb16a22.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Viersen"
+                        }
+                      },
+                      {
+                        "id": 22553291,
+                        "href": "/nrw/staedte/viersen/hier-bin-ich-koenig_aid-22553291",
+                        "type": "article",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Hier bin ich König"
+                        },
+                        "intro": "Einmal im Leben ein König sein: Bei den Schützenvereinen und -bruderschaften geht das. In unserer Reihe stellen sich die Majestäten aus dem Westkreis mal auf andere Weise vor. Heute: König Udo und Königin Susanne aus Vogelsrath",
+                        "orig_src": null,
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Viersen"
+                        }
+                      },
+                      {
+                        "id": 22555821,
+                        "href": "/nrw/staedte/viersen/horst-eckert-laesst-nettetaler-schmunzeln_aid-22555821",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Horst Eckert lässt Nettetaler schmunzeln"
+                        },
+                        "intro": "Lobberich Das war ein zugleich spannender als auch informativer Leseabend in der reizvollen Umgebung der Buchhandlung Matussek in Lobberich. Horst Eckert, 1959 in Bayern geborener Krimiautor, der seit 30 Jahren in Düsseldorf lebt, stellte seinen neuen Roman \"Der Preis des Todes\" vor.",
+                        "orig_src": null,
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Viersen"
+                        }
+                      },
+                      {
+                        "id": 22552817,
+                        "href": "/nrw/staedte/viersen/neuer-verein-soll-brueggener-feste-organisieren_aid-22552817",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neuer Verein soll Brüggener Feste organisieren"
+                        },
+                        "intro": "Die IG Lebendiges Brüggen löst sich auf. Derzeit kümmert sich die Gemeindeverwaltung um die Fest-Planung",
+                        "authors": "Von Birgit Sroka",
+                        "orig_src": "/imgs/32/2/5/8/5/5/8/1/3/947ef5943376aad5.jpg",
+                        "source": "Brüggen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Brüggen"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Stadtgespräch",
+                      "href": "/nrw/staedte/viersen/stadtgespraech/"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 22551989,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/heimatverein-ist-gut-aufgestellt_aid-22551989",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Heimatverein ist gut aufgestellt"
+                        },
+                        "intro": "\"Der Verein für Heimatpflege ist gesund aufgestellt.\" Das ist das Fazit, das Schatzmeister Georg Neuefeind vor den Mitgliedern bei der Hauptversammlung zog, die erstmals im Mehrzweckraum der Wohnungen an der Villa Marx stattfand.",
+                        "orig_src": null,
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Versammlung"
+                        }
+                      },
+                      {
+                        "id": 22530917,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/sportabzeichen-mit-84-jahren_aid-22530917",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Sportabzeichen mit 84 Jahren"
+                        },
+                        "intro": "August Geurden ist 84 Jahre alt - und hat jetzt sein 27. Sportabzeichen gemacht.Er fuhr mit dem Rad aus dem Viersener Hoser extra nach Waldniel ins Dr.-Ernst-van-Aaken-Stadion. Er wies die Ausdauer mit 200 Meter Schwimmen in 7:19,24 Minuten, die Kraft mit der Drei-Kilogramm-Kugel mit 6,43 Metern, die Schnelligkeit mit 25 Metern Schwimmen in 40,3 Sekunden und die Koordination mit 20 Grundsprüngen im Seilchenspringen nach.",
+                        "src": "/imgs/32/2/5/8/1/4/9/7/5/tok_088a23a26a5b80bb52675c640ff64077/w490_h368_x470_y264_e40d729cf5c3b06c.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/1/4/9/7/5/e40d729cf5c3b06c.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "August Geurden"
+                        }
+                      },
+                      {
+                        "id": 22530969,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/deutsche-und-niederlaender-eroeffnen-wanderweg_aid-22530969",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Deutsche und Niederländer eröffnen Wanderweg"
+                        },
+                        "intro": "Die Bürgermeister der Gemeinden Niederkrüchten, Roerdalen und Roermond haben am Sonntag den Wanderweg und die Radrouten des Projekts \"Grenzgeschichte(n)\" eröffnet. Kalle Wassong (Niederkrüchten, parteilos), Monique de Boer (VVD, Roerdalen) und Rianne Donders - de Leest (CDA, Roermond) zogen gemeinsam die Europaflagge von der Infotafel, die am Anfang des Wanderwegs auf dem Wanderparkplatz am Lüsekamp steht, und übergaben so den Weg der Öffentlichkeit.",
+                        "src": "/imgs/32/2/5/8/1/5/0/3/9/tok_b61f0a43cdc823030633e389172b78c4/w490_h368_x470_y264_b4afe06ca519186d.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/1/5/0/3/9/b4afe06ca519186d.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Gut Gemacht"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "teaser-list",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 22530721,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/lange-im-verein-noch-laenger-aus-der-schule-raus_aid-22530721",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Lange im Verein, noch länger aus der Schule raus"
+                        },
+                        "intro": "Bei der Mitgliederversammlung des ASV Süchteln haben der Vereinsvorsitzende Wolfgang Güdden und sein Stellvertreter Jörg Heinrichs langjährige Mitglieder geehrt. Für 60 Jahre Vereinstreue wurde Rainer van de Venn ausgezeichnet.",
+                        "src": "/imgs/32/2/5/8/1/4/7/2/1/tok_a50570790514a312df35ff2d10c116e5/w490_h368_x470_y264_a12ff0ac1c491877.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/1/4/7/2/1/a12ff0ac1c491877.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Leute, Leute"
+                        }
+                      },
+                      {
+                        "id": 22530773,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/buergerinitiative-setzt-sich-fuer-glasfaser-ausbau-ein_aid-22530773",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Bürgerinitiative setzt sich für Glasfaser-Ausbau ein"
+                        },
+                        "intro": "In Viersen hat sich eine Bürgerinitiative gegründet, die den Glasfaserausbau in der Stadt vorantreiben will. Am Montagabend gab's ein erstes Treffen im Café Kantinchen in Dülken. \"Es geht beim Glasfaserausbau um eine komplett neue Infrastruktur für Viersen\", sagt die Gründerin der Initiative, Gesa Kieselmann-Fricke.",
+                        "src": "/imgs/32/2/5/8/1/4/7/8/5/tok_f34288a4959af848ab62d78eda55f947/w490_h368_x470_y264_51c9429b3440bff2.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/1/4/7/8/5/51c9429b3440bff2.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Breitband"
+                        }
+                      },
+                      {
+                        "id": 22530861,
+                        "href": "/nrw/staedte/viersen/stadtgespraech/junge-brueggenerin-geht-in-die-usa_aid-22530861",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Junge Brüggenerin geht in die USA"
+                        },
+                        "intro": "Die Brüggenerin Lina Terporten (14) fliegt im Sommer in die USA, um dort für ein Jahr eine Schule in Washington State zu besuchen und dort in einer Familie zu wohnen. Die Schülerin des Albertus-Magnus-Gymnasiums Dülken hat ein Stipendium des Bundestags erhalten.",
+                        "orig_src": "/imgs/32/2/5/8/1/4/8/9/5/3f79cdc5ccd47520.jpg",
+                        "source": "Viersen",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Auf Wiedersehen"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "cards-container",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr aus dem Kreis Viersen"
+                    },
+                    "items": [
+                      {
+                        "type": "narrow",
+                        "text": "Bürgermonitor",
+                        "href": "/nrw/staedte/viersen/buergermonitor-fuer-den-kreis-viersen/",
+                        "isAd": false
+                      },
+                      {
+                        "type": "narrow",
+                        "text": "Lokalsport",
+                        "href": "/nrw/staedte/viersen/sport/",
+                        "isAd": false
+                      },
+                      {
+                        "type": "narrow",
+                        "text": "Stadtgespräch",
+                        "href": "/nrw/staedte/viersen/stadtgespraech/",
+                        "isAd": false
+                      },
+                      {
+                        "type": "narrow",
+                        "text": "Festival Eier mit Speck",
+                        "href": "/thema/eier-mit-speck-festival/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Videos aus Viersen"
+                    }
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Videos aus Viersen"
+                    },
+                    "items": [
+                      {
+                        "id": 17035151,
+                        "href": "/nrw/staedte/viersen/duelkener-city-beach-am-23-24062018_vid-17035151",
+                        "type": "video",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Dülkener City Beach am 23./24.06.2018"
+                        },
+                        "intro": "In Viersen-Dülken rüstet man sich für ein Großereignis: Am Wochenende 23./24. Juni werden Bagger insgesamt 170 Kubikmeter Sand auf dem Edeka-Parkplatz am neu angelegten Stadtgarten Melcherstiege",
+                        "src": "/imgs/32/1/9/9/1/1/9/9/5/tok_aa6369818445a14be45ca25bb4a6ad36/w306_h175_x310_y232_7d1448636bd212bb.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Video"
+                        }
+                      },
+                      {
+                        "id": 16577737,
+                        "href": "/nrw/staedte/viersen/mit-dem-kanu-von-suechteln-bis-zur-langendonker-muehle_vid-16577737",
+                        "type": "video",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mit dem Kanu von Süchteln bis zur Langendonker Mühle"
+                        },
+                        "intro": "Die Tour „Paddel und Pedale“ wird angeboten von Hammans Freizeit an der Rheinstraße 25 in Viersen-Süchteln. Die Tour führt von der Kanustation Süchteln etwa 8,2 Kilometer über die Niers nach",
+                        "src": "/imgs/32/1/9/4/2/5/1/6/9/tok_7925fa9be009367c00ad6e6844834c9e/w306_h175_x310_y232_f8eb608327ad80a8.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Video"
+                        }
+                      },
+                      {
+                        "id": 20605747,
+                        "href": "/nrw/staedte/viersen/mit-dem-flieger-ueber-die-graureiher-kolonien_vid-20605747",
+                        "type": "video",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mit dem Flieger über die Graureiher-Kolonien"
+                        },
+                        "intro": "Michael Müllers schiebt das schwere Tor zu Halle 3 auf. Die Sonnenstrahlen fallen in den dunklen Raum. Mit einer Armverlängerung zieht der Pilot die Maschine ins Freie. Die Cessna 172 steht auf der",
+                        "src": "/imgs/32/2/3/6/7/6/4/9/1/tok_6d073aa81f8d07fbc928c591c071593e/w306_h175_x310_y232_ef6f5b3058fd28e8.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Video"
+                        }
+                      },
+                      {
+                        "id": 17655903,
+                        "href": "/nrw/staedte/viersen/a61-bei-viersen-lastwagen-prallt-gegen-streifenwagen-polizistin-stirbt_vid-17655903",
+                        "type": "video",
+                        "headline": {
+                          "tag": "span",
+                          "text": "A61 bei Viersen: Lastwagen prallt gegen Streifenwagen - Polizistin stirbt"
+                        },
+                        "intro": "Eine Polizistin ist bei einem schweren Unfall auf der Autobahn 61 bei Viersen getötet worden. Nach ersten Angaben hatte sie mit Kollegen in einem Einsatzfahrzeug gesessen, als ihr Wagen von einem Lkw erfasst wurde.",
+                        "src": "/imgs/32/2/0/5/9/3/6/4/7/tok_148d3bfc482438dd7b1b3d5185d3829c/w306_h175_x310_y232_41e989ab5d208a27.jpg",
+                        "alt": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Video"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Lokalsport",
+                      "href": "/nrw/staedte/viersen/sport/"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Billard WM",
+                        "href": "/nrw/staedte/viersen/sport/billard-wm/",
+                        "isAd": false
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 22560875,
+                        "href": "/nrw/staedte/viersen/sport/lobberich-kann-aufstieg-klar-machen_aid-22560875",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Lobberich kann Aufstieg klar machen"
+                        },
+                        "intro": "Gewinnen die Lobbericher am Samstag in Lank, sind sie Meister und die Rückkehr in die Handball-Oberliga ist ihnen nicht mehr zu nehmen. Beim TSV Kaldenkirchen gibt Trainer Philipp Clodt seinen Ausstand als Trainer.",
+                        "authors": "Von Alyssa Pannwitz",
+                        "src": "/imgs/32/2/5/8/6/8/7/4/9/tok_cdcb9759cc1678317426db08464f0db4/w490_h368_x470_y264_d281849209ea0948.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/6/8/7/4/9/d281849209ea0948.jpg",
+                        "source": "Grenzland",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      },
+                      {
+                        "id": 22560697,
+                        "href": "/nrw/staedte/viersen/sport/tvl-frauen-wollen-ihren-fans-noch-mal-etwas-bieten_aid-22560697",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "TVL-Frauen wollen ihren Fans noch mal etwas bieten"
+                        },
+                        "intro": "Lobberichs Oberliga-Handballerinnen treffen am letzten Spieltag daheim auf Mettmann-Sport.",
+                        "src": "/imgs/32/2/5/8/6/8/5/4/5/tok_1bf0ddb4d9f7e3c32ce538a5d5a3789f/w490_h368_x470_y264_d83bcdc916950d5a.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/6/8/5/4/5/d83bcdc916950d5a.jpg",
+                        "source": "Nettetal",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Handball"
+                        }
+                      },
+                      {
+                        "id": 22560941,
+                        "href": "/nrw/staedte/viersen/sport/vthc-steht-vor-der-heimpremiere_aid-22560941",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "VTHC steht vor der Heimpremiere"
+                        },
+                        "intro": "In der Tennis-Niederrheinliga empfangen die Viersener den Oberhausener THC. Die Damen 30 des TV Lobberich wollen in der 1. Verbandsliga nachlegen.",
+                        "src": "/imgs/32/2/5/8/6/8/8/2/1/tok_154ddd0b089d87eb6701c25166057f55/w490_h368_x470_y264_8a16d2fc95746ec5.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/6/8/8/2/1/8a16d2fc95746ec5.jpg",
+                        "source": "Grenzland",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Tennis"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Weitere Artikel"
+                  }
+                },
+                {
+                  "component": "teaser-list",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 22560599,
+                        "href": "/nrw/staedte/viersen/sport/nettetalerin-gehoert-bei-taekwondo-em-zu-den-favoritinnen_aid-22560599",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Nettetalerin gehört bei Taekwondo-EM zu den Favoritinnen"
+                        },
+                        "intro": "Madeline Folgmann geht am Freitag im russischen Kazan in der Gewichtsklasse bis 53 Kilogramm für Deutschland an den Start.",
+                        "authors": "Von Paul Offermanns",
+                        "src": "/imgs/32/2/5/8/6/8/4/3/7/tok_6138d5224761cb5269de830441464116/w490_h368_x470_y264_a75a9a1a267cbef7.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/2/5/8/6/8/4/3/7/a75a9a1a267cbef7.jpg",
+                        "source": "Nettetal",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lokalsport"
+                        }
+                      },
+                      {
+                        "id": 22522971,
+                        "href": "/nrw/staedte/viersen/sport/futziball-kinder-spielerisch-an-den-fussball-heranfuehren_aid-22522971",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Futziball: Kinder spielerisch an den Fußball heranführen"
+                        },
+                        "intro": "Die Fußballschule Grenzland hat sich mit ihren zahlreichen Feriencamps für Kinder im Alter von sechs bis dreizehn Jahren hierzulande einen guten Namen gemacht. Von nun an kümmert sich die Fußballschule Grenzland aber auch um die Kleinsten. Ende Mai startet das neueste Konzept für Kinder im Alter von zwei bis fünf Jahren unter dem Namen Futziball. Zu den Premierenstandorten gehört im Grenzland die Stadt Nettetal, dort gehen die ersten sieben Einheiten dienstags vom 29. Mai bis zum 10. Juli in der Turnhalle an der Von-Waldois-Straße über die Bühne.",
+                        "orig_src": null,
+                        "source": "Grenzland",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lokalsport"
+                        }
+                      },
+                      {
+                        "id": 22523117,
+                        "href": "/nrw/staedte/viersen/sport/radsport-talent-der-union-holt-einen-nrw-titel_aid-22523117",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Radsport: Talent der Union holt einen NRW-Titel"
+                        },
+                        "intro": "Erneut zeigte der Radsportnachwuchs aus der Radsportabteilung des SC Union Nettetal starke Ergebnisse. Im westfälischen Werne ermittelte die Straßenfahrer auf einem sehr anspruchsvollen Kurs die neuen NRW-Landesmeister. Besonders hob sich dabei Phillip White heraus, der in der Klasse U11 seiner Favoritenrolle mehr als gerecht wurde. Mit großem Vorsprung holte er sich den Titel.",
+                        "orig_src": null,
+                        "source": "Werne/Nettetal",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lokalsport"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "portal-marker",
+                  "data": {
+                    "children": [
+                      {
+                        "component": "portal-marker",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "cards-container",
+                              "data": {
+                                "headline": {
+                                  "tag": "span",
+                                  "text": "Themenwelten"
+                                },
+                                "items": [
+                                  {
+                                    "type": "narrow",
+                                    "text": "Grillgut",
+                                    "href": "/nrw/extra/grillgut/",
+                                    "isAd": false,
+                                    "image": {
+                                      "src": "/imgs/31/2/5/5/7/2/1/1/1/tok_d37a41980091b93e53ff368a7ed19683/w100_h75_x1796_y1268_37a47eb586e9413489def25d1d90696c-20c1d09154d9c35d.jpg",
+                                      "alt": ""
+                                    }
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Hilfe im Trauerfall",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/hilfe-im-trauerfall-12042018/59993164",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Einkaufserlebnis im Gierlings Gewerbepark",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/einkaufserlebnis-im-gierlings-gewerbepark-03052018/60119204",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Garten erleben",
+                                    "href": "/nrw/extra/garten-erleben/",
+                                    "isAd": false,
+                                    "image": {
+                                      "src": "/imgs/31/2/5/5/7/2/1/1/1/tok_4dab27eff34ae81ebe316ebd22f8f841/w100_h75_x212_y196_3767d6b3-5410-4bce-bbea-8e3cea9066b1-52a481eb35951c1b.jpg",
+                                      "alt": ""
+                                    }
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Hofläden - Frisches aus der Region",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/hofladen-frisches-aus-der-region-23042018/60045252",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Generation 50plus                 ",
+                                    "href": "/nrw/extra/generation-50-plus/",
+                                    "isAd": false,
+                                    "image": {
+                                      "src": "/imgs/31/2/5/5/7/2/1/1/1/tok_08f124203bc7690ca825a8c407bdb421/w100_h75_x512_y341_1.7520492-66fc147e0794285c.jpg",
+                                      "alt": ""
+                                    }
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Handwerk & Wohnen     ",
+                                    "href": "/nrw/extra/handwerk-und-wohnen/",
+                                    "isAd": false,
+                                    "image": {
+                                      "src": "/imgs/31/2/5/5/7/2/1/1/1/tok_06fe83aa58d1327c486b24fadd2c3b5f/w100_h75_x426_y345_7c399d10-4c4a-4f42-b601-a3da40d5a86f-6acc03a54e9362ff.jpg",
+                                      "alt": ""
+                                    }
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Bundesverband Deutscher Versicherungskaufleute",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/bundesverband-deutscher-versicherungskaufleute-07052018/60163681",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Wir in Kaldenkirchen",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/wir-in-kaldenkirchen-12042018/59993158",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Glasfaserausbau in Viersen",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/glasfaserausbau-in-viersen-05052018/60147076",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Wir in Kaldenkirchen",
+                                    "href": "http://sonderveroeffentlichungen.rp-online.de/wir-in-kaldenkirchen-10052018/60200146",
+                                    "isAd": false
+                                  },
+                                  {
+                                    "type": "narrow",
+                                    "text": "Marktgeflüster",
+                                    "href": "/app/marktgefluester",
+                                    "isAd": false
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "tab-container",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Anzeigen aus Viersen"
+                    },
+                    "type": "slider",
+                    "blocks": [
+                      {
+                        "title": "Traueranzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/matthias-harmes",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_5/Matthias-Harmes-Traueranzeige-ab915c4e-ad88-42bc-849a-9d4b529281b1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/margret-buchholtz-1925",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_5/Margret-Buchholtz-Traueranzeige-115a7921-2d67-4787-b202-ded528975532.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/johannes-zielinski",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_5/Johannes-Zielinski-Traueranzeige-1f564dbf-ca56-441c-850e-904ccfc1f5ee.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/herbert-boumans",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_5/Herbert-Boumans-Traueranzeige-579e3516-19ce-43f9-bd95-7702f857aba7.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/hildegard-vanderzander",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_5/Hildegard-vanderZander-Traueranzeige-f0475bb3-c976-479b-bb3e-347a347767f1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/gertrud-scholz",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Gertrud-Scholz-Traueranzeige-65ae26f7-81bc-4352-95f8-f19364048c65.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/manfred-schley",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Manfred-Schley-Traueranzeige-b723bbaf-0647-4e11-b341-1525d48aff6b.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/helga-dethlefsen",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Helga-Dethlefsen-Traueranzeige-b1b49f01-8a04-42dc-abb9-9509bc5581c8.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/anni-schulz-1932",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Anni-Schulz-Traueranzeige-653b4186-31e0-46bc-aa47-4cf57e0e09c5.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/anneliese-siemes",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Anneliese-Siemes-Traueranzeige-baa50517-b0ba-479e-b77e-4c504dd9cb1a.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/brigitteursula-kamman",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/BrigitteUrsula-Kamman-Traueranzeige-89d749d1-00a1-463d-85d1-d3ebc02c2017.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/christel-wessels",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/96002b67-e0c6-4668-b909-6e548578f114.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/helmut-schill",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Helmut-Schill-Traueranzeige-f53dd42e-f534-468a-898a-45b3fb8a1994.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/christa-spiecker-steinmann",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Christa-Spiecker-Steinmann-Traueranzeige-67e4426f-abf8-4654-a35f-c077041bb450.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/engelbert-meevissen",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Engelbert-Meevissen-Traueranzeige-6dccd3f2-94a6-4869-a133-6ecc591bd0b0.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/heinz-willkomm",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Heinz-Willkomm-Traueranzeige-4f4de149-b009-4e9f-b0e8-466e8f178dc7.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/klaus-hannig",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Klaus-Hannig-Traueranzeige-f0abef19-6bde-445e-a682-d5fcac6d4723.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/marlies-vieten",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Marlies-Vieten-Traueranzeige-b164296d-eebe-40e1-aaaa-ed5200521bd9.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/magdalena-mueller-1930",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Magdalena-Müller-Traueranzeige-40ab129b-7cab-41ab-bb01-1d192e4bf66e.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://trauer.rp-online.de/traueranzeige/bodo-kaiser",
+                                  "src": "https://trauer.rp-online.de/MEDIASERVER/content/LH161/obi_new/2018_4/Bodo-Kaiser-Traueranzeige-93a850d9-0ce4-4ccf-9c63-c51540e431ee.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "title": "Familienanzeigen",
+                        "children": [
+                          {
+                            "component": "slider",
+                            "data": {
+                              "items": [
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5847925.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5847925.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5844665.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5844665.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5823702.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5823702.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5823931.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5823931.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5840189.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5840189.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                },
+                                {
+                                  "type": "image",
+                                  "href": "https://www.rp-online.de/layout/gruss/5841178.1_gross.jpg",
+                                  "src": "https://www.rp-online.de/layout/gruss/5841178.1.jpg",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": ""
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "http://www.rp-online.de/nrw/staedte/viersen/blitzer-im-kreis-viersen-wo-aktuell-geblitzt-wird-bid-1.2973516",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Blitzer aus Viersen"
+                        },
+                        "intro": "Wo stehen aktuell Blitzer und Radarfallen? Wir zeigen an welchen Stellen die Polizei diese Woche im Kreis Viersen blitzt: Niederkrüchten, Brüggen, Tönisvorst, Kempen, Schwalmtal und Co.",
+                        "src": "/imgs/31/1/0/5/7/3/5/7/9/tok_7fea3a979be818a0b777a390dd78c147/w490_h368_x1500_y1040_DPA_bfunk_dpa_5F98E600F0743E5A-5874d132ba220adb.jpg"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "weather",
+                  "data": {
+                    "initialState": {
+                      "headline": {
+                        "tag": "span",
+                        "text": "Wetter in Viersen"
+                      },
+                      "aside": "Wetter in Viersen powered by <a href=\"https://www.wetter.de/deutschland\" target=\"wetterde\">wetter.de</a>",
+                      "items": [
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Heute"
+                          },
+                          "temps": {
+                            "day": "21",
+                            "night": "6"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/wolke_hell-sonne.png",
+                          "alt": "Symbolgrafik: überwiegend heiter und trocken",
+                          "href": "/app/wetter/detail/viersen/41747",
+                          "caption": "überwiegend heiter und trocken",
+                          "description": "Es ist überwiegend heiter, d.h. mehr Sonne als Wolken, und im Wesentlichen trocken."
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Morgen"
+                          },
+                          "temps": {
+                            "day": "26",
+                            "night": "11"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/wolke_klein-sonne.png",
+                          "alt": "Symbolgrafik: sonnig und trocken mit vorüberziehenden Quellwolken",
+                          "href": "/app/wetter/detail/viersen/41747",
+                          "caption": "Sonnig und trocken mit vorüberziehenden Quellwolken",
+                          "description": "Es ist sonnig, nur vorübergehend gibt es Quellwolken oder es ziehen lockere Wolkenfelder durch. Es ist trocken."
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "span",
+                            "text": "Übermorgen"
+                          },
+                          "temps": {
+                            "day": "17",
+                            "night": "14"
+                          },
+                          "src": "https://www.rp-online.de/app/wetter/img/icons_gross.v4/wolke_dunkel-sonne-wenig_regen.png",
+                          "alt": "Symbolgrafik: wechselhaft mit leichten Regenschauern, wenig Sonne",
+                          "href": "/app/wetter/detail/viersen/41747",
+                          "caption": "Wechselhaft mit leichten Regenschauern, wenig Sonne",
+                          "description": "Es ist wechselhaft mit leichten Regenschauern. Die Sonne scheint nur kurzzeitig."
+                        }
+                      ]
+                    },
+                    "personalized": false,
+                    "ajax": {
+                      "baseUrl": "https://rp-online.de/app/wetter/park_detail.json/",
+                      "defaultRegion": "düsseldorf"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Kontakt zur Redaktion"
+                    }
+                  }
+                },
+                {
+                  "component": "contact",
+                  "data": {
+                    "address": "<p>Sie habe Anregungen, Fragen oder Themenvorschläge? Melden Sie sich gerne bei uns.</p><p>Rheinische Post Viersen<br>Rathausgasse 3<br>41747 Viersen<br>02162 93 43 20</p><p>Anzeigen: 0211 505-2222<br>Leserservice/Abo: 0211 505-1111</p><p> </p>",
+                    "links": [
+                      {
+                        "style": "email",
+                        "class": "email",
+                        "text": "E-Mail an die Redaktion",
+                        "href": "mailto:Redaktion.Viersen@rheinische-post.de",
+                        "target": "_blank"
+                      },
+                      {
+                        "style": "facebook",
+                        "class": "facebook",
+                        "text": "RP Viersen auf Facebook",
+                        "href": "https://www.facebook.com/rp.viersen/",
+                        "target": "_blank"
+                      },
+                      {
+                        "style": "twitter",
+                        "class": "twitter",
+                        "text": "RP Viersen auf Twitter",
+                        "href": "https://twitter.com/rpo_viersen",
+                        "target": "_blank"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=64937"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/viersen/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/"
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/"
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "Städte",
+          "href": "/nrw/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": true,
+              "icon": "/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#nrw",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Dinslaken",
+                  "href": "/nrw/staedte/dinslaken/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#dinslaken",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Dormagen",
+                  "href": "/nrw/staedte/dormagen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#dormagen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Düsseldorf",
+                  "href": "/nrw/staedte/duesseldorf/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duesseldorf",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Duisburg",
+                  "href": "/nrw/staedte/duisburg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#duisburg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Emmerich",
+                  "href": "/nrw/staedte/emmerich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#emmerich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Erkelenz",
+                  "href": "/nrw/staedte/erkelenz/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#erkelenz",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Braunkohletagebau",
+                      "href": "/nrw/staedte/erkelenz/braunkohletagebau/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Erkrath",
+                  "href": "/nrw/staedte/erkrath/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#erkrath"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Geldern",
+                  "href": "/nrw/staedte/geldern/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#geldern",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Goch",
+                  "href": "/nrw/staedte/goch/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#goch",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Grevenbroich",
+                  "href": "/nrw/staedte/grevenbroich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#grevenbroich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Haan",
+                  "href": "/nrw/staedte/haan/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#haan",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Hilden",
+                  "href": "/nrw/staedte/hilden/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hilden",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Hückelhoven",
+                  "href": "/nrw/staedte/hueckelhoven/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hueckelhoven"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Hückeswagen",
+                  "href": "/nrw/staedte/hueckeswagen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#hueckeswagen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Hünxe",
+                  "href": "/nrw/staedte/huenxe/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#huenxe"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Jüchen",
+                  "href": "/nrw/staedte/juechen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#juechen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kaarst",
+                  "href": "/nrw/staedte/kaarst/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kaarst",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kamp-Lintfort",
+                  "href": "/nrw/staedte/kamp-lintfort/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kamp-lintfort"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kempen",
+                  "href": "/nrw/staedte/kempen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kempen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kevelaer",
+                  "href": "/nrw/staedte/kevelaer/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kevelaer",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kleve",
+                  "href": "/nrw/staedte/kleve/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#kleve",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Köln",
+                  "href": "/nrw/staedte/koeln/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#koeln",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Korschenbroich",
+                  "href": "/nrw/staedte/korschenbroich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#korschenbroich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Krefeld",
+                  "href": "/nrw/staedte/krefeld/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#krefeld",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kreis Heinsberg",
+                  "href": "/nrw/staedte/kreis-heinsberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#heinsberg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Langenfeld",
+                  "href": "/nrw/staedte/langenfeld/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#langenfeld",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Leichlingen",
+                  "href": "/nrw/staedte/leichlingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#leichlingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Leverkusen",
+                  "href": "/nrw/staedte/leverkusen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#leverkusen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Meerbusch",
+                  "href": "/nrw/staedte/meerbusch/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#meerbusch",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Mettmann",
+                  "href": "/nrw/staedte/mettmann/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#mettmann",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Mönchengladbach",
+                  "href": "/nrw/staedte/moenchengladbach/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#moenchengladbach",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Karneval in Mönchengladbach",
+                      "href": "/nrw/staedte/moenchengladbach/karneval/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Kultur Mönchengladbach",
+                      "href": "/nrw/staedte/moenchengladbach/kultur/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Sport",
+                      "href": "/nrw/staedte/moenchengladbach/sport/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Schützen",
+                      "href": "/nrw/staedte/moenchengladbach/stadtschuetzenfest/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Moers",
+                  "href": "/nrw/staedte/moers/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#moers",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Neukirchen-Vluyn",
+                  "href": "/nrw/staedte/neukirchen-vluyn/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#neukirchen-vluyn"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Neuss",
+                  "href": "/nrw/staedte/neuss/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#neuss",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Radevormwald",
+                  "href": "/nrw/staedte/radevormwald/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#radevormwald",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Ratingen",
+                  "href": "/nrw/staedte/ratingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#ratingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Remscheid",
+                  "href": "/nrw/staedte/remscheid/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#remscheid",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rhein-Kreis",
+                  "href": "/nrw/staedte/rhein-kreis/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rheinberg",
+                  "href": "/nrw/staedte/rheinberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#rheinberg",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Rommerskirchen",
+                  "href": "/nrw/staedte/rommerskirchen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#rommerskirchen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Solingen",
+                  "href": "/nrw/staedte/solingen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#solingen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Tönisvorst",
+                  "href": "/nrw/staedte/toenisvorst/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#toenisvorst"
+                },
+                {
+                  "isCurrent": true,
+                  "isAd": false,
+                  "text": "Viersen",
+                  "href": "/nrw/staedte/viersen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#viersen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wassenberg",
+                  "href": "/nrw/staedte/wassenberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wassenberg"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wegberg",
+                  "href": "/nrw/staedte/wegberg/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wegberg"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wermelskirchen",
+                  "href": "/nrw/staedte/wermelskirchen/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wermelskirchen",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wesel",
+                  "href": "/nrw/staedte/wesel/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wesel",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Willich",
+                  "href": "/nrw/staedte/willich/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#willich",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Wülfrath",
+                  "href": "/nrw/staedte/wuelfrath/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#wuelfrath",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Xanten",
+                  "href": "/nrw/staedte/xanten/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.cities.svg#xanten",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Zoos",
+                  "href": "/nrw/freizeit/zoo/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self",
+          "icon": "/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

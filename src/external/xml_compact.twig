@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNews>
+  {% for item in items %}
+    <news>
+      <newsType>{{ item['parent_node'] | raw }}</newsType>
+      <subline>{{ item['dachzeile'] }}</subline>
+      <headline>{{ item['titel'] }}</headline>
+      {% if item['teasertext_xml_compact'] %}
+        <textmessage>{{ item['teasertext_xml_compact'] }}</textmessage>
+      {% elseif item['teasertext'] %}
+        <textmessage>{{ item['teasertext'] }}</textmessage>
+      {% else %}
+        <textmessage>{{ item['auto_teasertext'] }}</textmessage>
+      {% endif %}
+      <published type="timestamp">{{ item['datum_rfc'] | date("m.d.Y H:i") }} Uhr</published>
+      <link>{{ item['url'] }}</link>
+      {% if item['credits'] %}
+        <source>{{ item['credits'] }}</source>
+      {% endif %}
+      {% if item['orig_bild'] %}
+        <image type="remotefile">{{ item['orig_bild'] }}</image>
+      {% endif %}
+      {% if item['teaserbild'] %}
+        <thumb type="remotefile">{{ item['teaserbild'] }}</thumb>
+      {% endif %}
+    </news>
+  {% endfor %}
+</ArrayOfNews>

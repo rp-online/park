@@ -1,0 +1,14 @@
+{% extends 'twig/base.twig' %}
+
+{% if config is defined %}
+  {% set config = config|merge({ 'isSingleComponent': true}) %}
+{% else %}
+  {% set config = {
+    isSingleComponent: true
+  } %}
+{% endif %}
+{% block title %}{{ title }}{% endblock %}
+{% block page_content %}
+  {% set data = data|merge({'config': config}) %}
+  {% include 'components/components-browser/template.twig' with data only %}
+{% endblock %}

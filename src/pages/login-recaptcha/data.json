@@ -1,0 +1,40 @@
+{
+  "title": "Registrierung",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für die Registrierung"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/login-recaptcha.html"
+      }
+    ],
+    "personalArea": true
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "widget",
+            "data": {
+              "type": "login",
+              "component": "login",
+              "initialState": {
+                "action": "#void",
+                "passwordResetURL": "/sso/reset_password",
+                "registrationURL": "/sso/register",
+                "googleLoginURL": "#void",
+                "recaptcha_sitekey": "6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

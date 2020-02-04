@@ -1,0 +1,47 @@
+[
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A10",
+      "time": "05:03",
+      "text": ""
+    },
+    "text": "A10 \u00d6stlicher Berliner Ring, Dreieck Spreeau Richtung Dreieck Barnim\nzwischen Dreieck Spreeau und Freienbrink\nGefahr durch Bergungsarbeiten auf dem rechten Fahrstreifen, rechter Fahrstreifen gesperrt"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "",
+      "time": "15:03",
+      "text": ""
+    },
+    "text": "Potsdam, Heinrich-Mann-Allee\nzwischen An der Alten Zauche und Horstweg\nWasserrohrbruch, Verkehr wird \u00fcber die Gegenfahrbahn geleitet, bis voraussichtlich 08.12.2017"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "B1",
+      "time": "11:20",
+      "text": ""
+    },
+    "text": "B1 Berliner Stra\u00dfe, Brandenburg Richtung Zehlendorf\nzwischen Glindow und Werder (Havel)\nBauarbeiten, Staugefahr, ortskundige Autofahrer werden gebeten, das Gebiet weitr\u00e4umig zu umfahren"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "B158",
+      "time": "10:28",
+      "text": ""
+    },
+    "text": "B158 Berlin Richtung Angerm\u00fcnde\nzwischen Bad Freienwalde (Oder) und Schiffm\u00fchle\nVollsperrung, Unfall mit mehreren Fahrzeugen"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A10",
+      "time": "10:49",
+      "text": ""
+    },
+    "text": "A10 N\u00f6rdlicher Berliner Ring, Dreieck Havelland Richtung Dreieck Barnim\nzwischen Kreuz Oranienburg und Birkenwerder\nTagesbaustelle auf allen Fahrstreifen, Verkehr wird \u00fcber den Standstreifen geleitet, Stau, vorsichtig an das Stauende heranfahren"
+  }
+]

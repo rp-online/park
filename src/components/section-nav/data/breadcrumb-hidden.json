@@ -1,0 +1,65 @@
+{
+  "breadcrumb": [
+    {
+      "text": "",
+      "href": "/",
+      "isHidden": true
+    }
+  ],
+  "headline": {
+    "tag": "h1",
+    "text": "NRW"
+  },
+  "navigation": [
+    {
+      "text": "Städte",
+      "href": "/nrw/staedte/",
+      "isAd": false
+    },
+    {
+      "text": "2019",
+      "href": "/nrw/2019/",
+      "isAd": true
+    },
+    {
+      "text": "Landespolitik",
+      "href": "/nrw/landespolitik/",
+      "isAd": false
+    },
+    {
+      "text": "Panorama",
+      "href": "/nrw/panorama/",
+      "isAd": false
+    },
+    {
+      "text": "Kultur",
+      "href": "/nrw/kultur/",
+      "isAd": false
+    },
+    {
+      "text": "Hochschulen",
+      "href": "/nrw/hochschulen/",
+      "isAd": false
+    },
+    {
+      "text": "Mercedes-Benz",
+      "href": "/nrw/mercedes-benz/",
+      "isAd": true
+    },
+    {
+      "text": "Stadtwerke Düsseldorf",
+      "href": "http://www.rp-online.de",
+      "isAd": true
+    },
+    {
+      "text": "Fontys Hochschule",
+      "href": "http://www.rp-online.de",
+      "isAd": true
+    },
+    {
+      "text": "Noch ein Link",
+      "href": "http://www.rp-online.de",
+      "isAd": true
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "form": {
+    "action": "./suche.html",
+    "searchterm": "nrw",
+    "sortOptions": [
+      {
+        "label": "Datum absteigend",
+        "value": "date-desc"
+      },
+      {
+        "label": "Datum aufsteigend",
+        "value": "date-asc"
+      },
+      {
+        "label": "Relevanz",
+        "value": "relevance"
+      }
+    ],
+    "sortValue": "date-desc",
+    "monthsOptions": [
+      {
+        "label": "Februar 2017",
+        "value": "2017-02",
+        "count": 33
+      },
+      {
+        "label": "März 2017",
+        "value": "2017-03",
+        "count": 121
+      },
+      {
+        "label": "November 2017",
+        "value": "2017-11",
+        "count": 1
+      }
+    ],
+    "monthsValue": [
+      "2017-03"
+    ],
+    "ressortsOptions": [
+      {
+        "label": "NRW",
+        "value": "1",
+        "count": 71
+      },
+      {
+        "label": "Politik",
+        "value": "2",
+        "count": 84
+      }
+    ],
+    "ressortsValue": [
+      "1",
+      "2"
+    ],
+    "typeOptions": [
+      {
+        "label": "Artikel",
+        "value": "article",
+        "count": 0
+      },
+      {
+        "label": "Bilder",
+        "value": "imageGallery",
+        "count": 28
+      },
+      {
+        "label": "Video",
+        "value": "video",
+        "count": 8
+      }
+    ],
+    "typeValue": "article"
+  },
+  "ajax": {
+    "url": "/assets/ajax/search/default.json"
+  },
+  "items": []
+}

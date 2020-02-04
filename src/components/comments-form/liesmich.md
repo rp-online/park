@@ -1,0 +1,1 @@
+Diese Komponente ist im Prinzip eine Zusammenstellung von Textbausteinen und einer [Form](#form)-Komponente, maßgeschneidert für den Kommentarbereich unterhalb von Artikel-Körpern ([article](#article)). Die Sichtbarkeit dieser Komponente je nach Authentifizierungsstatus des Benutzers, bzw. je nach Artikelkonfiguration erledigt das Elternelement ([comments](#comments)). 

@@ -1,0 +1,195 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  <header class="park-opener
+{% if src is not defined %} park-opener--no-image{% endif %}
+{% if backgroundLuma is defined and backgroundLuma > 200 %} park-opener--light{% endif %}
+{% if type is defined and type %} park-opener--{{ type }}{% endif %}
+{% if isAd is defined and isAd is same as(true) %} park-opener--sugardaddy{% endif %}"
+    {% if backgroundColor is not defined %}
+      {% if backgroundLuma is defined and backgroundLuma > 200 %}
+        {% set backgroundColor = '#f2f4f6' %}
+      {% else %}
+        {% set backgroundColor = '#333' %}
+      {% endif %}
+    {% endif %}
+    {% if overwrite_backgroundColor is defined and overwrite_backgroundColor %}
+      {% set backgroundColor = overwrite_backgroundColor %}
+    {% endif %}
+          style="background-color: {{ backgroundColor }}">
+    {% if src is defined %}
+      {% set uuid = random() %}
+    <div
+      class="park-opener__image-wrapper" style="color: {{ backgroundColor }}">
+      {% set dataURI = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='" ~ width|default(400) ~ "' height='" ~ height|default(300) ~ "'%3E%3C/svg%3E" %}
+      {% if config.keys is defined and config.keys.imageEngine is defined %}
+        {% set src = 'https://' ~ config.keys.imageEngine ~ '.imgeng.in/w_490/' ~ src %}
+        <svg xmlns="http://www.w3.org/2000/svg"
+             xmlns:xlink="http://www.w3.org/1999/xlink"
+             viewBox="0 0 400 300"
+             preserveAspectRatio="xMaxYMax slice"
+             class="park-opener__image-svg">
+          <defs>
+            {% if config.keys is defined and config.keys.imageEngine is defined %}
+              <pattern id="park-opener__image-lowres-{{ uuid }}"
+                       patternUnits="userSpaceOnUse" width="400" height="300">
+                <image
+                  xlink:href="https://{{ config.keys.imageEngine }}.imgeng.in/w_20/{{ src }}"
+                  x="0"
+                  y="0"
+                  width="400"
+                  height="300"
+                  preserveAspectRatio="xMaxYMax slice"
+                  externalResourcesRequired="true"></image>
+              </pattern>
+              <pattern id="park-opener__image-hires-{{ uuid }}"
+                       patternUnits="userSpaceOnUse" width="400" height="300">
+                <image
+                  xlink:href="https://{{ config.keys.imageEngine }}.imgeng.in/w_490/{{ src }}"
+                  x="0"
+                  y="0"
+                  width="400"
+                  height="300"
+                  preserveAspectRatio="xMaxYMax slice"
+                  externalResourcesRequired="true"></image>
+              </pattern>
+            {% else %}
+              <pattern id="park-opener__image-hires-{{ uuid }}"
+                       patternUnits="userSpaceOnUse" width="400" height="300">
+                <image
+                  xlink:href="{{ src }}"
+                  x="0"
+                  y="0"
+                  width="400"
+                  height="300"
+                  preserveAspectRatio="xMaxYMax slice"
+                  externalResourcesRequired="true"></image>
+              </pattern>
+            {% endif %}
+            <linearGradient id="park-opener__gradient-mobile-{{ uuid }}" x1="0" x2="0" y1="0" y2="1">
+              <stop offset="0" stop-color="white" stop-opacity="1"/>
+              <stop offset="0.75" stop-color="white" stop-opacity="1"/>
+              <stop offset="1" stop-color="black" stop-opacity="0"/>
+            </linearGradient>
+            <mask id="park-opener__mask-mobile-{{ uuid }}">
+              <rect x="0" y="0" width="100%" height="100%" fill="url(#park-opener__gradient-mobile-{{ uuid }})"/>
+            </mask>
+            <linearGradient id="park-opener__gradient-desktop-{{ uuid }}">
+              <stop offset="0" stop-color="white" stop-opacity="1"/>
+              <stop offset="0.75" stop-color="white" stop-opacity="1"/>
+              <stop offset="1" stop-color="black" stop-opacity="0"/>
+            </linearGradient>
+            <mask id="park-opener__mask-desktop-{{ uuid }}">
+              <rect x="0" y="0" width="100%" height="100%" fill="url(#park-opener__gradient-desktop-{{ uuid }})"/>
+            </mask>
+            <style type="text/css">
+              .park-opener__image {
+                width: 100%;
+                height: 100%;
+                -ms-interpolation-mode: nearest-neighbor;
+                mask: url(#park-opener__mask-mobile-{{ uuid }});
+              }
+
+              @media screen and (min-width: 48.0625em) {
+                .park-opener__image {
+                  mask: url(#park-opener__mask-desktop-{{ uuid }});
+                }
+              }
+
+              {%   if overwrite_backgroundColor is defined and overwrite_backgroundColor %}
+              {#GERAWZZVA-511
+              Hiermit kann man den Verlauf �berschreiben.#}
+              html body main .park-opener__image {
+                mask: url(#park-opener__mask-mobile-{{ uuid }}) !important;
+              }
+
+              html body main .park-opener {
+                background-color: {{ overwrite_backgroundColor | raw }};
+              }
+
+              @media screen and (min-width: 48.0625em) {
+                html body main .park-opener__image {
+                  mask: url(#park-opener__mask-desktop-{{ uuid }}) !important;
+                }
+              }
+
+              {% endif %}
+
+            </style>
+          </defs>
+          {% if config.keys is defined and config.keys.imageEngine is defined %}
+            <rect fill="url(#park-opener__image-lowres-{{ uuid }})" x="0" y="0" width="400" height="300"
+                  preserveAspectRatio="xMaxYMax slice" class="park-opener__image"></rect>
+            <rect fill="url(#park-opener__image-hires-{{ uuid }})" x="0" y="0" width="400" height="300"
+                  preserveAspectRatio="xMaxYMax slice" class="park-opener__image"></rect>
+          {% else %}
+            <rect fill="url(#park-opener__image-hires-{{ uuid }})" x="0" y="0" width="400" height="300"
+                  preserveAspectRatio="xMaxYMax slice" class="park-opener__image"></rect>
+          {% endif %}
+        </svg>
+        </div>
+      {% endif %}
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': alt,
+        'width': width|default(400),
+        'height': height|default(300),
+        'fit': 'cover',
+        'lazy': false,
+        'sizes': { 'mobile': '100vw', 'desktop': '490px' },
+        'config': config} only %}
+      </div>
+    {% endif %}
+    <div class="park-opener__text-wrapper">
+      <div class="park-opener__text">
+        {% include 'components/button-bookmark/template.twig' with {'id': id, 'config': config} only %}
+
+        {% set link = {
+          'href': href,
+          'target': target,
+          'rel': rel,
+          'classes': [
+            'park-opener__link'
+          ],
+          'config': config
+        } %}
+        {% if isAd is defined and isAd is same as(true) %}
+          {% set link = link|merge({
+            'isAd': true
+          }) %}
+        {% endif %}
+        {% set content %}
+        <{{ headline.tag }} class="park-opener__headlines">
+        <span class="park-opener__kicker">
+          {% set data = {
+            'contentLabel': contentLabel,
+            'config': config
+          } %}
+          {% if backgroundLuma is defined and backgroundLuma <= 200 %}
+            {% set data = data|merge({ 'isLight': true }) %}
+          {% endif %}
+          {% include 'components/content-label/template.twig' with data only %}
+          {{ kicker.text | raw }}
+        </span>
+        <span class="park-opener__headline">{{ headline.text }}</span>
+      </{{ headline.tag }}>
+      {% if intro is defined %}
+        <p class="park-opener__intro">
+          {% if label is defined and label %}<em class="park-opener__label">{{ label }}</em>{% endif %}
+          {% if dateline is defined and dateline %}<em
+            class="park-opener__dateline">{{ dateline }}</em>{% endif %}{{ intro }}
+          {% if authors is defined and authors %}<em class="park-opener__authors">{{ authors }}</em>{% endif %}
+        </p>
+      {% endif %}
+      {% endset %}
+      {% set link = link|merge({
+        'text': content
+      }) %}
+      {% include 'components/link-helper/template.twig' with link only %}
+      <aside class="park-opener__related">
+        {% if related is defined %}
+          {% include 'components/relatedlines/template.twig' with {'items': related, 'config': config} only %}
+        {% endif %}
+      </aside>
+    </div>
+    </div>
+  </header>
+{% endif %}

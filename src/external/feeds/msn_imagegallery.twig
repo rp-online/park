@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom"
+	 xmlns:media="http://search.yahoo.com/mrss/"
+	 xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+	 xmlns:dc="http://purl.org/dc/elements/1.1/"
+	 xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	 xmlns:dcterms="http://purl.org/dc/terms/"
+	 version="2.0">
+	<channel>
+		<title>{{ pagetitle }}{{ title }}</title>
+		<link>{{ link }}</link>
+		<description>{{ description }}</description>
+		<language>{{ language }}</language>
+		<lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
+        {% for item in items %}
+			<item>
+				<title>{{ item.titel }}</title>
+				<link>{{ item.url }}</link>
+				<pubdate>{{ item['datum'] }}</pubdate>
+				<description>{{ item['teasertext'] }}</description>
+				<guid isPermaLink="true">{{ item['guid'] }}</guid>
+                {% for media in item.media %}
+					<media:content url="{{ media.url }}">
+						<media:thumbnail url="{{ media.thumbnail }}" type="image/jpeg" />
+						<media:credit><![CDATA[{{ media.credit|raw }}]]></media:credit>
+						<media:title><![CDATA[{{ media.title|raw }}]]></media:title>
+						<hasSyndicationRights>{{ media.hasSyndicationRights }}</hasSyndicationRights>
+						<licenseId>{{ media.licenseId }}</licenseId>
+						<licensorName>{{ media.licensorName }}</licensorName>
+					</media:content>
+                {% endfor %}
+                {%  if item.mediaGroup is not empty %}
+					<media:group>
+                        {% for media in item.mediaGroup %}
+							<media:content url="{{ media.thumbnail }}" type="image/jpeg" />
+							<media:credit><![CDATA[{{ media.credit|raw }}]]></media:credit>
+							<media:title><![CDATA[{{ media.title|raw }}]]></media:title>
+							<hasSyndicationRights>{{ media.hasSyndicationRights }}</hasSyndicationRights>
+							<licenseId>{{ media.licenseId }}</licenseId>
+							<licensorName>{{ media.licensorName }}</licensorName>
+                        {% endfor %}
+					</media:group>
+                {%  endif %}
+                {% if item['datum_rfc'] %}
+					<dc:created xmlns:dc="http://purl.org/dc/terms">{{ item['datum_evt'] }}</dc:created>
+					<dc:modified xmlns:dc="http://purl.org/dc/terms">{{ item['datum'] }}</dc:modified>
+					<dateTimeWritten>{{ item['datum'] }}</dateTimeWritten>
+                {% endif %}
+			</item>
+        {% endfor %}
+	</channel>
+</rss>

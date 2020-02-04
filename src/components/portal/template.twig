@@ -1,0 +1,41 @@
+{% if (mobile is defined or desktop is defined) and (config.disableAds is not defined or not config.disableAds is same as(true)) %}
+  <!--[IF !IE]> -->
+  {% set lazy = 'data-lazy' %}
+  <aside class="park-portal" aria-hidden="true">
+    {% if mobile is defined %}
+      <script>
+        (function () {
+          var ad = window.park.$('.park-portal').pop();
+          if (window.park.device.isMobile()) {
+            // When mobile
+            ad.className += ' park-portal--{{ mobile.type }}{% if mobile.dynamic is defined and mobile.dynamic is same as(true) %} park-portal--dynamic{% endif %}';
+          }
+        })();
+      </script>
+      <xmp class="park-portal--mobile
+        {% if (mobile.lazy is defined and mobile.lazy is same as(true)) or (mobile.html is defined and 'data-lazy' in mobile.html) %} park-portal--lazy{% endif %}
+        {% if mobile.sticky is defined and mobile.sticky is same as(true) %} park-portal--sticky{% endif %}
+      ">
+      {{ mobile.html|raw }}
+      </xmp>
+    {% endif %}
+    {% if desktop is defined %}
+      <script>
+        (function () {
+          var ad = window.park.$('.park-portal').pop();
+          if (!window.park.device.isMobile()) {
+            // When desktop
+            ad.className += ' park-portal--{{ desktop.type }}{% if desktop.dynamic is defined and desktop.dynamic is same as(true) %} park-portal--dynamic{% endif %}';
+          }
+        })();
+      </script>
+      <xmp class="park-portal--desktop
+        {% if (desktop.lazy is defined and desktop.lazy is same as(true)) or (desktop.html is defined and 'data-lazy' in desktop.html) %} park-portal--lazy{% endif %}
+        {% if desktop.sticky is defined and desktop.sticky is same as(true) %} park-portal--sticky{% endif %}
+      ">
+      {{ desktop.html|raw }}
+      </xmp>
+    {% endif %}
+  </aside>
+  <!-- <![ENDIF]-->
+{% endif %}

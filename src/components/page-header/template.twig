@@ -1,0 +1,15 @@
+<div class="park-page-header">
+  {% if headline is defined %}
+    {% set headline = headline|merge({'config': config}) %}
+    {% include 'components/page-headline/template.twig' with headline only %}
+  {% endif %}
+  {% if body is defined %}
+    {% include 'components/markdown/template.twig' with {
+      'text': text
+    } only %}
+  {% endif %}
+  {% for child in children %}
+    {% set data = child.data|merge({'config': config}) %}
+    {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+  {% endfor %}
+</div>

@@ -1,0 +1,2903 @@
+{
+  "title": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "subscriptionsPage": "/sso/subscriptions",
+    "myNewsPage": "/sso/my-news",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "registrationPage": "/sso/register",
+    "settingsPage": "/sso/settings",
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten",
+    "url": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+    "client": "rp-online",
+    "paywallType": "celeraone",
+    "dataPrivacyPage": "/info/datenschutz/"
+  },
+  "config": {
+    "version": "1574675874",
+    "container_id": 46624849,
+    "beitrag_id": 69766861,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Nordrhein-Westfalens Innenminister im Gespräch über Extremismus – von den Nazis in Dortmund bis zum Hambacher Forst. Den Juden im Land verspricht er, die Polizei werde immer an ihrer Seite stehen."
+      },
+      {
+        "name": "author",
+        "content": "Helene Pawlitzki, Thomas Reisener"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497, 50327854366"
+      },
+      {
+        "property": "article:content_tier",
+        "content": "locked"
+      },
+      {
+        "property": "og:title",
+        "content": "„Juden müssen sich in NRW nicht fürchten“: Wie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849"
+      },
+      {
+        "property": "og:description",
+        "content": "Nordrhein-Westfalens Innenminister im Gespräch über Extremismus – von den Nazis in Dortmund bis zum Hambacher Forst. Den Juden im Land verspricht er, die Polizei werde immer an ihrer Seite stehen."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_bccea19dc4bb5a6d8b85de8aa5556140/w1200_h630_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Nordrhein-Westfalens Innenminister im Gespräch über Extremismus – von den Nazis in Dortmund bis zum Hambacher Forst. Den Juden im Land verspricht er, die Polizei werde immer an ihrer Seite stehen."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_bccea19dc4bb5a6d8b85de8aa5556140/w1200_h630_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg"
+      }
+    ],
+    "display_video_kicker": "0",
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": "landespolitik",
+      "contentType": "PlusArtikel",
+      "analyticsUrl": "/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+      "author": "Helene Pawlitzki, Thomas Reisener",
+      "date": "2019-10-21T04:00:00+0200",
+      "datePublished": "2019-10-21 04:00",
+      "dateModified": "2019-11-13 14:42",
+      "daysSincePublication": "+35 days",
+      "origin": "4",
+      "seo": "/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=69766861&cstr=46624849&l=1251&tit=NRW-Innenminister+Herbert+Reul%3A+Juden+m%FCssen+sich+bei+uns+nicht+f%FCrchten&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2Flandespolitik%2Fnrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849&sep=%7C&tce=1&tid=64686&tn=64600&tp=50327%7C64600&tpn=50327%7C64600&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "nrw",
+      "secondaryLevel": "landespolitik",
+      "contentGroup": "",
+      "interredBID": 69766861,
+      "interredCID": 46624849,
+      "title": "Wie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will",
+      "contentTier": "locked",
+      "isPremiumContent": true,
+      "thema": "Politik"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Wie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AWie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 46624849,
+      "doctype": "plus_article",
+      "contentid": "/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+      "channel": 64600,
+      "subchannel": 64686,
+      "heading": "Wie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will",
+      "kicker": "Düsseldorf",
+      "tag": "landespolitik"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/landespolitik/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849",
+        "sc": "yes"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/6f04f4285e0a4dc1aa2a4c37906e7a7e",
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-rpd.rp-online.de/nrw/landespolitik/nrw-innenminister-herbert-reul-juden-muessen-sich-bei-uns-nicht-fuerchten_aid-46624849"
+      },
+      "headline": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_a290f79a912a3f1d6530f4775df1f398/w950_h526_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-10-21T04:00:00+0200",
+      "dateModified": "2019-11-13T14:42:39+0100",
+      "author": {
+        "@type": "Person",
+        "name": "Helene Pawlitzki, Thomas Reisener"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Nordrhein-Westfalens Innenminister im Gespräch über Extremismus – von den Nazis in Dortmund bis zum Hambacher Forst. Den Juden im Land verspricht er, die Polizei werde immer an ihrer Seite stehen.",
+      "isAccessibleForFree": "True",
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "RP ONLINE Basic",
+        "productID": "rp-online.de:digital_web"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/rp-online.de/localnews/leaderboard_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                960,
+                90
+              ],
+              [
+                970,
+                66
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                110
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/rp-online.de/localnews/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/skyscraper_2",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "2"
+            },
+            "type": "skyscraper2"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/localnews/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/rp-online.de/localnews/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512525,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad",
+            "adUnitPath": "/1017380/rp-online.de/localnews/contentad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              "fluid",
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "contentad",
+              "doctype": "schach",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/contentad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              "fluid",
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "contentad",
+              "doctype": "schach",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad_3",
+            "adUnitPath": "/1017380/rp-online.de/localnews/contentad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "contentad",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/halfpagead_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/localnews/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                275
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "46624849",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "dossierKey": [
+            "Herbert Reul",
+            "Dortmund"
+          ],
+          "mode": "desktop",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "46624849",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "dossierKey": [
+            "Herbert Reul",
+            "Dortmund"
+          ],
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "headerBidder": {
+          "pubmatic": "//ads.pubmatic.com/AdServer/js/pwt/158201/1624/pwt.js",
+          "amazon": "3963"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/localnews/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512525,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_3",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              "fluid",
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_4",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              "fluid",
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_5",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_6",
+            "adUnitPath": "/1017380/rp-online.de/localnews/mobilebanner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "6"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/localnews/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "46624849",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "dossierKey": [
+            "Herbert Reul",
+            "Dortmund"
+          ],
+          "mode": "mobile",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "46624849",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "dossierKey": [
+            "Herbert Reul",
+            "Dortmund"
+          ],
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "headerBidder": {
+          "pubmatic": "//ads.pubmatic.com/AdServer/js/pwt/158201/1624/pwt.js",
+          "amazon": "3963"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://www.welect.de/passage/for_product",
+      "welectProductId": "YRUb48uPBT2AntUDxrPDrvL47fsT8n",
+      "welectIntegrationId": "yi3AfyWanM6Jufwep3x9YHUTFZTX"
+    },
+    "notifications": {
+      "showFloatingBell": true
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraperRight": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false,
+      "sticky": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"skyscraper\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"skyscraper\");     }, 100);  };  init();})();</script>",
+      "lazy": false,
+      "sticky": false
+    }
+  },
+  "skyscraperLeft": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false,
+      "sticky": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"skyscraper_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"skyscraper_2\");     }, 100);  };  init();})();</script>",
+      "lazy": false,
+      "sticky": false
+    }
+  },
+  "outofpage": [
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"outofpage\");     }, 100);  };  init();})();</script>",
+        "lazy": false,
+        "sticky": false
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"outofpage\");     }, 100);  };  init();})();</script>",
+        "lazy": false,
+        "sticky": false
+      }
+    }
+  ],
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "href": "/sso/login",
+      "text": "",
+      "disabled": false,
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "mainmenu": {
+      "disabled": false,
+      "text": "Menü"
+    },
+    "salesCta": {
+      "disabled": false,
+      "text": "Jetzt bestellen",
+      "href": "https://osc-test.rp-online.de/",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"mobilebanner\");     }, 100);  };  init();})();</script>",
+            "lazy": false,
+            "sticky": true
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"leaderboard\");     }, 100);  };  init();})();</script>",
+            "lazy": false,
+            "sticky": true
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://www-rpd.rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "https://www-rpd.rp-online.de/nrw/landespolitik/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Wie Innenminister Reul die Gefahr durch Rechtsradikale bekämpfen will"
+                    },
+                    "id": 46624849,
+                    "kicker": {
+                      "text": "„Juden müssen sich in NRW nicht fürchten“"
+                    },
+                    "timestamp": "1571623200",
+                    "contentLabel": [
+                      "paid"
+                    ],
+                    "cover": {
+                      "src": {
+                        "250w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_6c8716b38e6157c84f4436c7d06cd431/w250_h138_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "400w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_84f5c21fa6520079791a2718a6db8aba/w400_h221_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "600w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_569d7075e9c819a13c84ab5a1fc3f1b0/w600_h332_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "900w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_31402e511f23247667ff2ab7b5698afd/w900_h498_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "950w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_a290f79a912a3f1d6530f4775df1f398/w950_h526_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "1200w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_5e6b6b7c6b43376204f0e6bae0525dea/w1200_h664_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                        "1900w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_6d8cd3d60c9b858fbb7315bbb60b47c1/w1900_h1052_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg"
+                      },
+                      "src_zoom": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_18489afe0133e574978afa77c5d1bafc/w1900_h1266_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                      "src_fit": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_56264424478fc17985cc673062e58f20/w789_h526_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg",
+                      "alt": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten",
+                      "caption": " Herbert Reul im Landtag (Archivbild). ",
+                      "source": {
+                        "text": "dpa/Federico Gambarini",
+                        "href": " ",
+                        "target": "_blank",
+                        "rel": [
+                          "nofollow"
+                        ]
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://www-rpd.rp-online.de/imgs/32/6/9/7/6/6/8/6/1/tok_18489afe0133e574978afa77c5d1bafc/w1900_h1266_x1497_y854_DPA_bfunk_dpa_5F9CDC0069E3D416-8911959ab71418ef.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Nordrhein-Westfalens Innenminister im Gespräch über Extremismus – von den Nazis in Dortmund bis zum Hambacher Forst. Den Juden im Land verspricht er, die Polizei werde immer an ihrer Seite stehen.",
+                    "sign": "",
+                    "fragmentCount": 14,
+                    "authorsbox": {
+                      "text": "Von Helene Pawlitzki und Thomas Reisener",
+                      "authors": [
+                        {
+                          "id": "H503244",
+                          "src": "https://www-rpd.rp-online.de/imgs/33/4/1/4/5/4/8/0/1/tok_dc158d9f0df5ccfb10bd350bf7c87da2/w250_h250_x147_y218_776ee9c0c04847668562c4d12eebdb7e-d1fd3f2718f82d36.jpg",
+                          "name": "Thomas Reisener",
+                          "position": "Chefkorrespondent Landespolitik",
+                          "bio": "Thomas Reisener ist Chefkorrespondent Landespolitik bei der Rheinischen Post. ",
+                          "links": {
+                            "profile": "/autor/thomas-reisener-tor/"
+                          }
+                        },
+                        {
+                          "id": "H502323",
+                          "src": "https://www-rpd.rp-online.de/imgs/33/2/8/2/4/2/8/2/5/tok_10a9096f0b50867d3ccbc62138b8ff10/w250_h250_x215_y201_helene-e4402ac6d81f0363.JPG",
+                          "name": "Helene Pawlitzki",
+                          "position": "Redakteurin",
+                          "bio": "Helene Pawlitzki (hpaw) ist Redakteurin in der Düsseldorfer Lokalredaktion.",
+                          "links": {
+                            "profile": "/autor/helene-pawlitzki-hpaw/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "halfpage",
+                          "html": "<div id=\"mobilebanner_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"mobilebanner_2\");     }, 100);  };  init();})();</script>",
+                          "lazy": false,
+                          "sticky": true
+                        },
+                        "desktop": {
+                          "type": "halfpage",
+                          "html": "<div id=\"halfpagead\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"halfpagead\");     }, 100);  };  init();})();</script>",
+                          "lazy": false,
+                          "sticky": true
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text_ohne_einzug\">Landesinnenminister Herbert Reul zählt zu den meistbeschäftigten Ressortchefs. Zuletzt geriet er wegen seines Vorgehens zur Räumung des Hambacher Forsts unter Druck. Wir treffen ihn, um nach dem rechtsextremistischen Anschlag in Halle unter anderem über mögliche Verbindungen des Täters nach NRW zu sprechen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Herr Reul, in Halle wollte ein Rechtsradikaler eine Synagoge stürmen und hat Menschen erschossen. Gibt es einen Bezug zu NRW?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Das wissen wir noch nicht. Das ist abzuwarten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Warum wurde eine Wohnung in Mönchengladbach durchsucht?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Wir hatten einen Hinweis bekommen, dass über eine bestimmte IP-Adresse etwas hochgeladen wurde, das mit dem sogenannten Manifest des Täters zu tun haben könnte. Die Polizei hat sehr schnell reagiert. Genaueres wird die Staatsanwaltschaft mitteilen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "inline-teaser-image-list",
+                              "data": {
+                                "headline": {
+                                  "tag": "span",
+                                  "text": "Lesen Sie auch"
+                                },
+                                "items": [
+                                  {
+                                    "id": 46529269,
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": "Ermittlungen wegen Volksverhetzung"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": "Behörden nehmen nach Halle-Attentat zwei Männer aus Mönchengladbach ins Visier"
+                                    },
+                                    "src": "https://www-rpd.rp-online.de/imgs/32/6/9/4/4/9/1/2/7/tok_8eff86ada7f23bed5dba63de9cb59ef3/w142_h108_x1500_y1030_DPA_bfunk_dpa_5F9E9A0061FD9D46-60db1bb4e6ffafa9.jpg",
+                                    "href": "/politik/deutschland/halle-attentat-zwei-maenner-aus-moenchengladbach-im-visier-der-ermittler_aid-46529269",
+                                    "alt": "Ein Polizeiwagen steht in Halle nach"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"22251283\");     }, 100);  };  init();})();</script>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"22251283\");     }, 100);  };  init();})();</script>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_4f4fc595f66593b82503e790ec59d2cf/w306_h175_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                              "alt": "Blumen und Kerzen stehen neben der",
+                              "href": "/politik/deutschland/ard-deutschlandtrend-mehrheit-sieht-wachsenden-antisemitismus-in-deutschland_aid-46582337",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "ARD-Deutschlandtrend"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Mehrheit sieht wachsenden Antisemitismus in Deutschland"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"22512525\");     }, 100);  };  init();})();</script>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"22512525\");     }, 100);  };  init();})();</script>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_36d95a152570eae7f3aac09177a14dcd/w306_h175_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                              "alt": "NRW-Innenminister Herbert Reul steht vor einer",
+                              "href": "/nrw/panorama/nrw-verfassungsschutz-achtet-auf-radikalisierte-frauen-und-kinder_aid-46631291",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "IS-Rückkehrer"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW-Verfassungsschutz achtet auf radikalisierte Frauen und Kinder"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_4bd62ea350f239cd808670e1a005f5d5/w306_h175_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                              "alt": "Helene Pawlitzki und Thomas Reisener nehmen",
+                              "href": "/digitales/podcasts/landespolitik-podcast-laendersache-innenminister-herbert-reul-im-interview_aid-44666581",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "„Ländersache“-Podcast aus dem Landtag"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Wie Innenminister Reul Extremismus in NRW bekämpfen will"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Die Zahl der Straftaten und der Gewalttaten gegen Juden steigt. Leben Juden in NRW gefährlich?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Nein. Juden müssen sich in Nordrhein-Westfalen nicht fürchten. Die Polizei wird immer an ihrer Seite stehen. Allerdings müssen wir zur Kenntnis nehmen, dass sich im Bereich antisemitischer Straftaten in Deutschland ungeheuer viel verändert hat. Darum müssen wir uns kümmern. Allerdings wäre es das Falscheste, Angst zu haben.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<aside class=\"park-embed-infobox\">\n    <div class=\"park-section-headline\"><span class=\"park-section-headline__text\">Info</span></div>\n    <b class=\"park-embed-infobox__headline\">Jetzt den \"Ländersache\"-Podcast anhören</b>\n    <div class=\"park-embed-infobox__body\">\n    <div class=\"park-figure\">\n    \t<figure role=\"group\" class=\"park-figure__figure\">\n\t\t\t<span class=\"park-figure__wrapper\">\n\t\t\t\t<div class=\"park-image\">\n\t\t\t\t\t<div class=\"park-image__sizer\" style=\"padding-top: 75.384615384615%\"></div>\n \t\t\t\t   \t<img src=\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='261' height='196'%3E%3C/svg%3E\" srcset=\"https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_967e65c734f5da222f1e7c1c875c3ef6/w250_h187_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 250w,/imgs/32/6/3/8/0/7/6/4/3/tok_23e53e05243a6718117cda72e20fa03d/w400_h300_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 400w,/imgs/32/6/3/8/0/7/6/4/3/tok_d63cb8e43b2c1e2aa2fec84b188ecbfa/w600_h450_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 600w,/imgs/32/6/3/8/0/7/6/4/3/tok_ec0b94cd53b48f08f791207298f700ff/w900_h675_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 900w,/imgs/32/6/3/8/0/7/6/4/3/tok_92f82fd77e6c579b6e2d10d10665baa7/w950_h713_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 950w,/imgs/32/6/3/8/0/7/6/4/3/tok_40a381f7bac774fa79f08bcb831cc104/w1200_h901_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 1200w,/imgs/32/6/3/8/0/7/6/4/3/tok_5dfcbec9be9e3049688d2a4f7420c70b/w1900_h1426_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg 1900w\" sizes=\"(max-width: 48em) 100px, 260px\" alt=\"Helene Pawlitzki und Thomas Reisener nehmen\" width=\"261\" height=\"196\" style=\"background-image: url(&quot;/imgs/32/6/3/8/0/7/6/4/3/tok_5dfcbec9be9e3049688d2a4f7420c70b/w1900_h1426_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg&quot;); background-size: cover; object-fit: cover\" async=\"on\" decoding=\"async\" class=\"park-image__image park-image__image--lazy from-cache\">\n  \t\t\t\t</div>\n\t\t\t</span>\n      \t  \t<figcaption class=\"park-figure__caption-wrapper\">\n\t\t\t\t<span id=\"park-figure__caption-880226589\" class=\"park-figure__caption\">\n\t\t\t\t\t<i class=\"park-figure__caption-source\">Foto: RP Online</i>\n\t\t\t\t</span>\n      \t  \t</figcaption>\n    \t</figure>\n  \t</div>\n\t<p class=\"info_text\">Interessieren Sie sich für Landespolitik in NRW? Dann sollten Sie unbedingt unseren Podcast \"Ländersache\" kennenlernen: Jeden Montag melden sich Chefkorrespondent Thomas Reisener und Düsseldorf-Redakteurin Helene Pawlitzki aus dem Foyer des Landtags und sprechen darüber, was NRW in dieser Woche politisch bewegt: Vom Hambacher Forst über den Lehrermangel an Grundschulen bis hin zum Missbrauchsskandal von Lügde. Hören können Sie die \"Ländersache\" in jeder Podcast-App, bei Spotify - <a href=\"/digitales/podcasts/laendersache-podcast-thomas-kutschaty-ueber-die-nrw-spd-ruhrkonferenz_aid-44666581\" target=\"_blank\">oder gleich hier auf RP ONLINE.</a></p>\n\t<p class=\"info_text\"> </p>\n\t</div>\n</aside>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Wer sind die Täter?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Das ist eine Mischung. Die Täter sind nicht mehr nur die alten Männer, die in Kneipen unter Fahnen sitzen und an alte Zeiten denken. Wir haben Einzeltäter, auch junge Leute, Leute, die sich im Netz zusammentun. Am bedrohlichsten ist, was sich um Einzelne im Netz zusammengruppiert und dann in die Realität überschwappt wie in Halle.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Vielleicht gehen die Zahlen zurück, aber die Taten scheinen extremer zu werden …</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Da muss man genauer hinsehen. Wir hatten drei extreme Ereignisse: den Attentäter von Münster, der mit dem Auto in eine Menschenmenge fuhr, die Amokfahrt zu Silvester in Bottrop und die Geiselnahme im Kölner Hauptbahnhof. Das waren jeweils Einzeltäter, vermutlich alle mit psychischen Problemen. Da wird man nachdenklich.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Wie viele rechtsradikale Gefährder, denen konkrete Anschläge zugetraut werden, leben in NRW?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> 15 haben wir ermittelt. Davon sitzen acht im Gefängnis, und ein Teil ist außer Landes.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Werden die 24 Stunden am Tag überwacht?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Das verraten wir in der Öffentlichkeit nicht, aber wir haben sie natürlich im Blick.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">In Dortmund wollen Rechtsradikale künftig wöchentlich demonstrieren. Warum verbieten Sie das nicht?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> <span class=\"fett_versal\">In</span> Deutschland darf jeder demonstrieren, wenn er sich an Recht und Gesetz hält.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "billboard",
+                            "html": "<div id=\"contentad\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"contentad\");     }, 100);  };  init();})();</script>",
+                            "lazy": false,
+                            "sticky": false
+                          },
+                          "mobile": {
+                            "type": "halfpage",
+                            "html": "<div id=\"mobilebanner_3\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"mobilebanner_3\");     }, 100);  };  init();})();</script>",
+                            "lazy": false,
+                            "sticky": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Aber das sind Menschen, die unsere freiheitliche und demokratische Grundordnung abschaffen wollen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Ja, aber weisen Sie das mal im Einzelfall nach. Genau da liegt das Problem. Wenn sie Gewalt anwenden oder Straftaten begehen, ist das was anderes.  Dann können wir direkt handeln.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Ist die rechtsradikale Gefahr in NRW größer als die linksradikale?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Weiß ich nicht. Quantitäten machen es nicht aus. Wenn man die Köpfe zählt: Ja. Für mich ist das aber nicht wichtig. Ich dulde keinerlei extremistische Bestrebungen. Wir schreiten immer ein, wenn wir davon Kenntnis erhalten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">War die Räumung des Hambacher Forsts auch ein Signal gegen die linksradikale Szene?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Ja klar. Wir haben gewusst: Da wird Gewalt angewendet. Es gab da Plakate, die zum Töten von Polizisten aufgerufen haben. Da haben wir gesagt: Es kann nicht sein, dass in Nordrhein-Westfalen ein rechtsfreier Raum entsteht.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "billboard",
+                            "html": "<div id=\"contentad_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"contentad_2\");     }, 100);  };  init();})();</script>",
+                            "lazy": false,
+                            "sticky": false
+                          },
+                          "mobile": {
+                            "type": "halfpage",
+                            "html": "<div id=\"mobilebanner_4\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"mobilebanner_4\");     }, 100);  };  init();})();</script>",
+                            "lazy": false,
+                            "sticky": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Aber die Begründung war eine andere: Sie haben die Räumung mit Brandschutzmängeln begründet.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Man braucht immer eine rechtsstaatliche Begründung. In diesem Fall gab es mehrere. Mit normalem Polizeirecht hätten wir erst eingreifen können, nachdem etwas passiert wäre. Wir haben eine Chance genutzt, einen möglichen Gewaltexzess im Vorfeld zu verhindern.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Warum waren Sie beim Hambacher Forst so erfindungsreich, aber sind es nicht, wenn es um die Räumung des Dortmunder Nazi-Zentrums geht?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong> Wir können nicht räumen, weil ein privater Besitzer den Damen und Herren Räumlichkeiten vermietet. Das ist in Deutschland nicht verboten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_frage\">Die Ränder der Gesellschaft fallen immer weiter auseinander. Muss ein Innenminister, der zugleich Verfassungsminister ist, nicht etwas dagegen unternehmen?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"interview_antwort\"><strong>Reul</strong>  Die Politik muss dafür sorgen, dass der Rechtsstaat akzeptiert wird, dass Verstöße gegen geltendes Recht Folgen haben. Wenn das allen klar wäre, hätten Polizei und Gerichte es viel leichter. Aber es scheint immer mehr Menschen zu geben, die ihre Meinung über das geltende Recht setzen und sich trotzdem im Recht fühlen. Das fängt beim Falschparker an, der glaubt, sich wegen einer besonderen  Situation nicht an das Recht halten zu müssen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Infos zu Herbert Reul"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Erfahrung im Land  \nund in Europa"
+                                },
+                                "text": "<p class=\"info_text\"><strong>Geboren</strong> 31. August 1952 <br>in Langenfeld</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>Partei</strong> Als 19-Jähriger 1971 CDU-Eintritt, 1991–2003 Generalsekretär der NRW-CDU</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>Ämter</strong> 1975–1992 Stadtrat in Leichlingen, 1985–2004 Landtagsabgeordneter, 2004–2017 Abgeordneter im Europäischen Parlament, seit Juni 2017 NRW-Innenminister</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>Familie</strong> Verheiratet, drei Töchter</p>"
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": "<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({article:'auto'});\n  !function (e, f, u, i) {\n    if (!document.getElementById(i)){\n      e.async = 1;\n      e.src = u;\n      e.id = i;\n      f.parentNode.insertBefore(e, f);\n    }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/rheinischepost-network/loader.js',\n  'tb_loader_script');\n  if(window.performance && typeof window.performance.mark == 'function')\n    {window.performance.mark('tbl_ic');}\n</script> \n\n<div id=\"taboola-below-article-thumbnails\" style=\"margin: -60px 0px 10px 0px; z-index: 5; background-color: white;  padding-left: 20px;\"></div>\n<script type=\"text/javascript\">\nwindow._taboola = window._taboola || [];\n_taboola.push({\nmode: 'alternating-thumbnails-a',\ncontainer: 'taboola-below-article-thumbnails',\nplacement: 'Below Article Thumbnails',\ntarget_type: 'mix'\n});\n</script>\n\n<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({flush: true});\n</script>"
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": "<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({article:'auto'});\n  !function (e, f, u, i) {\n    if (!document.getElementById(i)){\n      e.async = 1;\n      e.src = u;\n      e.id = i;\n      f.parentNode.insertBefore(e, f);\n    }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/rheinischepost-network/loader.js',\n  'tb_loader_script');\n  if(window.performance && typeof window.performance.mark == 'function')\n    {window.performance.mark('tbl_ic');}\n</script> \n\n<div id=\"taboola-below-article-thumbnails\" style=\"margin: -30px 0px 0px 7px; z-index: 5;    background-color: white; \"></div>\n<script type=\"text/javascript\">\nwindow._taboola = window._taboola || [];\n_taboola.push({\nmode: 'alternating-thumbnails-a',\ncontainer: 'taboola-below-article-thumbnails',\nplacement: 'Below Article Thumbnails',\ntarget_type: 'mix'\n});\n</script>\n\n<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({flush: true});\n</script>"
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "billboard",
+                      "html": "<div id=\"contentad_3\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"contentad_3\");     }, 100);  };  init();})();</script>",
+                      "lazy": true,
+                      "sticky": true
+                    },
+                    "mobile": {
+                      "type": "halfpage",
+                      "html": "<div id=\"mobilebanner_5\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"mobilebanner_5\");     }, 100);  };  init();})();</script>",
+                      "lazy": true,
+                      "sticky": true
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_9dbbac4ccb2aa3dfec5d52c2c498ee36/w250_h140_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_c7b9649e9161c82249ca0d713142b6bf/w400_h224_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_5a79961b7b31a53658030edfe0dc0ef0/w600_h336_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_ff4428fb841a5191036eba40a8e60dfd/w900_h504_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_9b37eb97d6bc6381bf402de7d88cdc4b/w950_h532_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_9baac985e8bf0d44022365bbd45eb4b4/w1200_h672_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/6/9/6/3/4/4/5/5/tok_8d51d0edddaddc7dcab7d9cd0901611d/w1900_h1064_x1500_y933_DPA_bfunk_dpa_5F9EA20047D28095-e0a53f18d3c93621.jpg"
+                        },
+                        "alt": "Blumen und Kerzen stehen neben der",
+                        "href": "/politik/deutschland/ard-deutschlandtrend-mehrheit-sieht-wachsenden-antisemitismus-in-deutschland_aid-46582337",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "ARD-Deutschlandtrend"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Mehrheit sieht wachsenden Antisemitismus in Deutschland"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_3fb210088889a1d294264d966b89a406/w250_h140_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_3049dc1d951c11b437bb686d7cb91eb3/w400_h224_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_2ed5e8252ab2fe0515dc4d98af90a856/w600_h336_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_01f8d37731dcbd500d20b8fa165dc110/w900_h504_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_9600de4089eb4a776b2fb10a7251c2dc/w950_h532_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_0c9d6c96ad9d8f0121ad4d40157fff65/w1200_h672_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/6/9/7/8/9/9/1/1/tok_007ef8887000d7942de9dee731bd3ceb/w1900_h1064_x1882_y1035_DPA_bfunk_dpa_5F9EAA00434CDF74-52e21ea438805e28.jpg"
+                        },
+                        "alt": "NRW-Innenminister Herbert Reul steht vor einer",
+                        "href": "/nrw/panorama/nrw-verfassungsschutz-achtet-auf-radikalisierte-frauen-und-kinder_aid-46631291",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "IS-Rückkehrer"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "NRW-Verfassungsschutz achtet auf radikalisierte Frauen und Kinder"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_b3e3e04fe1c48e581e5b9e6eb9ec5683/w250_h140_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_ed9514a7031304c1aada5a1f449c563f/w400_h224_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_98b2cf5a5c073f6abba017240a3b3000/w600_h336_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_5eb7749efbb4ac498d1d6f653a8d9a48/w900_h504_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_3b4d29d9e328215645bd07b6ddca5903/w950_h532_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_9f9f18a7b4dd80997f5665f14854590c/w1200_h672_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/6/3/8/0/7/6/4/3/tok_11443b854f64f215c3e392fccb50a232/w1900_h1064_x977_y497_laendersache_4_3-38337d14e7f8340e.jpg"
+                        },
+                        "alt": "Helene Pawlitzki und Thomas Reisener nehmen",
+                        "href": "/digitales/podcasts/landespolitik-podcast-laendersache-innenminister-herbert-reul-im-interview_aid-44666581",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "„Ländersache“-Podcast aus dem Landtag"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Wie Innenminister Reul Extremismus in NRW bekämpfen will"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "children": [
+                      {
+                        "component": "tab-container",
+                        "data": {
+                          "headline": {
+                            "tag": "h2",
+                            "prefix": "Mehr zu ",
+                            "text": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten"
+                          },
+                          "blocks": [
+                            {
+                              "title": "Zum Thema",
+                              "children": []
+                            },
+                            {
+                              "title": "Aus dem Ressort",
+                              "children": []
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "tags",
+                        "data": {
+                          "withAd": true,
+                          "links": [
+                            {
+                              "href": "/thema/herbert-reul/",
+                              "text": "Herbert Reul"
+                            },
+                            {
+                              "href": "/thema/dortmund/",
+                              "text": "Dortmund"
+                            }
+                          ]
+                        }
+                      }
+                    ],
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "halfpage",
+                        "html": "<div id=\"mobilebanner_6\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"mobilebanner_6\");     }, 100);  };  init();})();</script>",
+                        "lazy": false,
+                        "sticky": true
+                      },
+                      "desktop": {
+                        "type": "halfpage",
+                        "html": "<div id=\"halfpagead_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.displaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.displaySlot(\"halfpagead_2\");     }, 100);  };  init();})();</script>",
+                        "lazy": false,
+                        "sticky": true
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "NRW-Innenminister Herbert Reul: Juden müssen sich bei uns nicht fürchten"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 21 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Der Kommentarbereich ist wieder ab 07 Uhr für Sie geöffnet (am Wochenende ab 08 Uhr)."
+                    },
+                    "suspended": {
+                      "headline": "",
+                      "text": "Sehr geehrte Leserin, sehr geehrter Leser, \r\nwir haben Ihnen die Kommentarrechte für Ihr Profil entzogen. Zu dieser Maßnahme sehen wir uns gezwungen, da Sie mehrfach und/oder in erheblichem Maße gegen unsere Allgemeinen Geschäftsbedingungen verstoßen haben.\r\nViele Grüße\r\nIhr RP ONLINE Team\r\n"
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 69766861,
+                      "url": "/api/comments?beitrag_id=69766861",
+                      "counturl": "/api/comments?type=count&beitrag_id=69766861"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"footerad\");     }, 100);  };  init();})();</script>",
+                      "lazy": true,
+                      "sticky": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"footerad\");     }, 100);  };  init();})();</script>",
+                      "lazy": true,
+                      "sticky": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier die Stimme des Westens",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1",
+      "list": "112",
+      "auto_subscribe": 0
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/kundenservice/abonnementservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https://www-rpd.rp-online.de/api/tree?output=html&currentNode=64686&absolute=0"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "RP+",
+              "href": "https://leserservice.rp-online.de/services/rp-osc/abo-shop.htm?digital=PW%20E-RP_EPAB_1NO%3B7463&ai=RPONLINE%3BD77G106K&utm_source=RPO&utm_medium=NaviRP%2B&utm_campaign=rp%2B&utm_term=abono&utm_content=okt19",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Abo",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Abonnenten-Service",
+              "href": "https://leserservice.rp-online.de/Leserservice?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight News",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Düsseldorf Tonight",
+              "href": "https://www.duesseldorf-tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Solutions",
+              "href": "https://www.rp-digital-solutions.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Zeitungsarchiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "News to Use",
+              "href": "https://www.news-to-use.de/?utm_source=RPO&utm_medium=Navi&utm_campaign=news2use",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Aktion Zeitungspate",
+              "href": "https://rp-online.de/schulprojekte/zeitungspate/?utm_source=RPO&utm_medium=Navi&utm_campaign=zeitungspate",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": " ",
+              "href": "https://vergleich.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "AZUBI NRW",
+              "href": "https://www.azubi-nrw.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "compactMode": true,
+  "logo": {
+    "tag": "h1",
+    "text": "Rheinische Post Online",
+    "href": "./"
+  },
+  "skiplinks": [
+    {
+      "text": "Zum Hauptmenü springen",
+      "href": "#main-nav__skiptarget"
+    },
+    {
+      "text": "Zur Suche springen",
+      "href": "#main-nav__search"
+    },
+    {
+      "text": "Direkt zum Inhalt springen",
+      "href": "#main__skiptarget"
+    }
+  ],
+  "quicklinks": [
+    {
+      "text": "NRW",
+      "href": "./"
+    },
+    {
+      "text": "Politik",
+      "href": "./"
+    },
+    {
+      "text": "Wirtschaft",
+      "href": "./"
+    },
+    {
+      "text": "Sport",
+      "href": "./"
+    },
+    {
+      "text": "Kultur",
+      "href": "./"
+    },
+    {
+      "text": "Panorama",
+      "href": "./"
+    },
+    {
+      "text": "Leben",
+      "href": "./"
+    },
+    {
+      "text": "Digital",
+      "href": "./"
+    }
+  ],
+  "search": {
+    "action": "./suche.html",
+    "label": "Suchbegriff eingeben"
+  },
+  "usermenu": {
+    "main": {
+      "href": "#settings",
+      "text": "Anmelden"
+    },
+    "items": [
+      {
+        "href": "./merkliste.html",
+        "text": "Meine Merkliste"
+      },
+      {
+        "href": "./persoenlicher-bereich.html",
+        "text": "Einstellungen"
+      },
+      {
+        "href": "./profil-bearbeiten.html",
+        "text": "Meine Daten"
+      }
+    ],
+    "login": {
+      "href": "javascript:window.park.user.login()",
+      "text": "Anmelden"
+    },
+    "logout": {
+      "href": "javascript:window.park.user.logout()",
+      "text": "Abmelden"
+    }
+  }
+}

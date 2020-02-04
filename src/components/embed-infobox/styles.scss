@@ -1,0 +1,36 @@
+.park-embed-infobox {
+  @extend %embed;
+
+  text-align: left;
+
+  .park-section-headline {
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  &__headline {
+    display: block;
+    margin-bottom: $global-spacing;
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__body {
+    display: block;
+  }
+
+  .park-figure {
+    display: block;
+    margin-bottom: $global-spacing;
+
+    @include mq(desktop) {
+      width: rem(260px);
+      float: left;
+      margin-right: $global-spacing;
+      margin-bottom: $global-spacing / 2;
+    }
+  }
+
+  .park-figure__caption-wrapper {
+    text-align: right;
+  }
+}

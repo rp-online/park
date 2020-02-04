@@ -1,0 +1,1 @@
+Diese Komponente wird nur im Komponenten-Browser zur Dokumentation von Komponenten eingesetzt.

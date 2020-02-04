@@ -1,0 +1,348 @@
+html {
+  line-height: 1.44;
+
+  body {
+    font-family: $global-font-family-sans-serif-loaded;
+    color: #002031;
+
+    // Hauptnavigation
+    .park-header {
+      -webkit-box-shadow: 0 1px 2px 0 $global-color-shadow;
+      -moz-box-shadow: 0 1px 2px 0 $global-color-shadow;
+      box-shadow: 0 1px 2px 0 $global-color-shadow;
+      border-bottom: 0 none;
+
+      @include mq(desktop) {
+        &__logo svg {
+          width: 350px;
+        }
+      }
+
+      &__quicklinks-item-link,
+      &__menu-toggle-link {
+
+        padding: 0 rem(8px);
+
+        @include mq(larger) {
+          font-size: rem(19px);
+        }
+      }
+    }
+
+    .park-teaser__intro {
+      color: initial;
+    }
+
+    .fonts-loaded {
+      .park-teaser__headline,
+      .park-teaser-image-list-item__headline,
+      .park-opener__headline,
+      .park-article__headline {
+        font-family: $global-font-family-serif-loaded;
+        font-weight: 600;
+        line-height: 1.2;
+      }
+
+      .park-card-image__headline,
+      .park-card-video__headline,
+      .park-teaser-list-item__headline,
+      .park-card-article__headline {
+        font-family: $global-font-family-serif-loaded;
+        font-weight: 600;
+      }
+    }
+
+    .park-social-buttons {
+      .park-button {
+        @include mq(desktop) {
+          font-size: 14px;
+        }
+      }
+    }
+
+    .park-footer {
+      &__newsletter {
+        font-size: 1rem;
+      }
+
+      &__link {
+        font-size: 1rem;
+      }
+
+      &__endnote,
+      &__headline {
+        text-transform: initial;
+      }
+
+      padding-bottom: 30px;
+    }
+
+    .park-teaser-image-list-item__kicker,
+    .park-teaser__kicker,
+    .park-teaser-list-item__kicker {
+      color: $global-color-dachzeile;
+      text-transform: uppercase;
+      letter-spacing: 0.05rem;
+      font-family: $global-font-family-serif-loaded;
+    }
+
+    .park-teaser__kicker,
+    .park-card-article__kicker {
+      font-size: 0.825rem;
+      font-family: $global-font-family-serif-loaded;
+      text-transform: uppercase;
+      font-weight: 600;
+    }
+
+    .park-teaser__headline {
+      color: $global-color-headline;
+      margin: .5rem 0 .75rem;
+      font-weight: 600;
+      line-height: 1.2;
+    }
+
+    .park-opener__kicker {
+      color: $global-color-dachzeile;
+      font-weight: 600;
+      font-family: $global-font-family-serif-loaded;
+      text-transform: uppercase !important;
+    }
+
+
+    .park-opener--light {
+      .park-opener__authors,
+      .park-relatedlines__icon,
+      .park-relatedlines__kicker {
+        color: rgba(255, 255, 255, 0.5) !important;
+      }
+
+      .park-relatedlines__link {
+        color: #fff !important;
+      }
+
+      .park-opener__kicker {
+        color: $global-color-dachzeile !important;
+      }
+    }
+
+    .park-card-article__kicker,
+    .park-article__kicker {
+      color: $global-color-dachzeile;
+      font-family: $global-font-family-serif-loaded;
+      text-transform: uppercase;
+    }
+
+    .park-article {
+      &__headline {
+        @include mq(desktop) {
+          font-size: 1.75rem;
+        }
+      }
+
+      &__kicker {
+        + .park-article__headline {
+          font-weight: 600;
+        }
+      }
+    }
+
+    .park-relatedlines__link {
+      font-size: .9375rem;
+    }
+
+    .park-header {
+      &__nav {
+        border-bottom-color: $global-brand-color;
+      }
+
+      &__quicklinks-item-link,
+      &__menu-toggle-link {
+        font-family: $global-font-family-serif-loaded;
+        font-weight: 600;
+      }
+
+      &__menu-toggle-link,
+      &__sales-cta,
+      &__search {
+        &:hover {
+          border-bottom: 2px solid #cccccc;
+        }
+      }
+    }
+
+    .park-comments__commentscount,
+    .park-section-breadcrumb,
+    .park-section-nav {
+      background: $global-brand-color;
+    }
+
+    .park-quick-nav {
+      background: #fff;
+    }
+
+    .park-section-headline,
+    .park-quick-nav-item__text:before {
+      border-color: $global-brand-color;
+      text-transform: initial;
+    }
+
+
+    @media (min-width: 48.0625em) {
+      .park-teaser__headline {
+        font-size: 1.75rem;
+        margin: .5rem 0 .75rem;
+        line-height: 1.2;
+      }
+      .park-teaser-list-item__headline {
+        font-size: 1.125rem;
+      }
+      .park-teaser-image-list-item__headline {
+        font-size: 1rem;
+      }
+      .park-teaser__kicker {
+        font-size: 1.0625rem;
+      }
+    }
+
+
+    .park-opener {
+      &__kicker {
+        color: $global-brand-color !important
+      }
+
+      &__headline {
+        margin-bottom: 0;
+        font-weight: 600;
+        color: $global-color-white !important;
+      }
+
+      &__headline,
+      &__intro,
+      &__kicker {
+        padding-left: 2.2rem;
+        padding-right: 2.2rem;
+      }
+
+      &__intro {
+        color: $global-color-white !important;
+      }
+
+      &__image {
+        mask: none;
+      }
+
+      &__image-wrapper {
+        + .park-opener__text-wrapper {
+          padding-bottom: 0.5rem;
+          @include mq(desktop) {
+            padding-top: 1.97rem;
+          }
+        }
+      }
+    }
+
+    /* Schriften */
+    .park-opener {
+      &__kicker {
+        @include mq(desktop) {
+          font-size: 1.0625rem;
+        }
+      }
+
+      &__headline {
+        line-height: 1.2;
+        @include mq(desktop) {
+          font-size: 1.75rem;
+          letter-spacing: -0.3px;
+          margin: .5rem 0 .75rem;
+        }
+        @include mq(mobile) {
+          font-size: 1.625rem;
+        }
+      }
+
+      &__intro {
+        @include mq(desktop) {
+          font-size: 1.0625rem;
+          line-height: 1.47;
+          letter-spacing: 0.1px;
+        }
+      }
+    }
+
+    .park-navigation-item {
+      &__link {
+
+        &:focus,
+        &:active,
+        &--is-current {
+          color: $global-color-white;
+
+          + button svg {
+            fill: #fff;
+          }
+        }
+      }
+
+      &__submenu {
+        background-color: rgba(0, 0, 0, 0.05) !important;
+      }
+    }
+
+    .park-form-headline {
+      font-family: $global-font-family-serif-loaded;
+    }
+
+    // GERAWZZVA-470 - WZ.de / Cookie-Hinweis-Banner / Platzierung
+    .park-header__snackbars {
+      top: 0;
+      bottom: inherit;
+    }
+
+    // GERAWZZVA-527
+    .park-user-menu {
+      font-family: $global-font-family-serif-loaded;
+    }
+
+    // GERAWZZVA-612
+    // Anpassungen Headlines
+    .park-article,
+    .park-page-opener,
+    .park-gallery /*
+    .park-teaser,
+    .park-teaser-list-item,
+    .park-teaser-image-list-item,
+    .park-opener,
+     */
+    {
+      &__headline {
+        font-weight: 600;
+        font-size: 1.5rem;
+        @include mq(desktop) {
+          font-size: 1.75rem;
+        }
+      }
+    }
+
+    .park-snackbar {
+      animation: none !important;
+      padding-bottom: $global-spacing !important;
+      box-shadow: 0 10px 10px rgba(0,0,0,0.2);
+    }
+
+    .park-snackbar-notification {
+      .park-snackbar {
+        padding-bottom: 0 !important;
+        border-bottom: #ccc 2px solid;
+      }
+    }
+  }
+}
+
+// PaidTime
+// GERAWZZVA-530 - WZ.de/ PaidTime-Layer / Layout verschoben
+pt-overlay-wrapper {
+  *, ::after, ::before {
+    box-sizing: content-box; /* Hiermit wird der Fehler behoben */
+  }
+}

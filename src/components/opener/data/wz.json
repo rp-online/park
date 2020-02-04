@@ -1,0 +1,30 @@
+{
+  "id": 34895819,
+  "href": "https://www.wz.de/nrw/wuppertal/demo-gegen-lehrermangel-in-wuppertal-bis-zu-500-teilnehmer-erwartet_aid-34895819",
+  "type": "article",
+  "headline": {
+    "tag": "h2",
+    "text": "Demo gegen Lehrermangel in Wuppertal: Polizei erwartet bis zu 500 Teilnehmer"
+  },
+  "intro": "Unter dem Motto „Lehrer statt Leere“ hat ein Bündnis aus Eltern und der Gewerkschaft Erziehung und Wissenschaft für Dienstag zum Protest in Wuppertal aufgerufen. Die Polizei rechnet mit bis zu 500 Teilnehmern.",
+  "src": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_692222edd56413ec02dd2a6e8b00a48f/w1200_h901_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+  "alt": "Symbolbild",
+  "source": "Wuppertal",
+  "kicker": {
+    "tag": "span",
+    "text": "„Lehrer statt Leere“"
+  },
+  "flag_paywall": true,
+  "backgroundColor": "rgba(49, 59, 70,1)",
+  "overwrite_backgroundColor": "#264150",
+  "srcset": {
+    "250w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_dc79484b8451c8eedcfba04b26b2417b/w250_h187_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "400w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_64da6b930a2c757de96792ecb99dcdda/w400_h300_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "600w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_c8a2ad87bb079c50aa103e65d81706e0/w600_h450_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "900w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_1414efae3a64b93d8441e43350ee3f79/w900_h675_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "950w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_20ccc38a754dfdd7ac4d7f4eeb1365ef/w950_h713_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "1200w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_692222edd56413ec02dd2a6e8b00a48f/w1200_h901_x1796_y955_109191188-5b09ef8108dabad3.jpg",
+    "1900w": "https://www.wz.de/imgs/39/4/3/5/7/1/7/4/7/tok_f3be2b315a9624571b76038264dd8cef/w1900_h1426_x1796_y955_109191188-5b09ef8108dabad3.jpg"
+  },
+  "backgroundLuma": 57.6682
+}

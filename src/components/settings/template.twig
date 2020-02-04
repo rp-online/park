@@ -1,0 +1,167 @@
+<form class="park-settings park-form--vertical">
+
+  {% if notification is defined and notification is not null %}
+    {%  set notification = notification|merge({ 'config': config }) %}
+    {% include 'components/notification/template.twig' with notification only %}
+  {% endif %}
+
+  <div role="group"
+       aria-labelledby="section-headline-quick-nav"
+       class="park-settings__section park-settings__section--quick-nav">
+    {% include 'components/section-headline/template.twig' with {
+    'tag': 'h2',
+    'id': 'section-headline-quick-nav',
+    'text': 'Schnellzugriff',
+    'config': config
+    } only %}
+    {% if quickNav is defined %}
+      {% if quickNav.cities is defined %}
+        {% if quickNav.cities.value is defined %}
+          {% set quickNavCitiesValue = quickNav.cities.value %}
+        {% endif %}
+        {% if quickNav.cities.options is defined %}
+          {% set quickNavCitiesOptions = quickNav.cities.options %}
+        {% else %}
+          {% set quickNavCitiesOptions = [] %}
+        {% endif %}
+      {% endif %}
+      {% if quickNav.sportsclubs is defined %}
+        {% if quickNav.sportsclubs.value is defined %}
+          {% set quickNavSportsclubsValue = quickNav.sportsclubs.value %}
+        {% endif %}
+        {% if quickNav.sportsclubs.options is defined %}
+          {% set quickNavSportsclubsOptions = quickNav.sportsclubs.options %}
+        {% else %}
+          {% set quickNavSportsclubsOptions = [] %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+    <p class="park-settings__instructions">Legen Sie bis zu fünf Städte fest, welche im Schnellzugriff auf der
+      Startseite erscheinen sollen:</p>
+    {% include 'components/select/template.twig' with {
+    'multiple': true,
+    'name': 'cities',
+    'label': 'Städte',
+    'labelHidden': true,
+    'value': quickNavCitiesValue,
+    'options': quickNavCitiesOptions,
+    'max': 5,
+    'placeholder': 'Fügen Sie eine Stadt hinzu',
+    'config': config
+    } only %}
+    <p class="park-settings__instructions">Wählen Sie die Vereine, die im Schnellzugriff erscheinen sollen:</p>
+    {% include 'components/select/template.twig' with {
+    'multiple': true,
+    'name': 'sportsclubs',
+    'label': 'Vereine',
+    'labelHidden': true,
+    'value': quickNavSportsclubsValue,
+    'options': quickNavSportsclubsOptions,
+    'max': 5,
+    'placeholder': 'Fügen Sie einen Verein hinzu',
+    'config': config
+    } only %}
+  </div>
+  <div role="group"
+       aria-labelledby="section-headline-traffic"
+       class="park-settings__section park-settings__section--traffic">
+    {% include 'components/section-headline/template.twig' with {
+    'tag': 'h2',
+    'id': 'section-headline-traffic',
+    'text': 'Staumelder',
+    'config': config
+    } only %}
+    <div class="park-settings__configuration"
+         aria-controls="park-settings__preview-traffic">
+      {% if traffic is defined %}
+        {% if traffic.highways is defined %}
+          {% if traffic.highways.value is defined %}
+            {% set trafficHighwaysValue = traffic.highways.value %}
+          {% endif %}
+          {% if traffic.highways.options is defined %}
+            {% set trafficHighwaysOptions = traffic.highways.options %}
+          {% else %}
+            {% set trafficHighwaysOptions = [] %}
+          {% endif %}
+        {% endif %}
+        <p class="park-settings__instructions">Wählen Sie die Autobahnen aus, die im Staumelder angezeigt werden
+          sollen:</p>
+        {% include 'components/select/template.twig' with {
+        'multiple': true,
+        'name': 'highways',
+        'label': 'Autobahnen',
+        'labelHidden': true,
+        'value': trafficHighwaysValue,
+        'options': trafficHighwaysOptions,
+        'placeholder': 'Wählen Sie eine Autobahn aus',
+        'config': config
+        } only %}
+      {% endif %}
+    </div>
+    <div id="park-settings__preview-traffic"
+         class="park-settings__preview">
+      {% if traffic is defined %}
+        {% if traffic.preview is defined %}
+          {% set trafficPreview = traffic.preview|merge({'config': config}) %}
+          {% include 'components/tab-container/template.twig' with trafficPreview only %}
+        {% endif %}
+      {% endif %}
+    </div>
+  </div>
+  <div role="group"
+       aria-labelledby="section-headline-weather"
+       class="park-settings__section park-settings__section--weather">
+    {% include 'components/section-headline/template.twig' with {
+    'tag': 'h2',
+    'id': 'section-headline-weather',
+    'text': 'Wetter',
+    'config': config
+    } only %}
+    <div class="park-settings__configuration"
+         aria-controls="park-settings__preview-weather">
+      {% if weather is defined %}
+        {% if weather.place is defined %}
+          {% if weather.place.value is defined %}
+            {% set weatherPlaceValue = weather.place.value %}
+          {% endif %}
+          {% if weather.place.options is defined %}
+            {% set weatherPlaceOptions = weather.place.options %}
+          {% else %}
+            {% set weatherPlaceOptions = [] %}
+          {% endif %}
+        {% endif %}
+        <p class="park-settings__instructions">Wählen Sie den Ort aus, für den Sie das aktuelle Wetter erhalten
+          wollen:</p>
+        {% include 'components/select/template.twig' with {
+        'name': 'weather',
+        'label': 'Ort',
+        'labelHidden': true,
+        'value': weatherPlaceValue,
+        'options': weatherPlaceOptions,
+        'placeholder': 'Wählen Sie einen Ort aus',
+        'config': config
+        } only %}
+      {% endif %}
+    </div>
+    <ul id="park-settings__preview-weather"
+        class="park-settings__preview">
+      {% if weather is defined %}
+        {% if weather.preview is defined %}
+          {% if weather.preview.items is defined and weather.preview.items is iterable %}
+            {% for item in weather.preview.items %}
+              <li class="park-settings__card-weather">
+                {% set item = item|merge({'config': config}) %}
+                {% include 'components/card-weather/template.twig' with item only %}
+              </li>
+            {% endfor %}
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    </ul>
+  </div>
+    {% include 'components/button/template.twig' with {
+  'config': config,
+  'type': 'submit',
+  'text': 'speichern'
+  } %}
+</form>

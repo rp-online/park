@@ -1,0 +1,16 @@
+{% include 'components/tab-container/template.twig' with {
+  blocks: [
+    {
+      title: "Meine Merkliste",
+      children: bookmarks
+    },
+    {
+      title: "Meine Themen",
+      children: topics
+    },
+    {
+      title: "Meine Autoren",
+      children: topics
+    }
+  ]
+} only %}

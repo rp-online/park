@@ -1,0 +1,1 @@
+Diese Komponente bettet eine Weltkarte in einem entsprechenden Rahmen ein. Als Daten erwartet sie mindestens `lat`, `lng` und `zoom`. Darüberhinaus kann der Wert `traffic` in Form eines Boolean gesetzt werden, sofern die Karte mit aktuellen Verkehrsdaten überlagert sein soll. 

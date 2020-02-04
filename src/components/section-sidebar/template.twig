@@ -1,0 +1,10 @@
+<div class="park-section-sidebar">
+  <div class="park-section-sidebar__main">
+    {% set data = main.data|merge({'config': config}) %}
+    {% include 'components/' ~ main.component ~ '/template.twig' with data only %}
+  </div>
+  <aside class="park-section-sidebar__sidebar">
+    {% set data = sidebar.data|merge({'config': config}) %}
+    {% include 'components/' ~ sidebar.component ~ '/template.twig' with data only %}
+  </aside>
+</div>

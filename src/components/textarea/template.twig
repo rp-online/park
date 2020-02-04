@@ -1,0 +1,52 @@
+<div class="park-textarea
+  park-textarea--{{ name }}
+  {% if required is defined and required %}
+     park-textarea--required
+  {% endif %}
+  park-input-group
+  park-input-group--textarea"
+  {% if validationMessage is defined and validationMessage %}
+    data-validation-message="{{ validationMessage }}"
+  {% endif %}>
+  {% set uuid = random() %}
+  <label id="park-textarea__label-{{ uuid }}"
+         for="park-textarea__textarea-{{ uuid }}"
+         tabindex="-1"
+         class="park-textarea__label{% if labelHidden is defined and labelHidden is same as(true) %} park-textarea__label--is-hidden{% endif %}">{{ label }}{% if required is defined and required is same as(true) %}
+    <abbr class="park-textarea__required" title="Dieses Eingabefeld ist erforderlich">*</abbr>
+    {% endif %}</label>
+  <textarea id="park-textarea__textarea-{{ uuid }}"
+            autocapitalize="sentences"
+            class="park-textarea__textarea"
+            autocomplete="off"
+    {% if name is defined %}
+      name="{{ name }}"
+    {% endif %}
+    {% if placeholder is defined %}
+      placeholder="{{ placeholder }}"
+    {% endif %}
+    {% if hint is defined and hint %}
+      aria-labelledby="park-textarea__label-{{ uuid }} park-textarea__hint-{{ uuid }}"
+    {% endif %}
+    {% if autocomplete is defined %}
+      autocomplete="{{ autocomplete }}"
+    {% endif %}
+    {% if required is defined and required is same as(true) %}
+      required
+    {% endif %}
+    {% if minlength is defined and minlength >= 0 %}
+      minlength
+    {% endif %}
+    {% if maxlength is defined and maxlength >= 0 %}
+      maxlength
+    {% endif %}
+    {% if disabled is defined and disabled is same as(true) %}
+      disabled
+    {% endif %}
+    {% if readonly is defined and readonly is same as(true) %}
+      readonly
+    {% endif %}>{% if value is defined %}{{ value }}{% endif %}</textarea>
+  {% if hint is defined and hint %}
+    <span id="park-textarea__hint-{{ uuid }}" tabindex="-1" class="park-textarea__hint">{{ hint|raw }}</span>
+  {% endif %}
+</div>

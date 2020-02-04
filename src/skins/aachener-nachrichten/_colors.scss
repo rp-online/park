@@ -1,0 +1,45 @@
+// colors
+$global-brand-color: #ffd400;
+$global-color-text-black: #333;
+$global-advertisement-color: #333;
+$global-link-color: #ffd400;
+$global-dark-grey: #333;
+$global-kicker-color: #808080;
+$global-footer-background-color: white;
+$global-footer-color: #333;
+$global-footer-font-color: #333;
+$global-footer-headline-color: #333;
+$global-embed-background-color: #f4f4f4;
+$global-error-color: #cf0038;
+$global-success-color: #01df59;
+$global-color-weather: #f3f2ed;
+$global-color-traffic: #e5f3ff;
+$global-signal-color: #cf0038; // red
+$global-color-twitter: #4aafec;
+$global-color-facebook: #3865a1;
+$global-color-google-plus: #dd4b39;
+$global-color-google: #ffffff;
+$global-color-whatsapp: #52ad33;
+$global-color-breaking: $global-error-color;
+$global-light-grey: #edf0f3;
+$global-color-park-navigation-header-color: #5a5f65;
+
+
+// Kunden Anpassungen
+$global-color-shadow: rgba(220, 220, 220, 0.52);
+$global-color-menuspacer: #e7e7e7;
+$global-color-opener: #2a2a2b;
+$global-color-light-grey: #f1f1f1;
+$global-color-white: #ffffff;
+
+$global-icon-loupe: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.813 12.838L20 18.025 18.025 20l-5.187-5.187a8.148 8.148 0 1 1 1.975-1.975zm-6.665.921a5.61 5.61 0 1 0 0-11.221 5.61 5.61 0 0 0 0 11.221z' fill='%23333' fill-rule='evenodd'/%3E%3C/svg%3E");
+$global-icon-arrow: url("data:image/svg+xml;charset=utf-8,%3Csvg viewBox='0 0 15 23' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5.724 11.434l8.56 8.56-2.861 2.862L.003 11.437l.015-.014-.003-.004L11.434 0l2.862 2.862-8.572 8.572z' fill='%23333'/%3E%3C/svg%3E");
+
+// Slider
+$global-slider-brand-color: $global-brand-color;
+$global-slider-progress: $global-color-park-navigation-header-color;
+
+// GERARP-1289 Navigation
+$global-quicklinks-hover: #ececec;
+$global-quicklinks-hover-border: $global-brand-color;
+$global-quicklinks-active-border: $global-brand-color;

@@ -1,0 +1,10 @@
+<div title="Schnellzugriff" class="park-section-quick-nav">
+  <ul class="park-section-quick-nav__list">
+    {% for item in items %}
+      <li class="park-section-quick-nav__item">
+        {% set item = item|merge({ 'config': config }) %}
+        {% include 'components/quick-nav-item/template.twig' with item only %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

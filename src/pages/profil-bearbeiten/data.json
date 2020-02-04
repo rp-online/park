@@ -1,0 +1,39 @@
+{
+  "title": "Profil bearbeiten",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für Profil Bearbeiten"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/profil-bearbeiten.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "edit-profile",
+            "data": {
+              "username": "SneakyJoe",
+              "email": "hallo@mail.de",
+              "salutation": "Mr.",
+              "firstname": "Max",
+              "familyname": "Mustermann",
+              "street": "Musterstraße 66",
+              "addresssuffix": "",
+              "postalcode": "12345",
+              "city": "Musterstadt",
+              "phone": "0173123456"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

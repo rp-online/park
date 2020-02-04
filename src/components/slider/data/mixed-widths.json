@@ -1,0 +1,126 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Neuste Bilder"
+  },
+  "items": [
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Neue Show \"Die Kirmeskönige\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/450x600.jpg",
+      "alt": "Ein brutal süßes Kätzchen",
+      "href": "#void",
+      "target": "_blank"
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/panorama.jpg",
+      "alt": "Ein brutal süßes Kätzchen",
+      "href": "./assets/images/panorama.jpg",
+      "headline": {
+        "tag": "span",
+        "text": "Das war die RTL-Show \"Die Kirmeskönige\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "/assets/images/300x225.jpg",
+      "target": "_blank"
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "/assets/images/300x225.jpg"
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/panorama.jpg",
+      "alt": "Ein brutal süßes Kätzchen",
+      "href": "./assets/images/panorama.jpg",
+      "headline": {
+        "tag": "span",
+        "text": "Das war die RTL-Show \"Die Kirmeskönige\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/450x600.jpg",
+      "alt": "Ein brutal süßes Kätzchen",
+      "href": "./assets/images/450x600.jpg"
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Davies trifft die DEG am Freitag vor Gericht"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Davies trifft die DEG am Freitag vor Gericht"
+      }
+    }
+  ]
+}

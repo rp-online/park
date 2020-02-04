@@ -1,0 +1,1 @@
+Diese Komponente stellt eine zusammengehörige Liste an [Teaser-Image-List-Item](#teaser-image-list-item)-Komponenten dar.

@@ -1,0 +1,35 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+<article class="park-search-tipp {% if isAd is defined and isAd is same as(true) %}park-search-tipp--sugardaddy{% endif %}">
+  {% set content %}
+  <div class="park-search-tipp__body">
+    <header>
+      <{{ headline.tag }} class="park-search-tipp__headlines">
+      {% if kicker is defined and kicker.text is defined and kicker.text %}
+        <span class="park-search-tipp__kicker">{{ kicker.text | raw }}</span>
+      {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}
+        <span class="park-search-tipp__headline">{{ headline.text }}</span>
+      {% endif %}
+      </{{ headline.tag }}>
+    </header>
+    {% if intro is defined %}
+    <p class="park-search-tipp__intro">
+      {% if source is defined %}<em class="park-search-tipp__source">{{ source }}</em>{% endif %}
+      {{ intro }}
+    </p>
+    {% endif %}
+  </div>
+  {% endset %}
+  {% set link = {
+    'href': href,
+    'text': content,
+    'target': target,
+    'rel': rel,
+    'classes': [
+      'park-search-tipp__link'
+    ],
+    'isAd': isAd,
+    'config': config
+  } %}
+  {% include 'components/link-helper/template.twig' with link only %}
+</article>
+{% endif %}

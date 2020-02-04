@@ -1,0 +1,106 @@
+a[href$=".jpg"],
+a[href$=".jpeg"],
+a[href$=".png"],
+a[href$=".gif"],
+a[href$=".svg"],
+a[href$=".webp"],
+a[href$=".JPG"],
+a[href$=".JPEG"],
+a[href$=".PNG"],
+a[href$=".GIF"],
+a[href$=".SVG"],
+a[href$=".WEBP"] {
+  position: relative;
+  display: block;
+  pointer-events: auto;
+
+  &::after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    right: $global-spacing;
+    bottom: $global-spacing;
+    width: rem(40px);
+    height: rem(40px);
+    background-color: $global-brand-color;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.813 12.838L20 18.025 18.025 20l-5.187-5.187a8.148 8.148 0 1 1 1.975-1.975zm-6.665.921a5.61 5.61 0 1 0 0-11.221 5.61 5.61 0 0 0 0 11.221z' fill='%23ffffff' fill-rule='evenodd'/%3E%3C/svg%3E");
+    background-size: rem(20px) rem(20px);
+    background-position: center center;
+    border-radius: rem(2px);
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12), 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+    pointer-events: auto;
+    cursor: pointer;
+
+    &:hover {
+      background-color: lighten($global-brand-color, 10);
+    }
+  }
+}
+
+#park-overlay-enlargable {
+  top: 50%;
+  right: auto;
+  left: 50%;
+  width: auto;
+  max-width: none;
+  transform: translate(-50%, -50%) translateY(($header-navbar-height-mobile / 2));
+
+  @include mq(desktop) {
+    transform: translate(-50%, -50%) translateY(($header-navbar-height-desktop / 2));
+  }
+
+  &:not([aria-hidden="true"]) {
+    display: table;
+  }
+
+  .park-overlay__scrollcontainer {
+    overflow: hidden;
+  }
+}
+
+.park-enlargable__image {
+  width: auto;
+  max-width: 95vw;
+  height: auto;
+  max-height: 90vh;
+  max-height: calc(100vh - #{rem(90px)} - #{$header-navbar-height-mobile});
+
+  @include mq(desktop) {
+    max-height: calc(100vh - #{rem(90px)} - #{$header-navbar-height-desktop});
+  }
+}
+
+.park-enlargable__caption {
+  @include global-font-family-serif;
+  @include global-serif-font-size(2);
+
+  position: absolute;
+  right: $global-spacing;
+  bottom: $global-spacing;
+  left: $global-spacing;
+  padding: rem(30px) rem(10px) rem(10px) rem(10px);
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #0d0d0d);
+
+  @include mq(desktop) {
+    padding: rem(30px) $global-spacing rem(10px) $global-spacing;
+  }
+
+  &#{&} {
+    color: #fff;
+  }
+
+  &:empty {
+    display: none;
+  }
+
+  i {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(3);
+
+    position: static;
+    float: right;
+    margin-left: $global-spacing;
+    color: inherit;
+    line-height: inherit;
+  }
+}

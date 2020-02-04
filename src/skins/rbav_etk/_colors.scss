@@ -1,0 +1,42 @@
+  // colors
+$global-brand-color: #cc051c;
+$global-color-text-black: #2f2f2f;
+$global-advertisement-color: #689f52;
+$global-link-color: #cc051c;
+$global-light-grey: #edf0f3;
+$global-dark-grey: #5a5f65;
+$global-kicker-color:#5a5f65;
+$global-footer-background-color: #4e5154;
+$global-footer-color: white;
+$global-footer-font-color: white;
+$global-footer-headline-color: rgba(250, 250, 250, 0.69);
+$global-embed-background-color: #f7f7f7;
+$global-error-color: #c00000;
+$global-success-color: #1bb934;
+$global-color-weather: #fdfae8;
+$global-color-traffic: #e7f1fc;
+$global-signal-color: #cf3f14; // red
+$global-color-twitter: #4aafec;
+$global-color-facebook: #3865a1;
+$global-color-google-plus: #dd4b39;
+$global-color-google: #ffffff;
+$global-color-whatsapp: #52ad33;
+$global-color-breaking: $global-error-color;
+
+// Kunden Anpassungen
+$global-color-white:        #FFFFFF;
+$global-color-shadow:       rgba(220, 220, 220, 0.52);
+$global-color-menuspacer:   #e7e7e7;
+$global-color-opener:       #264150;
+$global-color-headline:     #000000;
+$global-color-dachzeile:    #d3cfcf;
+$global-color-park-navigation-header-color: #264150;
+
+// Slider
+$global-slider-brand-color: transparent;
+$global-slider-progress: $global-color-dachzeile;
+
+// GERARP-1289 Navigation
+$global-quicklinks-hover: #ececec;
+$global-quicklinks-hover-border: $global-brand-color;
+$global-quicklinks-active-border: $global-brand-color;

@@ -1,0 +1,15 @@
+.park-card-video {
+  @include card;
+
+  padding-top: rem(20px);
+
+  &__wrapper {
+    @extend %indicator-video;
+  }
+
+  .park-portal-marker &__wrapper,
+  .is-advertorial &__wrapper,
+  &--sugardaddy &__wrapper {
+    color: rgba($global-advertisement-color, 0.8);
+  }
+}

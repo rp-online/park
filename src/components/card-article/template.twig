@@ -1,0 +1,75 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set headlineLevel = false %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set headlineTag = 'span' %}
+    {% if 'h' in headline.tag %}
+      {% set headlineLevel = headline.tag|replace({'h': ''}) %}
+    {% endif %}
+  {% else %}
+    {% set headlineTag = headline.tag %}
+  {% endif %}
+  {% set classes = [
+    'park-card-article'
+  ] %}
+  {% set text = '' %}
+  {% if kicker is defined and kicker.text is defined and kicker.text %}
+    {% set text = text ~ kicker.text %}
+  {% endif %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+    {% set text = text ~ headline.text %}
+  {% endif %}
+  {% if text|length > 60 %}
+    {% set classes = classes|merge([
+      'park-card-article--cramped'
+    ]) %}
+  {% endif %}
+  {% set link = {
+    'href': href,
+    'target': target,
+    'rel': rel,
+    'classes': classes,
+    'config': config
+  } %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set link = link|merge({
+      'isAd': true,
+      'classes': link.classes|merge(['park-card-article--sugardaddy'])
+    }) %}
+  {% endif %}
+  {% set content %}
+  <figure role="group" class="park-card-article__figure">
+    <div class="park-card-article__wrapper">
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': alt,
+        'width': 300,
+        'height': 169,
+        'sizes': { 'mobile': '50vw', 'desktop': '300px' },
+        'config': config} %}
+    </div>
+    <figcaption class="park-card-article__caption">
+      <{{ headlineTag }}
+      {% if headlineLevel %}
+        role="heading" aria-level="{{ headlineLevel }}"
+      {% endif %}
+      class="park-card-article__headlines">
+      {% if kicker is defined and kicker.text is defined and kicker.text %}
+      <span class="park-card-article__kicker">
+        {% include 'components/content-label/template.twig' with {
+          'contentLabel': contentLabel,
+          'config': config
+        } only %}
+        {{ kicker.text | raw }}
+      </span>
+    {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}
+    <span class="park-card-article__headline">{{ headline.text }}</span>
+  {% endif %}
+</{{ headlineTag }}>
+  </figcaption>
+  </figure>
+  {% endset %}
+  {% set link = link|merge({
+    'text': content
+  }) %}
+  {% include 'components/link-helper/template.twig' with link only %}
+{% endif %}

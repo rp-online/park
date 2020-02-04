@@ -1,0 +1,12 @@
+<aside class="park-notification
+{% if type is defined %}
+  park-notification--{{ type }}
+{% endif %}"
+{% if type is defined and type is same as('error') %}
+  role="alert"
+{% endif %}>
+  <strong class="park-notification__headline">{{ headline }}</strong>
+  {% include 'components/markdown/template.twig' with {
+  'text': body,
+  'config': config} only %}
+</aside>

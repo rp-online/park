@@ -1,0 +1,41 @@
+$park-data-tooltip-arrow-height: 10px;
+
+[data-tooltip][title] {
+  @include mq(desktop) {
+    z-index: 2;
+
+    &.park-data-tooltip--use-before-pseudo::before,
+    &.park-data-tooltip--use-after-pseudo::after {
+      @include global-sans-serif-font-size(2);
+
+      content: attr(title);
+      position: absolute;
+      z-index: 3;
+      bottom: 100%;
+      left: 50%;
+      padding: rem(6px) rem(10px) rem($park-data-tooltip-arrow-height + 6px) rem(10px);
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 40 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0 L40 0 L20 20 L0 0' fill='%23fff'/%3E%3C/svg%3E"), linear-gradient(to top, transparent, transparent #{rem($park-data-tooltip-arrow-height)}, #fff #{rem($park-data-tooltip-arrow-height)}, #fff);
+      background-size: rem(2 * $park-data-tooltip-arrow-height) rem($park-data-tooltip-arrow-height), 100% 100%;
+      background-position: center bottom;
+      color: $global-color-text-black;
+      opacity: 0;
+      font-weight: $global-font-weight-sans-serif-bold;
+      white-space: pre;
+      transform: translate(-50%, #{rem(-3px)});
+      transition: opacity 0.6s;
+      filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.25)) drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.15));
+      pointer-events: none;
+
+      @supports not (filter: drop-shadow(0 0 2px rgba(0, 0, 0, 0.25)) drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.15))) {
+        background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 40 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M0 0 L40 0 L20 20 L0 0' fill='%23fcfcfc'/%3E%3C/svg%3E"), linear-gradient(to top, transparent, transparent #{rem($park-data-tooltip-arrow-height)}, #fcfcfc #{rem($park-data-tooltip-arrow-height)}, #fcfcfc);
+      }
+    }
+
+    &.park-data-tooltip--use-before-pseudo:hover::before,
+    &.park-data-tooltip--use-after-pseudo:hover::after {
+      opacity: 1;
+      transition-duration: 0.3s;
+    }
+  }
+}
+

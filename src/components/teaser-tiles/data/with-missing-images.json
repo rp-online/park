@@ -1,0 +1,102 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Mehr aus dem Web"
+  },
+  "items": [
+    {
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Fieser Bär",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schön auf die Zwölf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Hier übt Barack Obama Kitesurfen"
+      }
+    },
+    {
+      "type": "video",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Zukünftiger Rennfahrer"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+      }
+    },
+    {
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Fieser Bär",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schön auf die Zwölf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Hier übt Barack Obama Kitesurfen"
+      }
+    },
+    {
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Fieser Bär",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Zukünftiger Rennfahrer"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+      }
+    },
+    {
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Fieser Bär",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schön auf die Zwölf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Hier übt Barack Obama Kitesurfen"
+      }
+    },
+    {
+      "type": "video",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Zukünftiger Rennfahrer"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+      }
+    },
+    {
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Fieser Bär",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schnarch..."
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+      }
+    }
+  ]
+}

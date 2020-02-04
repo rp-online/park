@@ -1,0 +1,1 @@
+Diese Komponente bettet ein Facebook-Post in einem entsprechenden Rahmen ein. Sie muss nur mit der Post-URL gefüttert werden und kümmert sich dann um den Rest. Zum Einsatz kommt sie entweder im Artikel-Körper ([article](#article)) oder aber in der [gallery](#gallery) (was die Galerie zur Infostrecke macht). 

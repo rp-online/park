@@ -1,0 +1,24 @@
+<aside class="park-embed-infobox">
+  {% include 'components/section-headline/template.twig' with kicker %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+  <{{ headline.tag }} class="park-embed-infobox__headline">{{ headline.text }}</{{ headline.tag }}>
+  {% endif %}
+  <div class="park-embed-infobox__body">
+    {% if src is defined %}
+      {% include 'components/figure/template.twig' with {
+        'src': src,
+        'alt': alt,
+        'width': 260,
+        'height': 196,
+        'fit': 'cover',
+        'sizes': { 'mobile': '100vw', 'desktop': '260px' },
+        'source': source,
+        'config': config
+      } only %}
+    {% endif %}
+    {% include 'components/markdown/template.twig' with {
+      'text': text,
+      'config': config
+    } only %}
+  </div>
+</aside>

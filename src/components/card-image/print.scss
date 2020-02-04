@@ -1,0 +1,14 @@
+.park-card-image {
+  &--sugardaddy {
+    &,
+    * {
+      display: none;
+    }
+  }
+
+  &__wrapper {
+    &::after {
+      display: none;
+    }
+  }
+}

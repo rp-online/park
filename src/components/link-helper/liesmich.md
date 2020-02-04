@@ -1,0 +1,1 @@
+Diese Komponente ist eine Hilfskomponente, um Links mit identischer Einspeise-Mechanik zu erzeugen.

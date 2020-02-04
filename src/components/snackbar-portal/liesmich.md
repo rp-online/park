@@ -1,0 +1,1 @@
+Diese Komponente ist eine angepasste Zusammenstellung einer [Snackbar](#snackbar), speziell für die Anzeige einer kleinen Werbung im Fußbereich auf mobile. 

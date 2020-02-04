@@ -1,0 +1,60 @@
+{% if text is defined and text %}
+  {% set blocks = text|split('\r\n\r\n') %}
+  {% set modifiedBlocks = [] %}
+  {% for block in blocks %}
+    {% set orderedListStartFound = false %}
+    {% set orderedListCount = 0 %}
+    {% set lines = block|split('\r\n') %}
+    {% set modifiedLines = [] %}
+    {% for line in lines %}
+      {% set characters = line|split('') %}
+      {% if characters[0] is defined and characters[0] is same as('1') and characters[1] is defined and characters[1] is same as('.') %}
+        {% set orderedListStartFound = true %}
+      {% endif %}
+      {% set startsWithNumber = '' %}
+      {% for character in characters %}
+        {% if startsWithNumber is not same as(false) %}
+          {% if startsWithNumber is same as(true) and character is same as('.') %}
+            {% set orderedListCount = orderedListCount + 1 %}
+          {% else %}
+            {% if character in ['0','1','2','3','4','5','6','7','8','9'] %}
+              {% set startsWithNumber = true %}
+            {% else %}
+              {% set startsWithNumber = false %}
+            {% endif %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+    {% if not orderedListStartFound or orderedListCount < 3 %}
+      {% for line in lines %}
+        {% set characters = line|split('') %}
+        {% set modifiedCharacters = [] %}
+        {% set startsWithNumber = '' %}
+        {% for character in characters %}
+          {% if startsWithNumber is not same as(false) %}
+            {% if startsWithNumber is same as(true) and character is same as('.') %}
+              {% set modifiedCharacters  = modifiedCharacters|merge(['\\.']) %}
+            {% else %}
+              {% if character in ['0','1','2','3','4','5','6','7','8','9'] %}
+                {% set startsWithNumber = true %}
+              {% else %}
+                {% set startsWithNumber = false %}
+              {% endif %}
+              {% set modifiedCharacters = modifiedCharacters|merge([character]) %}
+            {% endif %}
+          {% else %}
+            {% set modifiedCharacters = modifiedCharacters|merge([character]) %}
+          {% endif %}
+        {% endfor %}
+        {% set modifiedLine = modifiedCharacters|join('') %}
+        {% set modifiedLines = modifiedLines|merge([modifiedLine]) %}
+      {% endfor %}
+      {% set modifiedBlock = modifiedLines|join('\r\n') %}
+    {% else %}
+      {% set modifiedBlock = lines|join('\r\n') %}
+    {% endif %}
+    {% set modifiedBlocks = modifiedBlocks|merge([modifiedBlock]) %}
+  {% endfor %}
+  {% set modifiedText = modifiedBlocks|join('\r\n\r\n') %}
+{% set result %}{% markdown %}{{ modifiedText|raw }}{% endmarkdown %}{% endset %}{{ result|replace({ '\. ': '. ' })|raw }}{% endif %}

@@ -1,0 +1,21 @@
+{% if href is not defined or not href %}
+  {% set external = (external is defined) ? external : true %}
+  {% set href = 'https://www.youtube.com/watch?v=' ~ id %}
+{% else %}
+  {% set external = false %}
+{% endif %}
+{% if doNotTrack is not defined and external is same as(true) %}
+  {% set doNotTrack = true %}
+{% endif %}
+<div class="park-video{% if doNotTrack is defined and doNotTrack is same as(true) %} park-video--do-not-track{% endif %}"
+   data-video-id="{{ id }}">
+  <img class="park-video__cover"
+       src="https://i.ytimg.com/vi/{{ id }}/maxresdefault.jpg"
+       alt="">
+  <!--[IF !IE]> --><noscript><!-- <![ENDIF]-->
+    <a href="{{ href }}"
+       class="park-video__fallback"
+       target="_blank"
+       rel="noopener noreferrer nofollow">{{ title|escape('html') }}</a>
+    <!--[IF !IE]> --></noscript><!-- <![ENDIF]-->
+</div>

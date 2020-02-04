@@ -1,0 +1,33 @@
+<section class="park-enter-password">
+  {%  set hint = '<a href="' ~ passwordResetURL ~ '">Passwort vergessen?</a>' %}
+  {%  set html = '<p class="park-enter-password__paragraph">' ~ text ~ '</p>' %}
+  {% include 'components/form/template.twig' with {
+    'notification': notification,
+    'vertical': true,
+    'action': form.action,
+    'method': form.method,
+    'headline': headline,
+    'submit': 'bestätigen',
+    'children': [
+      {
+        'component': 'html',
+        'data': {
+          'html': html
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'type': 'password',
+          'name': 'password',
+          'autocomplete': 'off',
+          'label': 'Passwort',
+          'required': true,
+          'validationMessage': form.validationMessage,
+          'hint': hint
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</section>

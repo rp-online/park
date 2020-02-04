@@ -1,0 +1,25 @@
+{
+  "children": [
+    {
+      "component": "teaser",
+      "data": {
+        "id": 1,
+        "type": "video",
+        "href": "#void",
+        "headline": {
+          "tag": "h2",
+          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+        },
+        "src": "./assets/images/261x196.jpg",
+        "alt": "Eine süße Katze",
+        "kicker": {
+          "tag": "span",
+          "text": "Nur noch geleaste Maschinen"
+        },
+        "dateline": "Berlin",
+        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+        "authors": "von Kristina Dunst"
+      }
+    }
+  ]
+}

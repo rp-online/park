@@ -1,0 +1,12 @@
+{
+  "src": "./assets/images/tweet-preview.png",
+  "name": "Twitter",
+  "children": [
+    {
+      "component": "embed-twitter-tweet",
+      "data": {
+        "url": "https://twitter.com/Interior/status/463440424141459456"
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "clientId": "552f67b9e4b0a3fd8487c728",
+  "blogId": "5a0d9a322a250b69e719455e",
+  "body": "<strong>Inital rendered content</strong>",
+  "limit": 5,
+  "showEventSharing": false,
+  "coalesceRepeatedMeta": true,
+  "reverseEvents": true
+}

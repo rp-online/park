@@ -1,0 +1,2826 @@
+{
+  "title": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "title": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen",
+    "url": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1545133041",
+    "container_id": 35216531,
+    "beitrag_id": 44588211,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Kritiker meinten, Fortuna könne den Herbstmeister Borussia Dortmund nicht schlagen. Aber die Mannschaft von Trainer Friedhelm Funkel hat es einfach gemacht - mit einer bärenstarken Teamleistung."
+      },
+      {
+        "name": "author",
+        "content": "Bernd Jolitz"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Fortuna, Friedhelm Funkel, Dortmund, nieder, Leidenschaft, Düsseldorf, Ballbesitz, BVB, Dortmund, Borussia, Ball, Saisonniederlage, Saison"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Fortuna, Friedhelm Funkel, Dortmund, nieder, Leidenschaft, Düsseldorf, Ballbesitz, BVB, Dortmund, Borussia, Ball, Saisonniederlage, Saison"
+      },
+      {
+        "property": "og:title",
+        "content": "Düsseldorf erkämpft Sieg gegen Dortmund: Fortuna schlägt Goliath"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      {
+        "property": "og:description",
+        "content": "Kritiker meinten, Fortuna könne den Herbstmeister Borussia Dortmund nicht schlagen. Aber die Mannschaft von Trainer Friedhelm Funkel hat es einfach gemacht - mit einer bärenstarken Teamleistung."
+      },
+      {
+        "property": "og:image",
+        "content": "https://rp-online.de/imgs/32/4/4/5/8/8/2/1/1/tok_f8d63776154798831821778f7cc851bd/w1200_h630_x1412_y401_AP_329B2400F2344C38-2f027c9acc9ebb09.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Kritiker meinten, Fortuna könne den Herbstmeister Borussia Dortmund nicht schlagen. Aber die Mannschaft von Trainer Friedhelm Funkel hat es einfach gemacht - mit einer bärenstarken Teamleistung."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://rp-online.de/imgs/32/4/4/5/8/8/2/1/1/tok_f8d63776154798831821778f7cc851bd/w1200_h630_x1412_y401_AP_329B2400F2344C38-2f027c9acc9ebb09.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "sport",
+      "subressort": "fussball",
+      "dossier": "fortuna",
+      "contentType": "Artikel",
+      "analyticsUrl": "/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder_aid-35216531",
+      "author": "Bernd Jolitz",
+      "date": "2018-12-18",
+      "origin": "4",
+      "seo": "/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=44588211&cstr=35216531&l=1251&tit=Fortuna+D%FCsseldorf+ringt+Borussia+Dortmund+nieder+-+der+Herbstmeister+2018+ist+geschlagen&url=https%3A%2F%2Frp-online.de%2Fsport%2Ffussball%2Ffortuna%2Ffortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531&sep=%7C&tce=1&tid=65052&tn=65018&tp=50327%7C65008%7C65018&tpn=50327%7C65008%7C65018&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Fortuna schlägt Goliath",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AFortuna schlägt Goliath%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 35216531,
+      "doctype": "article",
+      "contentid": "/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531",
+      "channel": 65008,
+      "subchannel": 65018,
+      "subsubchannel": 65052,
+      "heading": "Fortuna schlägt Goliath",
+      "kicker": "Düsseldorf",
+      "tag": "fortuna"
+    },
+    "links": [
+      {
+        "rel": "amphtml",
+        "href": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531?output=amp"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/sport/fussball/fortuna/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Sport",
+        "sv": "i2",
+        "co": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Sport",
+        "sv": "mo",
+        "co": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/a639858174e2466c9c95a716545e561c",
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "stroeer",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///football/fortuna",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///football/fortuna",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///football/fortuna",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                813,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-3__H_MB_3",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///football/fortuna",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "hpa": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35216531",
+          "pfad1": "sport",
+          "pfad2": "fussball",
+          "pfad3": "fortuna",
+          "pfad4": "stop",
+          "oms": "football",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35216531",
+          "pfad1": "sport",
+          "pfad2": "fussball",
+          "pfad3": "fortuna",
+          "pfad4": "stop",
+          "oms": "football",
+          "mode": "desktop"
+        },
+        "zone": "football",
+        "subZone": "fortuna"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///football/fortuna",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "interstitial",
+            "adUnitPath": "///football/fortuna",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///football/fortuna",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/mobil_banner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "///football/fortuna",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///football/fortuna",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad-mew",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35216531",
+          "pfad1": "sport",
+          "pfad2": "fussball",
+          "pfad3": "fortuna",
+          "pfad4": "stop",
+          "oms": "football/fortuna",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35216531",
+          "pfad1": "sport",
+          "pfad2": "fussball",
+          "pfad3": "fortuna",
+          "pfad4": "stop",
+          "oms": "football/fortuna",
+          "mode": "mobile"
+        },
+        "zone": "football",
+        "subZone": "fortuna"
+      },
+      "reloadFrequency": "3"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531"
+      },
+      "headline": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_6afecd2c2f92ae0eaff18b262b840e13/w950_h526_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-12-18 22:23",
+      "dateModified": "2018-12-19 07:26:20",
+      "author": {
+        "@type": "Person",
+        "name": "Bernd Jolitz"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Kritiker meinten, Fortuna könne den Herbstmeister Borussia Dortmund nicht schlagen. Aber die Mannschaft von Trainer Friedhelm Funkel hat es einfach gemacht - mit einer bärenstarken Teamleistung."
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"interstitial\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "nofollow": [
+              ""
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Sport",
+                        "href": "https://rp-online.de/sport/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Fußball",
+                        "href": "https://rp-online.de/sport/fussball/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      },
+                      {
+                        "text": "Fortuna",
+                        "href": "https://rp-online.de/sport/fussball/fortuna/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 3
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Fortuna schlägt Goliath"
+                    },
+                    "id": 35216531,
+                    "kicker": {
+                      "text": "Düsseldorf erkämpft Sieg gegen Dortmund"
+                    },
+                    "timestamp": "1545200760",
+                    "cover": {
+                      "type": "image",
+                      "width": 950,
+                      "height": 526,
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_44651452eb4d0328a5097da79419fb4c/w250_h138_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "400w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_665841221ad4b909d6162b2dec8b657f/w400_h221_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "600w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_a844ef02792e8f3906ace55f9ecc0916/w600_h332_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "900w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_92d1203bc25fb9b10d0291eca1a45853/w900_h498_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "950w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_6afecd2c2f92ae0eaff18b262b840e13/w950_h526_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "1200w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_0acc4e2f27b371b72a7c4bf500360d15/w1200_h664_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                        "1900w": "https://rp-online.de/imgs/32/4/4/5/5/2/5/1/7/tok_c56a442ac7668fbaf3647495b945522f/w1900_h1052_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg"
+                      },
+                      "alt": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen",
+                      "source": {
+                        "text": "dpa/Marcel Kusch"
+                      },
+                      "caption": "Fortuna - Borussia Dortmund: Bilder zum Spiel\n",
+                      "link": {
+                        "type": "image",
+                        "text": "85 Bilder",
+                        "href": "/sport/fussball/fortuna/fortuna-duesseldorf-borussia-dortmund-bilder-zum-spiel_bid-35206569"
+                      }
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Kritiker meinten, Fortuna könne den Herbstmeister Borussia Dortmund nicht schlagen. Aber die Mannschaft von Trainer Friedhelm Funkel hat es einfach gemacht - mit einer bärenstarken Teamleistung.",
+                    "sign": "",
+                    "authorsbox": {
+                      "text": "Von Bernd Jolitz",
+                      "authors": [
+                        {
+                          "src": "https://rp-online.de/imgs/33/2/7/6/6/8/5/8/9/JOLITZ_Bernd_new-c059c27a8a45370d.JPG",
+                          "name": "Bernd Jolitz",
+                          "position": "",
+                          "bio": "Bernd Jolitz (jol) ist verantwortlicher Redakteur für das Ressort Düsseldorfer Sport der Rheinischen Post. ",
+                          "links": {
+                            "profile": "/autor/bernd-jolitz-jol/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Borussia Dortmunds Erfolgsserie ist gerissen – und das ausgerechnet beim Bundesliga-Aufsteiger Fortuna Düsseldorf. Mit einer mitreißenden Vorstellung rangen die Rheinländer den einsamen Spitzenreiter mit 2:1 nieder und verwandelten die mit 52.000 Zuschauern ausverkaufte Arena in ein Tollhaus. Die Schwarz-Gelben hatten zwar den bei weitem größeren Ballbesitz, wurden aber erst in der Schlussphase richtig gefährlich und kassierten so verdient ihre erste Saisonniederlage.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Fehlenden Mut kann Friedhelm Funkel wirklich niemand vorwerfen. Trotz des beeindruckenden Rufs der Dortmunder Offensiv-Maschinerie stellte der Fortuna-Coach seine Defensivformation nicht um: Er beließ es bei der Vierer-Abwehrkette, die beim 2:0 gegen Freiburg einen sehr guten Job gemacht hatte, und verzichtete auf einen zusätzlichen Innenverteidiger. Einziges Zugeständnis an die Angriffswucht der Gäste: In Dodi Lukebakio nominierte Funkel nur eine echte Spitze. Zum ersten Mal in dieser Saison begann somit Rouwen Hennings ein Heimspiel auf der Bank. \r\n1. erster Punkt\r\n2. zweiter Punkt\r\n3. dritter Punkt</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "1. erster Punkt\r\n2. zweiter Punkt\r\n3. dritter Punkt"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zudem gab es bei beiden Teams Startelf-Comebacks zu verzeichnen. Bei den Borussen kehrte der frühere Kapitän Marcel Schmelzer ebenso nach längerer Abwesenheit in die Anfangsformation zurück wie Marcel Sobottka bei den Gastgebern. Bei dieser Personalie mag durchaus Pate gestanden haben, dass es Fortuna in einem Kräftemessen mit Borussia Dortmund sicher nicht schaden konnte, neben Kaan Ayhan einen zweiten Ur-Schalker und sogar gebürtigen Gelsenkirchener auf dem Feld zu haben.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "figure",
+                              "data": {
+                                "type": "image",
+                                "width": 950,
+                                "height": 526,
+                                "src": {
+                                  "250w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_dfb8ce461fef0b8ba3e77e123ddfc6de/w250_h138_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG",
+                                  "400w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_faa81f39af72c95d42d31d867632911f/w400_h221_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG",
+                                  "600w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_a84c6ff3f8d0b9504a538ff6c1e241fb/w600_h332_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG",
+                                  "900w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_72f63e40ad5796e067bec13f9aa7b0de/w900_h498_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG",
+                                  "950w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_ce9a63fe24fb8cc32016803730626207/w950_h526_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG",
+                                  "1200w": "https://rp-online.de/imgs/32/4/4/5/5/2/8/1/3/tok_81da1b94f26f421e89564d02f39634ff/w1200_h664_x876_y491_RTR_2018-12-18T214650Z_1365514933_RC12FA0A0980_RTRMADP_3_SOCCER-GERMANY-DUS-DOR-fa7f65a81a910527.JPG"
+                                },
+                                "alt": "",
+                                "source": {
+                                  "text": "REUTERS/THILO SCHMUELGEN"
+                                },
+                                "caption": "Fortuna - Borussia Dortmund: Fortunen in der Einzelkritik\n",
+                                "link": {
+                                  "type": "image",
+                                  "text": "15 Bilder",
+                                  "href": "/sport/fussball/fortuna/fortuna-borussia-dortmund-fortunen-in-der-einzelkritik_bid-35206645"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die Düsseldorfer Taktik war ebenso einfach wie effektiv: Hinten stabil stehen, mit starkem Einsatz den Ball erobern – und dann langer Ball auf Lukebakio. Die Schnelligkeit des Belgiers hat sich zwar spätestens seit seinem Dreierpack beim 3:3 in München herumgesprochen, doch zu stoppen ist er deshalb noch lange nicht. Das zeigte sich in der 22. Minute, als Kevin Stöger den 21-Jährigen mit einem langen Pass in Szene setzte. Lukebakio sprintete der BVB-Abwehr mühelos davon und zeigte auch allein vor Torhüter Roman Bürki keine Nerven.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_4ea529e14d2d4cbdc3b530d594a69bf4/w306_h175_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                              "alt": "Dodi Lukebakio (oben) stürzt im Zweikampf",
+                              "href": "/sport/fussball/fortuna/dodi-lukebakio-laesst-fortuna-duesseldorf-gegen-den-fc-bayern-muenchen-jubeln_aid-34689909",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Drei Tore beim FC Bayern"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fortuna schafft dank Lukebakio ein kleines Fußballwunder"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_e6fa31e1ad8e7ea0cd1fc93806bcbc63/w306_h175_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                              "alt": "Dodi Lukebakio und Andre Hofmann feiern",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-lukebakio-kann-gegen-hertha-den-unterschied-machen_aid-34385703",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortuna empfängt Hertha"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Lukebakio kann den Unterschied machen"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "medium-rectangle",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "mobile-rectangle",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Bis zum Pausenpfiff verdienten sich die Düsseldorfer diese 1:0-Führung, denn mit Ausnahme der Kategorie Ballbesitz ging keine Statistik der ersten Hälfte an den turmhohen Favoriten. Zwar machten die Dortmunder durch Marco Reus ein Abseitstor, doch ansonsten fiel ihnen gegen die zweikampfstarken Platzherren zu wenig ein. Lediglich Mario Götze kam einmal frei zum Schuss, scheiterte aber am sicheren Michael Rensing. Fast wäre es sogar mit einem 2:0 in die Pause gegangen, doch verzog Takashi Usami den Ball bei einer hundertprozentigen Chance nach Flanke von Jean Zimmer (38.). Vorausgegangen war erneut ein Pass des überragenden Stöger.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Der Ballbesitz der Gäste stieg weiter, doch das Tor machte erneut Fortuna – und was für eins. Zimmer, ansonsten nicht gerade als Torjäger bekannt, setzte die Kugel zehn Minuten nach Wiederbeginn passgenau in den Giebel. BVB-Trainer Lucien Favre warf nun alles nach vorn, wechselte Paco Alcacer und Jadon Sancho für Thomas Delaney und Jacob Bruun Larsen ein. Das erhöhte den Druck zwar weiter, aber die Düsseldorfer fanden immer wieder Gelegenheiten zum Kontern. Richtig eng wurde es aber doch noch einmal, als Alcacer seine erste Chance zum Anschlusstreffer per Kopf nutzte. Der BVB berannte nun das Düsseldorfer Tor stürmisch, doch mit Hilfe ihrer Fans brachte Fortuna das Ergebnis über die Zeit. Mit diesem Erfolg verschafften sich die Rot-Weißen viel Luft im Abstiegskampf – sie können nun mit breiter Brust nach Hannover fahren.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "figure",
+                              "data": {
+                                "type": "image",
+                                "width": 950,
+                                "height": 526,
+                                "src": {
+                                  "250w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_40e76083c2ab664dd088688eccd227c3/w250_h138_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "400w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_02b6a3c8d8e283e8d97a8b3560217695/w400_h221_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "600w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_67228bfefff56a07504655f032fe6a97/w600_h332_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "900w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_1ef8af7ac027795aa161814613be6c0a/w900_h498_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "950w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_df55ec5edb2d565188fb8a4655ef384d/w950_h526_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "1200w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_da1ab82ea6a88542c2a428768f16482e/w1200_h664_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg",
+                                  "1900w": "https://rp-online.de/imgs/32/4/4/5/8/6/8/4/7/tok_baebd0e262d059e175657363c5e5d85b/w1900_h1052_x2464_y1640_AFP_fAFP_1BP2H9-904d43b61bebbe6b.jpg"
+                                },
+                                "alt": "",
+                                "source": {
+                                  "text": "AFP/PATRIK STOLLARZ"
+                                },
+                                "caption": "BVB-Anhänger zündeln in Düsseldorf\n",
+                                "link": {
+                                  "type": "image",
+                                  "text": "9 Bilder",
+                                  "href": "/sport/fussball/bundesliga/fans-von-borussia-dortmund-zuenden-pyrotechnik-bei-fortuna-duesseldorf_bid-35215867"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"><strong>Fortuna</strong> Rensing - Mat. Zimmermann, Ayhan, Kaminski, Gießelmann - Sobottka (70. Bodzek) - J. Zimmer, Stöger, O. Fink, Usami (87. Raman) - Lukebakio (88. Hennings)<br><strong>Dortmund</strong> Bürki - Piszczek, Akanji (46. Toprak), Diallo, Schmelzer - Witsel, Delaney (60. Alcácer) - Pulisic, Reus, Bruun Larsen (60. Sancho) - M. Götze</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Schiedsrichter: Tobias Welz (Wiesbaden) <br><strong>Zuschauer</strong> 52.000 (ausverkauft)<br><strong>Tore</strong> 1:0 Lukebakio (22.), 2:0 J. Zimmer (56.), 2:1 Alcácer (81.)<br><strong>Gelbe Karten</strong> Stöger (4) / Pulisic (1), Piszczek (3)</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<a href=\"/sport/fussball/fortuna/fortuna-duesseldorf-borussia-dortmund-bilder-zum-spiel_bid-35206569#a\">Hier geht es zur Bilderstrecke: <b>Fortuna - Borussia Dortmund: die Bilder zum Spiel</b></a>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531\" data-widget-id=\"AR_10\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/sport/fussball/fortuna/fortuna-duesseldorf-ringt-borussia-dortmund-nieder-der-herbstmeister-2018-ist-geschlagen_aid-35216531\" data-widget-id=\"AR_10\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_c74059f4e566ca31240c3515f6f6c283/w250_h140_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_e3e08afbb10596e8c71f3eaadcadf7ff/w400_h224_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_51c569e49d0ca5890629bdc2e0a69808/w600_h336_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_ba3c0afd38ec8f1ebca86afb5a3dcfda/w900_h504_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_c5c5d188255ae93753e36b78948965de/w950_h532_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_c59b92659b96903f651832821e939d7b/w1200_h672_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/2/9/2/1/3/8/7/tok_3e12249df7b8ce20f6910dabd099384c/w1900_h1064_x1500_y843_DPA_bfunk_dpa_5F9AF0005E91A3CA-6809c2259c80a07b.jpg"
+                        },
+                        "alt": "Dodi Lukebakio (oben) stürzt im Zweikampf",
+                        "href": "/sport/fussball/fortuna/dodi-lukebakio-laesst-fortuna-duesseldorf-gegen-den-fc-bayern-muenchen-jubeln_aid-34689909",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Drei Tore beim FC Bayern"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Fortuna schafft dank Lukebakio ein kleines Fußballwunder"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_672ee82c2aa1a051565b062b78fdf915/w250_h140_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_f75ddbade43e57abc9f2e7dcd0af186b/w400_h224_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_fef2d2df80df3f5dae6c4edf7967a7d2/w600_h336_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_6c86a4358c667747a1f372094a2062e7/w900_h504_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_e566dd5c44f6d232201bb4a5aaf64a60/w950_h532_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/1/9/0/0/6/1/7/tok_1b021f625b9b9930d1dac29d7a957b9c/w1200_h672_x642_y440_DPA_bfunk_dpa_5F9A2600DE63423D-3c476650136f7e9a.jpg"
+                        },
+                        "alt": "Dodi Lukebakio und Andre Hofmann feiern",
+                        "href": "/sport/fussball/fortuna/fortuna-duesseldorf-lukebakio-kann-gegen-hertha-den-unterschied-machen_aid-34385703",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fortuna empfängt Hertha"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Lukebakio kann den Unterschied machen"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_f8ef8a22414367a9f730d5547ae0d60e/w250_h140_x1236_y697_59-e178ea2be1109715.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_d4db3f09c58a0576134d24176a30031a/w400_h224_x1236_y697_59-e178ea2be1109715.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_c6c236df9d4debedcaa865a2c1ce1271/w600_h336_x1236_y697_59-e178ea2be1109715.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_25aae9856c2be3abf7824ae995aef3ce/w900_h504_x1236_y697_59-e178ea2be1109715.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_e4b9b807fa793f04e4cbd739ca71be20/w950_h532_x1236_y697_59-e178ea2be1109715.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_3e2d30db7fd4c6ff45026705dbdd5a52/w1200_h672_x1236_y697_59-e178ea2be1109715.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/4/3/7/4/5/2/3/tok_00401a69ec1a3787da5fc5eaab52b1dd/w1900_h1064_x1236_y697_59-e178ea2be1109715.jpg"
+                        },
+                        "alt": "Rouwen Hennings steht gegen Freiburg in",
+                        "href": "/sport/fussball/fortuna/fortuna-duesseldorf-gegen-sc-freiburg-kenan-karaman-bekommt-chance-dodi-lukebakio-auf-der-bank_aid-35150553",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fortunas Startelf gegen Freiburg"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Karaman bekommt Chance, Lukebakio auf der Bank"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 34038473,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_1da2100b84bd7c444ac5b9f292dce2e2/w250_h187_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_887bebbdc446c0c78a02d8d380316174/w400_h300_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_1d8d6d3262fba8ac9e0c23486f315751/w600_h450_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_6afae0d7dbc59ce71c4ae97a85590efd/w900_h675_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_a98c54f8116ac446f8ba568d9d52c7be/w950_h712_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_886fec43176bf2b14608dbf84e6402d5/w1200_h900_x992_y614_28-f3ad2b0322febc49.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/0/7/8/2/4/9/1/tok_1001d86da2619d03e6b6104371cbf8e5/w1900_h1228_x992_y614_28-f3ad2b0322febc49.jpg"
+                              },
+                              "alt": "Kevin Stöger im Einsatz beim Spiel",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-kevin-stoeger-bleibt-optimist_aid-34038473",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortunas Kreativer sucht das Glück"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kevin Stöger bleibt Optimist"
+                              }
+                            },
+                            {
+                              "id": 34405421,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_13fa12831dcc6fe85f0bdd766e1aa9e3/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_b6e38e9acaa9dc22ffd106e411f5475f/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_78bf1301bbf492ba00af4d2fcd45f574/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_decc8315f5cdd61f25ba11e3661f9f14/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_bf2dc2318a6b5e56c4d1c83b1a44f92b/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_30fd2ae5dd4ea826061dd39b4205d072/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/1/9/6/0/4/1/3/tok_c1a3cd4a2bc9bc3e637606b9e486da04/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9AD400ED31171F-371b64b93779a642.jpg"
+                              },
+                              "alt": "Erzielte das 1:0 für Fortuna: der",
+                              "href": "/sport/fussball/fortuna/fussball-bundesliga-fortuna-duesseldorf-siegt-mit-4-1-gegen-hertha-bsc_aid-34405421",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "4:1 gegen Hertha BSC"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fortuna feiert ersehnten Sieg"
+                              }
+                            },
+                            {
+                              "id": 34404905,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_a53bb9322cfb084897fedb6622f60ec5/w250_h187_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_6f00120393bdf035f49adfd4b2897e90/w400_h300_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_3f5239cddc746f75302989858a60df77/w600_h450_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_960ba1c838ad81eeb4da29e238026f50/w900_h675_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_4adc51e573ff7c2fdbea3910482fee0b/w950_h712_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_a98b14a47e1c8266f4d04743b8312d4b/w1200_h900_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/1/9/5/9/8/0/7/tok_5364da514f7345ca77ddb73fcc28569b/w1900_h1425_x1190_y647_AP_329AC800DC114B1B-5b0dd0fbd98cd188.jpg"
+                              },
+                              "alt": "Setzt auf ein 4-4-2 gegen Hertha",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-oliver-fink-und-kaan-ayhan-gegen-hertha-bsc-zunaechst-auf-der-bank_aid-34404905",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortuna gegen Hertha BSC"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Funkel setzt Ayhan auf die Bank"
+                              }
+                            },
+                            {
+                              "id": 35217333,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_4a6b3d9d048d6efc84eab3056c04d01a/w250_h187_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_dd6c6264c7f12254d4b6fd2f45116e40/w400_h300_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_d7386eaaae193234ea117c3977fd92ee/w600_h450_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_b344d0b4cf0f2adccd4802dfa0f9d506/w900_h675_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_ee660785d9421b7321109a1e1c65cd9c/w950_h712_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_5f6a66fddf39e7adb164903aea89dbea/w1200_h900_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_cd1573dba88b99e8c2586cb61c193c56/w1900_h1425_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg"
+                              },
+                              "alt": "",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-siegt-triumph-des-miteinanders-gegen-borussia-dortmund_aid-35217333",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortunas 2:1 gegen Dortmund"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Ein Triumph des Miteinanders"
+                              }
+                            },
+                            {
+                              "id": 33503225,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_1e6b25b359940fa7e3edbc8dc08d2210/w250_h187_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "400w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_ca6a42a7f447a95df0d539a8f399eb4e/w400_h300_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "600w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_a1dddecc7c453da2b621e343edb2a610/w600_h450_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "900w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_1371b75359332c2ce54d2b877292b161/w900_h675_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "950w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_9a1c32abdc62adc6bd2ef8accfcc132e/w950_h712_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_922759e2240203fafb7435078dadcb78/w1200_h900_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_582c153e098031653ab3032fadab36a5/w1900_h1425_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg"
+                              },
+                              "alt": "2012 feierten die Fortunen in der",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-empfaengt-borussia-dortmund-live-ticker_aid-33503225",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Live-Ticker zum Nachlesen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fortuna kämpft Spitzenreiter Dortmund nieder"
+                              }
+                            },
+                            {
+                              "id": 35212977,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_5a403a8ca6e2cd0c42ed54517b2a29f2/w250_h187_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_c93ee0a4bf6b2ad66fe4cc65b560ba27/w400_h300_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_6849be8124e206dbe5a28799959f3719/w600_h450_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_1260ef8d5bcc5fafbffc143657531b11/w900_h675_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_138323774b448bfcce5f963ad739305f/w950_h712_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_12de1c7fd9220778bb150333d2342a80/w1200_h900_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg"
+                              },
+                              "alt": "",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-marcel-sobottka-steht-direkt-in-fortunas-startelf_aid-35212977",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bundesliga ab 20.30 Uhr im Live-Ticker"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Mit dieser Startelf will Fortuna die Dortmunder knacken"
+                              }
+                            },
+                            {
+                              "id": 35215897,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/8/6/9/0/3/tok_304470135bc6603e4281fedc4f1ffae8/w250_h187_x551_y98_RP_44503703_951850077_RGB_190_1_1_4c77ac07fad51a7cf8f0fe8483991359_1545162557_951850077_93330f2636-17af8d6574081e7f.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/8/6/9/0/3/tok_54003be750fff157e06118b0c0bb60be/w400_h300_x551_y98_RP_44503703_951850077_RGB_190_1_1_4c77ac07fad51a7cf8f0fe8483991359_1545162557_951850077_93330f2636-17af8d6574081e7f.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/8/6/9/0/3/tok_c856a812b4d38d21d89e207a8ab3d5f9/w600_h450_x551_y98_RP_44503703_951850077_RGB_190_1_1_4c77ac07fad51a7cf8f0fe8483991359_1545162557_951850077_93330f2636-17af8d6574081e7f.jpg"
+                              },
+                              "alt": "Fabian Johnson durfte für Borussia gegen",
+                              "href": "/sport/fussball/borussia/borussia-moenchengladbach-elfter-heimsieg-in-serie-fabian-johnsons-balleroberung-blieb-folgenlos_aid-35215897",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "2:0-Sieg gegen Nürnberg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Johnsons Balleroberung blieb folgenlos"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 35217333,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_4a6b3d9d048d6efc84eab3056c04d01a/w250_h187_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_dd6c6264c7f12254d4b6fd2f45116e40/w400_h300_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_d7386eaaae193234ea117c3977fd92ee/w600_h450_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_b344d0b4cf0f2adccd4802dfa0f9d506/w900_h675_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_ee660785d9421b7321109a1e1c65cd9c/w950_h712_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_5f6a66fddf39e7adb164903aea89dbea/w1200_h900_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/8/9/5/3/1/tok_cd1573dba88b99e8c2586cb61c193c56/w1900_h1425_x1478_y985_DPA_bfunk_dpa_5F9B2400F1B15E84-a689742c4acc39ac.jpg"
+                              },
+                              "alt": "",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-siegt-triumph-des-miteinanders-gegen-borussia-dortmund_aid-35217333",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortunas 2:1 gegen Dortmund"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Ein Triumph des Miteinanders"
+                              }
+                            },
+                            {
+                              "id": 33503225,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_1e6b25b359940fa7e3edbc8dc08d2210/w250_h187_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "400w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_ca6a42a7f447a95df0d539a8f399eb4e/w400_h300_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "600w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_a1dddecc7c453da2b621e343edb2a610/w600_h450_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "900w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_1371b75359332c2ce54d2b877292b161/w900_h675_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "950w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_9a1c32abdc62adc6bd2ef8accfcc132e/w950_h712_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_922759e2240203fafb7435078dadcb78/w1200_h900_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/3/9/5/1/4/1/6/1/tok_582c153e098031653ab3032fadab36a5/w1900_h1425_x1133_y493_DPA_bfunk_dpa_5F9B24003C471667-4164ace8fb073f16.jpg"
+                              },
+                              "alt": "2012 feierten die Fortunen in der",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-empfaengt-borussia-dortmund-live-ticker_aid-33503225",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Live-Ticker zum Nachlesen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fortuna kämpft Spitzenreiter Dortmund nieder"
+                              }
+                            },
+                            {
+                              "id": 35212977,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_5a403a8ca6e2cd0c42ed54517b2a29f2/w250_h187_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_c93ee0a4bf6b2ad66fe4cc65b560ba27/w400_h300_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_6849be8124e206dbe5a28799959f3719/w600_h450_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_1260ef8d5bcc5fafbffc143657531b11/w900_h675_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_138323774b448bfcce5f963ad739305f/w950_h712_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/8/1/4/6/7/tok_12de1c7fd9220778bb150333d2342a80/w1200_h900_x918_y612_DPA_bfunk_dpa_5F9A740075BB052E-9f1fa8af6e973530.jpg"
+                              },
+                              "alt": "",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-marcel-sobottka-steht-direkt-in-fortunas-startelf_aid-35212977",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bundesliga ab 20.30 Uhr im Live-Ticker"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Mit dieser Startelf will Fortuna die Dortmunder knacken"
+                              }
+                            },
+                            {
+                              "id": 35199117,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_c271a328650a5d82991d7d55f3bac84b/w250_h187_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_e65330a665c24f00d9656853ac1942d8/w400_h300_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_6ae703ea5fb1d81b5490ccb7bc4108e3/w600_h450_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_8c6a50597545d51ec1c24c6b46212ab4/w900_h675_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_c2480b15fe3d237d23507da51f2b09a7/w950_h712_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_35cbcd707f417aca31f0ca0dc3db5252/w1200_h900_x1246_y343_32-e87d49c7951c39db.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/2/2/5/6/1/tok_1dadaab1b67ec84bbb810c725a995379/w1900_h1406_x1246_y343_32-e87d49c7951c39db.jpg"
+                              },
+                              "alt": "Daumen hoch: Fortuna-Trainer Friedhelm Funkel.",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-gegen-borussia-dortmund-so-wuerden-die-rp-redakteure-aufstellen_aid-35199117",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortuna gegen Dortmund"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "So würden wir aufstellen"
+                              }
+                            },
+                            {
+                              "id": 35184837,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_3230ceac1c98c85b5d71d7cd76701177/w250_h187_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_fa39464aaaf9ce655baadeb27683db90/w400_h300_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_b02d314815e59ae4399542b633494844/w600_h450_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_91f3a4f197f8541ea014a71b31028342/w900_h675_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_9b5930fe012aa3ee9b9dc0d7b23b3a74/w950_h712_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_ace93a0e542f08fcd64e55d646cfd03c/w1200_h900_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/8/1/8/1/9/tok_803c2b936739181f0f46fb7970a2d582/w1900_h1425_x1500_y901_AP_329B1E005DE1E6B0-2970689ce68e601a.jpg"
+                              },
+                              "alt": "BVB-Spieler jubeln nach Paco Alcacers Treffer",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-trifft-auf-die-torfabrik-von-borussia-dortmund_aid-35184837",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortunas Gegner im Check"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Duell mit der Torfabrik aus Dortmund"
+                              }
+                            },
+                            {
+                              "id": 35185257,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_2b362c5f1829783ad0cca8bf9a97784c/w250_h187_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_170cd33d25b2daff5cc4a8773ab0bd25/w400_h300_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_5fc0cd901a0e4c67fb4eabf24aa66a84/w600_h450_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_17a7f36517b24133fd68b2f8529d0d3b/w900_h675_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_2f29e0a653f0dc770574b71daa9f152f/w950_h712_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_20e9755f6b45a163d7ffb59a932d358d/w1200_h900_x1250_y829_11-0cfb6728b8c6843f.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/8/3/5/5/1/tok_98a1a2eec198efacfd9b1a3dbf8897a4/w1900_h1425_x1250_y829_11-0cfb6728b8c6843f.jpg"
+                              },
+                              "alt": "",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-sportvorstand-lutz-pfannenstiel-macht-keine-panikeinkaeufe_aid-35185257",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fortunas neuer Sportvorstand Pfannenstiel"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "„Wir machen keine Panikkäufe“"
+                              }
+                            },
+                            {
+                              "id": 35159261,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/3/9/2/1/6/1/tok_75bc6f21d008cee8f7158a8348e16445/w250_h187_x600_y314_RP_44392209_947696103_RGB_190_1_1_e675d54377564e82c26eaae24476b8c8_1544970527_947696103_1b92c6ed28-8dc878069dcfef41.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/3/9/2/1/6/1/tok_a5bba2daa0083d6e5b90813818a92ecd/w400_h300_x600_y314_RP_44392209_947696103_RGB_190_1_1_e675d54377564e82c26eaae24476b8c8_1544970527_947696103_1b92c6ed28-8dc878069dcfef41.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/3/9/2/1/6/1/tok_506a87f1418de0d48a7be44292b134d7/w600_h450_x600_y314_RP_44392209_947696103_RGB_190_1_1_e675d54377564e82c26eaae24476b8c8_1544970527_947696103_1b92c6ed28-8dc878069dcfef41.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/3/9/2/1/6/1/tok_d5ef1f88f912cfccfac79c75a88ca12e/w900_h628_x600_y314_RP_44392209_947696103_RGB_190_1_1_e675d54377564e82c26eaae24476b8c8_1544970527_947696103_1b92c6ed28-8dc878069dcfef41.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/3/9/2/1/6/1/tok_4ef334c67cdffd9f29608aa20be02cff/w950_h628_x600_y314_RP_44392209_947696103_RGB_190_1_1_e675d54377564e82c26eaae24476b8c8_1544970527_947696103_1b92c6ed28-8dc878069dcfef41.jpg"
+                              },
+                              "alt": "Emotionen pur: Kaan Ayhan springt nach",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-kaan-ayhans-grosse-rueckkehr_aid-35159261",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Doppelpack bei Fortunas 2:0-Sieg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kaan Ayhans große Rückkehr"
+                              }
+                            },
+                            {
+                              "id": 35158205,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_70bf536354c66c04f858d2a77e25d0ed/w250_h187_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_1b67f754b8f20a3ab4ba3888035650a4/w400_h300_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_53febed9cda45f6eff82d5673fd524ef/w600_h450_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_d567f0da3ba98ea9c738c2a1d1d59827/w900_h675_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_01a377b81fd5adde8abaac1d460a831b/w950_h712_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_5d582b554483191d35def166a9040cfe/w1200_h900_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/3/8/8/2/0/7/tok_5126d45d51359051911560168af1b20e/w1900_h1425_x1110_y673_DPA_bfunk_dpa_5F9B1E00A7EBBD1D-785de6d150fb6bf1.jpg"
+                              },
+                              "alt": "Parallellauf: Fortunas Cheftrainer Friedhelm Funkel stürmt",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-beim-2-0-gegen-freiburg-ueberzeugt-der-aufsteiger-durch-stabilitaet_aid-35158205",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schlüssel zum Sieg gegen Freiburg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fortunas Defensive raubt dem Gegner die Ideen"
+                              }
+                            },
+                            {
+                              "id": 35153559,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_89cb8790c592e623951fd74241e6116a/w250_h187_x1316_y765_60-db1176e4572a812b.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_bdbdcb1ba8124453ae3b8f1d8a16cf79/w400_h300_x1316_y765_60-db1176e4572a812b.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_04fc0f542321c88477b06e56f0673603/w600_h450_x1316_y765_60-db1176e4572a812b.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_aa8ec15d1566447bdbae8d7cc01392a5/w900_h675_x1316_y765_60-db1176e4572a812b.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_ea06c8fdae459d593bfd755d03daac43/w950_h712_x1316_y765_60-db1176e4572a812b.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_2c80070f7e91660b125466b9b3f8a18d/w1200_h900_x1316_y765_60-db1176e4572a812b.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/3/7/8/0/1/3/tok_9a1c6556dc4fb30fed57704f8226dc84/w1900_h1425_x1316_y765_60-db1176e4572a812b.jpg"
+                              },
+                              "alt": "Fortuna-Trainer Friedhelm Funkel jubelt nach dem",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-mut-von-friedhelm-funkel-zahlt-sich-aus-kommentar_aid-35153559",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kommentar zum 2:0-Sieg von Fortuna"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Funkels Mut zahlt sich aus"
+                              }
+                            },
+                            {
+                              "id": 35153423,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_5a34a0798d67f8ca0d3cc5b530c9bb09/w250_h187_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_6a211d3d11805a8e25aeb37d5e8c9a41/w400_h300_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_7e858ae08ab7666561d72e55623636d5/w600_h450_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_bb70b443fe475420c5dc4ea218ec46e0/w900_h675_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_950a52e61c73272f33f3e3c619b76401/w950_h712_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/3/7/7/8/4/9/tok_248371cb95c9d87385b9e94a4d376431/w1200_h900_x901_y600_DPA_bfunk_dpa_5F9B1E0030B57C04-ef8556d7de81d486.jpg"
+                              },
+                              "alt": "Trainer Friedhelm Funkel feiert den 2:0-Sieg.",
+                              "href": "/sport/fussball/fortuna/fortuna-duesseldorf-die-fuenf-wichtigsten-fakten-zum-sieg-gegen-freiburg_aid-35153423",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Analyse zum Sieg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die fünf wichtigsten Fakten zu Fortunas Erfolg\n"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Schlagworte",
+                          "children": [
+                            {
+                              "component": "tags",
+                              "data": {
+                                "links": [
+                                  {
+                                    "href": "/thema/kevin-stoeger/",
+                                    "text": "Kevin Stöger"
+                                  },
+                                  {
+                                    "href": "/thema/dodi-lukebakio/",
+                                    "text": "Dodi Lukebakio"
+                                  },
+                                  {
+                                    "href": "/thema/jean-zimmer/",
+                                    "text": "Jean Zimmer"
+                                  },
+                                  {
+                                    "href": "/thema/rouwen-hennings/",
+                                    "text": "Rouwen Hennings"
+                                  },
+                                  {
+                                    "href": "/thema/marcel-sobottka/",
+                                    "text": "Marcel Sobottka"
+                                  },
+                                  {
+                                    "href": "/thema/michael-rensing/",
+                                    "text": "Michael Rensing"
+                                  },
+                                  {
+                                    "href": "/thema/mario-goetze/",
+                                    "text": "Mario Götze"
+                                  },
+                                  {
+                                    "href": "/thema/marcel-schmelzer/",
+                                    "text": "Marcel Schmelzer"
+                                  },
+                                  {
+                                    "href": "/thema/takashi-usami/",
+                                    "text": "Takashi Usami"
+                                  },
+                                  {
+                                    "href": "/thema/dortmund/",
+                                    "text": "Dortmund"
+                                  },
+                                  {
+                                    "href": "/thema/marco-reus/",
+                                    "text": "Marco Reus"
+                                  },
+                                  {
+                                    "href": "/thema/borussia-dortmund/",
+                                    "text": "Borussia Dortmund"
+                                  },
+                                  {
+                                    "href": "/thema/fortuna-duesseldorf/",
+                                    "text": "Fortuna Düsseldorf"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Fortuna Düsseldorf ringt Borussia Dortmund nieder - der Herbstmeister 2018 ist geschlagen"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Hitzefrei für die Community. Wir aktualisieren derzeit unser System. Deswegen können für ein paar Stunden keine Kommentare eingereicht werden."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 44588211,
+                      "url": "/api/comments?beitrag_id=44588211",
+                      "counturl": "/api/comments?type=count&beitrag_id=44588211"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=html&currentNode=65052"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/dinslaken/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Fußball",
+              "href": "/sport/fussball/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Borussia Mönchengladbach",
+                  "href": "/sport/fussball/borussia/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.sportsclubs.svg#borussia-moenchengladbach",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Fohlenfutter",
+                      "href": "/sport/fussball/borussia/fohlenfutter/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": true,
+                  "isAd": false,
+                  "text": "Fortuna",
+                  "href": "/sport/fussball/fortuna/",
+                  "target": "_self",
+                  "icon": "/assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Bundesliga",
+                  "href": "/sport/fussball/bundesliga/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "2. Bundesliga",
+                  "href": "/sport/fussball/zweiteliga/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Champions League",
+                  "href": "/sport/fussball/champions-league/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Europa League",
+                  "href": "/sport/fussball/europa-league/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "DFB-Pokal",
+                  "href": "/sport/fussball/dfb-pokal/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "WM",
+                  "href": "/sport/fussball/wm/",
+                  "target": "_self",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Andere Teams",
+                      "href": "/sport/fussball/wm/andere-teams/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "DFB-News",
+                      "href": "/sport/fussball/wm/dfb/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Historie",
+                      "href": "/sport/fussball/wm/historie/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Team-Porträts",
+                      "href": "/sport/fussball/wm/teams/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "International",
+                  "href": "/sport/fussball/international/",
+                  "target": "_self",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Andere Ligen",
+                      "href": "/sport/fussball/international/andere-ligen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "England",
+                      "href": "/sport/fussball/international/england/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Italien",
+                      "href": "/sport/fussball/international/italien/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Spanien",
+                      "href": "/sport/fussball/international/spanien/",
+                      "target": "_self"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Formel 1",
+              "href": "/sport/formel1/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Handball",
+              "href": "/sport/handball/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Handball-WM",
+                  "href": "/sport/handball/wm/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Tennis",
+              "href": "/sport/tennis/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Olympia",
+              "href": "/sport/olympia-winter/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "US-Sport",
+              "href": "/sport/us-sport/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "MLB",
+                  "href": "/sport/us-sport/mlb/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "NBA",
+                  "href": "/sport/us-sport/nba/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "NFL",
+                  "href": "/sport/us-sport/nfl/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "NHL",
+                  "href": "/sport/us-sport/nhl/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Wintersport",
+              "href": "/sport/wintersport/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Andere",
+                  "href": "/sport/wintersport/andere/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Biathlon",
+                  "href": "/sport/wintersport/biathlon/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Ski Alpin",
+                  "href": "/sport/wintersport/ski-alpin/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Ski Nordisch",
+                  "href": "/sport/wintersport/ski-nordisch/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Boxen",
+              "href": "/sport/boxen/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Radsport",
+              "href": "/sport/radsport/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Weitere Sportarten",
+              "href": "/sport/andere/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Darts",
+              "href": "/sport/darts/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

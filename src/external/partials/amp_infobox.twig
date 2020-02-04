@@ -1,0 +1,15 @@
+<div class="park-embed-infobox">
+  <div class="park-section-headline"><span class="park-section-headline__text">
+      {% if fragments.balken is empty %}
+        Info
+      {% else %}
+        {{ fragments.balken|raw }}
+      {% endif %}
+    </span></div>
+  <div class="park-embed-infobox__body">
+    {% if fragments.titel is not empty %}
+      <h2>{{ fragments.titel|raw }}</h2>
+    {% endif %}
+    <div class="park-embed-infobox__annotation">{{ fragments.text_daten.text|raw }}</div>
+  </div>
+</div>

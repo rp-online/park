@@ -1,0 +1,13 @@
+.park-tags {
+  &__tag {
+    @extend %tag;
+  }
+
+  &__link {
+    @include global-sans-serif-font-size(2);
+
+    color: black;
+  }
+
+  margin: 0.5rem 0 0.5rem 1rem;
+}

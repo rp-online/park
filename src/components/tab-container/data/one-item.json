@@ -1,0 +1,36 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Themenwelt"
+  },
+  "type": "card-narrow",
+  "blocks": [
+    {
+      "title": "One block",
+      "items": [
+        {
+          "text": "Passion for Fashion",
+          "image": {
+            "src": "./assets/images/71x54.jpg",
+            "alt": "Even more kitten"
+          }
+        },
+        {
+          "text": "Gute Vorsätze für 2017 :D"
+        },
+        {
+          "text": "Bauen und Wohnen"
+        },
+        {
+          "text": "Nessmann eröffnet neue Badaustellung"
+        },
+        {
+          "text": "Fortunafisch startet in die Rückrunde"
+        },
+        {
+          "text": "Bestattungstrends"
+        }
+      ]
+    }
+  ]
+}

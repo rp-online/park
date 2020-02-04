@@ -1,0 +1,22 @@
+{% if config.ads is defined and config.ads.provider is defined and config.ads.provider is same as('gpt') %}
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+<link rel="dns-prefetch" href="https://ads.pubmatic.com">
+<link rel="preconnect" href="https://ads.pubmatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://c.amazon-adsystem.com">
+<link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin>
+<script>
+  window.park.headerBidder.loadAndInit();
+</script>
+{% else %}
+  {% if config.appMode is not defined or config.appMode is same as(false) %}
+    {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_kamelle/metaTag.min.js' %}
+  {% else %}
+    {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_kamelle-app/metaTag.min.js' %}
+  {% endif %}
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+<link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+<script src="{{ stroeerMetatagURL }}"
+        async
+        onload="window.park.stroeer.init()"></script>
+{% endif %}

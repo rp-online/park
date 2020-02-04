@@ -1,0 +1,13 @@
+.park-card-article {
+  @include card;
+
+  padding-top: rem(20px);
+
+  a[target="_blank"] &__wrapper {
+    @extend %indicator-external;
+  }
+
+  .is-advertorial a[target="_blank"][title="Anzeige"] &__wrapper::after {
+    display: none;
+  }
+}

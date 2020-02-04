@@ -1,0 +1,18 @@
+<dialog id="park-overlay-{{ id }}"
+        class="park-overlay {% if startOpened is defined and startOpened is same as(true) %}park-overlay--start-opened{% endif %}"
+        tabindex="-1"{% if startOpened is not defined or startOpened is same as(false) %}
+  aria-hidden="true"
+  {% else %}
+  open
+  {% endif %}>
+  <div class="park-overlay__scrollcontainer">
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  </div>
+  <button class="park-overlay__close"
+          aria-controls="park-overlay-{{ id }}"
+          aria-expanded="{% if startOpened is not defined or startOpened is same as(false) %}false{% else %}true{% endif %}">{% include 'svg/cross-fat.svg' %}Fenster schließen
+  </button>
+</dialog>

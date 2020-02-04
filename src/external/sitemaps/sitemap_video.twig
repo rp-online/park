@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    {% for entry in entries %}
+        <url>
+            <loc>{{ entry['url'] }}</loc>
+            <video:video>
+                {% if entry['bild_url'] %}<video:thumbnail_loc>{{ entry['bild_url'] }}</video:thumbnail_loc>
+{% endif %}
+                <video:title>{{ entry['titel'] }}</video:title>
+                <video:description>{{ entry['teasertext'] }}</video:description>
+                <video:player_loc allow_embed="yes">{{ entry['video_url'] }}</video:player_loc>
+                <video:publication_date>{{ entry['datum'] }}</video:publication_date>
+                <video:uploader>{{ mandant_url }}</video:uploader>
+            </video:video>
+        </url>
+    {% endfor %}
+</urlset>

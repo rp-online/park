@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "readme": "This is the **example** component. It does nothing.",
+  "sourcecodes": {
+    "template": "<div class=\"park-example\">{{ text }}</div>",
+    "styles": ".park-example {\r\n  display: block;\r\n}\r\n",
+    "scripts": "(() => {\r\n  window.park.observer.initialize('.park-example', (elem) => {\r\n    window.park.console.log('Example component found!');\r\n  });\r\n})();\r\n"
+  },
+  "variants": [
+    {
+      "name": "default",
+      "preview": "https://templates.park.works/iframe.html",
+      "sourcecode": "{\r\n  \"text\": \"Hello world\"\r\n}"
+    }
+  ]
+}

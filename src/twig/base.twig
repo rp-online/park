@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+{% spaceless %}{% if globals is defined %}
+  {% if config is defined %}
+    {% set config = globals|merge(config) %}
+  {% else %}
+    {% set config = globals %}
+  {% endif %}
+{% endif %}
+  {% if config.rootBase is defined and config.assetsBase is defined %}
+    {% set export = {
+      'rootBase': config.rootBase,
+      'assetsBase': config.assetsBase,
+    } %}
+  {% else %}
+    {% set export = {
+      'rootBase': '/',
+      'assetsBase': '/assets/'
+    } %}
+  {% endif %}
+  {% if config.keys is defined %}
+    {% set export = export|merge({
+      'keys': config.keys
+    }) %}
+  {% endif %}
+  {% if config.version is defined %}
+    {% set export = export|merge({
+      'version': config.version
+    }) %}
+  {% else %}
+    {% set export = export|merge({
+      'version': '1'
+    }) %}
+  {% endif %}
+  {% if config.appMode is defined and config.appMode %}
+    {% set export = export|merge({
+      'isApp': true
+    }) %}
+  {% else %}
+    {% set export = export|merge({
+      'isApp': false
+    }) %}
+  {% endif %}
+  {% if config.isClickDummy is defined %}
+    {% set export = export|merge({
+      'isClickDummy': config.isClickDummy
+    }) %}
+  {% endif %}
+  {% if config.loginPage is defined %}
+    {% set export = export|merge({
+      'loginPage': config.loginPage
+    }) %}
+  {% endif %}
+  {% if config.loginOverlay is defined %}
+    {% set export = export|merge({
+      'loginOverlay': config.loginOverlay
+    }) %}
+  {% endif %}
+  {% if config.registrationPage is defined %}
+    {% set export = export|merge({
+      'registrationPage': config.registrationPage
+    }) %}
+  {% endif %}
+  {% if config.searchPage is defined %}
+    {% set export = export|merge({
+      'searchPage': config.searchPage
+    }) %}
+  {% endif %}
+  {% if config.settingsPage is defined %}
+    {% set export = export|merge({
+      'settingsPage': config.settingsPage
+    }) %}
+  {% endif %}
+  {% if config.validateEmailURL is defined %}
+    {% set export = export|merge({
+      'validateEmailURL': config.validateEmailURL
+    }) %}
+  {% endif %}
+  {% if config.bookmarksPage is defined %}
+    {% set export = export|merge({
+      'bookmarksPage': config.bookmarksPage
+    }) %}
+  {% endif %}
+  {% if config.subscriptionsPage is defined %}
+    {% set export = export|merge({
+      'subscriptionsPage': config.subscriptionsPage
+    }) %}
+  {% endif %}
+  {% if config.dataPrivacyPage is defined %}
+    {% set export = export|merge({
+      'dataPrivacyPage': config.dataPrivacyPage
+    }) %}
+  {% endif %}
+  {% if config.myNewsPage is defined %}
+    {% set export = export|merge({
+      'myNewsPage': config.myNewsPage
+    }) %}
+  {% endif %}
+  {% if config.adblocker is defined %}
+    {% set export = export|merge({
+      'adblocker': config.adblocker
+    }) %}
+  {% endif %}
+  {% if config.notifications is defined %}
+    {% set export = export|merge({
+      'notifications': config.notifications
+    }) %}
+  {% endif %}
+  {% if config.personalArea is defined %}
+    {% set export = export|merge({
+      'personalArea': config.personalArea
+    }) %}
+  {% endif %}{% endspaceless %}
+<html lang="de"
+      class="js-disabled fonts-loaded
+{% if config.development is defined and config.development is same as(true) %} is-development {% endif %}
+{% if config.advertorial is defined and config.advertorial is same as(true) %} is-advertorial {% endif %}
+{% if config.disableAds is defined and config.disableAds %} is-ad-free {% endif %}
+{% if config.appMode is defined and config.appMode %} is-app {% endif %}
+{% if config.appMode is defined and config.appMode is same as('embedded') %} is-embedded {% endif %}
+{% if config.isSingleComponent is defined and config.isSingleComponent is same as(true) %} park-embeddable-component {% endif %}
+ {% block extraClass %}{% endblock %}"
+      style="
+  {% if config.ads is defined and config.ads.stickyAdText is defined and config.ads.stickyAdText %}--park-portal--sticky-portal-text: '{{ config.ads.stickyAdText|escape('html') }}';{% endif %}
+        "
+      data-config="{{ export|json_encode()|escape('html') }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, initial-scale=1{% if config.appMode is defined and config.appMode %}, user-scalable=no, minimum-scale=1, maximum-scale=1{% endif %}">
+  {% if config.appMode is not defined or config.appMode is same as(false) %}
+    <script>
+      {% spaceless %}{#
+    If tablet or bigger, fix viewport to create space for the ads
+    (also see: https://mydevice.io/devices/#sortTablets)
+    #}
+      {% endspaceless %}if (window.matchMedia && matchMedia('screen and (min-width: 45.3125em)').matches) {
+        document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=1325, user-scalable=no');
+
+        window.setTimeout(function () {
+          document.querySelector('meta[name="viewport"]').setAttribute('content', 'width=1325');
+        }, 1000);
+      }
+    </script>
+  {% endif %}
+
+  {% include 'skins/' ~ config.client ~ '/fonts-preload.twig' %}
+  <link rel="preload"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/head.css?v={{ config.version }}"
+        as="style">
+  <link rel="preload"
+        href="{{ config.assetsBase }}/head.js?v={{ config.version }}"
+        as="script">
+  <link rel="preload"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/main.css?v={{ config.version }}"
+        as="style">
+  <link rel="preconnect" href="https://script.ioam.de">
+  <link rel="dns-prefetch" href="https://script.ioam.de">
+  <link rel="preload" href="{{ config.assetsBase }}/main.es6.js?v={{ config.version }}" as="script" crossorigin>
+  <link rel="preload" href="{{ config.assetsBase }}/widgets/vendor.js?v={{ config.version }}" as="script">
+  <link rel="preload" href="{{ config.assetsBase }}/widgets/twig-worker.js?v={{ config.version }}" as="worker">
+  {% if config.preload is defined and config.preload is iterable %}
+    {% if 'youtube' in config.preload %}
+      <link rel="preconnect" href="https://www.youtube.com">
+      <link rel="dns-prefetch" href="https://www.youtube.com">
+      <link rel="preconnect" href="https://i.ytimg.com">
+      <link rel="dns-prefetch" href="https://i.ytimg.com">
+      <link rel="preload" href="https://www.youtube.com/iframe_api" as="script">
+    {% endif %}
+  {% endif %}
+  {% if config.keys is defined and config.keys.imageEngine is defined %}
+    <link rel="preconnect" href="https://{{ config.keys.imageEngine }}.imgeng.in">
+    <link rel="dns-prefetch" href="https://{{ config.keys.imageEngine }}.imgeng.in">
+  {% endif %}
+  <title>{% block title %}Park{% endblock %}</title>
+  <meta http-equiv="origin-trial" content="Ao67RaceBuIVNSSnEwpyWqHpdTB3R+l7JZRCp2FnZu/6k+TyFOmSovBszbR4Cpj7oOHc7FpyFiF71cTbqxPytw4AAABneyJvcmlnaW4iOiJodHRwczovL3JwLW9ubGluZS5kZTo0NDMiLCJmZWF0dXJlIjoiRGlzcGxheUxvY2tpbmciLCJleHBpcnkiOjE1NzYzMTQ4MjIsImlzU3ViZG9tYWluIjp0cnVlfQ==">
+  <meta http-equiv="origin-trial" content="Ah+c5l+ginn32IEAzl0wVh+DeHbBHzS8qDm+db/lgK4ynD+jQfXqbAwa1Hlj0hObrsMH5jGuphT3vUKqg8YGewIAAABneyJvcmlnaW4iOiJodHRwczovL3JwLW9ubGluZS5kZTo0NDMiLCJmZWF0dXJlIjoiRGlzcGxheUxvY2tpbmciLCJleHBpcnkiOjE1Nzg1NjMwMjIsImlzU3ViZG9tYWluIjp0cnVlfQ==">
+  {% flush %}
+  {% include 'skins/' ~ config.client ~ '/fonts-embed.twig' %}
+  <style>
+    xmp {
+      display: none;
+    }
+
+    {% include 'critical/skins/' ~ config.client ~ '/exports.css' %}
+  </style>
+  {% if config.isSingleComponent is not defined or config.isSingleComponent is same as(false) %}
+    {% if config.development is not defined or not config.development is same as(true) %}
+      <script>
+        (function() {
+          var styles = window.localStorage.getItem('park.head.css.{{ config.client }}.{{ config.version }}');
+
+          if (styles) {
+            document.write('<style>' + styles.replace('sourceMappingURL=head', 'sourceMappingURL={{ config.assetsBase }}/skins/{{ config.client }}/head')  + '</style>');
+          } else {
+            document.write('<link href="{{ config.assetsBase }}/skins/{{ config.client }}/head.css?v={{ config.version }}" rel="stylesheet" data-client="{{ config.client }}" data-version="{{ config.version }}">');
+          }
+        })();
+      </script>
+    {% endif %}
+  {% endif %}
+  {% if config.isSingleComponent is defined and config.isSingleComponent is same as(true) %}
+    <link
+      href="{{ config.assetsBase }}/skins/{{ config.client }}/main.css?v={{ config.version }}"
+      rel="stylesheet">
+  {% endif %}
+  <noscript>
+    <link
+      href="{{ config.assetsBase }}/skins/{{ config.client }}/main.css?v={{ config.version }}"
+      rel="stylesheet">
+    <link
+      href="{{ config.assetsBase }}/skins/{{ config.client }}/print.css?v={{ config.version }}"
+      media="print"
+      rel="stylesheet">
+  </noscript>
+  {% if config.isSingleComponent is not defined or config.isSingleComponent is same as(false) %}
+  {% if config.development is not defined or not config.development is same as(true) %}
+    <script>
+      var link = document.createElement('link');
+
+      link.rel = 'stylesheet';
+      link.href = '{{ config.assetsBase }}/skins/{{ config.client }}/main.css?v={{ config.version }}';
+
+      document.head.appendChild(link);
+    </script>
+  {% else %}
+  <link
+    href="{{ config.assetsBase }}/skins/{{ config.client }}/main.css?v={{ config.version }}"
+    rel="stylesheet">
+  {% endif %}
+    <script>
+      var link = document.createElement('link');
+
+      link.rel = 'stylesheet';
+      link.media = 'print';
+      link.href = '{{ config.assetsBase }}/skins/{{ config.client }}/print.css?v={{ config.version }}';
+
+      document.head.appendChild(link);
+    </script>
+  {% endif %}
+  <!--[IF !IE]> -->
+  {% if config.disableAds is not defined or not config.disableAds is same as(true) %}
+    <script>
+      window.ads = {{ config.ads|json_encode()|replace({'\\/': '\\uD83C\\uDFDE'})|raw }};
+    </script>
+  {% endif %}
+  <script>
+    if (!window.Promise) {
+      document.write('<script src="{{ config.assetsBase }}/es6-polyfill.js?v={{ config.version }}"></' + 'script>');
+    }
+    if (!window.IntersectionObserver) {
+      document.write('<script src="{{ config.assetsBase }}/intersection-observer-polyfill.js?v={{ config.version }}"></' + 'script>');
+    }
+  </script>
+  {% if (config.development is not defined or not config.development is same as(true)) and (config.isSingleComponent is not defined or config.isSingleComponent is same as(false)) %}
+    <script>
+      (function() {
+        var scripts = window.localStorage.getItem('park.head.js.{{ config.client }}.{{ config.version }}');
+
+        if (scripts) {
+          document.write('<script>' + scripts.replace('sourceMappingURL=head', 'sourceMappingURL={{ config.assetsBase }}/head') + '</' + 'script>');
+        } else {
+          document.write('<script src="{{ config.assetsBase }}/head.js?v={{ config.version }}" data-client="{{ config.client }}" data-version="{{ config.version }}"></' + 'script>');
+        }
+      })();
+    </script>
+  {% else %}
+    <script src="{{ config.assetsBase }}/head.js?v={{ config.version }}"></script>
+  {% endif %}
+  <script type="module"
+          crossorigin
+          async
+          src="{{ config.assetsBase }}/main.es6.js?v={{ config.version }}"></script>
+  <script nomodule
+          async
+          src="{{ config.assetsBase }}/main.js?v={{ config.version }}"></script>
+  <script async
+          src="{{ config.assetsBase }}/widgets/vendor.js?v={{ config.version }}"></script>
+  {% if config.preload is defined and config.preload is iterable %}
+    {% if 'youtube' in config.preload %}
+      <script>
+        window.park.resourceLoader.script('https://www.youtube.com/iframe_api');
+      </script>
+    {% endif %}
+  {% endif %}
+  {% include 'skins/' ~ config.client ~ '/header-scripts.twig' %}
+  {% if config.personalArea is not defined or not config.personalArea is same as(true) %}
+    {% if config.disableAds is not defined or not config.disableAds is same as(true) %}
+      {% if config.disableTrackers is not defined or not config.disableTrackers is same as(true) %}
+        {% include 'skins/' ~ config.client ~ '/ad-scripts.twig' %}
+      {% endif %}
+    {% endif %}
+  {% endif %}
+  <meta name="robots"
+        content="{% if config.noindex is defined and config.noindex is same as(true) %}no{% endif %}index,follow,noarchive,noodp">
+  {% if config.noindex is not defined or config.noindex is same as (false) %}
+    <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+  {% endif %}
+  {% if config.links is defined %}
+    {% for entry in config.links %}
+      <link{% for attribute, value in entry %} {{ attribute }}="{{ value|escape('html') }}"{% endfor %}>
+    {% endfor %}
+  {% endif %}
+  {% if config.metadata is defined %}
+    {% for entry in config.metadata %}
+      <meta{% for attribute, value in entry %} {{ attribute }}="{{ value|raw }}"{% endfor %}>
+    {% endfor %}
+  {% endif %}
+  {% if config.title is defined and config.title %}
+    <meta name="application-name" content="{{ config.title|replace({'"':'&quot;'})|raw }}">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#ffffff">
+  {% endif %}
+  {% if config.jsonLd is defined %}
+    <script type="application/ld+json">
+      {{ config.jsonLd|json_encode()|raw }}
+    </script>
+  {% endif %}
+  {% if config.dataLayer is defined and config.dataLayer is not same as(false) %}
+    <script>
+      (function () {
+        var dataLayer = {{ config.dataLayer|json_encode()|raw }};
+
+        window.dataLayer = [];
+
+        if (dataLayer.mobile || dataLayer.desktop) {
+          if (!window.park.device.isMobile()) {
+            if (dataLayer.desktop) {
+              window.dataLayer = [dataLayer.desktop];
+            }
+          } else {
+            if (dataLayer.mobile) {
+              window.dataLayer = [dataLayer.mobile];
+            }
+          }
+        } else {
+          window.dataLayer = [dataLayer];
+        }
+      })();
+    </script>
+  {% endif %}
+  {% if config.iam_data is defined and config.iam_data is not same as(false) %}
+    <script>
+      window.iam_data = {{ config.iam_data|json_encode()|raw }};
+      var script = document.createElement('script');
+
+      script.onload = function () {
+        window.park.ivw.trackPageView();
+      };
+      script.async = true;
+      script.src = 'https://script.ioam.de/iam.js';
+      document.head.appendChild(script);
+    </script>
+  {% endif %}
+  {% if config.disableTrackers is not defined or not config.disableTrackers is same as(true) %}
+  {% if config.cre is defined and config.cre is not same as(false) %}
+    <script>
+      window.cre = {{ config.cre|json_encode()|raw }};
+    </script>
+  {% endif %}
+  {% if config.dataLayer is defined and config.dataLayer is not same as(false) %}
+  {% if config.keys is defined and config.keys.googleTagManager is defined and config.keys.googleTagManager != '' %}
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+          'gtm.start':
+            new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+          'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'dataLayer', '{{ config.keys.googleTagManager }}');
+    </script>
+  {% endif %}
+  {% endif %}
+  {% endif %}
+  <!-- <![ENDIF]-->
+  <meta name="msapplication-config"
+        content="{{ config.assetsBase }}/skins/{{ config.client }}/browserconfig.xml?v={{ config.version }}">
+  <link rel="icon"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/favicon.ico?v={{ config.version }}"
+        sizes="16x16 32x32 48x48"
+        type="image/x-icon">
+  <link rel="shortcut icon"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/favicon.ico?v={{ config.version }}"
+        sizes="16x16 32x32 48x48" type="image/x-icon">
+  <link rel="apple-touch-icon-precomposed"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/apple-icon-precomposed.png?v={{ config.version }}">
+  <link rel="apple-touch-icon" sizes="180x180"
+        href="{{ config.assetsBase }}/skins/{{ config.client }}/apple-icon-180x180.png?v={{ config.version }}">
+  <link rel="manifest" href="{{ config.assetsBase }}/skins/{{ config.client }}/manifest.json?v={{ config.version }}">
+</head>
+<body itemscope itemtype="http://schema.org/WebPage">
+{% include 'twig/globals-check.twig' %}
+{% if config.disableTrackers is not defined or not config.disableTrackers is same as(true) %}
+  {% if config.vgwort is defined %}
+    {% include 'components/vgwort/template.twig' with {
+      'config': config
+    } only %}
+  {% endif %}
+{% endif %}
+{% include 'components/svg-spritesheet/template.twig' %}
+{% block header %}
+  {% if header is defined %}
+    {% set header = header|merge({'config': config}) %}
+    {% include 'components/header/template.twig' with header only %}
+  {% endif %}
+{% endblock %}
+<!--[IF !IE]> -->
+{% if config.disableTrackers is not defined or not config.disableTrackers is same as(true) %}
+  {% if config.dataLayer is defined and config.dataLayer is not same as(false) %}
+    {% if config.keys is defined and config.keys.googleTagManager is defined %}
+      <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id={{ config.keys.googleTagManager }}" height="0"
+                width="0"
+                style="display:none;visibility:hidden"></iframe>
+      </noscript>
+    {% endif %}
+  {% endif %}
+{% endif %}
+<!-- <![ENDIF]-->
+<div class="park-fakebody">
+  <script>
+    (function(){
+      if (
+        window.park &&
+        window.park.device &&
+        window.park.device.isMobile &&
+        window.park.device.isMobile()
+      ) {
+        // Don't patch document.body when on mobile
+        return;
+      }
+
+      Object.defineProperty(document, 'body', {
+        get: function () {
+          return document.querySelector('.park-fakebody');
+        }
+      });
+
+      document.documentElement.addEventListener('click', function(e) {
+        if (e.target.matches('.park-fakebody, .park-fakebody__contents')) {
+          document.querySelector('body').click();
+        }
+      }, true);
+    })();
+  </script>
+  <div class="park-fakebody__contents">
+    {% block page_content %}
+      no content yet
+    {% endblock %}
+  </div>
+  {% block footer %}
+    {% if footer is defined %}
+      {% set footer = footer|merge({'config': config}) %}
+      {% include 'components/footer/template.twig' with footer only %}
+    {% endif %}
+  {% endblock %}
+</div>
+{% if (config.appMode is not defined or config.appMode is not same as('embedded')) and (config.footer is not defined or config.footer is not same as(false)) %}
+  {% if (config.personalArea is not defined or config.personalArea is same as(false)) and (compactMode is not defined or compactMode is same as(false)) %}
+    <div class="park-footer__navigation">
+      <nav id="park-navigation"
+           class="park-navigation
+           {% if (extendedMode is defined and extendedMode is same as(true)) %}
+            park-navigation--is-extended {% endif %}"
+           tabindex="-1">
+        <!--[IF !IE]> -->
+        <script>
+          (function () {
+            var elem = window.park.$('.park-navigation').pop();
+            elem.setAttribute('aria-hidden', 'true');
+          })();
+        </script>
+        <!-- <![ENDIF]-->
+        {% if footer is defined and footer.navigation is defined %}
+          {% if footer.navigation.ajax is defined and footer.navigation.ajax.url is defined %}
+            <link rel="preload" href="{{ footer.navigation.ajax.url }}" crossorigin="anonymous" as="fetch">
+          {% endif %}
+          {% include 'components/widget/template.twig' with {
+            'type': 'navigation',
+            'component': 'navigation',
+            'initialState': footer.navigation,
+            'config': config
+          } only %}
+        {% endif %}
+      </nav>
+    </div>
+  {% endif %}
+  {% if (config.appMode is not defined or not config.appMode) and (config.notifications is defined and config.notifications.distribution is defined and config.notifications.distribution.onsite is defined and config.notifications.distribution.onsite) %}
+    {% include 'components/widget/template.twig' with {
+      'type': 'notification-panel',
+      'component': 'notification-panel',
+      'config': config
+    } only %}
+  {% endif %}
+{% endif %}
+{% if config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% if config.tisoomi is defined and config.tisoomi.javascript is defined %}
+    <script>{{ config.tisoomi.javascript|raw }}</script>
+  {% endif %}
+{% endif %}
+{% include 'skins/' ~ config.client ~ '/footer-scripts.twig' ignore missing %}
+</body>
+</html>

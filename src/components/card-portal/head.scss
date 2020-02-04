@@ -1,0 +1,21 @@
+.park-card-portal {
+  @include card-status-styles;
+
+  position: relative;
+  display: block;
+  padding-top: rem(20px);
+
+  .park-portal.park-portal {
+    display: block;
+  }
+
+  .park-portal {
+    height: 100%;
+    margin: 0;
+    background-color: #fff;
+
+    * {
+      width: 100%;
+    }
+  }
+}

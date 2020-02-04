@@ -1,0 +1,116 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Mehr aus dem Web"
+  },
+  "items": [
+    {
+      "id": 1,
+      "type": "image",
+      "isAd": false,
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schön auf die Zwölf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Hier übt Barack Obama Kitesurfen"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "isAd": false,
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Zukünftiger Rennfahrer"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "isAd": false,
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Schnarch..."
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "isAd": false,
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Verkehrssicherheit"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Neue Smartphone-Ampeln in den Niederlanden"
+      }
+    },
+    {
+      "id": 1,
+      "type": "info",
+      "isAd": false,
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Verkehrssicherheit"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Neue Smartphone-Ampeln in den Niederlanden"
+      }
+    },
+    {
+      "id": 1,
+      "type": "video",
+      "isAd": false,
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Verkehrssicherheit"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Neue Smartphone-Ampeln in den Niederlanden"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "isAd": false,
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Verkehrssicherheit"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Neue Smartphone-Ampeln in den Niederlanden"
+      }
+    }
+  ]
+}

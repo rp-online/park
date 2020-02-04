@@ -1,0 +1,12 @@
+{% if config.appMode is not defined or config.appMode is not same as('embedded') %}
+{% if not config.personalisationDisabled %}
+<button type="button"
+        class="park-button-bookmark
+        {% if isBookmarked is defined and isBookmarked is same as(true) %}
+          is-bookmarked
+        {% endif %}"
+        title="Diesen Beitrag zur Merkliste hinzufügen"
+        data-bookmark="{{ id }}"
+        data-authentication-required><svg><use xlink:href="#park-svg-spritesheet-bookmark"></use></svg>{% if text is defined and text %} {{ text }}{% endif %}</button>
+{% endif %}
+{% endif %}

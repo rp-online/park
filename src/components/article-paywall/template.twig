@@ -1,0 +1,80 @@
+<section class="park-article-paywall" role="alert">
+  <div class="park-article-paywall__wrapper{% if (main.layout is defined and main.layout is not same as(false)) %} park-article-paywall__wrapper--{{ main.layout }}{% endif %}">
+    <div class="park-article-paywall__main">
+
+      <div class="park-article-paywall__content">
+        {% set premiumicon %}
+            {% include 'components/premium-icon/template.twig' with {} only %}
+        {% endset %}
+        <h4 class="park-article-paywall__headline">{{ headline | replace({':premium:': premiumicon}) | raw  }}</h4>
+        <p class="park-article-paywall__text">{{ text }}</p>
+        {% if subline is defined and subline %}
+          <p class="park-article-paywall__text park-article-paywall__legal" style=" max-width: 520px; margin: -10px auto 20px;">{{ subline|raw }}</p>
+        {% endif %}
+        <ul>
+        {% if (offers is defined and offers is not same as(false)) %}
+          {% for offer in offers %}
+            <li class="park-article-paywall_option" data-offer="{{ offer|json_encode()|escape('html') }}">
+              {% if offer.selected %}
+                {% set checked = true %}
+              {% else %}
+                {% set checked = false %}
+              {% endif %}
+              {% set label %}
+                  <aside class="park-article-paywall__offer-priceWrapper">
+                    <span class="park-article-paywall__offer-price">{{ offer.price }}</span>
+                    <span class="park-article-paywall__offer-priceInfo">{{ offer.priceinfo }}</span>
+                    <span class="park-article-paywall__offer-priceExtension">{{ offer.priceextension }}</span>
+                  </aside>
+                  <strong class="park-article-paywall__offer-title">{{ offer.name }}</strong>
+                  <span class="park-article-paywall__offer-text">{{ offer.text }}</span>
+              {% endset %}
+              {%
+              include 'components/input/template.twig' with {
+                'type': 'radio',
+                'name': 'offer',
+                'label': label,
+                'value': offer.id,
+                'checked': checked,
+                'config': config,
+                'offer': offer
+                } only %}
+
+
+            </li>
+          {% endfor %}
+        {% endif %}
+        </ul>
+        <div class="park-article-paywall__cta">
+          {% set ctaButton = cta %}
+          {% include 'components/button/template.twig' with ctaButton only %}
+          <aside class="park-article-paywall__login"><br />
+                  <p
+                    class="park-article-paywall__text">{{ login.text }} <a href="{{ login.cta.href }}" class="park-article-paywall__login-link">{{ login.cta.text }}</a>
+                  </p>
+                </aside>
+          {% if (vendors is defined and vendors is not same as(false)) %}
+            {% if (vendors.subscribeWithGoogle is defined and vendors.subscribeWithGoogle is not same as(false)) %}
+              {% include 'components/spacer/template.twig' with { 'label': 'oder' } %}
+              <script async src="https://news.google.com/swg/js/v1/swg.js"></script>
+              <button class="swg-button-light" onclick="buttonAction()"></button>
+            {% endif %}
+            {% if (vendors.loginWithGoogle is defined and vendors.loginWithGoogle is not same as(false)) %}
+                {% include 'components/spacer/template.twig' with { 'label': 'oder' } %}
+                {% include 'components/button/template.twig' with {
+                    'config': config,
+                    'class': 'google',
+                    'style': 'google',
+                    'href': '/auth/google/connect?optin=1',
+                    'text': 'mit Google anmelden'
+                } %}
+            {% endif %}
+          {% endif %}
+        </div>
+        {% if footer.text is defined and footer.text %}
+          <p class="park-article-paywall__text park-article-paywall__legal" style="margin: 20px auto auto; max-width: 520px;">{{ footer.text|raw }}</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</section>

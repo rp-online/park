@@ -1,0 +1,10 @@
+{
+  "type": "cta-newsletter",
+  "initialState": {
+    "header": {
+      "headline": "Stimme des Westens",
+      "text": "Erhalten Sie kostenlos den Newsletter unseres Chefredakteurs"
+    },
+    "groupName": "stimme-des-westens"
+  }
+}

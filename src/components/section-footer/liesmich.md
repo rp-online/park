@@ -1,0 +1,1 @@
+Die Section-Footer-Komponente kann weiterführende Links zu Ressortseiten enthalten. Sie kommt, wie Ihr Name suggeriert, als letztes Element in eine [Section](#section).

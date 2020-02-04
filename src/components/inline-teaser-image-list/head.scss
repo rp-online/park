@@ -1,0 +1,32 @@
+.park-inline-teaser-image-list {
+  display: inline-block;
+
+  &::after {
+    content: '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -';
+    display: block;
+    visibility: hidden;
+    overflow: hidden;
+    height: 1px;
+    line-height: 1px;
+  }
+
+  .park-teaser-image-list {
+    color: transparent;
+  }
+
+  .park-section-headline {
+    margin: 0 0 rem(10px) 0;
+  }
+
+  .park-teaser-image-list__list {
+    display: block;
+    padding: rem(5px) 0;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+  }
+
+  .park-teaser-image-list-item__link {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

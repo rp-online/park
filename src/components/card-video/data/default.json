@@ -1,0 +1,10 @@
+{
+  "type": "video",
+  "src": "./assets/images/950x534.jpg",
+  "href": "#void",
+  "alt": "Obama beim Kitesurfen",
+  "headline": {
+    "tag": "span",
+    "text": "Hier übt Barack Obama Kitesurfen"
+  }
+}

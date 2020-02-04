@@ -1,0 +1,3 @@
+Dies ist nur eine Hilfskomponente, die `document.body` patched und Zugriffe darauf auf sich selbst umleitet. Abgefangen werden sollen alle Werbemittel, die sich an `document.body` anheften. Unsere Hilfskomponente sperrt sie in einen separaten Stacking-Context ein und verhindert so, dass sie sich mit überhöhten z-indexes über unser Menü legen können.
+
+**Wichtig:** Wenn wir per JavaScript auf das echte `<body>`-Element zugreifen wollen, dann müssen wir das per `document.querySelector('body')` tun. 

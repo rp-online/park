@@ -1,0 +1,115 @@
+.park-edit-profile {
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+
+  .park-form {
+    padding: 0;
+  }
+
+  .park-input--street {
+    width: calc(75% - #{$global-spacing});
+    margin-right: $global-spacing;
+  }
+
+  .park-input--street_no,
+  .park-input--zip_code {
+    width: 25%;
+  }
+
+  .park-input--city {
+    width: calc(75% - #{$global-spacing});
+    margin-left: $global-spacing;
+  }
+
+  @include mq(desktop) {
+    .park-form-fieldset__wrapper {
+      display: grid;
+      grid-template-columns: 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr $global-spacing 1fr;
+    }
+
+    .park-input-group {
+      -ms-grid-column-span: 5;
+    }
+
+    .park-input--login,
+    .park-input--email,
+    .park-input--password,
+    .park-radio-group--gender {
+      -ms-grid-row: 1;
+      grid-row: 1;
+    }
+
+    .park-input--firstname,
+    .park-input--lastname {
+      -ms-grid-row: 2;
+      grid-row: 2;
+    }
+
+    .park-input--street,
+    .park-input--street_no {
+      -ms-grid-row: 3;
+      grid-row: 3;
+    }
+
+    .park-input--zip_code,
+    .park-input--city {
+      -ms-grid-row: 4;
+      grid-row: 4;
+    }
+
+    .park-input--phone {
+      -ms-grid-row: 5;
+      grid-row: 5;
+    }
+
+    .park-radio-group--gender {
+      -ms-grid-column-span: 11;
+      grid-column: 1 / 12;
+    }
+
+    .park-input--login,
+    .park-input--firstname,
+    .park-input--phone {
+      -ms-grid-column: 1;
+      grid-column: 1 / 6;
+    }
+
+    .park-input--email,
+    .park-input--lastname {
+      -ms-grid-column: 7;
+      grid-column: 7 / 12;
+    }
+
+    .park-input--street {
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 9;
+      grid-column: 1 / 10;
+    }
+
+    .park-input--street_no {
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 1;
+      grid-column: 11 / 12;
+    }
+
+    .park-input--password {
+      -ms-grid-column: 13;
+      grid-column: 13 / 18;
+    }
+
+    .park-input--zip_code {
+      -ms-grid-column: 1;
+      -ms-grid-column-span: 1;
+      grid-column: 1 / 2;
+      width: auto;
+    }
+
+    .park-input--city {
+      -ms-grid-column: 3;
+      -ms-grid-column-span: 9;
+      grid-column: 3 / 12;
+      width: auto;
+      margin-left: 0;
+    }
+  }
+}

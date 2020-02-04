@@ -1,0 +1,1 @@
+Diese Komponente ist im Prinzip die [markdown](#markdown)-Komponente, nur in Sache nStyling angepasst für Formulare. Der Inhalt in der Eigenschaft `text` kann wahlweise als Richtext in Markdown- oder HTML-Annotation übergeben werden.

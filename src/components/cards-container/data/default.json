@@ -1,0 +1,48 @@
+{
+  "headline": {
+    "tag": "h2",
+    "text": "Katzentrends"
+  },
+  "items": [
+    {
+      "type": "narrow",
+      "href": "#void",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ],
+      "image": {
+        "src": "./assets/images/140x78.jpg",
+        "alt": "Placeholder Kitten"
+      },
+      "text": "Katzentrends"
+    },
+    {
+      "type": "narrow",
+      "href": "https://google.com",
+      "image": {
+        "src": "./assets/images/140x78.jpg",
+        "alt": "Placeholder Kitten"
+      },
+      "text": "Katzentrends"
+    },
+    {
+      "type": "narrow",
+      "href": "#void",
+      "image": {
+        "src": "./assets/images/140x78.jpg",
+        "alt": "Placeholder Kitten"
+      },
+      "text": "Katzentrends"
+    },
+    {
+      "type": "narrow",
+      "href": "#void",
+      "image": {
+        "src": "./assets/images/140x78.jpg",
+        "alt": "Placeholder Kitten"
+      },
+      "text": "Katzentrends"
+    }
+  ]
+}

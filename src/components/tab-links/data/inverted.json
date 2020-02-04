@@ -1,0 +1,18 @@
+{
+  "inverted": true,
+  "links": [
+    {
+      "href": "#void",
+      "text": "Meine Merkliste"
+    },
+    {
+      "href": "#void",
+      "text": "Einstellungen",
+      "active": true
+    },
+    {
+      "href": "#void",
+      "text": "Meine Daten"
+    }
+  ]
+}

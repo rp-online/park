@@ -1,0 +1,10 @@
+{
+  "mobile": {
+    "type": "large-mobile-banner",
+    "html": "<img src=\"https://placehold.it/320x100\">"
+  },
+  "desktop": {
+    "type": "medium-rectangle",
+    "html": "<img src=\"https://placehold.it/300x250\">"
+  }
+}

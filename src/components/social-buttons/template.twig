@@ -1,0 +1,84 @@
+
+
+{% set buttons = [
+  {
+    "class": "facebook",
+    "style": "facebook",
+    "text": "Teilen",
+    "href": "https://www.facebook.com/sharer.php?u={{ url }}%3Futm_source%3Dfacebook%26utm_medium%3Dreferral%26utm_campaign%3Dshare",
+    "target": "popup",
+    "trackingSuffix": "utm_source=facebook&utm_medium=referral&utm_campaign=share"
+  },
+  {
+    "class": "whatsapp",
+    "style": "whatsapp",
+    "text": "Weiterleiten",
+    "href": "whatsapp://send?text=Hallo%2C%0A%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Dich%20interessieren%3A%0A%0A---------------------------------------------%0A{{ title }}%0A---------------------------------------------%0A%0A%0ADen%20kompletten%20Artikel%20findest%20Du%20hier%3A%20%0A%0A{{ url }}",
+    "trackingSuffix": "utm_source=whatsapp&utm_medium=referral&utm_campaign=share"
+  },
+  {
+    "class": "twitter",
+    "style": "twitter",
+    "text": "Tweeten",
+    "href": "https://twitter.com/intent/tweet?related=" ~ config.twitterlinkinfos.related ~ "&via=" ~ config.twitterlinkinfos.via ~ "&lang=de&text={{ title }}&url={{ url }}",
+    "target": "popup",
+    "data": {
+      "height": "260"
+    },
+    "trackingSuffix": "utm_source=twitter&utm_medium=referral&utm_campaign=share"
+  },
+
+]
+
+%}
+
+{% if config.socialbuttons.email is defined or config.socialbuttons.email is not empty %}
+  {% set buttons = buttons|merge([
+    {
+      "class": "email",
+      "style": "email",
+      "text": "Weiterleiten",
+      "href": "mailto:?subject=" ~ config.socialbuttons.email.subject ~ "&body=" ~  config.socialbuttons.email.body ,
+      "target": "_blank",
+      "trackingSuffix": "utm_source=mail&utm_medium=referral&utm_campaign=share"
+    }
+  ]) %}
+{%  else %}
+  {% set buttons = buttons|merge([
+    {
+      "class": "email",
+      "style": "email",
+      "text": "Weiterleiten",
+      "href": "mailto:?subject=Hinweis%20auf%20einen%20interessanten%20Artikel%3A%20{{ title }}&body=Hallo%2C%0A%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0A%0A---------------------------------------------%0A{{ title }}%0A---------------------------------------------%0A%0A%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%20%0A%0A{{ url }}",
+      "target": "_blank",
+      "trackingSuffix": "utm_source=mail&utm_medium=referral&utm_campaign=share"
+    }
+  ]) %}
+{% endif %}
+
+
+
+
+{% if config.noService is not defined or config.noService is same as(false) %}
+  {% if withPrint is defined and withPrint is same as(true) %}
+    {% set buttons = buttons|merge([{
+      'class': 'print',
+      'style': 'print',
+      'text': 'Drucken',
+      'data': {
+        'print': 'self'
+      }
+    }]) %}
+  {% endif %}
+{% endif %}
+{% if config.noSocial is not defined or config.noSocial is same as(false) %}
+  <ul class="park-social-buttons">
+    {% for button in buttons %}
+      <li class="park-social-buttons__button--{{ button.style }} park-social-buttons__button"
+            data-tracking-suffix="{{ button.trackingSuffix }}">
+        {% set button = button|merge({'config': config}) %}
+        {% include 'components/button/template.twig' with button only %}
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

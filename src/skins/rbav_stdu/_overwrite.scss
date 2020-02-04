@@ -1,0 +1,98 @@
+$park-opener__authors :  #d3cfcf;
+
+
+html {
+  body {
+    .park-opener--light {
+      .park-opener__authors,
+      .park-relatedlines__icon,
+      .park-relatedlines__kicker {
+        color: $park-opener__authors;
+      }
+
+      .park-opener__kicker {
+        color: $global-color-dachzeile !important;
+      }
+    }
+
+    .park-opener__kicker {
+      color: $global-color-dachzeile;
+      /*font-weight: 600;*/
+      /*font-family: $global-font-family-serif-loaded;*/
+      text-transform: uppercase !important;
+    }
+
+    .park-article-content {
+      font-family: $global-font-family-magnaef-light-loaded;
+    }
+
+    .park-teaser__headline,
+    .park-teaser-image-list-item__headline,
+    .park-opener__headline,
+    .park-article__headline,
+    .park-article__headlines,
+    .park-card-image__headline,
+    .park-card-video__headline,
+    .park-teaser-list-item__headline,
+    .park-card-article__headline,
+    .park-article__header,
+    .park-article__kicker,
+    .park-teaser__kicker,
+    .park-authorsbox__authors {
+      font-family: $global-font-family-daxot-cond-loaded !important;
+    }
+
+    .park-article__headline {
+      font-weight: $global-font-weight-daxot-cond-medium-bold;
+    }
+
+    .park-article__kicker {
+      font-weight: $global-font-weight-daxot-cond-medium-regular;
+    }
+
+    .park-embed-infobox {
+
+      font-family: $global-font-family-daxot-cond-loaded;
+
+      .park-embed-infobox__body,
+      .park-section-headline {
+        color: $global-dark-grey;
+      }
+
+      .park-embed-infobox__headline {
+        font-weight: $global-font-weight-daxot-cond-medium-bold;
+      }
+    }
+
+    .park-figure__caption-wrapper {
+
+      font-family: $global-font-family-daxot-cond-loaded;
+      line-height: 0.5em;
+      margin-top: 0.3em;
+
+      .park-figure__caption {
+        font-weight: $global-font-weight-daxot-cond-medium-bold;
+      }
+
+      .park-figure__caption-source {
+        font-weight:  $global-font-weight-daxot-cond-medium-regular;
+      }
+    }
+
+    /*GERARBAV-159*/
+    .park-navigation-item {
+      &__link {
+
+        &:focus,
+        &:active,
+        &--is-current {
+          color: $global-color-white;
+
+          + button svg {
+            fill: #fff;
+          }
+        }
+      }
+    }
+  }
+}

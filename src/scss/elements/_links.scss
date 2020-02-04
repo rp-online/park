@@ -1,0 +1,12 @@
+a {
+  color: $global-link-color;
+  vertical-align: baseline;
+  text-decoration: none;
+  pointer-events: auto;
+
+  p > & {
+    color: inherit;
+    vertical-align: baseline;
+    text-decoration: underline;
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "href": "#void",
+  "src": "http://www.rp-online.de/polopoly_fs/besucher-konnten-installation-begehen-1.3590394.1375898914!httpImage/190495480.jpg_gen/derivatives/d940x528/190495480.jpg",
+  "backgroundColor": "rgba(240,240,240,1)",
+  "backgroundLuma": 240,
+  "kicker": {
+    "tag": "h1",
+    "text": "Helle Bilder"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Opener mit hellem Bild"
+  },
+  "authors": "Von Tobias Block",
+  "intro": "Bei hellen Bildern zeigt der Opener Text Schwarz an. Als Regel ist eine luminanz von > 200 gesetzt. Ob das so im Alltag funktioniert, wird sich zeigen.",
+  "related": [
+    {
+      "type": "article",
+      "href": "#void",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "#void",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

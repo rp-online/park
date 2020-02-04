@@ -1,0 +1,1887 @@
+{
+  "title": "iOS Testseite",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist die Beispiel-Startseite"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/"
+      }
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/ratingen/feed.rss"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "title": "ATOM Feed",
+        "href": "/nrw/staedte/ratingen/feed.atom"
+      }
+    ],
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "id": "6843658",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "targeting": {
+              "pos": "home-nrw",
+              "placement": "Native_Teaser"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "6844463",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6844666",
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "skyscraper",
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "billboard",
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                940,
+                200
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "outofpage",
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": "",
+            "collapse": false,
+            "targeting": [],
+            "type": "interstitial"
+          }
+        ],
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "desktop",
+          "layout": "park"
+        },
+        "oms": {
+          "site": "oms.rp-online.de",
+          "zone": "homepage"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "id": "6843658",
+            "adUnitPath": "/1017381/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "id": "6844463",
+            "adUnitPath": "/8636/mew.oms.rp-online.de/homepage/pos2",
+            "size": [
+              [
+                300,
+                150
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "ist",
+            "adUnitPath": "/8636/mew.oms.rp-online.de/homepage",
+            "size": "[1, 1]",
+            "collapse": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "id": "pos1",
+            "adUnitPath": "/8636/mew.oms.rp-online.de/homepage/pos1",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                51
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "id": "pos2",
+            "adUnitPath": "/8636/mew.oms.rp-online.de/homepage",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                300,
+                51
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "oms": "homepage",
+          "mode": "mobile",
+          "layout": "park"
+        },
+        "oms": {
+          "site": "mew.oms.rp-online.de",
+          "network": "oms",
+          "zone": "homepage",
+          "mobile ": true
+        }
+      },
+      "reloadFrequency": "5"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://www.rp-online.de/nrw/staedte/ratingen/unfall-auf-der-a3-bei-ratingen-breitscheid-ein-toter-und-viele-verletzte-aid-1.7207070"
+      },
+      "headline": "Unfall auf der A3 bei Ratingen-Breitscheid: Ein Toter und viele Verletzte",
+      "image": {
+        "@type": "ImageObject",
+        "url": "http://www.rp-online.de/polopoly_fs/1.7207192.1510826206!httpImage/692491934.jpg_gen/derivatives/d940x528/692491934.jpg",
+        "height": 528,
+        "width": 940
+      },
+      "datePublished": "2017-11-16T12:53+01:00",
+      "dateModified": "2017-11-16T12:53+01:00",
+      "author": {
+        "@type": "Person",
+        "name": "RP ONLINE"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "http://bc03.rp-online.de/polopoly_fs/1.5897863.1460989477!image/4005167000.jpg_gen/derivatives/d140x78/4005167000.jpg",
+          "width": 148,
+          "height": 60
+        }
+      },
+      "description": "Auf der A3 bei Ratingen-Breitscheid hat es am Morgen einen schweren Unfall mit zwei Lastwagen und fünf Autos gegeben. Die Autobahn bleibt in Richtung Oberhausen bis mindestens 14 Uhr gesperrt. "
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"outofpage\"><script>googletag.cmd.push(function() { googletag.display('outofpage'); });</script></div>"
+    },
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"><script>googletag.cmd.push(function() { googletag.display('ist'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "breaking",
+            "data": {
+              "href": "./artikel.html",
+              "headline": {
+                "tag": "h2",
+                "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+              }
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "quick-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Direkt zu"
+                    },
+                    "cities": [
+                      {
+                        "href": "#duesseldorf",
+                        "text": "Düsseldorf"
+                      },
+                      {
+                        "href": "#neuss",
+                        "text": "Neuss"
+                      },
+                      {
+                        "href": "#moenchengladbach",
+                        "text": "Mönchengladbach"
+                      },
+                      {
+                        "href": "#allcities",
+                        "text": "Alle Städte"
+                      }
+                    ],
+                    "sportsclubs": [
+                      {
+                        "icon": "./assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf",
+                        "href": "#fortuna-duesseldorf",
+                        "text": "Fortuna Düsseldorf"
+                      },
+                      {
+                        "icon": "./assets/images/sprite.sportsclubs.svg#borussia-dortmund",
+                        "href": "#borussia-dortmund",
+                        "text": "Borussia Dortmund"
+                      }
+                    ],
+                    "settingsURL": "./persoenlicher-bereich.html"
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "href": "./artikel.html",
+                    "src": "./assets/images/opener.jpg",
+                    "backgroundColor": "rgba(25,36,86,1);",
+                    "kicker": {
+                      "tag": "h1",
+                      "text": "Schwere Gewitter möglich"
+                    },
+                    "headline": {
+                      "tag": "h2",
+                      "text": "1. Unwetter bedroht die Düsseldorfer Rheinkirmes"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt.",
+                    "authors": "von Kristina Dunst",
+                    "related": [
+                      {
+                        "type": "article",
+                        "href": "./artikel.html",
+                        "kicker": "Fortuna Düsseldorf",
+                        "headline": "Akpoguma fehlt, Hoffman ist fit"
+                      },
+                      {
+                        "type": "image",
+                        "href": "./bilderstrecke.html",
+                        "kicker": "Porträt",
+                        "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-image-list",
+                    "data": {
+                      "headline": {
+                        "tag": "h1",
+                        "text": "Montag, 23. September 2017"
+                      },
+                      "items": [
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "USA nach der Wahl"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+                          },
+                          "href": "./artikel.html",
+                          "src": "./assets/images/142x108.jpg"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Fortuna-Boss Schäfer im Interview"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+                          },
+                          "href": "./artikel.html",
+                          "src": "./assets/images/142x108.jpg"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Zugunglück von Bad Aibling"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+                          },
+                          "href": "./artikel.html",
+                          "src": "./assets/images/142x108.jpg"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Borussia-Sportdirektor"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+                          },
+                          "href": "./artikel.html",
+                          "src": "./assets/images/142x108.jpg"
+                        }
+                      ]
+                    },
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"traffective-ad-mobile_pos2\" style=\"display: none;\" class=\"mobile_pos2\"></div>"
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"traffective-ad-Rectangle_1\" style=\"display: none;\" class=\"Rectangle_1\"></div>"
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"pos2\"><script>googletag.cmd.push(function() { googletag.display(\"pos2\"); })</script></div>"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "href": "./advertorial.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "isAd": true,
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "video",
+                            "href": "./video.html",
+                            "kicker": "Porträt",
+                            "headline": "Daggi B.: Auftieg zur bekannten Influencerin"
+                          },
+                          {
+                            "type": "info",
+                            "href": "#void",
+                            "kicker": "Eigentum",
+                            "headline": "In zehn einfachen Schritten zum Eigenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./advertorial-video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel-paywall.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Wie Paywalls unser Leben zerstören"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hier schnappt die Paywall zu"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Beliebte Bilder"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rheinkirmes 2016"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neue Show \"Die Kirmeskönige\""
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./advertorial.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Werbung"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<img src=\"https://placehold.it/200x200\">"
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<img src=\"https://placehold.it/200x200\">"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rechtsstreit um Dopingsperre"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Davies trifft die DEG am Freitag vor Gericht"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "traffic",
+                  "data": {
+                    "initialState": {
+                      "headline": {
+                        "tag": "h1",
+                        "text": "Verkehrsmeldungen"
+                      },
+                      "items": [
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A1",
+                            "time": "18:18",
+                            "text": "Köln - Dortmund"
+                          },
+                          "text": "Leverkusener Brücke in beiden Richtungen gesperrt für Schwerverkehr über 3,5 t, bis 31.12.2020 00:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A1",
+                            "time": "11:05",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Kreuz Leverkusen (98) und Burscheid (97) Gefahr durch Gegenstände auf der Fahrbahn",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A1",
+                            "time": "11:08",
+                            "text": "Köln Richtung Münster"
+                          },
+                          "text": "zwischen Schwerte (85) und (84) 3 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A1",
+                            "time": "13:00",
+                            "text": "Dortmund - Köln"
+                          },
+                          "text": "Leverkusener Brücke in beiden Richtungen vorübergehende Begrenzung der Breite auf 2,30 m, bis 31.12.2020 00:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A2",
+                            "time": "14:57",
+                            "text": "Dortmund Richtung Hannover"
+                          },
+                          "text": "Ausfahrt Gütersloh (24) Anschlussstelle gesperrt, bis 23.11.2017 22:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A3",
+                            "time": "11:07",
+                            "text": "Köln Richtung Frankfurt"
+                          },
+                          "text": "zwischen Köln-Dellbrück (26) und Kreuz Köln-Ost (27) Gefahr durch Gegenstände auf der Fahrbahn auf dem linken Fahrstreifen",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A3",
+                            "time": "11:11",
+                            "text": "Oberhausen Richtung Köln"
+                          },
+                          "text": "zwischen Oberhausen-Holten (11) und Kreuz Oberhausen-West (12) 1 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A3",
+                            "time": "15:49",
+                            "text": "Köln Richtung Frankfurt"
+                          },
+                          "text": "Kreuz Köln-Ost (27) in beiden Richtungen Dauerbaustelle, Ausfahrt gesperrt, bis 31.12.2017 15:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A31",
+                            "time": "10:13",
+                            "text": "Gronau Richtung Oberhausen"
+                          },
+                          "text": "zwischen Gladbeck (41) und Dreieck Bottrop (42) Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A4",
+                            "time": "11:33",
+                            "text": "Köln Richtung Heerlen/Aachen"
+                          },
+                          "text": "in Höhe Aachen-Zentrum (3) Staugefahr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A4",
+                            "time": "10:37",
+                            "text": "Köln Richtung Heerlen/Aachen"
+                          },
+                          "text": "zwischen Kreuz Köln-Gremberg (14) und Köln-Poll (13) 1 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A40",
+                            "time": "11:22",
+                            "text": "Duisburg Richtung Venlo"
+                          },
+                          "text": "zwischen Duisburg-Häfen (12) und Duisburg-Homberg (11) 1 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A40",
+                            "time": "11:35",
+                            "text": "Venlo Richtung Duisburg"
+                          },
+                          "text": "zwischen Moers-Zentrum und Duisburg-Homberg (11) 2 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A40",
+                            "time": "14:55",
+                            "text": "Duisburg Richtung Venlo"
+                          },
+                          "text": "Ausfahrt Kempen (5) in beiden Richtungen Baustelle, Anschlussstelle gesperrt, eine Umleitung ist eingerichtet, bis 02.12.2017 05:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A42",
+                            "time": "11:22",
+                            "text": "Emscherschnellweg, Dortmund Richtung Kamp-Lintfort"
+                          },
+                          "text": "zwischen Kreuz Herne (21) und Herne-Crange (20) 2 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A43",
+                            "time": "10:54",
+                            "text": "Recklinghausen Richtung Wuppertal"
+                          },
+                          "text": "zwischen Kreuz Herne (14) und Bochum-Gerthe (17) 6 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A43",
+                            "time": "16:02",
+                            "text": "Recklinghausen Richtung Wuppertal"
+                          },
+                          "text": "Kreuz Bochum/Witten Überleitung zur A448 Baustelle, Ausfahrt gesperrt, der Umleitungsbeschilderung folgen, von 22.11.2017 08:00 Uhr bis 20.12.2017 18:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A44",
+                            "time": "10:57",
+                            "text": "Bochum Richtung Dortmund"
+                          },
+                          "text": "in Höhe Kreuz Bochum/Witten Baustelle, mit Störungen ist zu rechnen, folgen Sie den Schildern, von 22.11.2017 08:00 Uhr bis 20.12.2017 08:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A44",
+                            "time": "10:14",
+                            "text": "Mönchengladbach Richtung Düsseldorf"
+                          },
+                          "text": "zwischen Tunnel Strümp und Tunnel Rheinschlinge Baustelle, rechter Fahrstreifen gesperrt, bis 23.11.2017 18:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A45",
+                            "time": "11:25",
+                            "text": "Hagen Richtung Gießen"
+                          },
+                          "text": "zwischen Lüdenscheid-Süd (15) und Meinerzhagen (16) 3 km Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A46",
+                            "time": "13:31",
+                            "text": "Heinsberg Richtung Wuppertal"
+                          },
+                          "text": "zwischen Neuss-Uedesheim (22) und Düsseldorf-Bilk (23) Baustelle, Richtungsfahrbahn gesperrt, von 25.11.2017 20:00 Uhr bis 27.11.2017 05:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A46",
+                            "time": "19:27",
+                            "text": "Heinsberg Richtung Wuppertal"
+                          },
+                          "text": "zwischen Neuss-Uedesheim (22) und Düsseldorf-Bilk (23) Baustelle, Richtungsfahrbahn gesperrt, eine Umleitung ist eingerichtet, von 25.11.2017 20:00 Uhr bis 27.11.2017 05:00 Uhr",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A57",
+                            "time": "11:32",
+                            "text": "Köln Richtung Krefeld"
+                          },
+                          "text": "zwischen Dormagen (25) und Dreieck Neuss-Süd (24) Stau",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A57",
+                            "time": "11:34",
+                            "text": "Köln Richtung Krefeld"
+                          },
+                          "text": "zwischen Köln-Ehrenfeld (30) und Köln-Bickendorf (29) Gefahr durch ungesicherte Unfallstelle",
+                          "href": "#void"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h2",
+                            "badge": "A59",
+                            "time": "09:57",
+                            "text": "Bonn Richtung Köln"
+                          },
+                          "text": "zwischen Lind (36) und Wahn (35) 2 km Stau",
+                          "href": "#void"
+                        }
+                      ]
+                    },
+                    "personalized": true,
+                    "settingsURL": "./persoenlicher-bereich.html",
+                    "ajax": {
+                      "url": "/assets/ajax/traffic/many.json"
+                    }
+                  }
+                },
+                {
+                  "component": "weather",
+                  "data": {
+                    "initialState": {
+                      "headline": {
+                        "tag": "h1",
+                        "text": "Wetter in Düsseldorf"
+                      },
+                      "aside": "Wetter in Düsseldorf powered by wetter.de",
+                      "items": [
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Heute"
+                          },
+                          "temps": {
+                            "day": 24,
+                            "night": 8
+                          },
+                          "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+                          "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                          "href": "#void",
+                          "caption": "Sonnig, teils bewölkt"
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Morgen"
+                          },
+                          "temps": {
+                            "day": 24,
+                            "night": 8
+                          },
+                          "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+                          "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                          "href": "#void",
+                          "caption": "Sonnig, teils bewölkt"
+                        },
+                        {
+                          "type": "weather",
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Übermorgen"
+                          },
+                          "temps": {
+                            "day": 24,
+                            "night": 8
+                          },
+                          "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+                          "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                          "href": "#void",
+                          "caption": "Sonnig, teils bewölkt"
+                        }
+                      ]
+                    },
+                    "personalized": true,
+                    "settingsURL": "./persoenlicher-bereich.html",
+                    "ajax": {
+                      "baseUrl": "/assets/ajax/weather/",
+                      "defaultRegion": "duesseldorf"
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Neuste Videos"
+                    },
+                    "items": [
+                      {
+                        "type": "video",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Hier übt Barack Obama Kitesurfen"
+                        }
+                      },
+                      {
+                        "type": "video",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "span",
+                          "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "type": "video",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./advertorial-video.html",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+                        }
+                      },
+                      {
+                        "type": "video",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neue Smartphone-Ampeln in den Niederlanden"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "data": {
+                      "headline": {
+                        "tag": "h1",
+                        "text": "Weitere Artikel"
+                      },
+                      "type": "teaser-list-item",
+                      "blocks": [
+                        {
+                          "title": "Meistgelesen",
+                          "isNumeric": true,
+                          "items": [
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Insider Wissen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "\"Germany's next Topmodel\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Zicken-Aus, raus die Mas"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geiselnahme im Stadtteil Rumeln"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwere Gewitter möglich"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wahl in den Niederlanden"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "So reagieren AfD und Front National auf die Niederlage"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "DEL"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Kölner Haie suspendieren Nationalspieler Hager"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Ärger über Absage"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Düsseldorfer Kirmes will Füchschen nicht zurück"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "U-Auschuss zur Kölner Silvesternacht"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Ralf Jäger verspielt seine Glaubwürdigkeit"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unfall auf der A5 in Hessen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Feuerwehr zeigt Blockierer von Rettungsgasse an"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Tanzshow \"Let's Dance\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Das sind die neuen Promis auf dem Tanzparkett"
+                              },
+                              "href": "./artikel.html"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Neuste Meldungen",
+                          "items": [
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Insider Wissen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "\"Germany's next Topmodel\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Zicken-Aus, raus die Mas"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geiselnahme im Stadtteil Rumeln"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwere Gewitter möglich"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                              },
+                              "href": "./artikel.html"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wahl in den Niederlanden"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "So reagieren AfD und Front National auf die Niederlage"
+                              },
+                              "href": "./artikel.html"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<img src=\"https://placehold.it/300x250\">"
+                      },
+                      "desktop": {
+                        "type": "dynamic-sidebar",
+                        "html": "<img src=\"https://placehold.it/300x600\">"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Kalaydo Anzeigenmarkt"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Jobbörse",
+                        "href": "#kalaydo"
+                      },
+                      {
+                        "text": "Immobilien",
+                        "href": "#kalaydo"
+                      },
+                      {
+                        "text": "Auto",
+                        "href": "#kalaydo"
+                      },
+                      {
+                        "text": "Kleinanzeigen",
+                        "href": "#kalaydo"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "src": "https://static.kalaydo.de/kalaydo/bundles/fbd31d7/image/kalaydo/homepage/startpage_mainstage-compr.jpg",
+                    "items": [
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Informatikerin/Informatiker"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/ec/57/73b7-c394-4492-8f05-bfa4c7e400c6/nrw_5235870214019512564.png",
+                        "alt": "Information und Technik Nordrhein-Westfalen",
+                        "href": "./artikel.html"
+                      },
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Sachbearbeiter (m/w) Fakturierung"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/4e/55/826b-03c8-4ccd-8edd-7c7481a39296/logo_6984026494507743057.png",
+                        "alt": "Düsseldorf Airport GmbH",
+                        "href": "./artikel.html"
+                      },
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Servicemitarbeiter im Außendienst (m/w)"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images/2017/04/29/06/a025ba2e/large_image_0.jpg?lastModified=1495605168000",
+                        "alt": "Conworx Technology GmbH",
+                        "href": "./artikel.html"
+                      },
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Informatikerin/Informatiker"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/ec/57/73b7-c394-4492-8f05-bfa4c7e400c6/nrw_5235870214019512564.png",
+                        "alt": "Information und Technik Nordrhein-Westfalen",
+                        "href": "./artikel.html"
+                      },
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Sachbearbeiter (m/w) Fakturierung"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/4e/55/826b-03c8-4ccd-8edd-7c7481a39296/logo_6984026494507743057.png",
+                        "alt": "Düsseldorf Airport GmbH",
+                        "href": "./artikel.html"
+                      },
+                      {
+                        "type": "kalaydo",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Servicemitarbeiter im Außendienst (m/w)"
+                        },
+                        "src": "https://bilder.kalaydo.de/kalaydo/images/2017/04/29/06/a025ba2e/large_image_0.jpg?lastModified=1495605168000",
+                        "alt": "Conworx Technology GmbH",
+                        "href": "./artikel.html"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "linkpulseGroup": "nrw",
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "NRW"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Städte",
+                        "href": "#ressort"
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "#ressort"
+                      },
+                      {
+                        "text": "Panorama",
+                        "href": "#ressort"
+                      },
+                      {
+                        "text": "Mercedes-Benz",
+                        "href": "#ressort",
+                        "isAd": true
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Beliebte Bilder"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rheinkirmes 2016"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neue Show \"Die Kirmeskönige\""
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./advertorial.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Werbung"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fortuna Düsseldorf"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rechtsstreit um Dopingsperre"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Davies trifft die DEG am Freitag vor Gericht"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-list",
+                    "data": {
+                      "items": [
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Insider Wissen"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                          },
+                          "href": "./artikel.html"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "\"Germany's next Topmodel\""
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Zicken-Aus, raus die Mas"
+                          },
+                          "href": "./artikel.html"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Geiselnahme im Stadtteil Rumeln"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                          },
+                          "href": "./artikel.html"
+                        },
+                        {
+                          "kicker": {
+                            "tag": "span",
+                            "text": "Schwere Gewitter möglich"
+                          },
+                          "headline": {
+                            "tag": "h2",
+                            "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                          },
+                          "href": "./artikel.html"
+                        }
+                      ]
+                    },
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<img src=\"https://placehold.it/300x250\">"
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<img src=\"https://placehold.it/300x250\">"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Kontakt zur Redaktion"
+                    }
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "contact",
+                    "data": {
+                      "address": "__Lokalredaktion Düsseldorf__  \r\nSchadow Arkaden  \r\nSchadowstraße 11b  \r\n40212 Düsseldorf\r\n\r\nTelefon: 0211-5052361  \r\nAnzeigen: 0211 505-2222",
+                      "links": [
+                        {
+                          "style": "email",
+                          "class": "email",
+                          "text": "E-Mail an die Redaktion",
+                          "href": "mailto:stadtpost@rheinische-post.de",
+                          "target": "_blank"
+                        },
+                        {
+                          "style": "facebook",
+                          "class": "facebook",
+                          "text": "RP auf Facebook",
+                          "href": "https://facebook.com/rponline",
+                          "target": "_blank"
+                        },
+                        {
+                          "style": "twitter",
+                          "class": "twitter",
+                          "text": "RP auf Twitter folgen",
+                          "href": "https://twitter.com/rponline",
+                          "target": "_blank"
+                        },
+                        {
+                          "style": "whatsapp",
+                          "class": "whatsapp",
+                          "text": "Per WhatsApp abonnieren",
+                          "href": "http://www.rp-online.de/digitales/apps/rheinische-post-per-whatsapp-lesen-breaking-news-auf-dem-smartphone-aid-1.5107028",
+                          "target": "_blank"
+                        }
+                      ]
+                    },
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<img src=\"https://placehold.it/300x250\">"
+                      },
+                      "desktop": {
+                        "type": "medium-rectangle",
+                        "html": "<img src=\"https://placehold.it/300x250\">"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        }
+      }
+    }
+  ]
+}

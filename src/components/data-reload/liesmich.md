@@ -1,0 +1,1 @@
+Diese Helfer-Komponente hängt sich an alle Stellen, die im HTML ein `data-reload`-Attribut aufweisen. Klick man darauf, wird die aktuelle Seite neu geladen.

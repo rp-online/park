@@ -1,0 +1,29 @@
+{% if children is defined and children is iterable and children|length %}
+  {% set uuid = random() %}
+  <div role="group"
+    {% if label is defined and label %}
+       aria-labelledby="park-form-fieldset__legend-{{ uuid }}"
+    {% endif %}
+       class="park-form-fieldset{% if expandable is defined and expandable is same as(true) %} park-form-fieldset--expandable{% endif %}">
+    {% if label is defined and label %}
+      <span id="park-form-fieldset__legend-{{ uuid }}"
+            class="park-form-fieldset__legend">{% if expandable is defined and expandable is same as(true) %}
+          <button class="park-form-fieldset__toggle"
+                  aria-expanded="{% if isExpanded is defined and isExpanded is same as(true) %}true{% else %}false{% endif %}"
+                  aria-controls="park-form-fieldset__wrapper-{{ uuid }}">{{ label }}</button>{% else %}{{ label }}
+        {% endif %}</span>
+    {% endif %}
+    <div id="park-form-fieldset__wrapper-{{ uuid }}"
+         class="park-form-fieldset__wrapper"
+      {% if expandable is defined and expandable is same as(true) %}
+      aria-hidden="{% if isExpanded is defined and isExpanded is same as(true) %}false{% else %}true{% endif %}"
+      {% endif %}>
+      {% if children is defined %}
+        {% for child in children %}
+          {% set data = child.data|merge({'config': config}) %}
+          {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+        {% endfor %}
+      {% endif %}
+    </div>
+  </div>
+{% endif %}

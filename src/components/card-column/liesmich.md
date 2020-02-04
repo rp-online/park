@@ -1,0 +1,1 @@
+Diese kartenartige Komponente eigentlich nur in [Slidern](#slider)/Unterbrechern verwendet und teasert die aktuellste Kolumne eines Autors an. Deshalb `"type": "column"`.

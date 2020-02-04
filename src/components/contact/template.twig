@@ -1,0 +1,16 @@
+<div class="park-contact">
+  <div class="park-contact__address">
+    {% include 'components/markdown/template.twig' with {
+      'text': address,
+      'config': config
+    } only %}
+  </div>
+  <ul class="park-contact__links">
+    {% for link in links %}
+      <li class="park-contact__link">
+        {% set link = link|merge({'config': config}) %}
+        {% include 'components/button/template.twig' with link only %}
+      </li>
+    {% endfor %}
+  </ul>
+</div>

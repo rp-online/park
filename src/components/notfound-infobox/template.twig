@@ -1,0 +1,19 @@
+{% set uuid = random() %}
+<aside id="park-notfound-infobox-{{ uuid }}" class="park-notfound-infobox" role="alert">
+  <h2 class="park-notfound-infobox__headline">404 - Diese Seite konnte nicht aufgerufen werden.</h2>
+  <p class="park-notfound-infobox__text">Sollten Sie hier den gewünschten Inhalt nicht finden, möchten wir Ihnen unsere Suche empfehlen:</p>
+  {% include 'components/searchform/template.twig' with {
+    'action': '#void',
+    'method': 'get',
+    'name': 'q',
+    'value': '',
+    'label': 'Suche',
+    'labelHidden': true,
+    'placeholder': 'Suchbegriff eingeben',
+    'submit': 'suchen'
+  } only %}
+  <button class="park-notfound-infobox__close"
+          aria-controls="park-notfound-infobox-{{ uuid }}"
+          aria-expanded="true">{% include 'svg/cross-fat.svg' %}Fenster schließen
+  </button>
+</aside>

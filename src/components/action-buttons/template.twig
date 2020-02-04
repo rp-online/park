@@ -1,0 +1,27 @@
+{% if config.appMode is not defined or config.appMode is not same as('embedded') %}
+  <ul class="park-action-buttons">
+    <li class="park-action-buttons__button park-action-buttons__button--comments">
+      {% include 'components/button/template.twig' with {
+        'class': 'comments',
+        'style': 'comments',
+        'text': '<span class="park-button__commentscount" data-comments-url="' ~ comments.url|escape('html') ~ '"></span>',
+        'href': '#park-comments',
+        'config': config
+      } only %}
+    </li>
+    {% if not config.personalisationDisabled %}
+      <li class="park-action-buttons__button park-action-buttons__button--bookmark">
+        {% include 'components/button/template.twig' with {
+          'class': 'bookmark',
+          'style': 'bookmark',
+          'data': {
+            'bookmark': id,
+            'authentication-required': true
+          },
+          'text': '',
+          'config': config
+        } only %}
+      </li>
+    {% endif %}
+  </ul>
+{% endif %}

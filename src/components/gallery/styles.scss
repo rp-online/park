@@ -1,0 +1,16 @@
+/* stylelint-disable */
+.park-gallery {
+  & {
+    @for $i from 1 through 400 {
+      li:first-child:nth-last-of-type(#{$i}) {
+        &,
+        & ~ li.park-gallery__item {
+          .park-gallery__item-wrapper::before,
+          blockquote.park-gallery__item-caption::before {
+            content: counter(park-gallery-counter) ' von #{$i}';
+          }
+        }
+      }
+    }
+  }
+}

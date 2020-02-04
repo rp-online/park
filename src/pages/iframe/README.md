@@ -1,0 +1,1 @@
+Needed as a dummy iframe document to test the iframe component

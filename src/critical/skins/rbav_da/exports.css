@@ -1,0 +1,9 @@
+/* stylelint-disable at-rule-empty-line-before */
+/* Go from the top down, start with the largest first */
+html::before {
+  content: '{ "brandColor": "#cc051c","containerWidth": "980","globalSpacing": "15","mediaqueries": { "handheld": "handheld", "mobile": "screen and (max-width: 48em)", "desktop": "screen and (min-width: 48.0625em)", "larger": "screen and (min-width: 71.9375em)", "large": "screen and (min-width: 60.625em)" } }';
+  display: none;
+  width: 980px;
+  color: #cc051c; }
+
+/* stylelint-enable */

@@ -1,0 +1,53 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Unsere Kolumnisten"
+  },
+  "items": [
+    {
+      "type": "column",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Bei Sexismus geht es eigentlich um Macht"
+      },
+      "author": {
+        "src": "./assets/images/person.jpg",
+        "name": "Dorothee Krings",
+        "position": "Gesellschaft"
+      }
+    },
+    {
+      "type": "column",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Verführerischer Rechtsanspruch"
+      },
+      "author": {
+        "src": "./assets/images/person.jpg",
+        "name": "Martin Kessel",
+        "position": "Der Ökonom"
+      }
+    },
+    {
+      "type": "column",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Audio kehrt zurück"
+      },
+      "author": {
+        "src": "./assets/images/person.jpg",
+        "name": "Daniel Fiene",
+        "position": "Total Digital"
+      }
+    }
+ ]
+}

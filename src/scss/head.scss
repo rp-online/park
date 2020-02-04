@@ -1,0 +1,52 @@
+/* stylelint-disable at-rule-empty-line-before */
+@import 'tools/functions';
+@import 'tools/mq';
+
+@import 'settings/ad-dimensions';
+@import 'settings/base';
+@import 'settings/breakpoints';
+
+@import 'generic/animations';
+@import 'generic/focusring';
+@import 'generic/reset';
+
+@import 'tools/clearfix';
+@import 'tools/debug';
+@import 'tools/hidden';
+@import 'tools/mixins';
+@import 'tools/visuallyhidden';
+
+@import 'tools/extends';
+
+@import 'elements/all';
+@import 'elements/body';
+@import 'elements/buttons';
+@import 'elements/html';
+@import 'elements/iframes';
+@import 'elements/images';
+@import 'elements/inputs';
+@import 'elements/links';
+@import 'elements/main';
+@import 'elements/script';
+@import 'elements/svg';
+@import 'elements/typography';
+@import 'elements/xmp';
+@import 'elements/layout';
+
+@keyframes park-node-inserted {
+  from {
+    opacity: 0.99;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.no-mutation-observers {
+  * {
+    animation-duration: 0.001s;
+    animation-name: park-node-inserted;
+  }
+}
+/* stylelint-enable */

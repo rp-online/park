@@ -1,0 +1,15 @@
+$selector: '.park-article-content';
+
+@for $i from 1 through 5 {
+  $selector: selector-nest($selector, "> :not([class^="park"])");
+
+  #{$selector} > .park-portal.park-portal.park-portal.park-portal {
+    @include mq(desktop) {
+      margin-left: calc((#{$article-spacing}) * -1);
+
+      .park-article--has-centered-portals & {
+        margin-right: calc((#{$article-spacing}) * -1);
+      }
+    }
+  }
+}

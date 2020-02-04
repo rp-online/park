@@ -1,0 +1,3 @@
+Diese Komponente stellt eine zusammengehörige Liste an [Teaser](#teaser)-Komponenten dar.
+
+Soweit, so unspannend. Hervorhebenswert wäre allerdings die Tatsache, dass auch möglich ist, ein Item mit `type: "portal"` in die Liste zu hängen, woraufhin die Teaser-Collection an der Stelle abweichend keine [Teaser](#teaser)-Komponente einbindet, sondern eine [Portal](#portal)-Komponente - also ein Werbeelement.

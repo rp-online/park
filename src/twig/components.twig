@@ -1,0 +1,11 @@
+{% extends 'twig/base.twig' %}
+
+{% if config is defined %}
+  {% set config = config|merge({ 'isSingleComponent': true}) %}
+{% else %}
+  {% set config = {
+    isSingleComponent: true
+  } %}
+{% endif %}
+{% block title %}{{ title }}{% endblock %}
+{% block page_content %}{{ main }}{% endblock %}

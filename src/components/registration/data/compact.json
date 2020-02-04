@@ -1,0 +1,16 @@
+{
+  "action": "",
+  "loginURL": "/sso/login",
+  "privacyURL": "/info/datenschutz",
+  "googleLoginURL": "/auth/google/connect",
+  "termsURL": "/info/agb",
+  "email": "",
+  "oauth_id": "",
+  "advantages": {
+    "src": "/assets/images/registrieren-grafik.jpg",
+    "text": "Genießen Sie alle Vorteile Ihres persönlichen RP ONLINE Profils.\n\n* Bis zu 20 Artikel pro Monat kostenlos lesen\n* Teilnehmen an Diskussionen\n* Eine eigene Merkliste\n* Schnellzugriff auf der Startseite personalisieren\n* Personalisierte Stau- und Wetterinfos"
+  },
+  "legalNote": "Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an <a href=\"mailto:leserservice@rheinische-post.de\">leserservice@rheinische-post.de</a>). <strong>Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Zusatzfunktionen vereinbart. Die Angabe einer gültigen E-Mail-Adresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen.</strong> Mit der Registrierung erkläre ich mich mit den <a href=\"#\">Teilnahmebedingungen</a> und der <a href=\"#\">Datenschutzerklärung</a> einverstanden.",
+  "hideOptionalSection": true,
+  "compactMode": true
+}

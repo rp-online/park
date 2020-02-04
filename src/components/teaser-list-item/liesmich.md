@@ -1,0 +1,1 @@
+Die Komponente stellt die kompakteste Form des Beitrags-Teasers dar, die nur aus Kicker und Headline besteht. Als Besonderheit kann man dieser Komponente per boolsche Eigenschaft `isNumeric` zu einem Teil einer Aufzählung machen.

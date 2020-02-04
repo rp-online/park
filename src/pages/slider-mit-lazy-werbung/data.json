@@ -1,0 +1,2858 @@
+{
+  "title": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "bookmarksPage": "/sso/bookmarks",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf",
+    "url": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1557415517",
+    "container_id": 36552407,
+    "beitrag_id": 47797507,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Medienexperten und Prominente sprachen beim „Safer Internet Day“ an der \nWerner-Siemens-Realschule über Cyber-Mobbing und Hate Speech."
+      },
+      {
+        "name": "author",
+        "content": "Christopher Trinks"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Internet, Safer, Carlsson, Videos, beleidigende, Cyber, Kommentare, Hass, Netz, Thema, Hasskommentare, Safe, Hasskommentaren, Internetbekanntheiten, Hasskommentar, Hassrede, klicksafe, Netzwerken, Rede"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Internet, Safer, Carlsson, Videos, beleidigende, Cyber, Kommentare, Hass, Netz, Thema, Hasskommentare, Safe, Hasskommentaren, Internetbekanntheiten, Hasskommentar, Hassrede, klicksafe, Netzwerken, Rede"
+      },
+      {
+        "property": "og:title",
+        "content": "Safer Internet Safe Düsseldorf: Hass im Netz beschädigt \ndie Demokratie"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407"
+      },
+      {
+        "property": "og:description",
+        "content": "Medienexperten und Prominente sprachen beim „Safer Internet Day“ an der \nWerner-Siemens-Realschule über Cyber-Mobbing und Hate Speech."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_3bbde9a9db6a9e2a16658b131c83be01/w1200_h630_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Medienexperten und Prominente sprachen beim „Safer Internet Day“ an der \nWerner-Siemens-Realschule über Cyber-Mobbing und Hate Speech."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_3bbde9a9db6a9e2a16658b131c83be01/w1200_h630_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "staedte",
+      "dossier": "duesseldorf",
+      "contentType": "Artikel",
+      "analyticsUrl": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+      "author": "Christopher Trinks",
+      "date": "2019-02-05T16:07:00+0100",
+      "datePublished": "2019-02-05 16:07",
+      "dateModified": "2019-02-05 20:30",
+      "daysSincePublication": "+93 days",
+      "origin": "4",
+      "seo": "/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=47797507&cstr=36552407&l=1251&tit=Safer+Internet+Day+an+der+Werner-Siemens-Realschule+D%FCsseldorf&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2Fstaedte%2Fduesseldorf%2Fsafer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407&sep=%7C&tce=1&tid=64710&tn=64701&tp=50327%7C64600%7C64701&tpn=50327%7C64600%7C64701&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "nrw",
+      "secondaryLevel": "staedte",
+      "contentGroup": "",
+      "interredBID": 47797507,
+      "interredCID": 36552407,
+      "title": "Hass im Netz beschädigt \ndie Demokratie",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Hass im Netz beschädigt \ndie Demokratie",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AHass im Netz beschädigt \ndie Demokratie%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 36552407,
+      "doctype": "article",
+      "contentid": "/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+      "channel": 64600,
+      "subchannel": 64701,
+      "subsubchannel": 64710,
+      "heading": "Hass im Netz beschädigt  die Demokratie",
+      "kicker": "",
+      "tag": "duesseldorf",
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/duesseldorf/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407",
+        "sc": "yes"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/141f255beaf94ea292711937653c974f",
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407"
+      },
+      "headline": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_b701f1477d4e95c4f778794daf50e050/w950_h526_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-02-05T16:07:00+0100",
+      "dateModified": "2019-02-05T20:30:04+0100",
+      "author": {
+        "@type": "Person",
+        "name": "Christopher Trinks"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Medienexperten und Prominente sprachen beim „Safer Internet Day“ an der \nWerner-Siemens-Realschule über Cyber-Mobbing und Hate Speech.",
+      "isAccessibleForFree": "True",
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "RP ONLINE Basic",
+        "productID": "www-rpd.rp-online.de:basic"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/leaderboard_1",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                970,
+                110
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "key": "lb1",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512525,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512541,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "kampa-3",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512597,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "kampa-4",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/contentad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "contentad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/halfpagead_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "hpa": "1",
+              "adformat": "halfpagead",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36552407",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "mode": "desktop",
+          "zone": "localnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36552407",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/mobilebanner_1",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1",
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2",
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512525,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-2",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512541,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-3",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22512597,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-4",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_3",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/mobilebanner_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_4",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/mobilebanner_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "key": "inreco",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_5",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/mobilebanner_5",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/localnews/duesseldorf/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36552407",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "mode": "mobile",
+          "zone": "localnews/duesseldorf"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36552407",
+          "pfad1": "nrw",
+          "pfad2": "staedte",
+          "pfad3": "duesseldorf",
+          "pfad4": "stop",
+          "oms": "localnews/duesseldorf",
+          "mode": "mobile"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik2",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/20190105_091202-d3f2f13129c23c1a.jpg",
+      "text": "",
+      "href": "https://www.fuerteventurazeitung.de/",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://www-rpd.rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Städte",
+                        "href": "https://www-rpd.rp-online.de/nrw/staedte/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      },
+                      {
+                        "text": "Düsseldorf",
+                        "href": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 3
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Hass im Netz beschädigt \ndie Demokratie"
+                    },
+                    "id": 36552407,
+                    "kicker": {
+                      "text": "Safer Internet Safe Düsseldorf"
+                    },
+                    "timestamp": "1549379220",
+                    "contentLabel": [],
+                    "cover": {
+                      "src": {
+                        "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_9efe885d90e32970313abeff909d5b60/w250_h138_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                        "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_14c375661bc1e374fd832bb13c079898/w400_h221_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                        "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_42f99b30805ab94061285a3364e78f58/w600_h332_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                        "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_eb876759532d410554922e2e760b1869/w900_h498_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                        "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_b701f1477d4e95c4f778794daf50e050/w950_h526_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                        "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_88ea4e9d21a849c3bd63d420ab0f8abd/w1200_h664_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg"
+                      },
+                      "src_zoom": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_5a2785aab376e6fb1c12da689f37a5c2/w1200_h952_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                      "src_fit": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_5992b5b11f1eb1882cb668be604deaec/w663_h526_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg",
+                      "alt": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf",
+                      "caption": " Beim Aktionstag an der Werner-von-Siemens-Realschule diskutieren Niki, Frieda, Mohamed, Hicham und Max (v.l.), wie man sich vor Hasskommentaren im Netz schützen kann.  ",
+                      "source": {
+                        "text": "Endermann, Andreas (end)"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/5/0/7/tok_5a2785aab376e6fb1c12da689f37a5c2/w1200_h952_x600_y476_RP_47771481_1036710683_RGB_190_1_1_29c711d2c7c8c9101928d821d2fa29e6_1549378801_1036710683_5d602f4168-8bf693fe1dbfe8a4.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "",
+                    "intro": "Medienexperten und Prominente sprachen beim „Safer Internet Day“ an der \nWerner-Siemens-Realschule über Cyber-Mobbing und Hate Speech.",
+                    "sign": "",
+                    "fragmentCount": 6,
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "mobile-rectangle",
+                          "html": "<div id=\"mobilebanner_2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "medium-rectangle",
+                          "html": "<div id=\"halfpagead\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text_ohne_einzug\">Silvi Carlsson und Hazel Ly wissen genau, wie es ist, im Internet beleidigt zu werden. Unter ihren Videos auf YouTube können die beiden „Influencer“ schließlich ständig aggressive oder beleidigende Kommentare von irgendwelchen anonymen Nutzern lesen – auch wenn diese überhaupt gar keinen Bezug zum Thema des Videos haben. Während Ly wegen ihrer asiatischen Wurzeln häufig rassistisch angefeindet wird, sieht sich Carlsson öfters beleidigenden Bemerkungen zu ihrem Körper ausgesetzt – und dass, obwohl gerade sie sich in ihrem Kanal für die Akzeptanz des eigenen Körpers und gegen vermeintliche Schönheitsideale einsetzt.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zwar wissen die beiden inzwischen, wie man mit sogenannten Hasskommentaren umgehen muss – viele ihrer jungen Fans aber nicht, obwohl dieses Phänomen eine häufig auftauchende Form des Cyber-Mobbings unter Jugendlichen darstellt. Genau dieses Thema stand auch am gestrigen „Safer Internet Day“ an der Werner-Siemens-Realschule im Fokus. Organisiert von der EU-Initiative „klicksafe“ waren Medienexperten, Internetbekanntheiten und Prominente aus Musik und Film an der Schule zu Gast, um die Schüler für das Thema „Hate Speech“ in Workshops zu sensibilisieren. Ziel war es, den Schülern zu vermitteln, wie man Hasskommentare erkennt, gegen sie vorgehen kann und wo die rechtlichen Grenzen der Meinungsäußerung liegen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Info"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Wie man sich vor Hass \nim Netz schützt"
+                                },
+                                "text": "<p class=\"info_text\"><strong>#lauteralshass</strong> Unter dem Titel „lauteralshass“ starten die YouTuber Pocket Hazel, Silvi Carlsson und RobBubble zudem eine spezielle Video-Reihe auf YouTube, die dazu ermutigen soll, stärker gegen eine Verrohung der Sprache im Netz vorzugehen.</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>Klicksafe-Initiative</strong> Weitere Informationen zur Initiative, sowie Tipps, wie man sich vor Hasskommentaren schützt und gegen sie wehrt, finden sich auf der Internetseite www.klicksafe.de.</p>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Wie stark sich diese Problematik mittlerweile im Netz ausprägt, zeigt eine von der Landesanstalt für Medien NRW in Auftrag gegebene Studie. Laut dem Meinungsforschungsinstitut Forsa ist jedem zweiten der 1005 Befragten ab 14 Jahren schon einmal ein Hasskommentar im Internet begegnet. Die allgemeine Wahrnehmung über alle Altersstufen hinweg deutet sogar auf ein gesamt-gesellschaftliches Problem hin: Über 78 Prozent der befragten Bevölkerung seit Sommer 2018 sah sich demnach schon mit Hassrede konfrontiert. „Viele Menschen fürchten solche Reaktionen in Form von Hasskommentaren und trauen sich nicht mehr, ihre Meinung kundzutun. Dadurch wird die Meinungsfreiheit blockiert, auch wenn dies meist nur von einer kleinen Gruppe ausgeht. Hass im Netz ist damit mit Gewalt gegen Demokratie gleichzusetzen“, sagt der Leiter der Landesmedienanstalt, Tobias Schmid. Notwendig sei, stärker strafrechtlich gegen die Verantwortlichen vorzugehen. „Zum anderen müssen junge Menschen verstehen, wie das Internet funktioniert.“ Dies gehe nur über derartige Aktionstage oder Initiativen wie die Medienscouts.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_f21d5c056e4443fdf2deda4acc3b3c62/w306_h175_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                              "alt": "Hürol Özben leitet eine Sportgruppe für",
+                              "href": "/leben/gesundheit/so-halten-sich-senioren-fit_aid-36562707",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unsere Serie"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)So halten sich Senioren fit"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512525\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512525\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512541\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512541\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512541\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512541\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_18e88934fd405824d7dba6c49cd981a4/w306_h175_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                              "alt": "",
+                              "href": "/wirtschaft/unternehmen/uniper-im-august-2019-gehen-chef-und-finanzvorstand_aid-36561287",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Energieversorger Uniper"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Im August gehen Chef und Finanzvorstand"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512597\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512597\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512597\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"22512597\");     }, 100);  };  init();})();</script>",
+                                "lazy": true
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_40e2c241de6d61de62b3f99dfae3ead3/w306_h175_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                              "alt": "",
+                              "href": "/digitales/podcasts/sexsucht-symptome-und-therapie-praktisch-faktisch-podcast_aid-32925027",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "„Praktisch Faktisch“ - Der Wissenspodcast"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Hilfe, mein Partner ist sexsüchtig!"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_24c786ecb9c3f0e39a58ca6142017c5c/w306_h175_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                              "alt": "",
+                              "href": "/leben/reisen/utas-wunderschoenes-obertilliach_aid-36566456",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Osttirol"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Utas wunderschönes Obertilliach"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_225e236d85003d6bdb2b2c25da3d8818/w306_h175_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                              "alt": "In der Westringhalle trafen auch die",
+                              "href": "/nrw/staedte/emmerich/sport/altherren-turnier-in-rees_aid-36561551",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Turnier der Altherren"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)SV Rees wird von Dingden entthront"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_d66fc767741d901217ada143d3a9c409/w306_h175_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                              "alt": "Teehäuschen am Haus Meer Teehaus in",
+                              "href": "/nrw/staedte/meerbusch/gastronomie-fuer-haus-meer-in-meerbusch_aid-36552457",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Pläne fürs historische Gelände von Haus Meer"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Temporäres Café auf dem Gelände Haus Meer?"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">„Die haben alle Hände voll zu tun“, sagt Konrektor Thomas Bauerle. Einmal wöchentlich werden Linda und Anisa von Mitschülern angesprochen, die Cyber-Mobbing ausgesetzt sind. Auch die 13-Jährigen lasen schon einige beleidigende Kommentare unter ihren Instagram-Profilen. „Ich passe deshalb sehr auf, was ich poste. Sehe ich irgendwelche Hasskommentare, lösche ich sie dann meist, damit meine Familie sich keine Sorgen machen muss“, sagt Anisa.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Sogar richtige Hass-Gruppen bei WhatsApp und in den sozialen Netzwerken gebe es bereits, in denen verhöhnende Bilder oder beleidigende Kommentare ausgetauscht werden. Befindet sich ein Schüler in einer solchen Situation und bittet um Hilfe, holen die beiden Medien­scouts die Täter dann aus dem Unterricht, um sie zusammen mit Opfer und Vertrauenslehrer zur Rede zu stellen.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "medium-rectangle",
+                            "html": "<div id=\"contentad\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"contentad\");     }, 100);  };  init();})();</script>",
+                            "lazy": true
+                          },
+                          "mobile": {
+                            "type": "mobile-rectangle",
+                            "html": "<div id=\"mobilebanner_3\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Sich nicht einschüchtern zu lassen und auf die Täter einzugehen, sei genau die richtige Strategie, findet Comedian Faisal Kawusi. Gemeinsam mit den Rappern Eko Fresh und Afrob sowie Schauspieler Patrick Mölleken sprachen die Prominenten mit den Schülern und ermutigten sie, stärker gegen Hasskommentare in Aktion zu treten. „Man darf sich bloß nicht mundtot machen lassen. Diese Menschen wollen nur provozieren. Deshalb sollte man humorvoll reagieren. Mit Lachen nimmt man ihrer Waffe die Schärfe“, sagt Kawusi.</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407\" data-widget-id=\"AR_10\"></div>\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>"
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/safer-internet-day-an-der-werner-siemens-realschule-duesseldorf_aid-36552407\" data-widget-id=\"AR_10\"></div>\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>"
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"dev.rp-online.de\";\r\n            var rpd_adunit2 = \"contentad_inreco_1\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"contentad_inreco_1\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setTargeting('adformat', 'contentad').setTargeting('key', 'inreco').setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"mobilebanner_4\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_181a323fa4aa810cfbf0fccd9eb232a8/w250_h140_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_cae5e323cca8cfdbdf0e23150e3c2878/w400_h224_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_d265d54b8bbc1fe0f90e5877756f7877/w600_h336_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_5e702e9a26b611688d09d582ad170540/w900_h504_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_5d023ca6d6b97d2774cdb0f65f9b90ee/w950_h532_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg"
+                        },
+                        "alt": "Hürol Özben leitet eine Sportgruppe für",
+                        "href": "/leben/gesundheit/so-halten-sich-senioren-fit_aid-36562707",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Unsere Serie"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)So halten sich Senioren fit"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_a5fa96493eed417eeac109e5e11bc589/w250_h140_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_777d5efcc7db9e97cf43eaf47a24e76b/w400_h224_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_0623ede773bff4e7a6c4bd24bcad22e1/w600_h336_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_876addb0a0bb91f2f172fee5bf76d237/w900_h504_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_05284192aaa6ce2ec064bcb35d0457f2/w950_h532_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_16f368adcfd10dc7c758617ce9cfb124/w1200_h672_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/5/6/3/tok_811a80ca917d8ee54b5d896e014117a9/w1900_h1064_x2077_y1385_DPA_bfunk_dpa_5F9C600073CE3599-d988ec28242b4188.jpg"
+                        },
+                        "alt": "",
+                        "href": "/wirtschaft/unternehmen/uniper-im-august-2019-gehen-chef-und-finanzvorstand_aid-36561287",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Energieversorger Uniper"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Im August gehen Chef und Finanzvorstand"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_77899432c4861ab92e2d93311695a519/w250_h140_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_a74f4d858279856def26be26aa2bb7cf/w400_h224_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_42c4ae14d0293aafccfd63deedb8c6fe/w600_h336_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_c5f6bfa56e96e4e58e5ad425ffc99634/w900_h504_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_15c5a9a7b81c6790da2680433bf6e00e/w950_h532_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_61f892821e9f987fc8089139fdc251f9/w1200_h672_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg",
+                          "1900w": "https://www-rpd.rp-online.de/imgs/32/3/8/0/2/0/2/0/5/tok_207cd17c55f8b0a6c32f1279ee76d6be/w1900_h1064_x1500_y1000_20170505_tmnbd_dpa_14954A0054A9C3EE-e336b54fb5dd3b7d.jpg"
+                        },
+                        "alt": "",
+                        "href": "/digitales/podcasts/sexsucht-symptome-und-therapie-praktisch-faktisch-podcast_aid-32925027",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "„Praktisch Faktisch“ - Der Wissenspodcast"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Hilfe, mein Partner ist sexsüchtig!"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"mobilebanner_5\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"mobilebanner_5\");     }, 100);  };  init();})();</script>",
+                        "lazy": true
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"halfpagead_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"halfpagead_2\");     }, 100);  };  init();})();</script>",
+                        "lazy": true
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 36566456,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_d4f560bc8130dbb9c41e99bb2945dd33/w250_h187_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_3da0af574a17c34b1b21c1557b673495/w400_h300_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_32b071bceb654265ff98f06281c60368/w600_h450_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_d8c1d08f246ddad48f844ad9a1e4544f/w900_h675_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_f2a760fa2a662806a776cc687da824fd/w950_h712_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_809985ec0c76f9c74b0d1aba8e9f521e/w1200_h900_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/1/9/1/2/tok_1a464b312a66b685d4202f55997a1a9b/w1900_h1425_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg"
+                              },
+                              "alt": "",
+                              "href": "/leben/reisen/utas-wunderschoenes-obertilliach_aid-36566456",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Osttirol"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Utas wunderschönes Obertilliach"
+                              }
+                            },
+                            {
+                              "id": 36561551,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_dcafe9c0d0f5e45d1416ac6de881f8e8/w250_h187_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_e331d942b99ffe0f135de39bf5e5ad35/w400_h300_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_b1c65893291b69d2628d72fad4164a66/w600_h450_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_20afea25e3d8b3692085886f37439b6a/w900_h675_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_bd4caaaa948494ee0a53b27b21c9477e/w950_h712_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/5/8/7/5/tok_fab3ae2407d90b850cd33dafbd97712f/w1200_h779_x674_y209_RP_47786333_1038108537_RGB_190_1_1_18f70fb3737e0463e3f06b5994077ed3_1549390638_1038108537_32a70198c1-64ff63ec8bb08990.jpg"
+                              },
+                              "alt": "In der Westringhalle trafen auch die",
+                              "href": "/nrw/staedte/emmerich/sport/altherren-turnier-in-rees_aid-36561551",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Turnier der Altherren"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)SV Rees wird von Dingden entthront"
+                              }
+                            },
+                            {
+                              "id": 36552457,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_337f7cb62a95c0cd89b7c42baa5aed90/w250_h187_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_d5d6d21b758f279a9eba3311094156cd/w400_h300_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_1b6cf83d22c163c410522b38b8eb28f2/w600_h450_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_ff7bbc5c3ae97d7001b02690092246cb/w900_h675_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_1e760a6f976f106b7bfc97b3dcfa1841/w950_h712_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_f760668baca2fd8b4a2a94b5e95c12a1/w1200_h900_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/6/8/3/tok_c92d78114941ae5ba239438677b5a671/w1900_h1425_x1405_y1873_IMG_7160-90a177ef7e75044e.jpg"
+                              },
+                              "alt": "Teehäuschen am Haus Meer Teehaus in",
+                              "href": "/nrw/staedte/meerbusch/gastronomie-fuer-haus-meer-in-meerbusch_aid-36552457",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Pläne fürs historische Gelände von Haus Meer"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Temporäres Café auf dem Gelände Haus Meer?"
+                              }
+                            },
+                            {
+                              "id": 36559057,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_fba84b0f63ab0ae6b16b77a45838aa0e/w250_h187_x640_y360_e6b6a319b38c6fb9.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_497263cfed58ab985d754b59b26a3aaa/w400_h300_x640_y360_e6b6a319b38c6fb9.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_d6bad22e6b036cf7d6caa00620c7085d/w600_h450_x640_y360_e6b6a319b38c6fb9.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_1e5b73876e03f83742264a5fcb12f519/w900_h675_x640_y360_e6b6a319b38c6fb9.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_40af0aefd278970dabbdcdd14ab9f5b7/w950_h712_x640_y360_e6b6a319b38c6fb9.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/0/0/5/7/tok_2d832ff15d56cffde5de80bf9e38354f/w1200_h720_x640_y360_e6b6a319b38c6fb9.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/duesseldorf-soll-herzsicher-werden-dank-oeffentlichen-defibrillatoren_aid-36559057",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gesundheit"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Düsseldorf soll „herzsicher“ werden"
+                              }
+                            },
+                            {
+                              "id": 36553511,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_57ff98b2da9f0d3b143be3ac38c5ca6e/w250_h187_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_dd74ede13eab1ff894dbaa20f82d256c/w400_h300_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_776a9a5cf012b7408cec97498d6979fa/w600_h450_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_6a71ed45bb696a1d7095de072ba8a106/w900_h675_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_5581963b3df20aca98d206d978263087/w950_h712_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_ce7731b7d4f72a138d40d87d5b0ae3eb/w1200_h900_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/1/3/9/1/tok_a0c45156aa02fb95755ae5228415162b/w1900_h1417_x1063_y708_feuerwehr_platzhalter-e556d11729926dd1.jpg"
+                              },
+                              "alt": "Die Feuerwehr brauchte zweieinhalb Stunden, um",
+                              "href": "/nrw/staedte/duesseldorf/blaulicht/trennungsdrama-familienvater-soll-haus-in-duesseldorf-stockum-angezuendet-haben_aid-36553511",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Festnahme nach Brand in Düsseldorf-Stockum"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Familienvater soll Wohnhaus angezündet haben"
+                              }
+                            },
+                            {
+                              "id": 36555193,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/4/4/7/tok_7eee236ff1e75f10d929fe1339776174/w250_h187_x600_y311_RP_47771287_1037410685_RGB_190_1_1_caf2dd6af70f64d03f71d73d9185fbce_1549383814_1037410685_6633418d81-ef516099c4128b93.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/4/4/7/tok_3d05630ad94c141b83372bc690de3c86/w400_h300_x600_y311_RP_47771287_1037410685_RGB_190_1_1_caf2dd6af70f64d03f71d73d9185fbce_1549383814_1037410685_6633418d81-ef516099c4128b93.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/4/4/7/tok_3551950d385429987d16297a70b6a608/w600_h450_x600_y311_RP_47771287_1037410685_RGB_190_1_1_caf2dd6af70f64d03f71d73d9185fbce_1549383814_1037410685_6633418d81-ef516099c4128b93.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/4/4/7/tok_43ba6d9fa9f5094dd0ce7bad44d9b4d1/w900_h622_x600_y311_RP_47771287_1037410685_RGB_190_1_1_caf2dd6af70f64d03f71d73d9185fbce_1549383814_1037410685_6633418d81-ef516099c4128b93.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/4/4/7/tok_c8477dc836fd520cef421c003816c20e/w950_h622_x600_y311_RP_47771287_1037410685_RGB_190_1_1_caf2dd6af70f64d03f71d73d9185fbce_1549383814_1037410685_6633418d81-ef516099c4128b93.jpg"
+                              },
+                              "alt": "Nur eine Mauer, die kaum 1,50",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/eller/hoffnung-fuer-abstellbahnhof-anwohner-in-duesseldorf-eller-nach-gerichtsurteil_aid-36555193",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bürgermonitor in Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Abstellbahnhof: Hoffnung für Anwohner"
+                              }
+                            },
+                            {
+                              "id": 36552065,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_955d2fc3827398e320e31f270abe53e5/w250_h187_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_a8501936e9a5ae2396327f5ac010f07a/w400_h300_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_a4b85d719bb284bd35091f824efb4df6/w600_h450_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_103381ef94b0ea2c7bc6b0e5f62409cd/w900_h675_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_c94d2cabaefc079db67c69ac47ee052f/w950_h712_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_62a1cbc959b6d48975ce43237e858a5b/w1200_h900_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/5/7/9/7/tok_9158e3579391be114f4f25b5b11edcef/w1900_h1425_x1500_y954_DPA_bfunk_dpa_5F9C8A0075AE8054-2bd610001897debe.jpg"
+                              },
+                              "alt": "ARCHIV - 24.07.2010, Nordrhein-Westfalen, Duisburg: Tausende",
+                              "href": "/nrw/staedte/duisburg/loveparade-prozess-drei-angeklagte-stimmen-gegen-einstellung_aid-36552065",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Loveparade-Katastrophe in Duisburg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Der Mammutprozess geht weiter"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 36550923,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_1947953f5d1d057b0e00f6aa3fa3013e/w250_h187_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_6a975374ce4bbecc06457c166c20e036/w400_h300_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_7c0102ed9b0176ae71564798d1b7f1e8/w600_h450_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_4ecad0ff4e3d490e7f25677a5e654399/w900_h675_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_c7590a4f71145e4af2c8e9ebaebb94a9/w950_h712_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/0/1/3/tok_6023477c7ddcfbbf430bd21d4ff3c348/w1200_h786_x600_y393_RP_45540333_1036356347_RGB_190_1_1_6f61a6839f42f3c6e370948dc833060a_1549373350_1036356347_3bb97e1246-667d7c3280fc85e8.jpg"
+                              },
+                              "alt": "Sebastian Hirsch ist in Unterbilk geboren.",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/unterbilk/duesseldorf-unterbilk-ist-ein-stadtteil-der-kurzen-wege_aid-36550923",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Stadtteil-Check Unterbilk"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Ein Stadtteil der kurzen Wege"
+                              }
+                            },
+                            {
+                              "id": 36547689,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_ceebd7f3ab632c405b2bea152a7770e8/w250_h187_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_70efa589e65652b1099ad01ffdc26b51/w400_h300_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_42b9586175b9c469b6916bd8753127ff/w600_h450_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_3943814a3307f9b721c01ce2cb7bc76a/w900_h675_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_abe0befe0e1071e6a06c136b8d0cf401/w950_h712_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_817e94de1409f82517c782e4ee674898/w1200_h900_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/9/5/6/7/tok_b23ead06043dcfdc3151fa63cdfa3c0d/w1900_h1425_x985_y967_687e68bb-4ff2-4b71-b4e7-4712d7554c7d-92f0cbd7eef906cc.jpg"
+                              },
+                              "alt": "Die Animation zeigt, wie der Supermarkt",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/kaiserswerth/verzoegerung-bei-geplanten-supermarkt-am-dreiecksparkplatz-kaiserswerth_aid-36547689",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nahversorgung"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Supermarkt-Neubau lässt auf sich warten"
+                              }
+                            },
+                            {
+                              "id": 36527173,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_0618a19ae2b120d7564e43a6cbd80d03/w250_h187_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_c6b6a6b203cffed0ccbc439b34bfe823/w400_h300_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_5f730606ad846068ef035adfafbd07df/w600_h450_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_7fd26f7dddda0ef6b0e4c04fa2f8a5f3/w900_h675_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_e866c0c3297c73cad05268b2c11cd939/w950_h712_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_8fb169a8a898ccdf693e842ad65426d5/w1200_h900_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/6/1/6/7/tok_ad55bacb40ed2094bd66772d8a4eba5c/w1900_h1425_x1796_y1347_IMG_20181204_134633-ff0894cf6eb18cc7.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/stadtteile/flingern/die-ackerstrasse-im-stadtteil-flingern-nord-in-duesseldorf-ist-eine-beliebte-einkaufsstrasse_aid-36527173",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Serie „Einkaufsstraßen in Düsseldorf“ "
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die Ackerstraße - Kreative, Kunst und Kiezgefühl"
+                              }
+                            },
+                            {
+                              "id": 35990709,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_0badc77a01c11280e961d463897d94e3/w250_h187_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_b13a0c12aa14f35e9e07887d0f9785ab/w400_h300_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_6e8a8c5a0311675f69f1ba68a2149ff4/w600_h450_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_adccce84a03b82925a9c66a4e5948cd2/w900_h675_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_c8034a6326ee5afc20155a878f9d0346/w950_h712_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/9/5/5/7/2/5/tok_d504e9c7c1da5667ad5d53ac30a468e4/w1200_h778_x600_y389_RP_46833963_1008186033_RGB_190_1_1_0902fe06541e7c6c93e9dfe86d3ef58a_1548749584_1008186033_454453db25-ede55359082f39ce.jpg"
+                              },
+                              "alt": "Foto Tanzhaus „Fúria“  Honorarfrei bei Nennung",
+                              "href": "/nrw/staedte/duesseldorf/freizeit/veranstaltungen-in-duesseldorf-kultur-tipps-fuer-kurzentschlossene_aid-35990709",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Veranstaltungen in Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kultur für Kurzentschlossene"
+                              }
+                            },
+                            {
+                              "id": 36542411,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_00ae6335a508e3724ca6ab9fc1a06045/w250_h187_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_0910118eed1f761b951d47ec11669319/w400_h300_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_4745dac78ff47739971d05a9ef60d410/w600_h450_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_cd5d225f61e46c034bed84c75f241a48/w900_h675_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_5b448be7a477072d373b9cbecdde167b/w950_h712_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_9045ba9fe10eed84fe15ed2e8ecd4b21/w1200_h900_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/6/1/7/3/7/tok_79b3bf82fbf4e1108e211d223e18573e/w1900_h1425_x1027_y1207_DPA_bfunk_dpa_5F9A1400B269FA38-65e47e729fc31384.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/duesseldorf/blaulicht/duesseldorf-stockum-hoher-sachschaden-bei-kellerbrand-hunde-und-katzen-gerettet_aid-36542411",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Düsseldorf-Stockum"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Hoher Sachschaden bei Kellerbrand - Hunde und Katzen gerettet"
+                              }
+                            },
+                            {
+                              "id": 36539137,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_1e113543bb4824a91f477ce27be13517/w250_h187_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_08438fef00a99bb13a782a30eb53ad9a/w400_h300_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_27ddbda075ff1e5cd812f9702ded7b61/w600_h450_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_1d59726d9d556997311c7ff13730d099/w900_h675_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_ffc69ae653b7148b3f062878696639b5/w950_h712_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_02e455d26e2ae7335735a82e804346f2/w1200_h900_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/3/1/0/1/tok_c6f4542205a84026f157b7d3c5bc5c6d/w1900_h1425_x1767_y1249_DPA_bfunk_dpa_5F9C8A00FA58D0EC-f28853ca78f627e1.jpg"
+                              },
+                              "alt": "Ein Flugzeug von Germania am Flughafen",
+                              "href": "/wirtschaft/unternehmen/germania-meldet-2019-insolvenz-alle-fluege-ab-duesseldorf-betroffen_aid-36539137",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Airline insolvent"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Alle Germania-Flüge ab Düsseldorf abgesagt"
+                              }
+                            },
+                            {
+                              "id": 36534771,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_838ac62cd147e30e40f71a102daa393d/w250_h187_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_3510009085d88b8c60629be236e0d8b7/w400_h300_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_2f9677e066dd150eaaf36b9d5347079e/w600_h450_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_639f65a653ad77392a4af88997c3b3ab/w900_h675_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_b5a06da1b513de2c923811c2695ae21f/w950_h712_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/5/3/6/3/tok_75e2322a45dfec9ee76c4031f0938b92/w1200_h772_x600_y386_RP_47694997_1032626225_RGB_190_1_1_0fc9ff10fdd0889e9899d969b2783010_1549284334_1032626225_1516178c8d-bd0cb8f316d9ce6c.jpg"
+                              },
+                              "alt": "Krokodilkaimane (Caiman crocodylus) paaren sich oft",
+                              "href": "/nrw/staedte/duesseldorf/aquazoo-in-duesseldorf-fuehrung-ueber-die-liebe-bei-tieren-am-valentinstag-2019_aid-36534771",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Mindestalter 18 Jahre"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Aquazoo in Düsseldorf bietet „schlüpfrige“ Führung zum Valentinstag"
+                              }
+                            },
+                            {
+                              "id": 36537001,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/1/7/1/tok_befbda8d913eb992d6dea0d8bca285d7/w250_h187_x610_y220_RP_47697653_1034683009_RGB_190_1_1_a66e2bfd73e5660984e0a8f631415d6f_1549308466_1034683009_f26bb397e4-b10879e448c3d476.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/1/7/1/tok_defd4a0123880c74e9237e99370ec5cd/w400_h300_x610_y220_RP_47697653_1034683009_RGB_190_1_1_a66e2bfd73e5660984e0a8f631415d6f_1549308466_1034683009_f26bb397e4-b10879e448c3d476.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/1/7/1/tok_db898da2fd1752d0b2484d83abcf5654/w600_h450_x610_y220_RP_47697653_1034683009_RGB_190_1_1_a66e2bfd73e5660984e0a8f631415d6f_1549308466_1034683009_f26bb397e4-b10879e448c3d476.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/1/7/1/tok_1f4ae9cebf4e02d8e4ce1c346d689db8/w900_h601_x610_y220_RP_47697653_1034683009_RGB_190_1_1_a66e2bfd73e5660984e0a8f631415d6f_1549308466_1034683009_f26bb397e4-b10879e448c3d476.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/1/7/1/tok_5ee72738e022bc6ef19553345b7e77b7/w950_h601_x610_y220_RP_47697653_1034683009_RGB_190_1_1_a66e2bfd73e5660984e0a8f631415d6f_1549308466_1034683009_f26bb397e4-b10879e448c3d476.jpg"
+                              },
+                              "alt": "Lena Newton, Katharina Fritsch, Karl-Heinz Petzinka,",
+                              "href": "/nrw/staedte/duesseldorf/duesseldorf-akademie-mit-grosser-kunst-und-einem-feueralarm_aid-36537001",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kunst"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Akademie mit großer Kunst und einem Feueralarm "
+                              }
+                            },
+                            {
+                              "id": 35880425,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_4df12c873730e080daafd034b34ae81b/w250_h187_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_acf91fa74172db27e43bc383df4551f1/w400_h300_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_a370ab71b9bcce84c57c04506e288a89/w600_h450_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_e92848bed07e65e3e7347f08fd71acc9/w900_h675_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_a86118b5d8dc43db39c065bddfd80d65/w950_h712_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/6/6/9/7/1/8/5/tok_2c869a96e57feab295a6ddfc86ba2c01/w1200_h900_x600_y600_RP_46701909_1008857157_RGB_190_4_1_37b822099ac92c3661a709ff2bafdc81_1548770448_1008857157_4295bb2391-025e53ceed69ade6.jpg"
+                              },
+                              "alt": "Die Kette ist wahrscheinlich nicht wertvoll",
+                              "href": "/nrw/staedte/duesseldorf/duesseldorf-tetta-schenkte-claudia-omas-bertas-kette-wo-ist-claudia_aid-35880425",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fund in Düsseldorf"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Welche Claudia vermisst Oma Bertas Kette?"
+                              }
+                            },
+                            {
+                              "id": 36537289,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_10156480695f12db5fc1ff9a17d7d9ce/w250_h187_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_dabdda8819afc1f9ecffdea43d46802f/w400_h300_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_ee96b961f5f20deefe7788d6993b53c8/w600_h450_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_ddf03ac72afbe1dd83ae70fdfce276e6/w900_h675_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_72955560b868be441d6ccc3fb9363df6/w950_h712_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_f8abd8e7f77e2106ad7d60c40c05efef/w1200_h900_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/9/8/5/7/tok_b6afa8e54f02cefd890f26d241a3ec09/w1900_h1425_x2159_y728_20121203_bfunk_dpa_148306002149BB76-b398ac903d90fa62.jpg"
+                              },
+                              "alt": "Die Polizei in NRW warnt mit",
+                              "href": "/nrw/staedte/duesseldorf/blaulicht/duesseldorf-falsche-polizisten-stehlen-zwei-millionen-euro_aid-36537289",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Organisierte Betrüger"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Falsche Polizisten stehlen Düsseldorfer Senioren zwei Millionen Euro"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Schlagworte",
+                          "children": [
+                            {
+                              "component": "tags",
+                              "data": {
+                                "links": [
+                                  {
+                                    "href": "/thema/faisal-kawusi/",
+                                    "text": "Faisal Kawusi"
+                                  },
+                                  {
+                                    "href": "/thema/mobbing/",
+                                    "text": "Mobbing"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Safer Internet Day an der Werner-Siemens-Realschule Düsseldorf"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 47797507,
+                      "url": "",
+                      "counturl": ""
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": ""
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/duesseldorf/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik2",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

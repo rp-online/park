@@ -1,0 +1,29 @@
+.park-article-content {
+  @include global-sans-serif-font-size(2);
+  @include richtext;
+
+  padding: 0 $global-spacing;
+  line-height: (24 / 16);
+
+  @include mq(desktop) {
+    margin-left: calc(#{$article-spacing} - #{$global-spacing});
+    margin-right: $article-spacing;
+    padding: 0 0 0 $global-spacing;
+    line-height: (28 / 18);
+  }
+
+  .park-slider.park-slider {
+    @include mq(desktop) {
+      margin-left: calc(#{$global-spacing} * -1);
+      margin-right: calc(#{$global-spacing} * -1);
+    }
+
+    .park-slider__arrow-nav-prev-button {
+      left: calc((#{$article-spacing} - #{$global-spacing}) * -1);
+    }
+
+    .park-slider__arrow-nav-next-button {
+      right: calc((#{$article-spacing} - #{$global-spacing}) * -1);
+    }
+  }
+}

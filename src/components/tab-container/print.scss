@@ -1,0 +1,5 @@
+.park-tab-container {
+  &__item {
+    @include nopagebreak;
+  }
+}

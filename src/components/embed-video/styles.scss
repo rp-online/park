@@ -1,0 +1,19 @@
+.park-embed-video {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 $global-spacing 0;
+
+  &__caption {
+    @extend %figure-caption;
+
+    padding: $global-spacing;
+
+    > svg {
+      width: 1rem;
+      height: 1rem;
+      margin-top: rem(4px);
+      margin-right: rem(8px);
+      vertical-align: baseline;
+    }
+  }
+}

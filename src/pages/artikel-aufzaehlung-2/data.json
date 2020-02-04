@@ -1,0 +1,2537 @@
+{
+  "title": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "title": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben",
+    "url": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1545133041",
+    "container_id": 35189221,
+    "beitrag_id": 44500657,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Ein fremdenfeindlicher Mailverkehr zwischen Frankfurter Polizisten sorgt bundesweit für Empörung. Es besteht der Verdacht auf Gründung eines rechtsradikalen Netzwerkes. Die Beamten wurden suspendiert."
+      },
+      {
+        "name": "author",
+        "content": "Gregor Mayntz"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Frankfurt, Polizisten, Verdacht, Behörde, Netzwerk, Empörung, Dienst, Beamte, Staatsanwaltschaft, Ermittlungen, Generalverdacht, Polizeibeamter, Polizeibeamten, Staat"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Frankfurt, Polizisten, Verdacht, Behörde, Netzwerk, Empörung, Dienst, Beamte, Staatsanwaltschaft, Ermittlungen, Generalverdacht, Polizeibeamter, Polizeibeamten, Staat"
+      },
+      {
+        "property": "og:title",
+        "content": "Frankfurter Polizisten unter Nazi-Verdacht: “Das Verhalten offenbart Abgründe und ist kriminell“"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      {
+        "property": "og:description",
+        "content": "Ein fremdenfeindlicher Mailverkehr zwischen Frankfurter Polizisten sorgt bundesweit für Empörung. Es besteht der Verdacht auf Gründung eines rechtsradikalen Netzwerkes. Die Beamten wurden suspendiert."
+      },
+      {
+        "property": "og:image",
+        "content": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_b2f3c07a926ff28cc68d6826362d047f/w1200_h630_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Ein fremdenfeindlicher Mailverkehr zwischen Frankfurter Polizisten sorgt bundesweit für Empörung. Es besteht der Verdacht auf Gründung eines rechtsradikalen Netzwerkes. Die Beamten wurden suspendiert."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_b2f3c07a926ff28cc68d6826362d047f/w1200_h630_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "politik",
+      "subressort": "",
+      "dossier": "deutschland",
+      "contentType": "Artikel",
+      "analyticsUrl": "/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221",
+      "author": "Gregor Mayntz",
+      "date": "2018-12-17",
+      "origin": "4",
+      "seo": "/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=44500657&cstr=35189221&l=1251&tit=Frankfurter+Polizisten+sollen+Nazi-Mails+an+deutsch-t%FCrkische+Anw%E4ltin+verschickt+haben&url=https%3A%2F%2Frp-online.de%2Fpolitik%2Fdeutschland%2Ffrankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221&sep=%7C&tce=1&tid=64987&tn=64983&tp=50327%7C64983&tpn=50327%7C64983&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: “Das Verhalten offenbart Abgründe und ist kriminell“",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0A“Das Verhalten offenbart Abgründe und ist kriminell“%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 35189221,
+      "doctype": "article",
+      "contentid": "/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221",
+      "channel": 64983,
+      "subchannel": 64987,
+      "heading": "“Das Verhalten offenbart Abgründe und ist kriminell“",
+      "kicker": "Berlin",
+      "tag": "deutschland"
+    },
+    "links": [
+      {
+        "rel": "amphtml",
+        "href": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221?output=amp"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/politik/deutschland/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/53ca321dcbe44f57b3b838a0ac473212",
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "stroeer",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///politik",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///politik",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///politik",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                813,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-3__H_MB_3",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///politik",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "hpa": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35189221",
+          "pfad1": "politik",
+          "pfad2": "deutschland",
+          "pfad3": "stop",
+          "oms": "politik",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35189221",
+          "pfad1": "politik",
+          "pfad2": "deutschland",
+          "pfad3": "stop",
+          "oms": "politik",
+          "mode": "desktop"
+        },
+        "zone": "politik"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///politik",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "interstitial",
+            "adUnitPath": "///politik",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///politik",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/mobil_banner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "///politik",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///politik",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad-mew",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35189221",
+          "pfad1": "politik",
+          "pfad2": "deutschland",
+          "pfad3": "stop",
+          "oms": "politik",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "35189221",
+          "pfad1": "politik",
+          "pfad2": "deutschland",
+          "pfad3": "stop",
+          "oms": "politik",
+          "mode": "mobile"
+        },
+        "zone": "politik"
+      },
+      "reloadFrequency": "3"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221"
+      },
+      "headline": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_1fd0fd8253fb48abd46407c8a911ff72/w950_h526_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-12-17 19:15",
+      "dateModified": "2018-12-18 10:05:07",
+      "author": {
+        "@type": "Person",
+        "name": "Gregor Mayntz"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Ein fremdenfeindlicher Mailverkehr zwischen Frankfurter Polizisten sorgt bundesweit für Empörung. Es besteht der Verdacht auf Gründung eines rechtsradikalen Netzwerkes. Die Beamten wurden suspendiert."
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"interstitial\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "nofollow": [
+              ""
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Politik",
+                        "href": "https://rp-online.de/politik/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Deutschland",
+                        "href": "https://rp-online.de/politik/deutschland/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "“Das Verhalten offenbart Abgründe und ist kriminell“"
+                    },
+                    "id": 35189221,
+                    "kicker": {
+                      "text": "Frankfurter Polizisten unter Nazi-Verdacht"
+                    },
+                    "timestamp": "1545069240",
+                    "cover": {
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_8a37fa413a5b725c1c359330c2327d98/w250_h138_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "400w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_755d2b51f379b3c326a7deb1aab327ed/w400_h221_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "600w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_8d70f7d0d500d8b8abf9b043497d9acc/w600_h332_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "900w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_4f60d865df8689a258d316a81de9184d/w900_h498_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "950w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_1fd0fd8253fb48abd46407c8a911ff72/w950_h526_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "1200w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_3f99feedb1b0b5c0bb50eb2fd535a7a8/w1200_h664_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                        "1900w": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_e6309855790f75c08cc55f26a0d27db6/w1900_h1052_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg"
+                      },
+                      "src_zoom": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_f40d8e8c3b9bdf91b96c20166632e61c/w1900_h1226_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                      "src_fit": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_c90d900094a26566104d578a69008bde/w814_h526_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                      "alt": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben",
+                      "caption": " Schriftzug „Polizei“ am 1. Polizeirevier auf der Zeil. ",
+                      "source": {
+                        "text": "dpa/Boris Roessler"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/tok_f40d8e8c3b9bdf91b96c20166632e61c/w1900_h1226_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Berlin",
+                    "intro": "Ein fremdenfeindlicher Mailverkehr zwischen Frankfurter Polizisten sorgt bundesweit für Empörung. Es besteht der Verdacht auf Gründung eines rechtsradikalen Netzwerkes. Die Beamten wurden suspendiert.",
+                    "sign": "",
+                    "authorsbox": {
+                      "text": "Von Gregor Mayntz"
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text_ohne_einzug\"> Das Landeskriminalamt in Hessen geht dem Verdacht eines möglichen rechtsradikalen Netzwerks innerhalb der Frankfurter Polizei nach. Im Zentrum stehen fünf Beamte aus dem 1. Revier, die nach Angaben des Polizeipräsidiums derzeit nicht mehr im Amt sind. Sie sollen sich über einen Messenger-Dienst fremdenfeindliche und nazistische Texte, Bilder und Videos zugesandt haben. Die Staatsanwaltschaft gab an, wegen Volksverhetzung und Verwendens von Kennzeichen verfassungswidriger Organisationen zu ermitteln.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Um diese Ermittlungen nicht zu gefährden und die Dimensionen eines möglichen Netzwerks besser ergründen zu können, hielten sich die Behörden mit der Bekanntgabe weiterer Details zurück. Deshalb wurden Berichte Frankfurter Journalisten offiziell nicht bestätigt, wonach die Behörden über die Rückverfolgung eines anonymen Drohschreibens an die Anwältin Seda Basay-Yildiz dem mutmaßlichen polizeiinternen Netzwerk auf die Spur gekommen sein könnten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Info"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Polizeiskandale \nin Deutschland"
+                                },
+                                "body": {
+                                  "tag": "span",
+                                  "text": "<p class=\"info_text\"><strong>September 2014</strong> In Aachen wird ein 19-jähriger Anwärter suspendiert, weil er eine Kollegin mit Migrationshintergrund rassistisch beleidigt.</p><p class=\"info_text\"></p><p class=\"info_text\"><strong>August 2018</strong> Ein Beamter aus Sachsen gab sich beim Besuch des türkischen Präsidenten Erdoğan im Einsatz den Decknamen \"Uwe Böhnhardt\". Der war Teil der Nazi-Terrorgruppe NSU. </p>"
+                                },
+                                "bilddaten": {
+                                  "tag": "span",
+                                  "src": "https://rp-online.de/imgs/32/4/4/5/0/0/6/5/7/DPA_bfunk_dpa_5F9B2200DDC89791-53957dc6dbe8036c.jpg",
+                                  "width": "2181",
+                                  "height": "3000",
+                                  "alt": "",
+                                  "caption": "Das 1. Polizeirevier auf der Zeil⇥dpa",
+                                  "source": {
+                                    "fotocredit": "Boris Roessler",
+                                    "agentur": "dpa",
+                                    "fotograf": "{\"credittext\":\"\",\"tabledata\":[{\"id\":\"H500524\"}],\"honorable\":0}"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die Opferanwältin im NSU-Prozess hatte auch die Interessen des angeblichen ehemaligen Bin-Laden-Leibwächters Sami A. vertreten und ein Zwangsgeld in Höhe von 10.000 Euro gegen die für die widerrechtliche Abschiebung von A. verantwortliche NRW-Behörde durchgesetzt. Daraufhin erreichte sie nach Recherchen der „Süddeutschen Zeitung“ Anfang August ein Fax mit üblen Beschimpfungen und der Drohung: „Als Vergeltung für 10.000 Euro Zwangsgeld schlachten wir deine Tochter.“ Es folgten der Name der Tochter und die Adresse der Familie, die in keinem Telefonbuch steht und öffentlich nicht bekannt ist.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "medium-rectangle",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "mobile-rectangle",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Als Absender ist der Name des NSU-Mörders Uwe Böhnhardt angegeben, als Betreff führte das Schreiben „NSU 2.0“ auf. Bei den Ermittlungen soll die Polizei auf eine grundlose Abfrage zu Basay-Yildiz im Polizeicomputer gestoßen sein. Über die Auswertung des abfragenden Rechners sollen die Chatprotokolle mit den ausländerfeindlichen und NS-verherrlichenden Inhalten aufgetaucht sein. Ob die Polizisten selbst mit dem Droh-Fax zu tun haben oder der Urheber auf anderem Weg an die Adresse der Anwältin kam, lässt sich wegen der zurückhaltenden Auskünfte der Staatsanwaltschaft nicht klären. Die Berichterstattung führte zu einem Erschrecken in Anwaltskreisen und zu Empörung unter Polizisten und Politikern.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_5037cb54ac4ed35aff6c89157a81da02/w306_h175_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                              "alt": "Ein Polizeifahrzeug steht vor dem 1.",
+                              "href": "/panorama/deutschland/hessen-landeskriminalamt-ermittelt-gegen-mutmasslich-rechte-polizisten_aid-35181421",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fünf Beamte unter Verdacht"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Landeskriminalamt ermittelt gegen rechtsradikale Polizisten"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"22512525\"); });}, 100);</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">„Das Verhalten einzelner hessischer Polizeibeamter offenbart Abgründe und ist kriminell“, sagte der SPD-Innenexperte Burkhard Lischka unserer Redaktion. „Sollten sich die Vorwürfe erhärten, sind die Beamten ohne Wenn und Aber aus dem Dienst zu entfernen“, forderte der SPD-Politiker. Radikale hätten bei der Polizei nichts zu suchen; „da darf es kein Pardon geben“, unterstrich Lischka. Sonst werde das Vertrauen, das die Polizei in unserem Land genieße, zerstört. „Der Fall zeigt, dass wir ein wachsames Auge auf diejenigen haben müssen, die unseren Staat tagtäglich mit ihrer Arbeit vertreten“, lautet für Lischka die Schlussfolgerung. Das beginne bereits bei der Einstellung und der Ausbildung von Polizeibeamten.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-3__H_MB_3\"></div>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"topmobile3\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Der hessische Ministerpräsident Volker Bouffier bezeichnete die Vorgänge als „sehr ernste Geschichte“, an die man sehr sorgfältig herangehen müsse. „Ich kann noch nicht übersehen, wie weit das geht, aber es ist kein Zweifel, dass uns das sehr sehr ernst angeht,“ sagte Bouffier am Rande einer CDU-Präsidiumssitzung in Berlin.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<div class=\"opinary-widget-wrapper\" style=\"width: 100%; max-width: 1200px; height:100%; margin:0 auto;\">  <div class=\"opinary-widget\" style=\"position:relative; padding-top: 100%;\">    <iframe class=\"opinary-iframe\" src=\"https://compass.pressekompass.net/compasses/rheinischePost/sind-die-neuen-co2grenzwerte-der-eu-ange-Kxot\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%\" frameborder=\"0\"></iframe>  </div></div><script src=\"//compass.pressekompass.net/static/opinary.js\"></script>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Der innenpolitische Sprecher der Unionsfraktion, Mathias Middelberg, versicherte, die Polizei sei auf dem rechten Auge genauso wenig blind wie auf dem linken. „Es ist aber in der Tat beunruhigend, was jetzt in Frankfurt als Verdacht im Raum steht“, sagte Middelberg unserer Redaktion. Hieraus solle jedoch kein Generalverdacht gegen die Polizei konstruiert werden. Er sei sicher, dass die zuständigen Behörden den Vorwürfen ohne falsche Rücksichtnahme nachgingen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">„Sowohl erschüttert als auch erbost“ äußerte sich die Gewerkschaft der Polizei (GdP) über die „widerwärtigen Hintergründe“ der mutmaßlichen Taten von Frankfurt. „Wer rechtsextremes Gedankengut teilt, Ausländerhass propagiert, mit abstoßender Gewalt droht und polizeiliche Instrumente für seine Taten nutzt, hat in unserer fest auf dem Boden der Verfassung stehenden Polizei nichts verloren“, erklärte GdP-Chef Oliver Malchow.</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221\" data-widget-id=\"AR_10\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/deutschland/frankfurter-polizisten-sollen-nazi-mails-an-deutsch-tuerkische-anwaeltin-verschickt-haben_aid-35189221\" data-widget-id=\"AR_10\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_af4f70faa75b54d6e58d666f30e19040/w250_h140_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_f596fbc6354a823d709f3b3bbc8bcb28/w400_h224_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_f31a318ddff78861467e422551bc3f55/w600_h336_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_72bc7e5c6a07cdceeb4594669dc73e25/w900_h504_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_1453b18565f253e6733933584555bf37/w950_h532_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_28fdef8e04d1f4b35fa3b7440fae0074/w1200_h672_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/4/4/6/6/8/5/3/tok_64b94177be0bdb82f2c3c9ee63508f3a/w1900_h1064_x1517_y822_DPA_bfunk_dpa_5F9B22000D7C1CB6-23a78a539d42a759.jpg"
+                        },
+                        "alt": "Ein Polizeifahrzeug steht vor dem 1.",
+                        "href": "/panorama/deutschland/hessen-landeskriminalamt-ermittelt-gegen-mutmasslich-rechte-polizisten_aid-35181421",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fünf Beamte unter Verdacht"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Landeskriminalamt ermittelt gegen rechtsradikale Polizisten"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_a118412ecd14af7e97730eff80d96a15/w250_h140_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "400w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_e72802bf9cc9ea63350486359caab09a/w400_h224_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "600w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_793493b479235dcef0d7b07bcf072efa/w600_h336_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "900w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_5742c69f4b9056d634033c72c9d18b14/w900_h504_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "950w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_8d6264473bc6fba24a6d8f69cce4d456/w950_h532_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_a187ef5d7810274e5bae1c3c0cfa9850/w1200_h672_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/3/9/2/8/7/3/1/5/tok_d9b3a70ae9569a0e6578ba1916ab6675/w1900_h1064_x1795_y1088_160303KDS29k-0cf98504c64e2bff.jpg"
+                        },
+                        "alt": "Hinter dieser Zellentür brach das Feuer",
+                        "href": "/nrw/panorama/jva-kleve-syrer-nach-brand-gestorben-ermittlungen-gegen-polizisten_aid-33426703",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Mann saß zu Unrecht im Gefängnis"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Syrer nach Brand in Kleve gestorben - Ermittlungen gegen Polizisten"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_02f08d06d783d247a8933ec09e6864bc/w250_h140_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "400w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_95bb27b804f75291055397d434d9b469/w400_h224_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "600w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_6d9b686544675e19eaf8d41a1c84c1a0/w600_h336_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "900w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_2d1aefee0324068720b1e3c3d1e7d9b5/w900_h504_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "950w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_b76e473ff4f2001109a47a5f5df989a9/w950_h532_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_d0e389852b05a3a55c7a0fc214f13b69/w1200_h672_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/3/7/2/7/6/8/4/3/tok_96d1f2cf8660f84b1da18bb9c82935a1/w1900_h1064_x1500_y1022_DPA_bfunk_dpa_5F9A4200AA00E2E6-27dd7351cd5904ab.jpg"
+                        },
+                        "alt": "Ein Reiter drückt seinen Stiefelsporen. (Symbolfoto)",
+                        "href": "/sport/andere/skandal-um-sexuelle-uebergriffe-staatsanwaltschaft-koblenz-leitet-ermittlungen-gegen-springreiter-ein_aid-32426815",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Skandal um sexuelle Übergriffe"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Staatsanwaltschaft Koblenz leitet Ermittlungen gegen Springreiter ein"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 17706467,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/2/0/6/4/9/3/8/5/tok_e622aa73873932340e18e7cd81d7800c/w250_h187_x310_y232_746a71018dc1ef3d.jpg",
+                                "400w": "https://rp-online.de/imgs/32/2/0/6/4/9/3/8/5/tok_ac622e86794babd6ff05ad20f0289688/w400_h300_x310_y232_746a71018dc1ef3d.jpg",
+                                "600w": "https://rp-online.de/imgs/32/2/0/6/4/9/3/8/5/tok_aabe13601f2a61f8cb3361e5100e222b/w600_h450_x310_y232_746a71018dc1ef3d.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/wermelskirchen/schuesse-in-wermelskirchen-staatsanwaltschaft-wertet-spuren-aus_aid-17706467",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nach Schüssen in Wermelskirchen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Staatsanwaltschaft wertet Spuren aus"
+                              }
+                            },
+                            {
+                              "id": 35210483,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_b79e1bc9971b6f0742b6b1e2a1512b9e/w250_h187_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_f700d625585371505e7e49327ec365a9/w400_h300_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_b2f75ff244cc65c979c2b3a17911e1e7/w600_h450_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_08f2d88f1ff519edb917070c989c804c/w900_h675_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_4cddaf4a2803b9451f4b210ab1337aa5/w950_h712_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_010ed9d52947e3239302d5db5429bb84/w1200_h900_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/6/9/9/6/3/tok_14649ecca787cdc6145398ddcdae40ef/w1900_h1425_x1500_y968_DPA_bfunk_dpa_5F9B2200055E8E0A-8cb2151110fdd9a7.jpg"
+                              },
+                              "alt": "Die Polizeiwache an der Zeil in",
+                              "href": "/politik/deutschland/rechtes-netzwerk-fragen-und-antworten-zum-polizei-skandal-in-frankfurt_aid-35210483",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rechtes Netzwerk"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Fragen und Antworten zum Polizei-Skandal"
+                              }
+                            },
+                            {
+                              "id": 35212439,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_e6c803cf2ca5e1d09ea63d82882daa3f/w250_h187_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_482ae9778c9762ab6b248d8193f29fd5/w400_h300_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_e6c7974561cab3626767be1d06e9eaab/w600_h450_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_a2dec28190679ad3599e5ae4496034f6/w900_h675_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_88388db9f4dfb64ac94d9ce9066c79cb/w950_h712_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_9a8076d05b8f755f3ae2873dbbf88729/w1200_h900_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/7/8/2/7/9/tok_3732d2591805cb251bfd1ad03bd32886/w1900_h1425_x1850_y916_DPA_bfunk_dpa_5F9B240014510DC3-604af079e50c0978.jpg"
+                              },
+                              "alt": "Foto: Imago",
+                              "href": "/politik/deutschland/machtkampf-in-der-cdu-merz-will-minister-werden_aid-35212439",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Friedrich Merz prescht vor"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "„Ein Ministeramt würde ich mir zutrauen“"
+                              }
+                            },
+                            {
+                              "id": 35206765,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_a42f4264f9d37453f50654d1dfad945a/w250_h187_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_1b195fcc1749a439f438bc295671b238/w400_h300_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_d84cc959ba92ca983a26d09e3dd0459c/w600_h450_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_2ae5cb6108be8045b4d8c842e769b4a3/w900_h675_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_d6d63ed3aa43cd86c61251c4bb492e53/w950_h712_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_97380036723339771ffb8f963cbdc5bc/w1200_h900_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/5/3/0/7/9/tok_0d22b3e64c148ae4e98884eb6721927f/w1900_h1425_x985_y912_DPA_bfunk_dpa_5F9B24002C0E90D9-57f9e43a3d84c55d.jpg"
+                              },
+                              "alt": "Gesundheitsminister Jens Spahn will die Notfallversorgung",
+                              "href": "/politik/deutschland/notfallversorgung-spahn-will-gemeinsame-organisation-von-praxisaerzten-und-kliniken_aid-35206765",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gemeinsame Notfallversorgung"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Spahn will Arztpraxen und Kliniken zur Zusammenarbeit zwingen"
+                              }
+                            },
+                            {
+                              "id": 35218343,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_c0a0bf39eb11b629811088403f726896/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_23ced58cb9bb9290db1f89d747ec3841/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_9c4ca8b10ead6a75efeb5f54d783931c/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_cae5b2211222bfd94ffee6445d362e41/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_73e22b38e143ba02cd3d219f8d570558/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_abe506dd8db7404cd5d16d33fe0d4df1/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/9/0/4/5/5/tok_496662fecbb8fb2dd9f8df721783646c/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9AF400B96736C1-cc5d196ddba26fbd.jpg"
+                              },
+                              "alt": "Bunte Plastik-Trinkhalme (Symbolbild)",
+                              "href": "/politik/eu/eu-staaten-einigen-sich-auf-verbot-von-einweg-plastik_aid-35218343",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Plastikteller, Trinkhalme und Co."
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "EU-Staaten einigen sich auf Verbot von Einweg-Plastik"
+                              }
+                            },
+                            {
+                              "id": 35220675,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_df1d22cfa4140fdcf3acf0e92ce854b9/w250_h187_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_2a25068567386ddfbfc3aec96682cc2c/w400_h300_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_33adf66fc39ae07d42f15a89c9c811a0/w600_h450_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_96ce047325cbc55cf885fd49795be644/w900_h675_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_77cf1f7a806532acc5047539c22c2ca4/w950_h712_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_00466fb5aaeb6abdde9e2057ab7eb368/w1200_h900_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/5/9/4/6/6/7/tok_97488456c54aca0b95e92b6ec9914e6d/w1900_h1425_x1500_y1000_AP_329B2400A696BDB2-791b21447a2938d2.jpg"
+                              },
+                              "alt": "Der Vater eines Opfers des Amoklaufs",
+                              "href": "/politik/ausland/kommission-von-us-praesident-donald-trump-fordert-waffen-fuer-lehrer_aid-35220675",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Für mehr Sicherheit an Schulen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Trump-Kommission fordert Waffen für Lehrer"
+                              }
+                            },
+                            {
+                              "id": 20608589,
+                              "type": "article",
+                              "href": "/nrw/staedte/krefeld/staatsanwaltschaft-krefeld-prueft-kollegen_aid-20608589",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Krefeld"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Staatsanwaltschaft Krefeld prüft Kollegen"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 35188427,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_b2d9d5b8ed19cf3db731538b3c31ff54/w250_h187_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_cc65e214de20293d90de55e431d4529f/w400_h300_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_9177a824e9af3d077aeb1748652fd123/w600_h450_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_83e5bd4555b37c769c66fe7d65732e4d/w900_h675_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_90ad5413fe7c883b2c4f13cf70279ebd/w950_h712_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/9/7/1/3/5/tok_d305ebd18f91aa16cb1895784e195e38/w1200_h714_x584_y332_RP_44465013_949214469_RGB_190_1_1_19720c5bdd489a95cd1046fd9cce0608_1545057160_949214469_de259ab6d4-f071cb23c890b642.jpg"
+                              },
+                              "alt": "Der Krieg im Jemen ist zur",
+                              "href": "/politik/deutschland/kirchen-bund-bricht-sein-wort-bei-ruestungsexporten_aid-35188427",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Lieferung in Krisengebiete"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Kirchen kritisieren Rüstungsexporte"
+                              }
+                            },
+                            {
+                              "id": 35186841,
+                              "type": "article",
+                              "src": [],
+                              "alt": "",
+                              "href": "/politik/deutschland/bundestag-der-inszenierte-hammelsprung-der-afd_aid-35186841",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kolumne Berliner Republik"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "AfD lässt die Hammel springen"
+                              }
+                            },
+                            {
+                              "id": 35185763,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_dd3d8cbef74996be001e58bedc378327/w250_h187_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_bf997dcf7a2661b06cab9c3ee8ffe062/w400_h300_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_e58e94d93b17446768af96cb1da9253e/w600_h450_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_cc4d5502e737661e24a22b5d69c49fcd/w900_h675_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_204ad476d54d3da03a06e8c273504f9d/w950_h712_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_2f8c97c6267684632df936fb977b6e76/w1200_h900_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/8/6/0/0/9/tok_a6f88afee426bbaa753b8e8b92ae4f1d/w1900_h1425_x1620_y728_DPA_bfunk_dpa_5F9B22005ED1776A-b52a83e4e4171c6e.jpg"
+                              },
+                              "alt": "Verteidigungsministerin Ursula von der Leyen (CDU)",
+                              "href": "/politik/deutschland/afghanistan-ursula-von-der-leyen-zu-besuch-bei-deutschen-soldaten_aid-35185763",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Traditioneller Weihnachtsbesuch"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Ursula von der Leyen bei deutschen Truppen in Afghanistan"
+                              }
+                            },
+                            {
+                              "id": 35185623,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_295137eb6f0162976eaadaa6b3895920/w250_h187_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_88a3c3c983b6d3b6f922db7462692a28/w400_h300_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_acf680733d5a0762cd153888d99c2e09/w600_h450_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_c592b857c3a0bf7a139b8785cc592802/w900_h675_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_a6285a3d54bc2c5b8b76624d44786bfd/w950_h712_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_c4d75e1b99bf31be6ccc94c2843c025b/w1200_h900_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/8/5/3/7/7/tok_930a6d62cd523985d4eab8af7a52b74f/w1900_h1425_x1543_y947_DPA_bfunk_dpa_5F9B22007CF9345A-263869c180527910.jpg"
+                              },
+                              "alt": "Die neue CDU-Vorsitzende Kramp-Karrenbauer",
+                              "href": "/politik/deutschland/annegret-kramp-karrenbauer-geht-auf-friedrich-merz-zu_aid-35185623",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Neue Chefin der CDU"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Annegret Kramp-Brückenbauer"
+                              }
+                            },
+                            {
+                              "id": 35182999,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_b6e265bad87373962d3fb26608d2dd76/w250_h187_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_8a2f5a7eb51b15eb15d725dc341287e3/w400_h300_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_be3bd27cc1f1e7ceed5cbca17885c630/w600_h450_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_fafb005e7072e626a589fe5005d0858e/w900_h675_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_1c13eea136d41312c990215824ecc52d/w950_h712_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_f40bb9f2c69cc52bd203fc1aba711ccb/w1200_h900_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/7/4/0/1/9/tok_fc6c3649476fdad36daeae9f2d1fa497/w1900_h1425_x1439_y798_DPA_bfunk_dpa_5F9B2200F8F6E02B-a1aa488edc1509af.jpg"
+                              },
+                              "alt": "Doris von Sayn-Wittgenstein, Landesvorsitzende der AfD",
+                              "href": "/politik/deutschland/afd-fuer-parteiausschlussverfahren-gegen-die-landesvorsitzende-von-schleswig-holstein-doris-von-sayn-wittgenstein_aid-35182999",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kontakt zu rechtsextremen Verein"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "AfD-Spitze leitet Ausschlussverfahren gegen Sayn-Wittgenstein ein"
+                              }
+                            },
+                            {
+                              "id": 35178061,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_05105d495594388d73a26626afa27126/w250_h187_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_c877c15ddc85c3c82bdea13e61cca8ab/w400_h300_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_6ebcdf6b1bb8bf9d477dfa6e89f419de/w600_h450_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_5659cbdd10ecdcc9f4528b750960280b/w900_h675_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_b5b0a783af77c5b4b8d4cfa2c959bcb5/w950_h712_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_0124ee7d1ca2361bf65ff2d4434201dc/w1200_h900_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/5/4/3/0/1/tok_a2bced9d0445f646bf216ba0b64e8f26/w1900_h1425_x1500_y1116_DPA_bfunk_dpa_5F9AE8005AF4B21D-7ffb8ca58e1ad54f.jpg"
+                              },
+                              "alt": "Björn Höcke, Vorsitzender der AfD-Fraktion im",
+                              "href": "/politik/deutschland/thueringer-afd-fraktionschef-staatsanwaltschaft-chemnitz-leitet-ermittlungen-gegen-bjoern-hoecke-ein_aid-35178061",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Thüringer AfD-Fraktionschef"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Staatsanwaltschaft Chemnitz leitet Ermittlungen gegen Höcke ein"
+                              }
+                            },
+                            {
+                              "id": 35175629,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_55c08c93c65ee3ede77e8478f92d7fe8/w250_h187_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_6d4264f194b90057d83daa5770100a9a/w400_h300_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_6e64acbaab243784a6df3f949a13efab/w600_h450_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_98d94669782d0c1a624650572ed795c5/w900_h675_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_474546ba153c6d6d0065a50481018689/w950_h712_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_6dd310515837c7145b70ca8893919689/w1200_h900_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/4/2/1/2/5/tok_9639a1ff9ae7bb521d88dd8a5f0dddcd/w1900_h1425_x1500_y997_DPA_bfunk_dpa_5F9B22007024EAD1-325e12cfa8acd37b.jpg"
+                              },
+                              "alt": "Thilo Sarrazin (SPD), umstrittener Bestsellerautor und",
+                              "href": "/politik/deutschland/thilo-sarrazin-spd-startet-neues-ausschlussverfahren_aid-35175629",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unvereinbar mit Partei-Grundsätzen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "SPD startet neues Ausschlussverfahren gegen Thilo Sarrazin"
+                              }
+                            },
+                            {
+                              "id": 35138395,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_ae197f8672ec4c402cf890e3b7fb9c3c/w250_h187_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_eebf4c3a75cd4cc1046909482363b560/w400_h300_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_072a2e8cb0816f1f4166600cb278159d/w600_h450_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_fdd37d381087beffc0cec71d0092797b/w900_h675_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_49b4c835d2ef17844f9d06b189415ba6/w950_h712_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_732c51aa0ba3e7a02c5a966ae0d7ba03/w1200_h900_x1796_y1198_35832132-767adc8cdbeec979.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/3/4/4/4/0/7/tok_200b35ed2d2f1d684f5e500ccd9b4361/w1900_h1425_x1796_y1198_35832132-767adc8cdbeec979.jpg"
+                              },
+                              "alt": "Schriftzug Minijob aus Würfelbuchstaben auf Zeitungsannoncen",
+                              "href": "/politik/deutschland/zahl-der-mini-jobs-im-maerz-2018-wieder-auf-stand-vor-mindestlohn_aid-35138395",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Bundesregierung"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Zahl der Minijobs wieder auf Stand vor Mindestlohn"
+                              }
+                            },
+                            {
+                              "id": 35171295,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_90650591db97f4fcf4ebadbe8428ccb9/w250_h187_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_7ff91768399645a0b495b18b61881736/w400_h300_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_6f3e0cadc687dfd2d92c57bc982871ba/w600_h450_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_f46bffe1210faec2c451b4f9698702ca/w900_h675_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_919ffd8c877a815faa06b2faa2fad440/w950_h712_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_90c8c7bc73e2250ee9ba032c4fe4fa25/w1200_h900_x865_y1793_109368873-ab7a37631f1fe9f0.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/3/3/9/6/1/tok_a542f02bba6506412c62d3c5c73bfc67/w1900_h1425_x865_y1793_109368873-ab7a37631f1fe9f0.jpg"
+                              },
+                              "alt": "Gleise der Deutschen Bahn (Symbolfoto).",
+                              "href": "/wirtschaft/unternehmen/probleme-bei-der-deutschen-bahn-konzern-umbau-gefordert_aid-35171295",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Konzentration auf das Kerngeschäft"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Politik fordert tiefgreifenden Umbau des Bahn-Konzerns"
+                              }
+                            },
+                            {
+                              "id": 35169941,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_4181a597869bc4fbe31d09822e28ce0a/w250_h187_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_9f111524c0b2a2273031daa55a2a4a3a/w400_h300_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_7b993da7b0121c521d85a834a17e87a3/w600_h450_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_522493ae456a45e7f7be0eb79b45bd26/w900_h675_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_3c57adcb31f126fac181ec0e7855e712/w950_h712_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_8b602201a64ede36e530223d1ca1da7a/w1200_h900_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/4/4/3/2/3/6/5/tok_454b35c16bb50e3c90b57ecce070a153/w1900_h1425_x1500_y933_DPA_obsbd_dpa_5F9B1C007AE7C93B-918ca113d0e96365.jpg"
+                              },
+                              "alt": "Kita ",
+                              "href": "/politik/deutschland/mehr-geld-fuer-kita-ausbildung-franziska-giffey-sagt-300-millionen-euro-zu_aid-35169941",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Franziska Giffey will Ausbildung vergüten"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Bund sagt Ländern 300 Millionen Euro mehr für Kita-Erzieher zu"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Schlagworte",
+                          "children": [
+                            {
+                              "component": "tags",
+                              "data": {
+                                "links": [
+                                  {
+                                    "href": "/thema/volker-bouffier/",
+                                    "text": "Volker Bouffier"
+                                  },
+                                  {
+                                    "href": "/thema/frankfurt-oder/",
+                                    "text": "Frankfurt (Oder)"
+                                  },
+                                  {
+                                    "href": "/thema/uwe-boehnhardt/",
+                                    "text": "Uwe Böhnhardt"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Frankfurter Polizisten sollen Nazi-Mails an deutsch-türkische Anwältin verschickt haben"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Hitzefrei für die Community. Wir aktualisieren derzeit unser System. Deswegen können für ein paar Stunden keine Kommentare eingereicht werden."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 44500657,
+                      "url": "/api/comments?beitrag_id=44500657",
+                      "counturl": "/api/comments?type=count&beitrag_id=44500657"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=html&currentNode=64987"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Deutschland",
+              "href": "/politik/deutschland/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "News aus Berlin",
+                  "href": "/politik/deutschland/berlin/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Bundestagswahl",
+                  "href": "/politik/deutschland/bundestagswahl/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kolumnen",
+                  "href": "/politik/deutschland/kolumnen/",
+                  "target": "_self",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "EU-Politik",
+              "href": "/politik/eu/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Europawahl",
+                  "href": "/politik/eu/europawahl/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Unser Europa",
+                  "href": "/politik/eu/unser-europa/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Ausland",
+              "href": "/politik/ausland/",
+              "target": "_self",
+              "children": []
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

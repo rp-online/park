@@ -1,0 +1,107 @@
+.park-form-fieldset {
+  display: block;
+  overflow: hidden;
+  padding-bottom: rem(30px);
+
+  &__legend {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    margin: $global-spacing $global-spacing $global-spacing 0;
+    padding: 0;
+    font-weight: $global-font-weight-sans-serif-bold;
+    letter-spacing: rem(0.9px);
+    text-transform: uppercase;
+  }
+
+  &--expandable &__legend {
+    @include global-sans-serif-font-size(3);
+
+    display: flex;
+    flex-direction: row;
+    height: rem(21px);
+    margin: 0;
+    padding: 0;
+    color: #666;
+    border: none;
+    font-weight: $global-font-weight-sans-serif-regular;
+    letter-spacing: normal;
+    white-space: nowrap;
+    text-transform: none;
+
+    &::before {
+      content: '';
+      display: block;
+      flex-grow: 1;
+      align-self: center;
+      height: 1px;
+      background: #999;
+    }
+  }
+
+  &__toggle {
+    background-color: transparent;
+    color: inherit;
+    border: none;
+    font-size: inherit;
+
+    &::after {
+      content: '';
+      display: inline-block;
+      width: rem(21px);
+      height: rem(21px);
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='%23666'%3E%3Cpolygon points='0,2 10,2 5,8'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: rem(10px) rem(10px);
+      font-size: 0;
+      transform: rotateX(0deg);
+      transition-property: color, transform;
+      transition-duration: 0.3s;
+      backface-visibility: visible;
+    }
+
+    &[aria-expanded="true"] {
+      &::after {
+        transform: rotateX(-180deg);
+      }
+    }
+
+    .js-disabled & {
+      &::after {
+        display: none;
+      }
+    }
+  }
+
+  &__wrapper {
+    overflow: hidden;
+    padding-top: 1px;
+    opacity: 1;
+    font-size: 0;
+    animation-fill-mode: both;
+    transition-property: padding-top;
+
+    &[aria-hidden="false"] {
+      animation-name: park-slide-down;
+      animation-duration: 3000ms;
+      transition-duration: 3000ms;
+    }
+
+    &[aria-hidden="true"] {
+      animation-name: park-slide-up;
+      animation-duration: 600ms;
+      transition-duration: 600ms;
+
+      .js-disabled & {
+        &,
+        > * {
+          max-width: none;
+          max-height: none;
+          opacity: 1;
+          animation: none;
+        }
+      }
+    }
+  }
+}

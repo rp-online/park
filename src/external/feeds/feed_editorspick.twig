@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>Redaktionsempfehlungen von RP ONLINE</title>
+        <link>{{ link }}</link>
+        <description>Redaktionsempfehlungen von RP ONLINE</description>
+        <language>{{ language }}</language>
+        <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
+        <atom:link rel="self" href="{{ link }}" />
+        <image>
+            <title>Redaktionsempfehlungen von RP ONLINE</title>
+            <url>{{ image }}</url>
+            <link>{{ link }}</link>
+        </image>
+        {% for item in items %}
+        <item>
+            <title>{{ item['titel'] }}</title>
+            <link>{{ item['url'] }}</link>
+            <dc:creator>{{ item['autor'] }}</dc:creator>
+            <description>{{ item['teasertext'] }}</description>
+            {% if item['treenodes_name_path'] and output != 'xml' %}
+                <category>{{ item['treenodes_name_path'] }}</category>
+            {% endif %}
+            {% if item['datum_rfc'] %}
+                <pubDate>{{ item['datum_rfc'] }}</pubDate>
+            {% endif %}
+            <guid isPermaLink="true">{{ item['guid'] }}</guid>
+        </item>
+        {% endfor %}
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+Diese Komponente dient dem Zweck, den (Richtext-)Inhalt der `article-content`-Komponente aufspalten, um dann Werbung in Form von `portal`-Komponenten dazwischen schieben zu können.  

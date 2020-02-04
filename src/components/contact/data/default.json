@@ -1,0 +1,33 @@
+{
+  "address":"__Lokalredaktion Düsseldorf__  \r\nSchadow Arkaden  \r\nSchadowstraße 11b  \r\n40212 Düsseldorf\r\n\r\nTelefon: 0211-5052361  \r\nAnzeigen: 0211 505-2222" ,
+  "links": [
+    {
+      "style": "email",
+      "class": "email",
+      "text": "E-Mail an die Redaktion",
+      "href": "mailto:stadtpost@rheinische-post.de",
+      "target": "_blank"
+    },
+    {
+      "style": "facebook",
+      "class": "facebook",
+      "text": "RP auf Facebook",
+      "href": "https://facebook.com/rponline",
+      "target": "_blank"
+    },
+    {
+      "style": "twitter",
+      "class": "twitter",
+      "text": "RP auf Twitter folgen",
+      "href": "https://twitter.com/rponline",
+      "target": "_blank"
+    },
+    {
+      "style": "whatsapp",
+      "class": "whatsapp",
+      "text": "Per WhatsApp abonnieren",
+      "href": "http://www.rp-online.de/digitales/apps/rheinische-post-per-whatsapp-lesen-breaking-news-auf-dem-smartphone-aid-1.5107028",
+      "target": "_blank"
+    }
+  ]
+}

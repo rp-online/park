@@ -1,0 +1,27 @@
+<div class="park-snackbar-paywall">
+  {% include 'components/snackbar/template.twig' with {
+    'id': 'paywall',
+    'children': [
+      {
+        'component': 'markdown',
+        'data': {
+          'text': '<p><span>' ~ headline ~ '</span></p>'
+        }
+      },
+      {
+        'component': 'markdown',
+        'data': {
+          'text':  '<p>' ~ text ~ '</p>'
+        }
+      },
+      {
+        'component': 'button',
+        'data': {
+          'href': link.href,
+          'text': link.text
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</div>

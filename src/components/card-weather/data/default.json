@@ -1,0 +1,14 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Heute"
+  },
+  "temps": {
+    "day": 24,
+    "night": 8
+  },
+  "src": "http://bc01.rp-online.de/layout/img/app/wetter/icons_klein.v4/wolke_dunkel-sonne.png",
+  "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+  "href": "#void",
+  "caption": "Sonnig, teils bewölkt"
+}

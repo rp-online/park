@@ -1,0 +1,138 @@
+{
+  "id": 1,
+  "timestamp": 1499074591,
+  "headline": {
+    "tag": "h2",
+    "text": "Berühmte Facebook Posts"
+  },
+  "items": [
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "embed-facebook-post",
+        "data": {
+          "url": "https://www.facebook.com/20531316728/posts/10154009990506729/"
+        }
+      },
+      "caption": "Ein Shitstorm braut sich zusammen..."
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "embed-facebook-post",
+        "data": {
+          "url": "https://www.facebook.com/deutschepost/photos/a.500617509949866.120526.485303194814631/1888234984521438/?type=3"
+        }
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et [dolore magna](#void) aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+      },
+      "figure": {
+        "component": "embed-facebook-post",
+        "data": {
+          "url": "https://www.facebook.com/20531316728/posts/10154009990506729/"
+        }
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+    }
+  ],
+  "lastItem": {
+    "headline": {
+      "tag": "p",
+      "text": "Auch interessant"
+    },
+    "figure": {
+      "component": "teaser-tiles",
+      "data": {
+        "items": [
+          {
+            "id": 1,
+            "type": "article",
+            "isAd": true,
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schön auf die Zwölf"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Hier übt Barack Obama Kitesurfen"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "isAd": true,
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Zukünftiger Rennfahrer"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "isAd": true,
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schnarch..."
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+            }
+          },
+          {
+            "id": 1,
+            "type": "article",
+            "src": "./assets/images/300x170.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Schnarch..."
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "ads": {
+    "slides": {
+      "interval": 5,
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    }
+  }
+}

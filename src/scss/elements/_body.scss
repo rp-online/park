@@ -1,0 +1,65 @@
+body {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  width: 100%;
+  max-width: 100vw;
+  min-height: 100vh !important;
+  color: $global-color-text-black;
+
+  @media screen and (min-width: 80em) {
+    min-width: rem(1280px);
+  }
+
+  @media print {
+    max-width: none;
+    min-width: 0;
+  }
+
+  &::after {
+    content: '';
+    position: fixed;
+    z-index: 2;
+    top: $header-navbar-height-mobile;
+    left: 0;
+    width: 1vw;
+    height: 1vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    transform: translateX(-100%) scale(0.00001);
+    transition: top 300ms;
+
+    @include mq(desktop) {
+      top: $header-navbar-height-desktop;
+    }
+
+    .with-offers & {
+      top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile});
+
+      @include mq(desktop) {
+        top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop});
+      }
+    }
+  }
+
+  .overlay-open & {
+    &::after {
+      transform: translateX(0) scale(220);
+      animation: park-fade-in 0.3s;
+      transition: none;
+    }
+  }
+
+  .park-embeddable-component & {
+    background-color: transparent;
+    min-height: 0 !important;
+  }
+
+  @include mq(desktop) {
+    background-color: #d6d9dd;
+
+    .park-embeddable-component & {
+      background-color: transparent;
+      min-height: 0 !important;
+    }
+  }
+}

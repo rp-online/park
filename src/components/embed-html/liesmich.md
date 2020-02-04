@@ -1,0 +1,1 @@
+Diese Komponente platziert beliebiges HTML in einem entsprechenden Rahmen. Zum Einsatz kommt sie entweder im Artikel-Körper ([article](#article)) oder aber in der [gallery](#gallery) (was die Galerie zur Infostrecke macht). 

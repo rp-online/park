@@ -1,0 +1,1 @@
+Die Obfuscator-Komponente verschleiert E-Mail-Adressen und E-Mail-Link-Elemente, wenn es sie innerhalb Ihres Contents entdeckt. Diese E-Mail-Adressen können dann nicht mehr so einfach von SPAM-Bots gecraped werden.

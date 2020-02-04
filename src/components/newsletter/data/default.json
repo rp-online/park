@@ -1,0 +1,46 @@
+{
+  "header": {
+    "text": "Bestellen Sie jetzt unseren kostenlosen täglichen Newsletter"
+  },
+  "form": {
+    "action": "#void",
+    "method": "post",
+    "submit": "Newsletter bestellen",
+    "children": [
+      {
+        "component": "select",
+        "data": {
+          "name": "city",
+          "label": "Stadt",
+          "placeholder": "Bitte wählen Sie Ihre Stadt",
+          "options": [
+            {
+              "label": "Düsseldorf",
+              "value": "duesseldorf"
+            },
+            {
+              "label": "Möchengladbach",
+              "value": "moenchengladbach"
+            },
+            {
+              "label": "Duisburg",
+              "value": "duisburg"
+            }
+          ]
+        }
+      },
+      {
+        "component": "input",
+        "data": {
+          "name": "email",
+          "type": "email",
+          "label": "E-mail",
+          "required": true
+        }
+      }
+    ]
+  },
+  "footer": {
+    "text": "Sie können sich jederzeit im Newsletter selbst oder hier wieder abmelden."
+  }
+}

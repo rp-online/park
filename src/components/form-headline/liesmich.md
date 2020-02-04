@@ -1,0 +1,1 @@
+Diese Komponente wird innerhalb von Formularen benutzt, wenn diese mit einer prominenten Überschrift versehen werden soll.

@@ -1,0 +1,8 @@
+.park-data-authentication-required {
+  &--error {
+    animation-name: park-shake;
+    animation-duration: 0.4s;
+    animation-timing-function: cubic-bezier(0.36, 0.07, 0.19, 0.97);
+    animation-fill-mode: both;
+  }
+}

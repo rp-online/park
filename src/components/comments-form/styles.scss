@@ -1,0 +1,38 @@
+.park-comments-form {
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+
+  .js-disabled & {
+    display: none;
+  }
+
+  &__wrapper {
+    width: 100%;
+    max-width: rem(600px);
+    margin: 0 auto;
+  }
+
+  &__headline {
+    @include global-sans-serif-font-size(2);
+
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__paragraph {
+    @include global-sans-serif-font-size(2);
+  }
+
+  &__inline {
+    display: inline;
+    font-weight: $global-font-weight-sans-serif-regular;
+  }
+
+  &__headline,
+  &__paragraph {
+    margin-bottom: $global-spacing;
+  }
+
+  .park-form {
+    padding: $global-spacing 0;
+  }
+}

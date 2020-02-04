@@ -1,0 +1,12 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Passwort vergessen"
+  },
+  "text": "Wir schicken Ihnen gerne eine E-Mail zur Passwortänderung.",
+  "form": {
+    "action": "#void",
+    "method": "post"
+  },
+  "loginURL": "#void"
+}

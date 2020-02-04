@@ -1,0 +1,19 @@
+/* stylelint-disable at-rule-empty-line-before */
+@import 'colors';
+@import 'dimensions';
+@import 'images';
+@import 'texts';
+@import 'typography';
+
+@import '../../scss/main';
+
+$header-navbar-height-mobile: rem(58px);
+$header-navbar-height-desktop: rem(116px);
+$header-is-extended: true;
+
+@import '../../components/**/head.scss';
+@import '../../components/**/styles.scss';
+
+// Kunden Anpassungen
+@import 'overwrite';
+/* stylelint-enable */

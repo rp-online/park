@@ -1,0 +1,49 @@
+@keyframes aria-hidden-fade-out {
+  from {
+    max-height: rem(10000px);
+  }
+
+  1% {
+    max-height: 500vh;
+  }
+
+  to {
+    max-height: 0;
+  }
+}
+
+[aria-hidden="true"]:not(:target):not(h1):not(h2):not(h3):not([class*="headline"]):not([src*="maps.googleapis.com"]):not(.park-portal) {
+  &,
+  > * {
+    &,
+    &::before,
+    &::after {
+      overflow: hidden !important;
+      margin-bottom: 0 !important;
+      padding-top: 0 !important;
+      padding-bottom: 0 !important;
+      font-size: 0;
+      line-height: 0;
+      opacity: 0;
+      pointer-events: none; // stylelint-disable-line
+      animation: aria-hidden-fade-out 600ms;
+      animation-delay: -1s;
+      animation-fill-mode: both;
+      animation-timing-function: ease-out;
+      transition-property: margin, padding, height, max-height, line-height, font-size, opacity;
+      transition-duration: 600ms, 600ms, 600ms, 600ms, 600ms, 600ms, 100ms;
+      transition-timing-function: ease-out;
+      transition-delay: -1s; // stylelint-disable-line
+
+      [aria-hidden="true"] & {
+        animation-duration: 0ms !important;
+        transition-duration: 0ms !important;
+      }
+
+      .unlock-aria-hidden-animations & {
+        animation-delay: 0ms;
+        transition-delay: 0ms;
+      }
+    }
+  }
+}

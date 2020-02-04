@@ -1,0 +1,16 @@
+<section class="park-teaser-bookmark-list">
+    {% if items is defined and items is iterable and items|length > 0 %}
+    {% include 'components/teaser-collection/template.twig' with {
+        'items': items,
+        'config': config,
+    } %}
+    {% else %}
+        <figure role="group" class="park-teaser-bookmark-list__figure">
+            {% include 'svg/bookmark.svg' %}
+            <figcaption class="park-teaser-bookmark-list__caption">
+                <strong class="park-teaser-bookmark-list__caption-headline">Sie haben keine Artikel auf Ihrer Merkliste.</strong>
+                Klicken Sie auf das {% include 'svg/bookmark.svg' %}-Symbol oben rechts an einem Artikel, um ihn zur Merkliste hinzuzufügen
+            </figcaption>
+        </figure>
+  {% endif %}
+</section>

@@ -1,0 +1,1 @@
+Diese Komponente findet sich im Seiten-[Footer](#footer) und ist im Prinzip ein minimalistisches Formular, über das man sich am Newsletter anmeldet.

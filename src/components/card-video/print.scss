@@ -1,0 +1,14 @@
+.park-card-video {
+  &--sugardaddy {
+    &,
+    * {
+      display: none;
+    }
+  }
+
+  &__wrapper {
+    &::after {
+      display: none;
+    }
+  }
+}

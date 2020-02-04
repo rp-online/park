@@ -1,0 +1,12 @@
+{
+  "username": "SneakyJoe",
+  "email": "hallo@mail.de",
+  "salutation": "Mr.",
+  "firstname": "Max",
+  "familyname": "Mustermann",
+  "street": "Musterstraße 66",
+  "addresssuffix": "",
+  "postalcode": "12345",
+  "city": "Musterstadt",
+  "phone": "0173123456"
+}

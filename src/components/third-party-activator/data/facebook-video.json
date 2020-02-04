@@ -1,0 +1,12 @@
+{
+  "name": "Facebook",
+  "src": "/static/embed/facebook1.jpg",
+  "children": [
+    {
+      "component": "embed-html",
+      "data": {
+        "html": "<div class=\"fb-video\" data-href=\"https://www.facebook.com/rp.duesseldorf/videos/649793078842515/\"><blockquote cite=\"https://www.facebook.com/rp.duesseldorf/videos/649793078842515/\" class=\"fb-xfbml-parse-ignore\"><a href=\"https://www.facebook.com/rp.duesseldorf/videos/649793078842515/\">Explosion in Flingern</a><p>Einen Tag nach dem schweren Brand im Düsseldorfer Marienhospital hat es in der Nacht zu Mittwoch das nächste Feuer gegeben. In Flingern ist ein Mensch bei einer Explosion gestorben.</p>Gepostet von <a href=\"https://www.facebook.com/rp.duesseldorf/\">RP Düsseldorf</a> am Mittwoch, 11. September 2019</blockquote></div>"
+      }
+    }
+  ]
+}

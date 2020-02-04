@@ -1,0 +1,16 @@
+button {
+  padding: 0;
+  cursor: pointer;
+  pointer-events: auto;
+
+  &::-moz-focus-inner {
+    padding: 0;
+    border: 0;
+  }
+
+  &[type="button"] {
+    .js-disabled & {
+      display: none;
+    }
+  }
+}

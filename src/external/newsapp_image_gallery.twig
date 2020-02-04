@@ -1,0 +1,38 @@
+{% extends 'twig/base.twig' %}
+
+{% set compactMode = true %}
+
+{% block critical %}{% include 'critical/bilderstrecke.css' ignore missing %}{% endblock %}
+{% block title %}{{ title }}{% endblock %}
+{% block header %}
+  <style type="text/css">
+    .icon-close-cross {
+      display: inline-block;
+      border: 3px solid #272727;
+      border-radius: 50%;
+      padding: 2px;
+      color:  #272727;
+    }
+    a.button-back {
+      text-align: right;
+      padding: 20px;
+    }
+  </style>
+  <a href="ganewsapp://picturegallery_back" class="button-back">
+    <svg class="icon-close-cross" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg"><path d="M8 6.87L6.87 8 4 5.13 1.13 8 0 6.87 2.87 4 0 1.13 1.13 0 4 2.87 6.87 0 8 1.13 5.13 4z"></path></svg>
+  </a>
+{% endblock %}
+{% block footer %}{% endblock %}
+
+{% block page_content %}
+  <main id="park-main" role="main" tabindex="-1">
+    {% block main %}
+      {% if children is defined %}
+        {% include 'twig/component.twig' with {
+          'config': config,
+          'children': children
+        } only %}
+      {% endif %}
+    {% endblock %}
+  </main>
+{% endblock %}

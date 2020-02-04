@@ -1,0 +1,18 @@
+$header-logo-height: rem(60px);
+
+// GERAGA-348
+$header-navbar-height-mobile: rem(80px);
+$header-navbar-height-desktop: rem(80px);
+$header-navbar-wrapper-height: rem(80px);
+$header-is-extended: false;
+
+//GERAGA-261
+$global-color-kicker:       #5dbaf3;
+
+html {
+  body {
+    .park-opener__kicker {
+        color: $global-color-kicker !important;
+    }
+  }
+}

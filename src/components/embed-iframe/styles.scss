@@ -1,0 +1,28 @@
+.park-embed-iframe {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 $global-spacing 0;
+
+  &__wrapper {
+    display: block;
+    padding: rem(30px);
+    background-color: $global-embed-background-color;
+  }
+
+  .park-iframe {
+    margin: auto;
+    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.5));
+  }
+
+  &__caption {
+    @extend %figure-caption;
+  }
+
+  &__caption-source {
+    @extend %figure-source;
+  }
+
+  &__caption-source-link {
+    @include text-link;
+  }
+}

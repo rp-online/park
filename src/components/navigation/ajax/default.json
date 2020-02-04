@@ -1,0 +1,688 @@
+{
+  "header": [
+    {
+      "headline": {
+        "tag": "strong",
+        "text": "AJAX-Überschrift"
+      },
+      "items": [
+        {
+          "text": "Anzeige aufgeben",
+          "href": "#void"
+        },
+        {
+          "text": "RP Trauer",
+          "href": "#void"
+        },
+        {
+          "text": "RP ePaper",
+          "href": "#void"
+        },
+        {
+          "text": "RP Forum",
+          "href": "#void"
+        }
+      ]
+    }
+  ],
+  "main": [
+    {
+      "icon": "./assets/images/sprite.navigation.svg#stadtauswahl",
+      "text": "Städte",
+      "href": "#void",
+      "children": [
+        {
+          "icon": "./assets/images/sprite.cities.svg#alpen",
+          "text": "Alpen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#bedburg-hau",
+          "text": "Bedburg-hau",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#brueggen",
+          "text": "Brüggen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#burscheid",
+          "text": "Burscheid",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#dinslaken",
+          "text": "Dinslaken",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#dormagen",
+          "text": "Dormagen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#duesseldorf",
+          "text": "Düsseldorf",
+          "href": "#void",
+          "featured": true
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#duisburg",
+          "text": "Duisburg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#emmerich",
+          "text": "Emmerich",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#erkelenz",
+          "text": "Erkelenz",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#erkrath",
+          "text": "Erkrath",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#geldern",
+          "text": "Geldern",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#goch",
+          "text": "Goch",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#grefrath",
+          "text": "Grefrath",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#grevenbroich",
+          "text": "Grevenbroich",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#haan",
+          "text": "Haan",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#hamminkeln",
+          "text": "Hamminkeln",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#heiligenhaus",
+          "text": "Heiligenhaus",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#hilden",
+          "text": "Hilden",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#hueckelhoven",
+          "text": "Hückelhoven",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#hueckeswagen",
+          "text": "Hückeswagen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#huenxe",
+          "text": "Hünxe",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#isselburg",
+          "text": "Isselburg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#issum",
+          "text": "Issum",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#juechen",
+          "text": "Jüchen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kaarst",
+          "text": "Kaarst",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kalkar",
+          "text": "Kalkar",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kamp-lintford",
+          "text": "Kamp-Lintford",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kempen",
+          "text": "Kempen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kerken",
+          "text": "Kerken",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kevelaer",
+          "text": "Kevelaer",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kleve",
+          "text": "Kleve",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#koeln",
+          "text": "Köln",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#korschenbroich",
+          "text": "Korschenbroich",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#kranenburg",
+          "text": "Kranenburg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#krefeld",
+          "text": "Krefeld",
+          "href": "#void",
+          "featured": true
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#heinsberg",
+          "text": "Heinsberg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#langenfeld",
+          "text": "Langenfeld",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#leichlingen",
+          "text": "Leichlingen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#leverkusen",
+          "text": "Leverkusen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#meerbusch",
+          "text": "Meerbusch",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#mettmann",
+          "text": "Mettmann",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#moenchengladbach",
+          "text": "Mönchengladbach",
+          "href": "#void",
+          "featured": true
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#moers",
+          "text": "Moers",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#monheim",
+          "text": "Monheim",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#nettetal",
+          "text": "Nettetal",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#neukirchen-vluyn",
+          "text": "Neukirchen-Vluyn",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#neuss",
+          "text": "Neuss",
+          "href": "#void",
+          "featured": true
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#niederkruechten",
+          "text": "Niederkruechten",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#radevormwald",
+          "text": "Radevormwald",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#ratingen",
+          "text": "Ratingen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#rees",
+          "text": "Rees",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#remscheid",
+          "text": "Remscheid",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#rheinberg",
+          "text": "Rheinberg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#rheurdt",
+          "text": "Rheurdt",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#rommerskirchen",
+          "text": "Rommerskirchen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#schermbeck",
+          "text": "Schermbeck",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#schwalmtal",
+          "text": "Schwalmtal",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#solingen",
+          "text": "Solingen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#sonsbeck",
+          "text": "Sonsbeck",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#straelen",
+          "text": "Straelen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#toenisvorst",
+          "text": "Tönisvorst",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#uedem",
+          "text": "Uedem",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#viersen",
+          "text": "Viersen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#voerde",
+          "text": "Voerde",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wachtendonk",
+          "text": "Wachtendonk",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wassenberg",
+          "text": "Wassenberg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#weeze",
+          "text": "Weeze",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wegberg",
+          "text": "Wegberg",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wermelskirchen",
+          "text": "Wermelskirchen",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wesel",
+          "text": "Wesel",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#willich",
+          "text": "Willich",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#wuelfrath",
+          "text": "Wuelfrath",
+          "href": "#void"
+        },
+        {
+          "icon": "./assets/images/sprite.cities.svg#xanten",
+          "text": "Xanten",
+          "href": "#void"
+        }
+      ],
+      "search": {
+        "label": "Städtesuche"
+      }
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#nrw",
+      "text": "NRW",
+      "href": "#void",
+      "children": [
+        {
+          "text": "Panorama",
+          "href": "#void"
+        },
+        {
+          "text": "Städte",
+          "href": "#void"
+        },
+        {
+          "text": "Landespolitik",
+          "href": "#void"
+        },
+        {
+          "text": "Düsseldorf",
+          "href": "#void"
+        },
+        {
+          "text": "Kultur",
+          "href": "#void"
+        },
+        {
+          "text": "Freizeit",
+          "href": "#void"
+        },
+        {
+          "text": "Datenjournalismus",
+          "href": "#void"
+        }
+      ]
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#politik",
+      "text": "Politik",
+      "href": "#void"
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#wirtschaft",
+      "text": "Wirtschaft",
+      "href": "#void"
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#weitere-sportarten",
+      "text": "Sport",
+      "href": "#void",
+      "children": [
+        {
+          "text": "Fußball",
+          "href": "#void",
+          "children": [
+            {
+              "text": "Bundesliga",
+              "href": "#void",
+              "children": [
+                {
+                  "text": "Bayern München",
+                  "href": "#void"
+                },
+                {
+                  "text": "Borussia Dortmund",
+                  "href": "#void"
+                },
+                {
+                  "text": "Mönchengladbach",
+                  "href": "#void",
+                  "children": [
+                    {
+                      "text": "Fohlenfutter",
+                      "href": "#void",
+                      "isCurrent": true
+                    }
+                  ]
+                },
+                {
+                  "text": "1. FC Köln",
+                  "href": "#void"
+                }
+              ]
+            },
+            {
+              "text": "Oberliga",
+              "href": "#void"
+            },
+            {
+              "text": "Regionalliga",
+              "href": "#void"
+            }
+          ]
+        },
+        {
+          "text": "Datencenter",
+          "href": "#void"
+        },
+        {
+          "text": "Live-Ticker",
+          "href": "#void"
+        },
+        {
+          "text": "Borussia",
+          "href": "#void"
+        },
+        {
+          "text": "Fortuna",
+          "href": "#void"
+        },
+        {
+          "text": "Formel 1",
+          "href": "#void"
+        },
+        {
+          "text": "Handball",
+          "href": "#void"
+        },
+        {
+          "text": "Tennis",
+          "href": "#void"
+        },
+        {
+          "text": "Olympia 2018",
+          "href": "#void"
+        },
+        {
+          "text": "US-Sport",
+          "href": "#void"
+        },
+        {
+          "text": "Andere",
+          "href": "#void"
+        },
+        {
+          "text": "Wintersport",
+          "href": "#void"
+        },
+        {
+          "text": "Boxen",
+          "href": "#void"
+        },
+        {
+          "text": "Radsport",
+          "href": "#void"
+        }
+      ]
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#kultur",
+      "text": "Kultur",
+      "href": "#void"
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#panorama",
+      "text": "Panorama",
+      "href": "#void"
+    },
+    {
+      "isAd": true,
+      "icon": "./assets/images/sprite.navigation.svg#digitales",
+      "text": "Digital",
+      "href": "#void"
+    },
+    {
+      "icon": "./assets/images/sprite.navigation.svg#video",
+      "text": "aktuelles Video",
+      "href": "./video.html"
+    }
+  ],
+  "footer": [
+    {
+      "headline": {
+        "tag": "strong",
+        "text": "Services"
+      },
+      "items": [
+        {
+          "text": "Kontakt zur Redaktion",
+          "href": "#void"
+        },
+        {
+          "text": "WhatsApp-Newsletter bestellen",
+          "href": "#void"
+        },
+        {
+          "text": "Newsletter abonnieren",
+          "href": "#void"
+        },
+        {
+          "text": "Podcast abonnieren",
+          "href": "#void"
+        }
+      ]
+    },
+    {
+      "headline": {
+        "tag": "strong",
+        "text": "Weitere Angebote"
+      },
+      "items": [
+        {
+          "text": "Schlagzeilen",
+          "href": "#void"
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "#void"
+        },
+        {
+          "text": "Spiele",
+          "href": "#void"
+        },
+        {
+          "text": "RP Digital Services",
+          "href": "#void"
+        },
+        {
+          "text": "Tonight",
+          "href": "#void"
+        },
+        {
+          "text": "de",
+          "href": "#void"
+        },
+        {
+          "text": "Kalaydo",
+          "href": "#void"
+        },
+        {
+          "text": "FuPa",
+          "href": "#void"
+        },
+        {
+          "text": "Zeitungsarchiv",
+          "href": "#void"
+        },
+        {
+          "text": "Westticket",
+          "href": "#void"
+        },
+        {
+          "text": "RP Shop",
+          "href": "#void"
+        },
+        {
+          "text": "Expertenzeit",
+          "href": "#void"
+        },
+        {
+          "text": "RP Reise",
+          "href": "#void"
+        },
+        {
+          "text": "Premiumcard",
+          "href": "#void"
+        },
+        {
+          "text": "Texthelden",
+          "href": "#void"
+        },
+        {
+          "text": "RP-Lesertour",
+          "href": "#void"
+        },
+        {
+          "text": "Termine",
+          "href": "#void"
+        },
+        {
+          "text": "Bürgermonitor",
+          "href": "#void"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+.park-relatedlines {
+  list-style: none;
+
+  &__line {
+    @include global-font-family-serif;
+    @include global-serif-font-size(2);
+  }
+
+  &__link {
+    position: relative;
+    display: block;
+    padding: rem(7.5px) rem(15px) rem(7.5px) rem(35px);
+    color: inherit;
+
+    @include mq(desktop) {
+      padding-left: rem(40px);
+    }
+
+    @include hover-styles {
+      background-color: #f2f4f6;
+    }
+  }
+
+  &__kicker {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(2);
+
+    display: inline;
+    font-weight: $global-font-weight-sans-serif-bold;
+    vertical-align: baseline;
+  }
+
+  &__headline {
+    vertical-align: baseline;
+  }
+
+  &__icon {
+    position: absolute;
+    top: rem(8px);
+    left: rem(15px);
+    width: rem(14px);
+    height: rem(14px);
+    vertical-align: middle;
+
+    @include mq(desktop) {
+      top: rem(5px);
+      width: rem(18px);
+      height: rem(18px);
+    }
+
+    > svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+}

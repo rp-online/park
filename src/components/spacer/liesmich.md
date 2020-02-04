@@ -1,0 +1,1 @@
+Diese Komponente stellt einen Trenner dar, der optional auch ein Label tragen kann (z.B. "oder").

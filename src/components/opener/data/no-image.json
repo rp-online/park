@@ -1,0 +1,28 @@
+{
+  "href": "#void",
+  "kicker": {
+    "tag": "h1",
+    "text": "Gähnende Leere"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Ohne Bilder ist es hier ganz fad"
+  },
+  "dateline": "Düsseldorf",
+  "authors": "Von Tobias Block",
+  "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt.",
+  "related": [
+    {
+      "type": "article",
+      "href": "#void",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "#void",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

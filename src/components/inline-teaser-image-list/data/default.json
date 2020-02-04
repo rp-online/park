@@ -1,0 +1,22 @@
+{
+  "headline": {
+    "tag": "h2",
+    "text": "Lesen Sie auch"
+  },
+  "items": [
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "src": "./assets/images/142x108.jpg",
+      "href": "#void",
+      "alt": "Schmusekatze"
+    }
+  ]
+}

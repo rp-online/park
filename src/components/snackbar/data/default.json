@@ -1,0 +1,13 @@
+{
+  "id": "demo",
+  "children": [
+    {
+      "component": "markdown",
+      "data": {
+        "text": "Lorem ipsum dolor sit amet."
+      }
+    }
+  ],
+  "startOpened": true,
+  "closeButton": true
+}

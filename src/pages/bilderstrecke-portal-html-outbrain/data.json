@@ -1,0 +1,1447 @@
+{
+  "title": "Schülerdemo",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "bookmarksPage": "/sso/bookmarks",
+    "title": "Schülerdemo",
+    "url": "https://www-rpd.rp-online.de/nrw/schuelerdemo_bid-36574605",
+    "client": "rp-online"
+  },
+  "config": {},
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"interstitial\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://www-rpd.rp-online.de/imgs/32/8/7/5/8/5/3/1/vertriebsicon_50x50-4f1c5dd61fa27c3a.jpg",
+      "text": "[Link auf https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=E-RP_EPRO_24_NO;72967&ai=Icon;D77N046V]",
+      "href": "https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=E-RP_EPRO_24_NO;72967&ai=Icon;D77N046V",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Schülerdemo"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://www-rpd.rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "gallery",
+                  "data": {
+                    "timestamp": "1551082260",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Schüler kämpfen für den Klimaschutz"
+                    },
+                    "items": [
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_a03b3a5509cb4c4447da57168afdcbe4/w250_h444_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_188ab0a6ec8a9b3d5bba25b38fa0afde/w400_h711_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_ab9fa8a4892d9873a1829a1868183d86/w600_h1066_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_9399da3a1c35e1c7ad6e4284a3fb0b4b/w900_h1600_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_a33c348e2982a7a809d1c07f3cea91b8/w950_h1689_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_b2fbde8e38b4c2fea0fcc0f1fa255b91/w1200_h2133_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_cb1d741ddfc9b65885fc73f92b70262b/w1900_h3378_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg"
+                            },
+                            "width": 765,
+                            "height": 1360,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_258bfb62d5bce7a69a9a904c7c321ec8/w2020_h3592_x1010_y1796_20190125_111410-ef55fc287f0249e0.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_dcf3dabf95d026d1a95ace891fd1e043/w250_h140_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_a46ad729e0bea1bbd959dde476c13fa9/w400_h225_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_f04038afa309b4c1d5d02eeac9f66091/w600_h337_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_718dc9f5fe39ddc4002a3acc2cd7f76f/w900_h506_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_21c6a9d21bfa58cc9968d0ebc4995397/w950_h534_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_320f57ff5bf3df2c44d5c84ffd69312e/w1200_h675_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_d073ef6e8aeaf00f05f0d0e9877d539b/w1900_h1068_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg"
+                            },
+                            "width": 765,
+                            "height": 430,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_e17e5220c891253bfba3da49681800af/w2800_h1574_x1796_y1010_20190125_120920-460f15882bb73aa1.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_5cd210f5887c35f96145acb7ff1afdf2/w250_h140_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_ed6912cb0c0a2379e4dfdbd7e4ac9da2/w400_h225_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_692733b601d80dec98778abc8d5c8809/w600_h337_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_b4509acb4d08b7ce6720962220d35e6f/w900_h506_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_a4786b1e772acf434c078800f8f8e7f7/w950_h534_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_683350bc94861fdce45dda6d8c8b4214/w1200_h675_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_7cab72b56e5264a6ea72bf6a6d8ca079/w1900_h1068_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg"
+                            },
+                            "width": 765,
+                            "height": 430,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_8877bc0b94315bb7c8ead71fde869fe1/w2800_h1574_x1796_y1010_20190125_121323-895b4a5a0bc1614c.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_ece96938c8afb35c1f600b8b25c70350/w250_h140_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_fc447886dc9f40aeac9638472f2213d3/w400_h225_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_cf4c1e542510e99b4ab6bfa0236ab215/w600_h337_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_8d643420f58379805cd18c89a07594e0/w900_h506_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_e13e8e358e0233a7f75d192189e0b35f/w950_h534_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_c5cde59c8dfc490f44c3fbac4f68b197/w1200_h675_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_abbc3c1156c764aa999008fdb731b4e9/w1900_h1068_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg"
+                            },
+                            "width": 765,
+                            "height": 430,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_ae8c939d5972bbcb099fa045addb9138/w2800_h1574_x1796_y1010_20190125_115210-9369fa0686ae6fa0.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_8c42b08143855996174ce7666fea1719/w250_h140_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_7846dc6ed0f3a3d2923949524f9658b8/w400_h225_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_fdc6859bb872e5d8ce93f74d1a37ad73/w600_h337_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_95fff99fb33e471d912fe56e6dedbd93/w900_h506_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_3a0dc61778a2bc9af9006f67f088419f/w950_h534_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_75e91d16c77e82e5c38b4bf2e3835576/w1200_h675_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_c33ebfb20eeb803b4acd15ec9afd21f5/w1900_h1068_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg"
+                            },
+                            "width": 765,
+                            "height": 430,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_f6918764af21d2d4a215a8ea7b897b6d/w2800_h1574_x1796_y1010_20190125_114319-bbf93e999b6be3cf.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_0b5148eeaf3e95ff42653fae6bb30d99/w250_h444_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_87d892cecd43d0fbb962837b2c5f5be0/w400_h711_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_d82b128e7dd73a7d7757d004434f8353/w600_h1066_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_8a8efd25f1af8b10f4bf2df130e4e246/w900_h1600_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_da45f1a99231c92988bc8f7f99fbe88d/w950_h1689_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_52891a086e1778be146d96c5ea7e197d/w1200_h2133_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_c1e53f52c5d09c2f7c9ac10fbd1a3c41/w1900_h3378_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg"
+                            },
+                            "width": 765,
+                            "height": 1360,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Lea Hensen"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_1cdd1cd0e57aac82c20b6972d67e543a/w2020_h3592_x1010_y1796_20190125_111046-55ecfd7d126b1030.jpg"
+                        }
+                      },
+                      {
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Schüler kämpfen für den Klimaschutz"
+                        },
+                        "figure": {
+                          "component": "image",
+                          "data": {
+                            "src": {
+                              "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_f340446c138512dca860bb2d6ac2c9e9/w250_h140_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_4e9799aeab7d63eed7cb0a7747228611/w400_h225_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_47bcac1113fdcd09f9489a8776bed703/w600_h337_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_e5887cdeaeae5b40ffaf49b3d6e8edc7/w900_h506_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_2f798c985bb7cee7f08b4f141397ef3d/w950_h534_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_f051f9c723ed008789e245478c180e2b/w1200_h675_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg",
+                              "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_f40dfc4157e367cb4b45a7ab521d3af8/w1900_h1068_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg"
+                            },
+                            "width": 765,
+                            "height": 511,
+                            "alt": "",
+                            "fit": "contain"
+                          }
+                        },
+                        "caption": "",
+                        "source": {
+                          "text": "Ilgner, Detlef (ilg)/Ilgner,Detlef (ilg)"
+                        },
+                        "link": {
+                          "type": "enlargable",
+                          "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/3/1/4/8/tok_2fbe5aca8115d9deff7d37018eedb3e0/w2464_h1648_x1232_y824_sch_lerdemo04-b4227d8e18c9856c.jpg"
+                        }
+                      }
+                    ],
+                    "ads": {
+                      "slides": {
+                        "interval": "5",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div><script>window.setTimeout(function() {if (window.SDG) { window.SDG.Publisher.registerSlot(\"topmobile2\", document.getElementById(\"topmobile2\")).load();}}, 100);</script>",
+                          "lazy": true
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"rectangle\"></div><script>window.setTimeout(function() {if (window.SDG) { window.SDG.Publisher.registerSlot(\"rectangle\", document.getElementById(\"rectangle\")).load();}}, 100);</script>",
+                          "lazy": true
+                        }
+                      }
+                    },
+                    "enlargable": true,
+                    "lastItem": {
+                      "figure": {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "html",
+                            "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/ausland/ex-anwalt-michael-cohen-rechnet-mit-donald-trump-ab-rassist-hochstapler-betrueger_aid-37046539\" data-widget-id=\"AR_10\"></div>\r\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>\r\nHinter Outbrain steht hier noch ein HTML-Element."
+                          },
+                          "mobile": {
+                            "type": "html",
+                            "html": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/ausland/ex-anwalt-michael-cohen-rechnet-mit-donald-trump-ab-rassist-hochstapler-betrueger_aid-37046539\" data-widget-id=\"AR_10\"></div>\r\n<script src=\"https://widgets.outbrain.com/outbrain.js\"></script>\r\nHinter Outbrain steht hier noch ein HTML-Element."
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<script src=\"https://a.twiago.com/adscript.php?pid=3733\" type=\"text/javascript\"></script>\r\n<noscript>\r\n <a href=\"https://a.twiago.com/adnoclick.php?pid=3733\" target=\"_top\">\r\n  <img src=\"https://a.twiago.com/adnoscript.php?pid=3733\"\r\n       alt=\"Hier klicken!\" border=\"0\" width=\"0\" height=\"0\" />\r\n </a>\r\n</noscript>\r\n<div style=\"clear:both;\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"ct_ms6\">\r\n<iframe id=\"aiger_ms6\" style=\"width: 0px; height: 0px;\" scrolling=\"no\"></iframe></div>\r\n<script>/* 16/46 - https://rp-online.de */\r\nvar yl = \"//ad.yieldlab.net\", ff, wi = window, dc = document, dE = dc.documentElement, \r\ndb = dc.body, aims6 = \"aiger_ms6\", ams6 = dc.getElementById(aims6), ayms6 = ams6.style, \r\nfyms6 = ayms6, cn = \"/2348890/\", cms6 = dc.getElementById(\"ct_ms6\"), cyms6 = cms6.style; \r\nif (typeof inDapIF !== \"undefined\" && inDapIF) { ff = true; fyms6 = wi.frameElement.style; } \r\nayms6.margin = \"0px auto\"; ayms6.border = \"0px\"; ayms6.backgroundColor = \"transparent\"; \r\nayms6.display = \"block\"; ayms6.overflow = \"hidden\"; cyms6.position = \"relative\"; \r\ncyms6.left = \"0px\"; cyms6.margin = \"0px auto\"; cyms6.textAlign = \"center\"; \r\n\r\nfunction ems6(e) { let ed = e.data, na = navigator; if (e.origin == (location.protocol == \r\n\"http:\" ? \"http:\" : \"https:\")+yl && ed.m == aims6) { if (ed.w == \"0\" && ed.h == \"0\") { \r\nwi.frameElement.closest('.park-portal').style.display = \"none\"; if (\r\n/Trident/i.test(na.userAgent||na.vendor||wi.opera)) return; cms6.remove(\"ct_ms6\"); return; } \r\nelse { fyms6.width = ayms6.width = ed.w+\"px\"; fyms6.height = ayms6.height = ed.h+\"px\"; if (\r\ned.s === undefined) return; ams6.contentWindow.location.replace(ed.s); return; } } return; } \r\n\r\nif (ff) { fyms6.width = \"320px\"; fyms6.height = \"200px\"; } \r\nvar ma_container = \"ct_ms6\", ma_autoclose = \"true\", ma_fraction = \"0\", ma_audio = \"hover\", \r\nma_width = \"320\", ma_vastUrl = yl+\"/d/5801400\"+cn+\"320x200?ts=\"+Date.now(), ma_onPassback = \r\nfunction () { fyms6.width = ayms6.width = \"300px\"; fyms6.height = ayms6.height = \"250px\"; \r\nams6.contentWindow.location.replace(yl+\"/d/5801402\"+cn+\"300x250?ts=\"+Date.now()+\"&type=h\"); \r\nwi.addEventListener(\"message\", ems6, false); return; }; \r\n</script><script id=\"ma_adscr205623\" async src=\"//ad2.movad.net/dynamic.ad?a=o205623\"></script>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Weitere Bilderstrecken"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "href": "/panorama/bilder-des-tages_bid-14226337",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rund um die Welt\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Bilder des Tages"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/1/6/9/3/9/9/1/9/tok_06b74583534a2c1c48819ed78c6818e5/w306_h175_x1750_y1167_RTR_2019-02-05T180614Z_1060869470_RC1831F7B940_RTRMADP_3_LUNAR-NEW-YEAR-PERU-057a9941271b9235.JPG",
+                        "alt": "Bilder des Tages"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/staedte/duesseldorf/serie-so-wohnt-duesseldorf-eine-dachwohnung-in-flingern_bid-36525953",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "So wohnt Düsseldorf - eine Dachwohnung in Flingern\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/7/1/1/0/8/3/tok_2c0d2a7bfd446d4bc15aad648c6ce40a/w306_h175_x2000_y1333_RP_HJB_4904-9db5b40fecbef673.jpg",
+                        "alt": "So wohnt Düsseldorf - eine Dachwohnung in Flingern\n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/panorama/fernsehen/bachelor-kandidatinnen-2019-bilder-und-spannende-infos-zu-den-ladys_bid-17665607",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "So zeigen sich die „Bachelor“-Kandidatinnen im Bikini"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/0/6/0/4/3/7/1/tok_b829d8d7acf554cc37935227063fcbd8/w306_h175_x2109_y357_3_601205-7804f3eecd3f9dee.jpg",
+                        "alt": "So zeigen sich die „Bachelor“-Kandidatinnen im Bikini"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/staedte/neuss/tod-im-alter-von-90-jahren-neuss-trauert-um-libet-werhahn-adenauer_bid-36521237",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Tod im Alter von 90 Jahren \n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neuss trauert um Libet Werhahn-Adenauer \n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/6/9/5/9/4/3/tok_0512b2ad31c465d914e30577e8e79dff/w306_h175_x1544_y1353_libet_6-5f96ebaeecb0a8d4.jpg",
+                        "alt": "Neuss trauert um Libet Werhahn-Adenauer \n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/staedte/duesseldorf/blaulicht/rheinbahn-strassenbahn-der-linie-704-in-duesseldorf-entgleist_bid-36521059",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Straßenbahn der Linie 704 in Düsseldorf entgleist\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/6/9/5/0/1/3/tok_43f8a27bd6fbd9656df7c0239bbd385a/w306_h175_x512_y288_2D78E732-70E1-41A7-AFB7-FEAD0CE1E4E6-26c462b9fc5c84a1.jpg",
+                        "alt": "Straßenbahn der Linie 704 in Düsseldorf entgleist\n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/panorama/fernsehen/the-biggest-loser-2019-die-neuen-kandidaten-von-sat1_bid-18825353",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "\"The Biggest Loser\" 2019 - alle Kandidaten\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/2/1/7/9/5/7/1/9/tok_6476c41fb37eceda44b40f9efb99deb8/w306_h175_x470_y264_f33f9846fd90f4c6.jpg",
+                        "alt": "\"The Biggest Loser\" 2019 - alle Kandidaten\n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/ausflugsziele/schoene-orte-in-nrw_bid-36573711",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Landpartie\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Schöne Orte in NRW\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/8/6/8/tok_2b72ab109f9d8305b5221e7dd98e0184/w306_h175_x1796_y1199_RP_Teufelsschlucht_1766-baa2ddf06b1d88eb.jpg",
+                        "alt": "Schöne Orte in NRW\n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/freizeit/schiffe-nrw_bid-36573443",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Top 5 Schiffe in NRW\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Schiffe NRW\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/6/0/3/tok_407d8ae6af2ade00d788c9039cb099e1/w306_h175_x1020_y782_34294280-11de1251d3cff94d.jpg",
+                        "alt": "Schiffe NRW\n"
+                      },
+                      {
+                        "type": "image",
+                        "href": "/nrw/staedte/duesseldorf/diese-schmetterlinge-leben-in-duesseldorf_bid-36555319",
+                        "isAd": false,
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Neue Arten\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Diese Schmetterlinge leben in Düsseldorf\n"
+                        },
+                        "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/9/9/7/tok_1efd4099df4c49995ac87be881d1280b/w306_h175_x500_y375_Ulmen-Zipfelfalter-025d26b915b75fb0.jpg",
+                        "alt": "Diese Schmetterlinge leben in Düsseldorf\n"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=html&currentNode=64600"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/dinslaken/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

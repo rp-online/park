@@ -1,0 +1,11 @@
+{% extends 'twig/base.twig' %}
+
+{% block extraClass %}park-embeddable-component{% endblock %}
+{% block header %}{% endblock %}
+{% block page_content %}
+  {% include 'twig/component.twig' with {
+    'config': config,
+    'children': children
+  } only %}
+{% endblock %}
+{% block footer %}{% endblock %}

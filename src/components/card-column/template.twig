@@ -1,0 +1,46 @@
+{% set content %}
+  <figure role="group" class="park-card-column__figure">
+    <div class="park-card-column__wrapper">
+      {% include 'components/image/template.twig' with {
+      'src': src,
+      'alt': alt,
+      'width': 306,
+      'height': 175,
+      'config': config} %}
+      <{{ headline.tag }} class="park-card-column__headline">{{ headline.text }}</{{ headline.tag }}>
+    </div>
+    <figcaption class="park-card-column__caption">
+      {% include 'components/image/template.twig' with {
+        'src': author.src,
+        'alt': author.name,
+        'width': 75,
+        'height': 75,
+        'config': config} %}
+      {% if author.name|length > 30 %}
+        {% set nameParts = author.name|split(' ') %}
+        {% set firstNamePart = nameParts[0] %}
+        {% set firstNamePart = firstNamePart|slice(0, 1) %}
+        {% set firstNamePart = firstNamePart ~ '.' %}
+        {% set nameParts = nameParts|slice(1) %}
+        {% set nameParts = [firstNamePart]|merge(nameParts) %}
+        {% set name = nameParts|join(' ') %}
+      {% else %}
+        {% set name = author.name %}
+      {% endif %}
+      <strong class="park-card-column__author-name">{{ name }}</strong>
+      <span class="park-card-column__author-position">{{ author.position }}</span>
+    </figcaption>
+  </figure>
+{% endset %}
+{% set link = {
+  'href': href,
+  'text': content,
+  'target': target,
+  'rel': rel,
+  'classes': [
+    'park-card-column'
+  ],
+  'isAd': isAd,
+  'config': config
+} %}
+{% include 'components/link-helper/template.twig' with link only %}

@@ -1,0 +1,36 @@
+{
+  "name": "rp-online/templates",
+  "type": "library",
+  "description": "Smarty - the compiling PHP template engine",
+  "keywords": ["templating"],
+  "homepage": "https://templates.park.works/inventory.html",
+  "license": "LGPL-3.0",
+  "authors": [
+    {
+      "name": "Pascal Weiland",
+      "email": "pascal.weiland@rp-digital.de"
+    },
+    {
+      "name": "Tobias Block",
+      "email": "tobias.block@rp-digital.de"
+    },
+    {
+      "name": "Christian Schaefer",
+      "email": "christian.schaefer@rp-digital.de"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/rp-online/templates/issues"
+  },
+  "scripts": {
+    "build": [
+      "cd $(cd $(dirname $0) && pwd)/ && yarn install && yarn run gulp build"
+    ],
+    "post-install-cmd": [
+      "composer build"
+    ],
+    "post-update-cmd": [
+      "composer build"
+    ]
+  }
+}

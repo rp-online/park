@@ -1,0 +1,38 @@
+.park-promotion {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: rem(15px) rem(25px) rem(20px) rem(25px);
+  background-color: black;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+
+  &--in-popover {
+    padding-right: rem(40px);
+  }
+
+  &__header {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__title {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(2);
+
+    margin: 0;
+    color: $global-brand-color;
+  }
+
+  &__text {
+    @include global-font-family-serif;
+    @include global-serif-font-size(2);
+
+    flex-grow: 1;
+  }
+
+  &__footer {
+    margin-top: rem(100px);
+  }
+}

@@ -1,0 +1,1 @@
+window.park.$('*').filter(elem => elem.contains($0)).filter(elem => window.getComputedStyle(elem).getPropertyValue('overflow') === 'hidden');

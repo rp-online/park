@@ -1,0 +1,2230 @@
+{
+  "title": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung ",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "\/assets",
+    "searchPage": "\/suche\/",
+    "title": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung ",
+    "url": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1528109614",
+    "container_id": 23212334,
+    "beitrag_id": 27223797,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden."
+      },
+      {
+        "name": "author",
+        "content": " Seeger"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Anlage, Skatepark, BMX, Fahrer, Beton, Skater, Eller, Risse, haarfeine, Sonnenbestrahlung, fein, Tretrollerfahrer"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Anlage, Skatepark, BMX, Fahrer, Beton, Skater, Eller, Risse, haarfeine, Sonnenbestrahlung, fein, Tretrollerfahrer"
+      },
+      {
+        "property": "og:title",
+        "content": "Eine Woche nach der Er\u00f6ffnung in D\u00fcsseldorf-Eller: Was klappt und \nwas klappt nicht im Skatepark123"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      {
+        "property": "og:description",
+        "content": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden."
+      },
+      {
+        "property": "og:image",
+        "content": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/2\/5\/5\/9\/9\/tok_835b96ad69d1bf5adbc890ff091f0ef9\/w1200_h630_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung "
+      },
+      {
+        "name": "twitter:description",
+        "content": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/2\/5\/5\/9\/9\/tok_835b96ad69d1bf5adbc890ff091f0ef9\/w1200_h630_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": "freizeit",
+      "contentType": "Artikel",
+      "analyticsUrl": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334",
+      "author": " Seeger",
+      "date": "2018-07-09",
+      "origin": "4",
+      "seo": "\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334",
+      "rho_url": "\/\/r.rp-online.de\/images\/pic.gif?m=rp&b=27223797&cstr=23212334&l=1251&tit=Skatepark+in+Eller%3A+Eine+Woche+nach+der+Er%F6ffnung&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2Ffreizeit%2Fskatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334&sep=%7C&tce=1&tid=64676&tn=64600&tp=50327%7C64600&tpn=50327%7C64600&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/call.js",
+      "deviceUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/device.js",
+      "offerApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/api\/store\/RP\/offers",
+      "cmsJsonApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/settings\/notification.json",
+      "cmsJsonOfferApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/offerdata\/offer.json",
+      "cmsJsonAlertsApiUrl": "\/\/www-rpd.rp-online.de\/api\/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 23212334,
+      "doctype": "article",
+      "contentid": "\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334",
+      "channel": 64600,
+      "subchannel": 64676,
+      "heading": "Was klappt und  was klappt nicht im Skatepark123",
+      "kicker": "D\u00fcsseldorf",
+      "tag": "freizeit"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app:\/\/com.rheinischepost.wrapper\/http\/rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      {
+        "rel": "canonical",
+        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      {
+        "rel": "alternate",
+        "type": "application\/rss+xml",
+        "title": "RSS Feed",
+        "href": "\/nrw\/freizeit\/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Familie",
+        "sv": "i2",
+        "co": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Familie",
+        "sv": "mo",
+        "co": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      }
+    },
+    "vgwort": "https:\/\/ssl-rp-online.met.vgwort.de\/na\/7660a05ac59b46dc94570b97fbd3c88b",
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "lb_mb1",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky__xxx",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "outofpage",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-1__Z_MB-6",
+            "adUnitPath": "\/1017380\/rp-online.de\/content_ad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "\/1017380\/rp-online.de\/content_ad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-3__H_MB_3",
+            "adUnitPath": "\/1017380\/rp-online.de\/content_ad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD_4__Z_MB_6",
+            "adUnitPath": "\/1017380\/rp-online.de\/content_ad_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "23235848",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                251
+              ],
+              [
+                300,
+                300
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "\/1017380\/rp-online.de\/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "\/1017380\/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "\/1017380\/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "23212334",
+          "pfad1": "nrw",
+          "pfad2": "freizeit",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "23212334",
+          "pfad1": "nrw",
+          "pfad2": "freizeit",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "lb_mb1",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "outofpage",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-1__Z_MB-6",
+            "adUnitPath": "\/1017380\/rp-online.de\/mobil_banner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "\/1017380\/rp-online.de\/mobil_banner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD_4__Z_MB_6",
+            "adUnitPath": "\/1017380\/rp-online.de\/mobil_banner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "23235848",
+            "adUnitPath": "\/1017380\/test.rp-online.de\/localnews",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "\/1017380\/rp-online.de\/footer-ad-mew",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "\/1017380\/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "\/1017380\/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "23212334",
+          "pfad1": "nrw",
+          "pfad2": "freizeit",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "23212334",
+          "pfad1": "nrw",
+          "pfad2": "freizeit",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "zone": "localnews"
+      },
+      "reloadFrequency": "3"
+    },
+    "jsonLd": {
+      "@context": "http:\/\/schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334"
+      },
+      "headline": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung ",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/2\/5\/5\/9\/9\/tok_7364b9e1e1f4629d715f8dcb43820666\/w950_h526_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-07-09 12:11",
+      "dateModified": "2018-10-24 15:40:44",
+      "author": {
+        "@type": "Person",
+        "name": " Seeger"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/2\/5\/5\/9\/9\/tok_7a6a257176c4b541a3f9ce25419cacaa\/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden."
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "\/info\/adblocker\/",
+      "welectWebBaseUrl": "https:\/\/staging.welect.de",
+      "welectApiBaseUrl": "https:\/\/staging.welect.de\/api\/v1",
+      "welectIntegratorBaseUrl": "https:\/\/integrator-staging.welect.de\/integrator",
+      "welectProductId": "rponline-block",
+      "welectIntegrationId": "rpo-7Jhajjms"
+    },
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky__xxx\"><\/div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"><\/div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"><\/div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "\/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "\/nrw\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "\/wirtschaft\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "\/politik\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "\/sport\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "\/kultur\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "\/panorama\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "\/digitales\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "\/leben\/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "\/sso\/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "\/sso\/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "\/sso\/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https:\/\/leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "\/suche\/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem erm\u00f6glichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie k\u00f6nnen auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erkl\u00e4ren Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerkl\u00e4rung.",
+          "link": {
+            "href": "https:\/\/rp-online.de\/info\/datenschutz",
+            "text": "zur Datenschutzerkl\u00e4rung",
+            "target": "_blank",
+            "nofollow": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/8\/7\/5\/8\/5\/3\/1\/vertriebsicon_50x50-691a5ab8219cfb9b.jpg",
+      "text": "[Link auf https:\/\/leserservice.rp-online.de\/]",
+      "href": "https:\/\/leserservice.rp-online.de\/",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"lb_mb1\"><\/div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"lb_mb1\"><\/div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung "
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https:\/\/www-rpd.rp-online.de\/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Freizeit",
+                        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Was klappt und \nwas klappt nicht im Skatepark123"
+                    },
+                    "id": 23212334,
+                    "kicker": {
+                      "text": "Eine Woche nach der Er\u00f6ffnung in D\u00fcsseldorf-Eller\n "
+                    },
+                    "timestamp": "1539268440",
+                    "dateline": "D\u00fcsseldorf",
+                    "intro": "Skatebord-Fahrer, Inline-Skater und BMX-Fans teilen sich die rund zwei Millionen Euro teure Anlage. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden.",
+                    "sign": "(ctri)",
+                    "authorsbox": {
+                      "text": "Von  Seeger",
+                      "authors": [
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/2\/5\/8\/4\/7\/4\/1\/3\/4079939247-886c02da995b9689.jpg",
+                          "name": "Stephan Seeger",
+                          "position": "Redakteur",
+                          "bio": "Stephan Seeger (seeg) ist Redakteur bei der RP Media GmbH. ",
+                          "links": {
+                            "profile": "\/autor\/stephan-seeger\/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "mobile-rectangle",
+                          "html": "<div id=\"topmobile2\"><\/div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "halfpage",
+                          "html": "<div id=\"rectangle\"><\/div>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": false,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Am Beton des Skateparks Eller ist die erste Woche seiner Nutzung nicht spurlos vor\u00fcbergegangen. Die vielen Bremsstreifen auf den Rampen geben ein deutlichen Hinweis darauf, dass viele St\u00fcrze, Spr\u00fcnge und Tricks probiert wurden. Auch die Witterungsbedingungen haben ihre Spuren in der Anlage hinterlassen. Durch die enorme Sonnenbestrahlung der vergangenen Tage dehnte sich der Beton auseinander, sodass erste, haarfeine Risse an einigen Stellen im Boden sichtbar wurden. Die sind allerdings noch derart fein, dass das Fahrgef\u00fchl der zahlreichen Skater und BMX-Fahrer davon nicht beeintr\u00e4chtigt wird. \u201eWir beobachten die Stellen nat\u00fcrlich, damit sie ausgebessert werden, falls sich die Risse vergr\u00f6\u00dfern\u201c, erkl\u00e4rt Mike Jahner.<\/p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "billboard",
+                            "html": "<div id=\"Z_CAD-1__Z_MB-6\"><\/div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"Z_CAD-1__Z_MB-6\"); });}, 100);<\/script>",
+                            "lazy": true
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-1__Z_MB-6\"><\/div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"Z_CAD-1__Z_MB-6\"); });}, 100);<\/script>",
+                            "lazy": true
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Jahner ist einer der sechs Mitarbeiter des Stadtsportbundes, welche die Anlage t\u00e4glich betreuen. Er leistet dort sportp\u00e4dagogische Arbeit, gibt Erste-Hilfe-Ma\u00dfnahmen bei Verletzungen und fegt auch mal kleine Steinchen des Schotter-Parkplatzes von den Rampen. In erster Linie ist der Sozialp\u00e4dagoge und Hobby-Skater aber Ansprechpartner f\u00fcr alle Besucher des Parks. \u201eDa kommt es schon h\u00e4ufiger vor, dass mich jemand fragt, ob ich ihm einen Trick zeigen kann.\u201c Sein Hauptanliegen ist es, f\u00fcr eine entspannte Atmosph\u00e4re unter den t\u00e4glich gut 200 Skatern zu sorgen.<\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Dass sich die Anh\u00e4nger der verschiedenen Gef\u00e4hrte bisher so gut verstehen, ist f\u00fcr einen Skatepark jedoch nicht selbstverst\u00e4ndlich, wie Marc Lorrer erz\u00e4hlt. Gerade BMX-Fahrer und Skater w\u00fcrden sich in der Regel nicht sonderlich vertragen. Nach seinem ersten Besuch in der Anlage zieht der 25-J\u00e4hrige deshalb ein \u00fcberraschend positives Fazit. \u201eMan kommt sich immer ein bisschen in die Quere, wenn es so voll wie heute ist. Aber die Leute verst\u00e4ndigen sich gut untereinander und das ist das Wichtigste\u201c, sagt der Medien- und Kommunikationsstudent aus Aachen. Schwieriger sei es da schon mit der j\u00fcngeren Generation, die die offiziellen und inoffiziellen Regeln eines Skateparks noch nicht kennen. \u201eZum Beispiel, dass man nicht mitten in der Bowl stehen bleibt.<\/p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"><\/div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"><\/div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "href": "\/nrw\/staedte\/neuss\/buerger-schuetzenfest\/pflanz-oder-gar-nicht_aid-23220738",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "NGZ-Redakteur lernt in der Tanzschule"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Pflanz oder gar nicht"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"><\/div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"22512525\"); });}, 100);<\/script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"><\/div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"22512525\"); });}, 100);<\/script>",
+                                "lazy": true
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"><\/div>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"><\/div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">L\u00e4sst man den Blick \u00fcber die Anlage schweifen, zeigt sich jedoch \u00dcberraschendes in der Verteilung. W\u00e4hrend sich Rollschuh- und Tretrollerfahrer eher auf der \u201eStreet-Area\u201c wohl f\u00fchlen, tummeln sich in der \u201eFlow\u201c- und der \u201eBowl-Area\u201c eher Skateboarder und BMX-Fahrer. F\u00fcr Felix Berg ist gerade diese Diversit\u00e4t das Gr\u00f6\u00dfte am Skatepark. \u201eIch finde die Anlage toll! Gerade deshalb, weil sie nicht nur f\u00fcr Skateboarder gemacht wurde\u201c, sagt der Zehnj\u00e4hrige. In seinem Wohnviertel Flingern g\u00e4be es zwar auch Rampen. \u201eDie sind aber eher nur f\u00fcr Skateboards geeignet.\u201c In Eller kann er mit seinen Rollschuhen nun endlich ein bisschen fahren \u2013 w\u00e4hrend Mama Dorothe\u00e9 entspannt vom Pavillon zuschauen kann<\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Des einen Freud kann auch des anderen \u00c4rgernisses sein. Christopher Sturm aus Neuss sieht noch Verbesserungsbedarf am Skatepark. \u201eDaf\u00fcr, dass die Anlage \u00fcber zwei Millionen Euro gekostet hat, h\u00e4tte man die ein gr\u00f6\u00dfer machen k\u00f6nnen\u201c, findet der 25-J\u00e4hrige. Gerade f\u00fcr BMX-Fahrer sei die Fl\u00e4che manchmal zu eng bemessen. Auch w\u00fcrde er sich ausleihbare Schaumstoffmatten als Schutz beim Ausprobieren von waghalsigen Tricks w\u00fcnschen, wie er es aus einer Halle in Wuppertal bereits kennt. Da er jedoch fr\u00fcher selber mit dem Skateboard angefangen hatte, bevor er auf das Fahrrad umstieg, mildert er sein Urteil \u00fcber den Skatepark noch einmal ab. \u201eIn Deutschland wird f\u00fcr diesen wachsenden Sport ja sonst nicht so viel gemacht. Hoffentlich wird der Skatepark hier ein Grundstein f\u00fcr andere St\u00e4dte, damit nachzuziehen.\u201c<\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Sozialp\u00e4dagoge Jahner sieht viel Potential bei der Nutzung des Skateparks. Gerade f\u00fcr den Bereich \u201eStreetwork\u201c sei eine derartige Anlaufstelle, an denen sich die Jugendliche treffen, sehr wichtig. \u201eMan hat die Jugendlichen vor Ort zusammen, kann auf einer Augenh\u00f6he mit ihnen reden und sozialp\u00e4dagogisch auf sie einwirken. Etwa, um ihnen mit dem Sport eine Perspektive geben zu k\u00f6nnen.\u201c Aus eigener Erfahrung wei\u00df er, dass ein Skatepark auch ein gutes Mittel zur Inklusion sein k\u00f6nnte. F\u00fcr die Zukunft seien jedenfalls Kooperationen mit der nahen Lore-Lorentz-Schule oder der Dieter-Forte-Gesamtschule angedacht, um Skaten f\u00fcr den Schulsport interessant zu machen.<\/p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334\" data-widget-id=\"AR_10\"><\/div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https:\/\/www-rpd.rp-online.de\/nrw\/freizeit\/skatepark-in-eller-eine-woche-nach-der-eroeffnung_aid-23212334\" data-widget-id=\"AR_10\"><\/div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"><\/div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"><\/div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_083242cf5c2a52415ca8eda7080e4283\/w250_h140_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "400w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_16ed6c75a59af8097a274d0b76fe773f\/w400_h224_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "600w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_e0520fc00fb75b360ad0df05a4ebf099\/w600_h336_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "900w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_2d7688c57e51b966ca4d4224bda3e754\/w900_h504_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "950w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_feca036f31578f8f54d051121588001d\/w950_h532_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "1200w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_9ede9650fbc66aff02cb53f2ef5bef9a\/w1200_h672_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg",
+                          "1900w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/3\/8\/6\/0\/tok_3ce437813557b96bdadc008f4f90a39a\/w1900_h1064_x1275_y1727_ullstein_high_6107826866-ae3ed74bff97d353.jpg"
+                        },
+                        "alt": "Ein Papst.",
+                        "href": "\/kultur\/kunst\/skizzen-aus-dem-barocken-italien_aid-23212410",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Ausstellung im Museum Kunstpalast"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Skizzen aus dem barocken Italien"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/1\/3\/7\/1\/tok_02031a49b840cb39c8486f8a1f4740cd\/w250_h140_x470_y264_07a15161161c2253.jpg",
+                          "400w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/1\/3\/7\/1\/tok_3d320606b55646ceb1a11df4ed70301f\/w400_h224_x470_y264_07a15161161c2253.jpg",
+                          "600w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/1\/3\/7\/1\/tok_d52bb9e185957ed6ee22ce5c041f27e5\/w600_h336_x470_y264_07a15161161c2253.jpg",
+                          "900w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/2\/1\/3\/7\/1\/tok_50c40a186fb7db0be029bbd18052b0b4\/w900_h504_x470_y264_07a15161161c2253.jpg"
+                        },
+                        "alt": "",
+                        "href": "\/nrw\/freizeit\/acht-gruende-fuer-das-scheitern-der-deutschen_aid-23209894",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Artikel mit Video"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Acht Gr\u00fcnde f\u00fcr das Scheitern der Deutschen"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_cbb6b5b4b1e46d6efca8ce91b5593ed2\/w250_h140_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "400w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_46ef947d1791fcc50c1f4152d040a341\/w400_h224_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "600w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_fae8f9649e650789665e19fb67c4eb8b\/w600_h336_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "900w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_65e1b4988d98f450741206f9f3664392\/w900_h504_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "950w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_17b8f56ead1dbb2b5a72ec6e480213e0\/w950_h532_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "1200w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_9f3a58a08673e5a6f389dd6ec2e39879\/w1200_h672_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg",
+                          "1900w": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/2\/7\/2\/1\/7\/6\/3\/7\/tok_a51dabedea66620301845d58c05f759d\/w1900_h1064_x2497_y1882_Bild_1563684a-fe22-11e4-8858-ef77c5b2f09b-acb3425a2760b102.jpg"
+                        },
+                        "alt": "",
+                        "href": "\/nrw\/freizeit\/toller-test-artikel_aid-23206084",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Test Teaser-Dachzeile"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Toller Test Teaser-Titel"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Skatepark in Eller: Eine Woche nach der Er\u00f6ffnung "
+                    },
+                    "success": {
+                      "headline": "Vielen Dank f\u00fcr Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem gro\u00dfen Kommentaraufkommen zu l\u00e4ngeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr f\u00fcr Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Die Kommentare sind mit Wirkung vom 4. Juli deaktiviert."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist f\u00fcr neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"\/sso\/login\">melden Sie sich bitte an<\/a>."
+                    },
+                    "discussion": {
+                      "id": 27223797,
+                      "url": "\/api\/comments?beitrag_id=27223797",
+                      "counturl": "\/api\/comments?type=count&beitrag_id=27223797"
+                    },
+                    "terms": {
+                      "href": "\/allgemeines\/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich \u00fcber weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"><\/div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"><\/div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "\/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https:\/\/rp-online.de\/info\/impressum\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https:\/\/rp-online.de\/info\/kontakt\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https:\/\/rp-online.de\/info\/datenschutz\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https:\/\/rp-online.de\/info\/agb\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com\/rponline",
+          "href": "https:\/\/facebook.com\/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https:\/\/twitter.com\/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "",
+      "headline": "",
+      "body": "Bestellen Sie den Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": 0
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https:\/\/www.weekli.de\/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https:\/\/rp-online.de\/leben\/reisen\/schwarzwald-baden-wuerttemberg\/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https:\/\/spiele.rp-online.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https:\/\/rp-online.de\/digitales\/rp-online-app\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https:\/\/rp-online.de\/app\/newsletter\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https:\/\/rp-online.de\/app\/feed\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Archiv",
+          "href": "https:\/\/rp-online.de\/archiv\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https:\/\/www.rheinischepostmediengruppe.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https:\/\/karriere.rheinischepostmediengruppe.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https:\/\/www.rheinischepostmediengruppe.de\/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http:\/\/rp-media.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "\/api\/tree?output=html&currentNode=64676"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https:\/\/leserservice.rp-online.de\/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "ePaper\/App",
+              "href": "https:\/\/rp-online.de\/app\/epaper\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https:\/\/leserservice.rp-online.de\/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https:\/\/www.rp-forum.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https:\/\/rp-online.de\/info\/kontakt\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https:\/\/rp-online.de\/app\/newsletter\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast h\u00f6ren",
+              "href": "https:\/\/rp-online.de\/digitales\/podcasts\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https:\/\/trauer.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https:\/\/www.tonight.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https:\/\/rp-online.de\/app\/schlagzeilen\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https:\/\/www.weekli.de\/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https:\/\/spiele.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https:\/\/www.rp-digital-services.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https:\/\/www.kalaydo.de\/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https:\/\/www.fupa.net\/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https:\/\/shop.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https:\/\/rp-expertenzeit.de\/aktuelle-events\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https:\/\/www.droste-reisen.de\/rpo\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https:\/\/premiumcard.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https:\/\/rp-lesertour.de\/aktuelle-lesertouren\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https:\/\/texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https:\/\/rp-online.de\/app\/zeitungsarchiv\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https:\/\/rp-online.de\/app\/zeitungsarchiv\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "\/nrw\/staedte\/dinslaken\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "\/nrw\/staedte\/dormagen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "D\u00fcsseldorf",
+              "href": "\/nrw\/staedte\/duesseldorf\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "\/nrw\/staedte\/duisburg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "\/nrw\/staedte\/emmerich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "\/nrw\/staedte\/erkelenz\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "\/nrw\/staedte\/erkrath\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "\/nrw\/staedte\/geldern\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "\/nrw\/staedte\/goch\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "\/nrw\/staedte\/grevenbroich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "\/nrw\/staedte\/haan\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "\/nrw\/staedte\/hilden\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "H\u00fcckelhoven",
+              "href": "\/nrw\/staedte\/hueckelhoven\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "H\u00fcckeswagen",
+              "href": "\/nrw\/staedte\/hueckeswagen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "H\u00fcnxe",
+              "href": "\/nrw\/staedte\/huenxe\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "J\u00fcchen\n ",
+              "href": "\/nrw\/staedte\/juechen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "\/nrw\/staedte\/kaarst\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "\/nrw\/staedte\/kamp-lintfort\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "\/nrw\/staedte\/kempen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "\/nrw\/staedte\/kevelaer\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "\/nrw\/staedte\/kleve\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "K\u00f6ln",
+              "href": "\/nrw\/staedte\/koeln\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "\/nrw\/staedte\/korschenbroich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "\/nrw\/staedte\/krefeld\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "\/nrw\/staedte\/kreis-heinsberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "\/nrw\/staedte\/langenfeld\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "\/nrw\/staedte\/leichlingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "\/nrw\/staedte\/leverkusen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "\/nrw\/staedte\/meerbusch\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "\/nrw\/staedte\/mettmann\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "M\u00f6nchengladbach",
+              "href": "\/nrw\/staedte\/moenchengladbach\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "\/nrw\/staedte\/moers\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "\/nrw\/staedte\/nettetal\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "\/nrw\/staedte\/neukirchen-vluyn\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "\/nrw\/staedte\/neuss\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "\/nrw\/staedte\/radevormwald\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "\/nrw\/staedte\/ratingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "\/nrw\/staedte\/remscheid\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "\/nrw\/staedte\/rhein-kreis\/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "\/nrw\/staedte\/rheinberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "\/nrw\/staedte\/rommerskirchen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "\/nrw\/staedte\/solingen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "T\u00f6nisvorst",
+              "href": "\/nrw\/staedte\/toenisvorst\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "\/nrw\/staedte\/viersen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "\/nrw\/staedte\/wassenberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "\/nrw\/staedte\/wegberg\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "\/nrw\/staedte\/wermelskirchen\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "\/nrw\/staedte\/wesel\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "\/nrw\/staedte\/willich\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#willich"
+            },
+            {
+              "text": "W\u00fclfrath",
+              "href": "\/nrw\/staedte\/wuelfrath\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "\/nrw\/staedte\/xanten\/",
+              "featured": false,
+              "icon": "\/assets\/images\/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "\/nrw\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#nrw",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "\/nrw\/panorama\/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "\/nrw\/landespolitik\/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "\/nrw\/kultur\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "\/nrw\/freizeit\/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Zoos",
+                  "href": "\/nrw\/freizeit\/zoo\/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "\/nrw\/datenjournalismus\/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "\/wirtschaft\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "\/politik\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "\/sport\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "\/kultur\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "\/panorama\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "\/digitales\/",
+          "target": "_self",
+          "icon": "\/assets\/images\/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "\/leben\/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten",
+    "poweredBy": {
+      "text": "Content Management by InterRed",
+      "href": "https:\/\/www.interred.de\/",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  }
+}

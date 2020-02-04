@@ -1,0 +1,60 @@
+.park-video_embed,
+.park-video {
+  position: relative;
+  margin-bottom: $global-spacing;
+  padding-bottom: 1px;
+  background-color: #0d0d0d;
+  background-size: cover;
+
+  .park-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    &::before,
+    &::after {
+      display: none;
+    }
+  }
+
+  &::before,
+  &::after {
+    content: '';
+    position: relative;
+    z-index: 1;
+    top: 0;
+    display: block;
+    width: 33%;
+    height: 0;
+    margin-bottom: 39px;
+    padding-bottom: calc(56.25% - 40px); //  16:9 aspect ratio
+    background-color: green;
+    visibility: hidden;
+  }
+
+  &::after {
+    position: absolute;
+    right: 0;
+  }
+
+  iframe,
+  &__cover,
+  &__fallback {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+  &__fallback {
+    @extend %indicator-video;
+
+    position: absolute;
+    padding: $global-spacing;
+    color: #fff;
+    text-shadow: 0 0 4px #000;
+  }
+}

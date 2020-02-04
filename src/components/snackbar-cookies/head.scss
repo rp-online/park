@@ -1,0 +1,41 @@
+.park-snackbar-cookies {
+  .park-snackbar {
+    @include global-sans-serif-font-size(3);
+
+    background-color: #fff;
+    color: $global-color-text-black;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  .park-snackbar__wrapper {
+    > *,
+    > *:last-child {
+      order: 0;
+      margin-right: $global-spacing;
+    }
+
+    > *:nth-child(2) {
+      width: 100%;
+    }
+
+    > *:first-child {
+      order: 1;
+      margin-right: 0;
+    }
+
+    .park-button {
+      width: auto;
+
+      @include mq(mobile) {
+        float: right;
+      }
+    }
+  }
+
+  .park-snackbar__close {
+    display: none;
+  }
+}

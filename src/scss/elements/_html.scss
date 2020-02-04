@@ -1,0 +1,28 @@
+/* Go from the top down, start with the largest first */
+html {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  width: 100%;
+  // stylelint-disable-next-line
+  touch-action: manipulation;
+  text-rendering: optimizeSpeed;
+
+  &.js-disabled {
+    scroll-behavior: smooth;
+  }
+
+  &.park-embeddable-component {
+    overflow: auto;
+  }
+
+  @include mq(desktop) {
+    background-color: #d6d9dd;
+
+    &.park-embeddable-component {
+      background-color: transparent;
+    }
+  }
+}

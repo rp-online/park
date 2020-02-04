@@ -1,0 +1,159 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Neuste Bilder"
+  },
+  "autoforward": true,
+  "items": [
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Rheinkirmes 2016"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Neue Show \"Die Kirmeskönige\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Nationalmannschaft"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Fortuna Düsseldorf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Rechtsstreit um Dopingsperre"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Davies trifft die DEG am Freitag vor Gericht"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Nationalmannschaft"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Fortuna Düsseldorf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Rechtsstreit um Dopingsperre"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Davies trifft die DEG am Freitag vor Gericht"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Nationalmannschaft"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Fortuna Düsseldorf"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "src": "./assets/images/300x225.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "kicker": {
+        "tag": "h2",
+        "text": "Rechtsstreit um Dopingsperre"
+      },
+      "headline": {
+        "tag": "span",
+        "text": "Davies trifft die DEG am Freitag vor Gericht"
+      }
+    }
+  ]
+}

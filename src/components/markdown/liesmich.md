@@ -1,0 +1,1 @@
+Diese Komponente wandelt Markdown in HTML um. Die akzeptiert auch HTML und gibt es unverändert aus.

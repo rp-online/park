@@ -1,0 +1,1 @@
+Diese Komponente bettet einen Twitter-Tweet in einem entsprechenden Rahmen ein. Sie muss nur mit der URL des Tweets gefüttert werden und kümmert sich dann um den Rest. Zum Einsatz kommt sie entweder im Artikel-Körper ([article](#article)) oder aber in der [gallery](#gallery) (was die Galerie zur Infostrecke macht). 

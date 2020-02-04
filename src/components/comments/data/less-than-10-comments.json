@@ -1,0 +1,55 @@
+{
+  "disabled": false,
+  "headline": {
+    "tag": "h2",
+    "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+  },
+  "success": {
+    "headline": "Vielen Dank für Ihren Beitrag!",
+    "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+  },
+  "error": {
+    "headline": "Es ist ein Fehler aufgetreten!",
+    "text": ""
+  },
+  "closed": {
+    "headline": "Das Kommentarforum zu diesem Artikel ist geschlossen.",
+    "text": ""
+  },
+  "suspended": {
+    "headline": "Es ist ein Fehler aufgetreten!",
+    "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+  },
+  "terms": {
+    "href": "#void"
+  },
+  "form": {
+    "vertical": true,
+    "action": "#void",
+    "method": "post",
+    "submit": "Absenden",
+    "events": {
+      "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+    },
+    "children": [
+      {
+        "component": "textarea",
+        "data": {
+          "name": "message",
+          "label": "Nachricht"
+        }
+      },
+      {
+        "component": "input",
+        "data": {
+          "type": "checkbox",
+          "name": "notify_me",
+          "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+        }
+      }
+    ]
+  },
+  "discussion": {
+    "url": "/assets/ajax/comments/less-than-10-comments.json"
+  }
+}

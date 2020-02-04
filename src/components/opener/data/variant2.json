@@ -1,0 +1,29 @@
+{
+  "href": "#void",
+  "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Bright%2C_Vic_autumn.jpg",
+  "backgroundColor": "rgba(155,151,31,1);",
+  "kicker": {
+    "tag": "h1",
+    "text": "Schwere Gewitter möglich"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+  },
+  "authors": "Von Tobias Block",
+  "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt.",
+  "related": [
+    {
+      "type": "article",
+      "href": "#void",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "#void",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

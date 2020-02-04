@@ -1,0 +1,56 @@
+{
+  "initialState": {
+    "headline": {
+      "tag": "h1",
+      "text": "Wetter in Krefeld"
+    },
+    "aside": "Wetter in Krefeld powered by wetter.de",
+    "items": [
+      {
+        "type": "weather",
+        "headline": {
+          "tag": "h2",
+          "text": "Heute"
+        },
+        "temps": {
+          "day": 24,
+          "night": 8
+        },
+        "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_dunkel-sonne-wenig_regen.png",
+        "alt": "Symbolgrafik: wechselhaft mit leichten Regenschauern, wenig Sonne",
+        "href": "\/app\/wetter\/detail\/krefeld\/41334",
+        "caption": "Wechselhaft mit leichten Regenschauern, wenig Sonne"
+      },
+      {
+        "type": "weather",
+        "headline": {
+          "tag": "h2",
+          "text": "Morgen"
+        },
+        "temps": {
+          "day": 24,
+          "night": 8
+        },
+        "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_dunkel-sonne-wenig_regen.png",
+        "alt": "Symbolgrafik: wechselhaft mit leichten Regenschauern, wenig Sonne",
+        "href": "\/app\/wetter\/detail\/krefeld\/41334",
+        "caption": "Wechselhaft mit leichten Regenschauern, wenig Sonne"
+      },
+      {
+        "type": "weather",
+        "headline": {
+          "tag": "h2",
+          "text": "Übermorgen"
+        },
+        "temps": {
+          "day": 24,
+          "night": 8
+        },
+        "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_dunkel-sonne-wenig_regen.png",
+        "alt": "Symbolgrafik: wechselhaft mit leichten Regenschauern, wenig Sonne",
+        "href": "\/app\/wetter\/detail\/krefeld\/41334",
+        "caption": "Wechselhaft mit leichten Regenschauern, wenig Sonne"
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+.park-header {
+  padding: rem(20px) 0 0 0;
+
+  * {
+    position: absolute;
+    height: auto;
+    visibility: hidden;
+    clear: none;
+  }
+
+  &__logo {
+    &,
+    &-headline {
+      width: 100%;
+    }
+
+    a {
+      position: static;
+      float: right;
+      visibility: visible;
+      margin: 0 $global-spacing;
+
+      * {
+        position: static;
+        visibility: visible;
+      }
+    }
+
+    svg {
+      width: rem(180px);
+      height: auto;
+    }
+  }
+}

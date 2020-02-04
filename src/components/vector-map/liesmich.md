@@ -1,0 +1,1 @@
+Diese Komponente wird genutzt, um Inline-SVG-Karten in den sogenannten "App"-Seiten einzubinden.

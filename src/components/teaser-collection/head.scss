@@ -1,0 +1,33 @@
+.park-teaser-collection {
+  &__list {
+    border-bottom: #d0d0d0 1px solid;
+  }
+
+  &__list-item {
+    text-align: center;
+
+    > *:not(.park-portal) {
+      text-align: left;
+    }
+
+    .park-portal {
+      display: block;
+      clear: left;
+      margin: 0 auto;
+      padding: 0;
+      text-align: center;
+
+      &--is-loaded {
+        overflow: auto;
+      }
+
+      &--is-loaded.park-portal--is-empty {
+        overflow: visible;
+      }
+
+      &--is-loaded > div {
+        margin: $global-spacing auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,910 @@
+@mixin global-font-family-serif {
+  font-family: $global-font-family-serif;
+
+  .fonts-loaded & {
+    font-family: $global-font-family-serif-loaded;
+  }
+}
+
+@mixin global-font-family-sans-serif {
+  font-family: $global-font-family-sans-serif;
+
+  .fonts-loaded & {
+    font-family: $global-font-family-sans-serif-loaded;
+  }
+}
+
+@mixin global-serif-font-size($prio) {
+  @if $prio == 1 {
+    font-size: rem(18px);
+    line-height: (26 / 18);
+
+    @include mq(desktop) {
+      font-size: rem(26px);
+      line-height: (38 / 26);
+    }
+  } @else if $prio == 2 {
+    font-size: rem(14px);
+    line-height: (21 / 14);
+
+    @include mq(desktop) {
+      font-size: rem(16px);
+      line-height: (24 / 16);
+    }
+  } @else {
+    font-size: rem(11px);
+    line-height: (16 / 11);
+  }
+}
+
+@mixin global-sans-serif-font-size($prio) {
+  @if $prio == 1 {
+    font-size: rem(20px);
+    line-height: (26 / 20);
+
+    @include mq(desktop) {
+      font-size: rem(29px);
+      line-height: (38 / 29);
+    }
+  } @else if $prio == 2 {
+    font-size: rem(16px);
+    line-height: (21 / 16);
+
+    @include mq(desktop) {
+      font-size: rem(18px);
+      line-height: (24 / 18);
+    }
+  } @else {
+    font-size: rem(13px);
+    line-height: (18 / 13);
+  }
+}
+
+@mixin zero-font-size {
+  font-size: 0;
+
+  @include mq(desktop) {
+    font-size: 0;
+  }
+}
+
+@mixin card-status-styles {
+  &[href]:focus &__figure,
+  &[href]:hover &__figure,
+  &[href][class$="event"]:focus,
+  &[href][class$="event"]:hover {
+    background-color: $global-light-grey;
+  }
+}
+
+@mixin card {
+  @include card-status-styles;
+
+  position: relative;
+  display: block;
+  height: 100%;
+  padding-bottom: 2px;
+
+  &--sugardaddy {
+    &::before {
+      @extend %sugardaddy-label;
+
+      position: absolute;
+      top: 0;
+      right: 0;
+      line-height: rem(20px);
+    }
+
+    .park-card-portal & {
+      &::before {
+        content: '';
+      }
+
+      padding-top: 0;
+    }
+  }
+
+  &__wrapper {
+    position: relative;
+    margin-bottom: rem(5px);
+
+    @include mq(desktop) {
+      margin-bottom: rem(7px);
+    }
+  }
+
+  .park-image {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  &__figure {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    padding-bottom: 5.5em;
+    background-color: #fff;
+    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08), 1px 1px 2px 0 rgba(0, 0, 0, 0.17);
+
+    .park-teaser-tiles & {
+      box-shadow: none;
+    }
+
+    .park-gallery__item-innerwrapper & {
+      box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08), 1px 1px 2px 0 rgba(0, 0, 0, 0.17);
+    }
+  }
+
+  &__caption {
+    position: absolute;
+    display: -webkit-box;
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    padding: 0 rem(6px);
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    line-clamp: 5;
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__kicker,
+  &__headline {
+    display: block;
+  }
+
+  &__kicker {
+    color: $global-kicker-color;
+    font-size: rem(16px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (21 / 16);
+  }
+
+  .park-portal-marker &__kicker,
+  .is-advertorial &__kicker,
+  &--sugardaddy &__kicker {
+    color: $global-advertisement-color;
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+
+    color: $global-color-text-black;
+    font-size: rem(18px);
+    line-height: (26 / 18);
+  }
+
+  &--cramped &__headline {
+    font-size: rem(16px);
+
+    @include mq(desktop) {
+      font-size: rem(18px);
+    }
+  }
+
+  @include mq(desktop) {
+    background-color: transparent;
+  }
+}
+
+@mixin card-large {
+  @include card-status-styles;
+
+  position: relative;
+  background-color: #fff;
+  color: $global-color-text-black;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+
+  &::before {
+    content: '';
+    display: block;
+    padding-top: (525 / 300) * 100%;
+  }
+
+  &__figure {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: auto;
+  }
+
+  [class$="--sugardaddy"] &__figure::before {
+    @extend %sugardaddy-label;
+
+    position: absolute;
+    z-index: 1;
+    top: $global-spacing;
+    right: $global-spacing;
+    color: #fff;
+  }
+
+  &__figure::after,
+  &__caption {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  &__figure::after {
+    content: '';
+    background-image: linear-gradient(to top, rgba(34, 34, 34, 0.8) 20%, rgba(0, 0, 0, 0) 70%);
+  }
+
+  &__caption {
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    margin-bottom: 0;
+    padding: $global-spacing;
+    text-shadow: 0 0 3px rgba(0,0,0,0.5);
+  }
+
+  &__headline,
+  &__subheadline {
+    @include global-font-family-sans-serif;
+
+    color: #fff;
+    text-align: center;
+  }
+
+  &__headline {
+    font-size: rem(29px);
+    line-height: (38 / 29);
+    margin-bottom: rem(4px);
+  }
+
+  &__subheadline {
+    @include global-sans-serif-font-size(2);
+  }
+
+  &__bottom {
+    position: absolute;
+    z-index: 1;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 68%;
+    background-color: #fff;
+    perspective: 1000px;
+  }
+
+  &__toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: (2 * $global-spacing);
+    background-color: #fff;
+    border: none;
+    font-size: 0;
+    line-height: (2 * $global-spacing);
+    text-align: center;
+    cursor: pointer;
+
+    > svg {
+      transform: scale(1, 1);
+      transition: transform 0.2s;
+    }
+
+    &[aria-expanded="true"] {
+      > svg {
+        transform: scale(1, -1);
+      }
+    }
+  }
+
+  &__description {
+    @extend %scroll-shadow;
+
+    overflow: auto;
+    height: 100%;
+  }
+
+  &__description-text {
+    padding: $global-spacing;
+  }
+
+  &__article-count {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    margin-bottom: $global-spacing;
+    font-weight: $global-font-weight-sans-serif-regular;
+  }
+
+  &__description,
+  &__articles {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: calc(100% - #{(2 * $global-spacing)});
+    text-align: center;
+
+    &[aria-hidden="false"] {
+      animation-name: park-vertical-flip;
+      animation-duration: 0.2s;
+      animation-fill-mode: both;
+      backface-visibility: hidden;
+    }
+  }
+
+  &__description-text,
+  .park-teaser-image-list {
+    @extend %scroll-shadow;
+    @extend %modern-scrollbars;
+
+    overflow: auto;
+    overflow-x: hidden;
+    height: calc(100% - #{(5 * $global-spacing)});
+    background-color: transparent;
+    border: 1px solid #ddd;
+    border-width: 1px 0;
+    text-align: left;
+  }
+
+  .park-teaser-image-list__list {
+    display: block;
+  }
+
+  .park-button {
+    max-width: calc(100% - #{$global-spacing});
+    margin: $global-spacing auto;
+    text-overflow: ellipsis;
+  }
+
+  [data-bookmark] {
+    display: none;
+  }
+}
+
+@mixin hover-styles {
+  &:active,
+  &:focus {
+    @content;
+  }
+
+  @media (hover) {
+    &:hover {
+      @content;
+    }
+  }
+
+  @media screen and (-moz-images-in-menus: 0) {
+    &:hover {
+      @content;
+    }
+  }
+}
+
+@mixin button {
+  @include global-font-family-sans-serif;
+
+  position: relative;
+  display: inline-block;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: rem(10px) rem(15px);
+  background-color: $global-brand-color;
+  color: white;
+  border: 0;
+  border-color: $global-brand-color;
+  border-radius: rem(2px);
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12), 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+  font-size: rem(16px);
+  font-weight: $global-font-weight-sans-serif-regular;
+  line-height: (20 / 16);
+  white-space: nowrap;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  cursor: pointer;
+
+  *,
+  &::before,
+  &::after {
+    vertical-align: middle;
+  }
+
+  &::before,
+  &::after {
+    border: none;
+  }
+
+  &:hover {
+    background-color: lighten($global-brand-color, 10);
+  }
+
+  &[disabled] {
+    opacity: 0.5;
+  }
+
+  > svg:first-child {
+    margin-right: rem(8px);
+  }
+
+  > svg:last-child {
+    margin-left: rem(8px);
+  }
+
+  &__icon,
+  &__loader {
+    display: inline-block;
+    margin: auto;
+    font-size: 0;
+
+    &:empty {
+      display: none;
+    }
+
+    &:last-child {
+      margin-left: rem(8px);
+      margin-right: 0;
+    }
+
+    &:first-child {
+      margin-left: 0;
+      margin-right: rem(8px);
+    }
+  }
+
+  &__loader {
+    display: none;
+  }
+
+  &--is-loading &__loader {
+    display: inline-block;
+  }
+}
+
+@mixin text-link($color: $global-brand-color) {
+  color: inherit;
+  border-color: $color;
+  text-decoration: underline;
+  text-decoration-color: $color;
+  text-underline-position: under;
+
+  &--sugardaddy {
+    color: $global-advertisement-color;
+    border-color: $global-advertisement-color;
+    text-decoration-color: $global-advertisement-color;
+  }
+
+  @extend %text-link-desktop;
+}
+
+@mixin buttons-bar() {
+  display: flex;
+  flex-wrap: nowrap;
+  width: 100%;
+  margin-bottom: $global-spacing;
+  padding: 1px;
+
+  @include mq(desktop) {
+    display: block;
+    width: auto;
+    box-shadow: none;
+  }
+
+  &-button,
+  &__button {
+    display: flex;
+    flex: 1 1 auto;
+    margin: 0 0.5px rem(2px) 0.5px;
+
+    @include mq(desktop) {
+      display: inline-flex;
+      margin-right: $global-spacing;
+    }
+
+    &--print {
+      @include mq(mobile) {
+        display: none;
+      }
+    }
+
+    &--whatsapp,
+    &--sms,
+    &--copy {
+      @include mq(desktop) {
+        display: none;
+      }
+    }
+  }
+
+  .park-button {
+    width: 100%;
+
+    @include mq(mobile) {
+      padding: rem(15px) 0;
+      border-radius: 0;
+      font-size: 0;
+    }
+  }
+
+  .park-button__icon {
+    @include mq(mobile) {
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+}
+
+@mixin has-advertorial-disclaimer {
+  .is-advertorial:not(.is-embedded) & {
+    &::after {
+      content: '#{$global-text-disclaimer-ads}';
+      display: block;
+      margin: rem(30px) $global-spacing 0 $global-spacing;
+      padding: rem(10px) 0;
+      border-top: $global-advertisement-color 1px solid;
+      font-size: rem(13px);
+      text-align: left;
+
+      @include mq(desktop) {
+        width: calc(#{$global-container-width} - #{$global-spacing} - #{$global-spacing});
+        margin-left: #{$global-spacing};
+        font-size: rem(16px);
+        text-align: right;
+      }
+    }
+  }
+}
+
+@mixin small-close-button {
+  position: absolute;
+  top: rem(15px);
+  right: rem(10px);
+  padding: rem(5px);
+  background-color: transparent;
+  color: #fff;
+  border: none;
+  font-size: 0;
+
+  &:focus,
+  &:hover {
+    color: $global-brand-color;
+  }
+
+  > svg {
+    width: rem(10px);
+    height: rem(10px);
+    fill: currentColor;
+  }
+}
+
+@mixin button-settings {
+  width: rem(34px);
+  height: rem(34px);
+  color: $global-color-text-black;
+  font-size: 0;
+  opacity: 0.5;
+
+  &:focus,
+  &:hover {
+    opacity: 1;
+  }
+
+  > svg {
+    width: rem(18px);
+    height: rem(18px);
+    margin: rem(7px);
+  }
+}
+
+@mixin button-settings-absolute {
+  position: absolute;
+  z-index: 1;
+  top: rem(5px);
+  right: rem(5px);
+}
+
+@mixin nopagebreak {
+  display: block;
+  page-break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  -moz-column-break-inside: avoid;
+  column-break-inside: avoid;
+  break-inside: avoid;
+}
+
+@mixin richtext {
+  /* stylelint-disable */
+  h1, h2, h3, h4, h5, h6, p, ol, ul {
+    &:not([class^="park"]) {
+      margin-top: rem(22px);
+      margin-bottom: rem(22px);
+      page-break-inside: avoid;
+    }
+  }
+
+  h1, h2, h3, h4, h5, h6, strong, b {
+    &:not([class^="park"]) {
+      font-size: 1em;
+      font-weight: $global-font-weight-sans-serif-bold;
+    }
+  }
+
+  ol, ul {
+    &:not([class^="park"]) {
+      list-style-type: none;
+    }
+  }
+
+  li {
+    &:not([class^="park"]) {
+      display: list-item;
+      overflow: hidden;
+      margin-top: rem(22px);
+      margin-bottom: rem(22px);
+      margin-left: 0;
+    }
+  }
+
+  ul {
+    > li {
+      &:not([class^="park"]) {
+        position: relative;
+        padding-left: rem(20px);
+
+        &::before {
+          content: '';
+          position: absolute;
+          left: 0;
+          width: rem(9px);
+          height: rem(9px);
+          margin-top: rem(10px);
+          background-color: $global-brand-color;
+        }
+      }
+    }
+  }
+
+  ol {
+    &:not([class^="park"]) {
+      counter-reset: park-richtext-list-counter;
+    }
+
+    > li {
+      &:not([class^="park"]) {
+        position: relative;
+        padding-left: rem(35px);
+
+        @for $i from 1 through 9 {
+          &:nth-last-child(#{$i}):first-child,
+          &:nth-last-child(#{$i}):first-child ~ li {
+            padding-left: rem(25px);
+          }
+        }
+
+        &::before {
+          counter-increment: park-richtext-list-counter;
+          content: counter(park-richtext-list-counter);
+          position: absolute;
+          left: 0;
+          margin-top: rem(-8px);
+          color: $global-brand-color;
+          font-size: rem(29px);
+          font-weight: $global-font-weight-sans-serif-bold;
+        }
+      }
+    }
+  }
+
+  a, em:not(.park-icon-paid), i, strong, b, code, span, u, abbr, acronym, cite, code, dfn, kbd, samp, var {
+    vertical-align: baseline !important;
+  }
+
+  strong, b {
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  em, i {
+    font-style: italic;
+    font-weight: inherit;
+  }
+
+  a:not([class^="park"]) {
+    @include text-link;
+
+    color: inherit;
+    vertical-align: middle;
+  }
+
+  pre {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    margin-bottom: $global-spacing;
+    padding: $global-spacing;
+    background-color: #ddd;
+  }
+
+  code {
+    padding: 0 rem(2px);
+    background-color: #ddd;
+  }
+
+  hr {
+    height: 1px;
+    background-color: currentColor;
+    color: #ccc;
+    border: none;
+  }
+
+  .interview_frage,
+  .park-interview_frage,
+  .info,
+  .park-info {
+    font-style: italic;
+  }
+
+  // GERACM-3312
+  .fett_kursiv {
+    font-style: italic;
+    font-weight: 700;
+  }
+  .fett_versal {
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+
+  .halbfett,
+  .park-halbfett,
+  .grundtext_fett,
+  .park-grundtext_fett,
+  .infofett,
+  .park-infofett,
+  .erstes_Wort_fett,
+  .park-erstes_Wort_fett {
+    font-weight: bold;
+  }
+
+  .text_linie,
+  .park-text_linie {
+    text-decoration: underline;
+  }
+
+  .versalien,
+  .park-versalien {
+    text-transform: uppercase;
+  }
+
+  /* stylelint-enable */
+}
+
+@mixin side-panel($side: 'right') {
+  position: absolute;
+  z-index: 3;
+  top: 0;
+
+  @if ($side == 'right') {
+    right: 0;
+  } @else {
+    left: 0;
+  }
+
+  &__panel {
+    @include global-sans-serif-font-size(2);
+    @extend %modern-scrollbars;
+
+    position: fixed;
+    z-index: 3;
+    top: $header-navbar-height-mobile;
+    bottom: 0;
+
+    @if ($side == 'right') {
+      left: calc(100% + 100px);
+    } @else {
+      right: calc(100% + 100px);
+    }
+
+    overflow-x: hidden;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
+    width: rem(350px);
+    max-width: 100%;
+    padding-bottom: rem(100px);
+    background-color: #fff;
+    border-left: 1px solid #555;
+    text-align: left;
+    transform: translateX(0);
+    transition: transform 600ms, top 300ms;
+    transition-timing-function: ease-out, ease;
+
+    @include mq(desktop) {
+      top: $header-navbar-height-desktop;
+    }
+
+    .with-offers & {
+      top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile});
+
+      @include mq(desktop) {
+        top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop});
+      }
+    }
+  }
+
+  &:not([aria-hidden="true"]) &__panel {
+    @if ($side == 'right') {
+      transform: translateX(-100%) translateX(-100px);
+    } @else {
+      transform: translateX(100%) translateX(100px);
+    }
+
+    transition: transform 300ms;
+    will-change: scroll-position;
+
+    .js-disabled & {
+      transform: translateX(0);
+      transition: transform 600ms;
+    }
+  }
+
+  &:target &__panel,
+  &:focus-within &__panel {
+    &,
+    .js-disabled & {
+      @if ($side == 'right') {
+        transform: translateX(-100%) translateX(-100px);
+      } @else {
+        transform: translateX(100%) translateX(100px);
+      }
+
+      transition: transform 300ms;
+    }
+  }
+}
+
+/**
+ * Calculate the luminance for a color.
+ * See https://www.w3.org/TR/WCAG20-TECHS/G17.html#G17-tests
+ */
+@function luminance($color) {
+  $red: nth($linear-channel-values, red($color) + 1);
+  $green: nth($linear-channel-values, green($color) + 1);
+  $blue: nth($linear-channel-values, blue($color) + 1);
+
+  @return .2126 * $red + .7152 * $green + .0722 * $blue;
+}
+
+/**
+ * Calculate the contrast ratio between two colors.
+ * See https://www.w3.org/TR/WCAG20-TECHS/G17.html#G17-tests
+ */
+@function contrast($back, $front) {
+  $backLum: luminance($back) + .05;
+  $foreLum: luminance($front) + .05;
+
+  @return max($backLum, $foreLum) / min($backLum, $foreLum);
+}
+
+/**
+ * Determine whether to use dark or light text on top of given color.
+ * Returns black for dark text and white for light text.
+ */
+@function choose-contrast-color($color) {
+  $lightContrast: contrast($color, white);
+  $darkContrast: contrast($color, $global-color-text-black);
+
+  @if ($lightContrast > $darkContrast) {
+    @return white;
+  } @else {
+    @return $global-color-text-black;
+  }
+}
+
+//  This lookup table is needed since there is no `pow` in SASS.
+$linear-channel-values: 0 .0003035269835488375 .000607053967097675 .0009105809506465125 .00121410793419535 .0015176349177441874 .001821161901293025 .0021246888848418626 .0024282158683907 .0027317428519395373 .003035269835488375 .003346535763899161 .003676507324047436 .004024717018496307 .004391442037410293 .004776953480693729 .005181516702338386 .005605391624202723 .006048833022857054 .006512090792594475 .006995410187265387 .007499032043226175 .008023192985384994 .008568125618069307 .009134058702220787 .00972121732023785 .010329823029626936 .010960094006488246 .011612245179743885 .012286488356915872 .012983032342173012 .013702083047289686 .014443843596092545 .01520851442291271 .01599629336550963 .016807375752887384 .017641954488384078 .018500220128379697 .019382360956935723 .0202885630566524 .021219010376003555 .022173884793387385 .02315336617811041 .024157632448504756 .02518685962736163 .026241221894849898 .027320891639074894 .028426039504420793 .0295568344378088 .030713443732993635 .03189603307301153 .033104766570885055 .03433980680868217 .03560131487502034 .03688945040110004 .0382043715953465 .03954623527673284 .04091519690685319 .042311410620809675 .043735029256973465 .04518620438567554 .046665086336880095 .04817182422688942 .04970656598412723 .05126945837404324 .052860647023180246 .05448027644244237 .05612849004960009 .05780543019106723 .0595112381629812 .06124605423161761 .06301001765316767 .06480326669290577 .06662593864377289 .06847816984440017 .07036009569659588 .07227185068231748 .07421356838014963 .07618538148130785 .07818742180518633 .08021982031446832 .0822827071298148 .08437621154414882 .08650046203654976 .08865558628577294 .09084171118340768 .09305896284668745 .0953074666309647 .09758734714186246 .09989872824711389 .10224173308810132 .10461648409110419 .10702310297826761 .10946171077829933 .1119324278369056 .11443537382697373 .11697066775851084 .11953842798834562 .12213877222960187 .12477181756095049 .12743768043564743 .1301364766903643 .13286832155381798 .13563332965520566 .13843161503245183 .14126329114027164 .14412847085805777 .14702726649759498 .14995978981060856 .15292615199615017 .1559264637078274 .1589608350608804 .162029375639111 .1651321945016676 .16826940018969075 .1714411007328226 .17464740365558504 .17788841598362912 .18116424424986022 .184474994500441 .18782077230067787 .19120168274079138 .1946178304415758 .19806931955994886 .20155625379439707 .20507873639031693 .20863687014525575 .21223075741405523 .21586050011389926 .2195261997292692 .2232279573168085 .22696587351009836 .23074004852434915 .23455058216100522 .238397573812271 .24228112246555486 .24620132670783548 .25015828472995344 .25415209433082675 .2581828529215958 .26225065752969623 .26635560480286247 .2704977910130658 .27467731206038465 .2788942634768104 .2831487404299921 .2874408377269175 .29177064981753587 .2961382707983211 .3005437944157765 .3049873140698863 .30946892281750854 .31398871337571754 .31854677812509186 .32314320911295075 .3277780980565422 .33245153634617935 .33716361504833037 .3419144249086609 .3467040563550296 .35153259950043936 .3564001441459435 .3613067797835095 .3662525955988395 .3712376804741491 .3762621229909065 .38132601143253014 .386429433787049 .39157247774972326 .39675523072562685 .4019777798321958 .4072402119017367 .41254261348390375 .4178850708481375 .4232676699860717 .4286904966139066 .43415363617474895 .4396571738409188 .44520119451622786 .45078578283822346 .45641102318040466 .4620769996544071 .467783796112159 .47353149614800955 .4793201831008268 .4851499400560704 .4910208498478356 .4969329950608704 .5028864580325687 .5088813208549338 .5149176653765214 .5209955732043543 .5271151257058131 .5332764040105052 .5394794890121072 .5457244613701866 .5520114015120001 .5583403896342679 .5647115057049292 .5711248294648731 .5775804404296506 .5840784178911641 .5906188409193369 .5972017883637634 .6038273388553378 .6104955708078648 .6172065624196511 .6239603916750761 .6307571363461468 .6375968739940326 .6444796819705821 .6514056374198242 .6583748172794485 .665387298282272 .6724431569576875 .6795424696330938 .6866853124353135 .6938717612919899 .7011018919329731 .7083757798916868 .7156935005064807 .7230551289219693 .7304607400903537 .7379104087727308 .7454042095403874 .7529422167760779 .7605245046752924 .768151147247507 .7758222183174236 .7835377915261935 .7912979403326302 .799102738014409 .8069522576692516 .8148465722161012 .8227857543962835 .8307698767746546 .83879901174074 .846873231509858 .8549926081242338 .8631572134541023 .8713671191987972 .8796223968878317 .8879231178819663 .8962693533742664 .9046611743911496 .9130986517934192 .9215818562772946 .9301108583754237 .938685728457888 .9473065367331999 .9559733532492861 .9646862478944651 .9734452903984125 .9822505503331171 .9911020971138298 1;

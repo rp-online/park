@@ -1,0 +1,12 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Profil bearbeiten"
+  },
+  "text": "Um auf persönliche Daten zugreifen zu können, wird Ihr Passwort benötigt.",
+  "form": {
+    "action": "#void",
+    "method": "post"
+  },
+  "passwordResetURL": "#void"
+}

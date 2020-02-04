@@ -1,0 +1,126 @@
+<div class="park-image">
+  <style>
+    @supports (object-fit: contain) {
+      .park-image__sizer {
+        padding-top: 0 !important;
+      }
+      .park-image__image:not(.park-image__image--missing) {
+        background-image: none !important;
+      }
+    }
+  </style>
+{% if width is defined and width and height is defined and height %}
+  <svg width="{{ width }}" height="{{ height }}" style="padding-top: {{ ((height / width) * 100) }}%" class="park-image__sizer"></svg>
+{% endif %}
+{% if src is not defined or not src %}
+  <div class="park-image__image park-image__image--missing">
+    {% set logoMarkup %}{% spaceless %}{% include 'skins/' ~ config.client ~ '/logo-watermark.svg' %}{% endspaceless %}{% endset %}
+    {{ logoMarkup|raw }}
+  </div>
+{% else %}
+  {% set standardURL = '' %}
+  {% if fit is not defined and width is not defined and height is not defined %}
+    {% set fit = 'contain' %}
+  {% endif %}
+  {% if config.keys is defined and config.keys.imageEngine is defined and src is not iterable %}
+    {% set standardURL = 'https://' ~ config.keys.imageEngine ~ '.imgeng.in/' %}
+    {% if width is defined %}
+      {% set standardURL = standardURL ~ 'w_' ~ width ~ '/' %}
+    {% endif %}
+    {% set standardURL = standardURL ~ src %}
+  {% else %}
+    {% if src is iterable %}
+      {% set lastWidth = 0 %}
+      {% for srcWidth, srcUrl in src %}
+        {% set srcWidthInt = srcWidth|replace({'w': ''}) %}
+        {% if (srcWidthInt * 1) > lastWidth %}
+          {% set lastWidth = srcWidthInt %}
+          {% set standardURL = srcUrl %}
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      {% set standardURL = src %}
+    {% endif %}
+  {% endif %}
+  {% if (lazy is defined and not lazy) or (config.childOfNoscript is defined and config.childOfNoscript) %}
+    {% if width is not defined or not width or height is not defined or not height %}
+      {% set initialURI = standardURL|replace({' ': '%20'}) %}
+    {% else %}
+      {% set initialURI = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='" ~ width|default(400) ~ "' height='" ~ height|default(300) ~ "'%3E%3C/svg%3E" %}
+    {% endif %}
+    <img src="{{ initialURI }}"
+      {% if src is iterable %}
+        srcset="{% for srcWidth, srcUrl in src %}{{ srcUrl|replace({' ': '%20'}) }} {{ srcWidth }}{% if not loop.last %},{% endif %}{% endfor %}"
+        {% if sizes is defined and sizes is iterable %}
+          sizes="{% if sizes.mobile is defined %}(max-width: 48em) {{ sizes.mobile }}, {% endif %}{{ sizes.desktop }}"
+        {% endif %}
+      {% else %}
+        srcset="{{ standardURL|replace({' ': '%20'}) }} 1x"
+      {% endif %}
+         alt="{{ alt }}"
+      {% if width is defined and width %}
+        width="{{ width }}"
+      {% endif %}
+      {% if height is defined and height %}
+        height="{{ height }}"
+      {% endif %}
+      {% if fit is defined and fit %}
+        style="background-image: url(&quot;{{ standardURL }}&quot;); background-size: {{ fit }}; object-fit: {{ fit }}"
+      {% else %}
+        style="background-image: url({{ standardURL }});"
+      {% endif %}
+      {% if itemprop is defined and itemprop %}
+        itemprop="{{ itemprop }}"
+      {% endif %}
+         async="on"
+         decoding="async"
+         class="park-image__image">
+  {% else %}
+    <div class="park-image__image park-image__image--lazy">
+    <!--[IF !IE]> --><noscript><!-- <![ENDIF]-->
+        {% if width is not defined or not width or height is not defined or not height %}
+        {% set initialURI = standardURL|replace({' ': '%20'}) %}
+      {% else %}
+        {% set initialURI = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='" ~ width|default(400) ~ "' height='" ~ height|default(300) ~ "'%3E%3C/svg%3E" %}
+      {% endif %}
+      <img src="{{ initialURI }}"
+        {% if src is iterable %}
+          srcset="{% for srcWidth, srcUrl in src %}{{ srcUrl|replace({' ': '%20'}) }} {{ srcWidth }}{% if not loop.last %},{% endif %}{% endfor %}"
+          {% if sizes is defined and sizes is iterable %}
+            sizes="{% if sizes.mobile is defined %}(max-width: 48em) {{ sizes.mobile }}, {% endif %}{{ sizes.desktop }}"
+          {% endif %}
+        {% else %}
+          srcset="{{ standardURL|replace({' ': '%20'}) }} 1x"
+        {% endif %}
+           alt="{{ alt }}"
+        {% if width is defined and width %}
+          width="{{ width }}"
+        {% endif %}
+        {% if height is defined and height %}
+          height="{{ height }}"
+        {% endif %}
+        {% if fit is defined and fit %}
+          style="background-image: url(&quot;{{ standardURL }}&quot;); background-size: {{ fit }}; object-fit: {{ fit }}"
+        {% else %}
+          style="background-image: url({{ standardURL }});"
+        {% endif %}
+        {% if itemprop is defined and itemprop %}
+          itemprop="{{ itemprop }}"
+        {% endif %}
+           async="on"
+           decoding="async"
+           class="park-image__fallback">
+      <!--[IF !IE]> --></noscript><!-- <![ENDIF]-->
+  </div>
+  <!--[IF !IE]> -->
+  <script>
+    (function() {
+      var elem = window.park.$('div.park-image__image--lazy').pop();
+
+      window.park.lazyLoad(elem);
+    })();
+  </script>
+  <!-- <![ENDIF]-->
+  {% endif %}
+{% endif %}
+</div>

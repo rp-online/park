@@ -1,0 +1,103 @@
+{
+  "type": "author",
+  "isAd": true,
+  "id": "H2347",
+  "src": "./assets/images/card-author.png",
+  "name": "Dorothee Krings",
+  "position": "Gesellschaft",
+  "href": "#void",
+  "count": 48,
+  "description": "Sie wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Ihren Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat sie in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist sie über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo sie von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\n\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+  "items": [
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "USA nach der Wahl"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+      },
+      "href": "#void",
+      "target": "_blank",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Fortuna-Boss Schäfer im Interview"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Bei Akpoguma werden wir kreativ sein\""
+      },
+      "href": "https://google.com",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Zugunglück von Bad Aibling"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "alt": "Schmusekatze"
+    }
+  ]
+}

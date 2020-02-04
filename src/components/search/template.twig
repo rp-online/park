@@ -1,0 +1,197 @@
+{% if form.searchterm is defined and form.searchterm %}
+  {% set breadcrumb = {
+    'headline': {
+      'tag': 'h1',
+      'text': 'Suchergebnisse für "' ~ form.searchterm|escape ~ '"'
+    },
+    'navigation': [
+      {
+        'text': 'Suche',
+        'href': form.action
+      }
+    ],
+    'config': config
+  }
+  %}
+{% else %}
+  {% set breadcrumb = {
+    'headline': {
+      'tag': 'h1',
+      'text': 'Suche'
+    },
+    'config': config
+  }
+  %}
+{% endif %}
+<section class="park-search">
+  {% include 'components/section-breadcrumb/template.twig' with breadcrumb only %}
+  <div class="park-search__form">
+  {% set monthsInputs = [] %}
+  {% if form is defined and form.monthsOptions is defined and form.monthsOptions is iterable %}
+    {% for option in form.monthsOptions %}
+      {% set data = {
+        'type': 'checkbox',
+        'name': 'months[]',
+        'value': option.value,
+        'label': option.label ~ ' (' ~ option.count ~ ')'
+      } %}
+      {% if form is defined and form.monthsValue is defined and form.monthsValue is iterable %}
+        {% if option.value in form.monthsValue %}
+          {% set data = data|merge({ 'checked': true }) %}
+        {% endif %}
+      {% endif %}
+      {% set monthsInputs = monthsInputs|merge([{
+        'component': 'input',
+        'data': data
+      }]) %}
+    {% endfor %}
+  {% endif %}
+
+  {% set ressortsInputs = [] %}
+  {% if form is defined and form.ressortsOptions is defined and form.ressortsOptions is iterable %}
+    {% for option in form.ressortsOptions %}
+      {% set data = {
+        'type': 'checkbox',
+        'name': 'ressorts[]',
+        'value': option.value,
+        'label': option.label ~ ' (' ~ option.count ~ ')'
+      } %}
+      {% if form is defined and form.ressortsValue is defined and form.ressortsValue is iterable %}
+        {% if option.value in form.ressortsValue %}
+          {% set data = data|merge({ 'checked': true }) %}
+        {% endif %}
+      {% endif %}
+      {% set ressortsInputs = ressortsInputs|merge([{
+        'component': 'input',
+        'data': data
+      }]) %}
+    {% endfor %}
+  {% endif %}
+
+  {% set typeInputs = [] %}
+  {% if form is defined and form.typeOptions is defined and form.typeOptions is iterable %}
+    {% for option in form.typeOptions %}
+      {% set data = {
+        'value': option.value,
+        'label': option.label ~ ' (' ~ option.count ~ ')'
+      } %}
+      {% set typeInputs = typeInputs|merge([data]) %}
+    {% endfor %}
+  {% endif %}
+
+  {% include 'components/form/template.twig' with {
+  'vertical': true,
+  'action': form.action,
+  'method': 'get',
+  'submit': 'suchen',
+  'children': [
+    {
+      'component': 'searchform',
+      'data': {
+        'form': false,
+        'name': 'q',
+        'value': form.searchterm,
+        'label': 'Suche',
+        'labelHidden': true,
+        'placeholder': 'Suchbegriff'
+      }
+    },
+    {
+      'component': 'form-fieldset',
+      'data': {
+        'label': 'Sortierung',
+        'children': [
+          {
+            'component': 'radio-group',
+            'data': {
+              'name': 'sort',
+              'value': form.sortValue,
+              'label': 'Sortierung',
+              'labelHidden': true,
+              'options': form.sortOptions
+            }
+          }
+        ]
+      }
+    },
+    {
+      'component': 'form-fieldset',
+      'data': {
+        'label': 'Zeitraum',
+        'children': monthsInputs
+      }
+    },
+    {
+      'component': 'form-fieldset',
+      'data': {
+        'label': 'ressorts',
+        'children': ressortsInputs
+      }
+    },
+    {
+      'component': 'tab-links',
+      'data': {
+        'name': 'type',
+        'value': form.typeValue,
+        'options': typeInputs
+      }
+    }
+  ],
+  'config': config
+  } only %}
+  </div>
+  {% if searchTipp is defined %}
+    {% set searchTipp = searchTipp|merge({ 'config': config }) %}
+    {% include 'components/search-tipp/template.twig' with searchTipp only %}
+  {% endif %}
+  {% if items is defined and items is iterable and items|length > 0 %}
+    {% if form.searchterm is defined and form.typeValue is same as ('article') and (config.disableAds is not defined or config.disableAds is same as(false)) %}
+      {% set blocks = [] %}
+      {% set block = [] %}
+      {% for item in items %}
+        {% if loop.last or block|length is same as(2) %}
+          {% set block = block|merge([item]) %}
+          {% set blocks = blocks|merge([block]) %}
+          {% set block = [] %}
+        {% else %}
+          {% set block = block|merge([item]) %}
+        {% endif %}
+      {% endfor %}
+      {% for block in blocks %}
+        {% if not loop.first %}
+          {% include 'components/search-adsense/template.twig' with {
+          'query': form.searchterm,
+          'page': page,
+          'config': config
+          } only %}
+        {% endif %}
+        {% include 'components/teaser-shapeshifter/template.twig' with {
+        'items': block,
+        'config': config
+        } only %}
+      {% endfor %}
+    {% else %}
+      {% include 'components/teaser-shapeshifter/template.twig' with {
+        'items': items,
+        'config': config
+      } only %}
+    {% endif %}
+    {% if disableMoreButton is not defined or disableMoreButton is same as(false) %}
+      <div class="park-search__more-results-button">
+        {% include 'components/button/template.twig' with {
+        'config': config,
+        'type': 'button',
+        'text': 'Weitere Ergebnisse laden',
+        'loader': true
+        } only %}
+      </div>
+    {% endif %}
+  {% else %}
+    {% include 'components/notification/template.twig' with {
+    'headline': 'Keine Suchergebnisse',
+    'body': 'Wir konnten zum Suchbegriff &quot;' ~ form.searchterm|escape ~ '&quot; leider nichts finden.',
+    'type': 'error',
+    'config': config
+    } only %}
+  {% endif %}
+</section>

@@ -1,0 +1,1 @@
+Diese Komponente stellt eine Art Vorschlagsliste für Videos dar. Jeder Eintrag wird über eine [Video-List-Item](#video-list-item)-Komponente repräsentiert.

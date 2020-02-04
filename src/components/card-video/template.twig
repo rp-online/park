@@ -1,0 +1,63 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set classes = [
+    'park-card-video'
+  ] %}
+  {% set text = '' %}
+  {% if kicker is defined and kicker.text is defined and kicker.text %}
+    {% set text = text ~ kicker.text %}
+  {% endif %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+    {% set text = text ~ headline.text %}
+  {% endif %}
+  {% if text|length > 60 %}
+    {% set classes = classes|merge([
+      'park-card-video--cramped'
+    ]) %}
+  {% endif %}
+  {% set link = {
+    'href': href,
+    'target': target,
+    'rel': rel,
+    'classes': classes,
+    'config': config
+  } %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set link = link|merge({
+      'isAd': true,
+      'classes': link.classes|merge(['park-card-video--sugardaddy'])
+    }) %}
+  {% endif %}
+  {% set content %}
+    <figure role="group" class="park-card-video__figure">
+      <div class="park-card-video__wrapper">
+        {% include 'components/image/template.twig' with {
+          'src': src,
+          'alt': alt,
+          'width': 300,
+          'height': 169,
+          'sizes': { 'mobile': '300px', 'desktop': '300px' },
+          'config': config} %}
+      </div>
+      <figcaption class="park-card-video__caption">
+        {% if headline is defined %}
+          {% if config.display_video_kicker == 1 %}
+            <{{ headline.tag }} class="park-card-video__headline">
+            {% if kicker is defined and kicker.text is defined and kicker.text %}
+              <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+            {% endif %}
+            {% if headline is defined and headline.text is defined and headline.text %}
+              <span class="park-card-video__headline">{{ headline.text }}</span>
+            {% endif %}
+            </{{ headline.tag }}>
+          {% else %}
+            <{{ headline.tag }} class="park-card-video__headline">{{ headline.text }}</{{ headline.tag }}>
+          {% endif %}
+        {% endif %}
+      </figcaption>
+    </figure>
+  {% endset %}
+  {% set link = link|merge({
+    'text': content
+  }) %}
+  {% include 'components/link-helper/template.twig' with link only %}
+{% endif %}

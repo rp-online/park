@@ -1,0 +1,13 @@
+{
+  "text": "Popover-Demo",
+  "data": {
+    "popover": {
+      "position": "right-start",
+      "backgroundColor": "white",
+      "openEvents": "click",
+      "closeEvents": "",
+      "showCloseButton": true,
+      "component": "cta-login"
+    }
+  }
+}

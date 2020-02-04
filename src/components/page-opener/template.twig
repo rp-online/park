@@ -1,0 +1,48 @@
+<header class="park-page-opener">
+  {% if image is defined and image.src is defined and image.src %}
+    <figure role="group" class="park-page-opener__image">
+      {% include 'components/image/template.twig' with {
+        'src': image.src,
+        'width': 316,
+        'height': 316,
+        'fit': 'cover',
+        'sizes': { 'mobile': '100vw', 'desktop': '300px' },
+        'config': config
+      } only %}
+      <figcaption class="park-page-opener__image-caption">
+        {{ image.caption }}
+        {% if image.source is defined and image.source.text is not empty %}
+          {% if image.source.href is defined %}
+            {% set source = image.source|merge({
+              'classes': [
+                'park-figure__caption-source-link'
+              ],
+              'config': config
+            }) %}
+            <i
+              class="park-page-opener__image-source">(Foto: {% include 'components/link-helper/template.twig' with source only %}
+              )</i>
+          {% else %}
+            <i class="park-page-opener__image-source">(Foto: {{ image.source.text }})</i>
+          {% endif %}
+        {% endif %}
+      </figcaption>
+    </figure>
+  {% endif %}
+  {% if topicId is defined and topicId %}
+    {% include 'components/button-subscribe/template.twig' with {
+      'itemId': topicId,
+      'itemType': 'topic',
+      'name': headline.text,
+      'isCompact': true,
+      'config': config
+    } only %}
+  {% endif %}
+  <{{ headline.tag }} class="park-page-opener__headline">{{ headline.text }}</{{ headline.tag }}>
+{% if intro is defined %}
+  <p class="park-page-opener__intro">{{ intro }}</p>
+{% endif %}
+  {% include 'components/content/template.twig' with {
+    'text': text,
+    'config': config} only %}
+</header>

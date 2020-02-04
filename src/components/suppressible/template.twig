@@ -1,0 +1,18 @@
+{% set uuid = random() %}
+<aside id="park-suppressible-{{ uuid }}"
+       class="park-suppressible"
+       data-type="{{ type }}"
+        aria-hidden="true">
+  <button class="park-suppressible__close"
+          title="nicht mehr anzeigen"
+          aria-controls="park-suppressible-{{ uuid }}"
+          aria-expanded="false">{% include 'svg/cross-fat.svg' %} nicht mehr anzeigen</button>
+  <div class="park-suppressible__content">
+    {% if children is defined and children is iterable %}
+      {% for child in children %}
+        {% set data = child.data|merge({'config': config}) %}
+        {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</aside>

@@ -1,0 +1,34 @@
+{% if config.appMode is not defined or config.appMode is same as(false) %}
+  {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_rp-online/metaTag.min.js' %}
+{% else %}
+  {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_rp-online-app/metaTag.min.js' %}
+{% endif %}
+{% if config.ads is not defined or config.ads.provider is not defined %}
+  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+  <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+  <script src="{{ stroeerMetatagURL }}"
+          async
+          onload="window.park.stroeer.init()"></script>
+{% else %}
+  {% if config.ads.provider is same as('stroeer') or config.ads.provider is same as('oms') %}
+  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+  <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+  <script src="{{ stroeerMetatagURL }}"
+          async
+          onload="window.park.stroeer.init()"></script>
+  {% elseif config.ads.provider is same as('gpt') %}
+  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"
+          async
+          onload="window.park.googlePublisherTag.init()"></script>
+  {% else %}
+  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+  <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+  <script src="{{ stroeerMetatagURL }}"
+          async
+          onload="window.park.stroeer.init()"></script>
+  {% endif %}
+{% endif %}

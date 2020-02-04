@@ -1,0 +1,14 @@
+.park-teaser-image-list {
+  padding: $global-spacing/2 0;
+  background-color: currentColor;
+  color: $global-light-grey;
+  text-align: left;
+
+  > * {
+    color: #000;
+  }
+
+  &__list {
+    display: inline-block;
+  }
+}

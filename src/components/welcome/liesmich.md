@@ -1,0 +1,1 @@
+Diese Komponente stellt den Willkommensscreen nach dem Einloggen dar, und steckt in einem [Overlay](#overlay).

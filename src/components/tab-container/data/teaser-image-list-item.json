@@ -1,0 +1,123 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Weitere Artikel"
+  },
+  "type": "teaser-image-list-item",
+  "blocks": [
+    {
+      "title": "Meistgelesen",
+      "items": [
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "title": "Neuste Meldungen",
+      "items": [
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        }
+      ]
+    }
+  ]
+}

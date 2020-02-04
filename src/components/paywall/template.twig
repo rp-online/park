@@ -1,0 +1,6 @@
+{% if config.paywallType is not defined or not config.paywallType or config.paywallType is same as('interred') %}
+  <div id="paywall_stoerer"></div>
+{% endif %}
+{% if config.paywallType is not defined or not config.paywallType or config.paywallType is same as('celeraone') %}
+  <link rel="preload" href="{{ config.assetsBase }}/widgets/paywall-article.js?v={{ config.version }}" as="script">
+{% endif %}

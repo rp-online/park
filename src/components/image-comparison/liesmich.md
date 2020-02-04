@@ -1,0 +1,1 @@
+Diese Komponente erlaubt es, zwei Bilder zu vergleichen und übereinander zu legen.

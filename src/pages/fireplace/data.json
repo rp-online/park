@@ -1,0 +1,876 @@
+{
+  "title": "Fireplace",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "title": "Fireplace",
+    "url": "https://www-rpd.rp-online.de/digital/fireplace/",
+    "client": "rp-online"
+  },
+  "config": {
+    "metadata": {
+      "description": {
+        "name": "description",
+        "content": "Die neuesten Nachrichten, Bilder und Videos aus Politik, Wirtschaft, Sport, Kultur, Gesellschaft, Auto, Digitale Welt sowie Düsseldorf und ganz NRW."
+      },
+      "author": {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      "fbPageId": {
+        "name": "fb:page_id",
+        "content": "50327854366"
+      },
+      "fbpages": {
+        "property": "fb:pages",
+        "content": "50327854366"
+      }
+    },
+    "dataLayer": {
+      "ressort": "digital",
+      "subressort": "",
+      "dossier": "fireplace",
+      "contentType": "Index",
+      "analyticsUrl": "http://www-rpd.rp-online.de/digital/fireplace/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "/digital/fireplace/"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": false,
+    "cre": {
+      "trackingApiUrl": "https://www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "offerApiUrl": "https://www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "https://www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "https://www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 6848639,
+      "doctype": "section",
+      "contentid": "/digital/fireplace/",
+      "channel": 50971,
+      "subchannel": 51123
+    },
+    "links": {
+      "alternate": {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/digital/fireplace/"
+      },
+      "canonical": {
+        "rel": "canonical",
+        "href": "http://www-rpd.rp-online.de/digital/fireplace/"
+      },
+      "rss": {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/digital/fireplace/?output=rss"
+      }
+    },
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "http://www-rpd.rp-online.de/digital/fireplace/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Thema-Nachrichten",
+        "sv": "mo",
+        "co": "http://www-rpd.rp-online.de/digital/fireplace/"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": {
+          "skyscraper": {
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ]
+            ],
+            "collapse": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          "billboard": {
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                940,
+                200
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ]
+            ],
+            "collapse": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        },
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "digital",
+          "pfad2": "fireplace",
+          "pfad3": "stop",
+          "oms": "homepage",
+          "mode": "desktop",
+          "layout": "park"
+        }
+      },
+      "mobile": {
+        "slots": {
+          "ist": {
+            "adUnitPath": "/8635/mew.oms.rp-online.de/digitales",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          "position1": {
+            "adUnitPath": "/8635/mew.oms.rp-online.de/digitales/position1",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": "position1"
+            },
+            "type": "standard"
+          },
+          "pos2": {
+            "adUnitPath": "/8635/mew.oms.rp-online.de/digitales",
+            "size": [
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ]
+            ],
+            "collapse": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          }
+        },
+        "targeting": {
+          "btid": "264",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "digital",
+          "pfad2": "fireplace",
+          "pfad3": "stop",
+          "oms": "digitales",
+          "mode": "mobile",
+          "layout": "park"
+        }
+      },
+      "reloadFrequency": "5"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/digital/fireplace/weisses-haus-laesst-182-jahre-alten-baum-stutzen_aid-6848658"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "outofpage": {
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"><script>googletag.cmd.push(function() { googletag.display('ist'); });</script></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "h1",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Reisen",
+        "href": "/reisen/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Digital",
+        "href": "/digital/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "label": "Anmelden",
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "navigation": {
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "RP ePaper",
+              "href": "http://#void"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "http://#void"
+            },
+            {
+              "text": "RP Trauer",
+              "href": "http://#void"
+            },
+            {
+              "text": "Rp Forum",
+              "href": "http://#void"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "Städte",
+          "href": "#void",
+          "children": [
+            {
+              "icon": "/assets/images/sprite.cities.svg#duesseldorf",
+              "text": "Düsseldorf",
+              "href": "duesseldorf"
+            },
+            {
+              "icon": "/assets/images/sprite.cities.svg#neuss",
+              "text": "",
+              "href": "neuss"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": true
+        },
+        {
+          "isCurrent": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "text": "Düsseldorf",
+                  "href": "/nrw/staedte/duesseldorf/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "text": "Duisburg",
+                  "href": "/nrw/staedte/duisburg/",
+                  "target": "_self"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "text": "Fußball",
+              "href": "/sport/fussball/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "text": "Vereine",
+                  "href": "/sport/fussball/vereine/",
+                  "target": "_self",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "text": "Borussia",
+                      "href": "/sport/fussball/vereine/borussia/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "text": "Fortuna",
+                      "href": "/sport/fussball/vereine/fortuna/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "text": "Borussia Dortmund",
+                      "href": "/sport/fussball/vereine/borussia-dortmund/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "text": "Werder Bremen",
+                      "href": "/sport/fussball/vereine/werder-bremen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "text": "Bayern München",
+                      "href": "/sport/fussball/vereine/bayern-muenchen/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "text": "Hamburger SV",
+                      "href": "/sport/fussball/vereine/hamburger-sv/",
+                      "target": "_self"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt zur Redaktion",
+              "href": "http://#void"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "http://#void"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "http://#void"
+            },
+            {
+              "text": "Podcast abonnieren",
+              "href": "http://#void"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "http://#void"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "http://#void"
+            },
+            {
+              "text": "Spiele",
+              "href": "http://#void"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "http://#void"
+            }
+          ]
+        }
+      ]
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erklären Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "http://www.rp-online.de/info/datenschutz/",
+            "text": "Mehr Informationen"
+          }
+        }
+      }
+    ],
+    "breaking": null
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Fireplace"
+                    },
+                    "navigation": []
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "id": 6848658,
+                    "href": "/digital/fireplace/weisses-haus-laesst-182-jahre-alten-baum-stutzen_aid-6848658",
+                    "type": "article",
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Weißes Haus lässt 182 Jahre alten Baum stutzen\n"
+                    },
+                    "intro": "Weil er zur Gefahr für Journalisten und Besucher werden könne, ist eine 182 Jahre alte Magnolie vor dem Weißen Haus einen Kopf kürzer gemacht worden. US-Präsident Andrew Jackson hatte den Baum im Jahr 1835 gepflanzt. ",
+                    "authors": "von Kristina Dunst",
+                    "src": "/imgs/32/7/7/3/7/4/9/2/tok_9073faabb50760ed6ccb9038026e8a6e/w490_h368_x1452_y1136_DPA_bfunk_dpa_1496DE00ABAC51CC-a1d8a939fc0a1576.jpg",
+                    "alt": "Grauhörnchen",
+                    "orig_src": "/imgs/32/7/7/3/7/4/9/2/DPA_bfunk_dpa_1496DE00ABAC51CC-a1d8a939fc0a1576.jpg",
+                    "source": "West Palm Beach",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Fireplace-Artikel\n"
+                    },
+                    "backgroundColor": "rgba(40, 41, 31,1)"
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "id": 6848665,
+                        "href": "/digital/fireplace/tiere_bid-6848665",
+                        "type": "image",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Tiere\n"
+                        },
+                        "intro": "Eine Bilderstrecke mit ein paar Tieren. Sie kann natürlich gerne erweitert werden, aber ich hab keine Fotos mehr gefunden. ",
+                        "authors": "von Kristina Dunst",
+                        "src": "/imgs/32/7/7/3/7/4/9/9/tok_f0c294e978a46d092884bb9ae7150079/w490_h368_x1452_y1136_DPA_bfunk_dpa_1496AE00CE9B67FB-da1ff4eb0393cdf5.jpg",
+                        "alt": "",
+                        "orig_src": "/imgs/32/7/7/3/7/4/9/9/DPA_bfunk_dpa_1496AE00CE9B67FB-da1ff4eb0393cdf5.jpg",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fireplace-Bilderstrecke\n"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"pos2\"><script>googletag.cmd.push(function() { googletag.display(\"pos2\"); })</script></div>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "http://#void"
+        },
+        {
+          "text": "Kontakt",
+          "href": "http://#void"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "http://#void"
+        },
+        {
+          "text": "AGB",
+          "href": "http://#void"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "#void",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "#void"
+        },
+        {
+          "text": "Handy Tarife",
+          "href": "#void"
+        },
+        {
+          "text": "Stromrechner",
+          "href": "#void"
+        },
+        {
+          "text": "Gasrechner",
+          "href": "#void"
+        },
+        {
+          "text": "Mercedes Benz",
+          "href": "#void"
+        },
+        {
+          "text": "Pausenspiel",
+          "href": ""
+        },
+        {
+          "text": "RP Apps",
+          "href": "#void"
+        },
+        {
+          "text": "Newsletter",
+          "href": "#void"
+        },
+        {
+          "text": "RSS Feed",
+          "href": "#void"
+        },
+        {
+          "text": "Themen",
+          "href": "#void"
+        },
+        {
+          "text": "Sitemap",
+          "href": "#void"
+        },
+        {
+          "text": "Archiv",
+          "href": "#void"
+        },
+        {
+          "text": "Sistrix",
+          "href": "http://www.sistrix.de/"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "logo": {
+        "src": "rp-logo",
+        "href": "#void",
+        "alt": "RP Online"
+      },
+      "links": [
+        {
+          "text": "Pressemitteilung",
+          "href": "http://#void"
+        },
+        {
+          "text": "Karriere",
+          "href": "http://#void"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "##void"
+        }
+      ]
+    },
+    "endnote": "© RP Digital | Alle Rechte vorbehalten."
+  }
+}

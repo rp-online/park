@@ -1,0 +1,5 @@
+{
+  "icon": "./assets/images/sprite.navigation.svg#video",
+  "text": "aktuelles Video",
+  "href": "./video.html"
+}

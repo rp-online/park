@@ -1,0 +1,8 @@
+<link rel="preload" href="{{ config.assetsBase }}/widgets/twig-worker.js?v={{ config.version }}" as="worker">
+<link rel="preload" href="{{ config.assetsBase }}/widgets/{{ type }}.js?v={{ config.version }}" as="script">
+<span class="park-widget park-widget--{{ type }}" data-type="{{ type }}"
+  {% if component is defined %} data-component="{{ component }}"{% endif %}
+  {% if initialState is defined %} data-initial-state="{{ initialState|json_encode|escape('html_attr') }}"{% endif %}>{% if component is defined and initialState is defined %}
+    {% set initialState = initialState|merge({ 'config': config }) %}
+    {% include 'components/' ~ component ~ '/template.twig' with initialState only %}
+  {% endif %}</span>

@@ -1,0 +1,7 @@
+.park-embed-playbuzz {
+  @extend %embed;
+
+  > * {
+    margin: 0 auto;
+  }
+}

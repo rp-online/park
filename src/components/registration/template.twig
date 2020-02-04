@@ -1,0 +1,311 @@
+<section class="park-registration{% if compactMode is defined and compactMode is same as(true) %} park-registration--is-compact{% endif %}">
+  <div class="park-registration__form">
+    {% include 'components/form-headline/template.twig' with {
+      'tag': 'h1',
+      'text': 'Registrieren'
+    } only %}
+
+    <aside class="park-registration__aside">
+      <span class="park-registration__aside-inner">Bereits registriert? <a href="{{ loginURL }}">Hier anmelden</a>.</span>
+    </aside>
+
+    {% set checkboxes = [] %}
+
+    {% if termsLabel is defined and termsLabel is not empty and termsLabel %}
+      {% set checkboxes = checkboxes|merge([
+        {
+          'component': 'input',
+          'data': {
+          'type': 'checkbox',
+          'name': 'accepted_agbs',
+          'value': 'yes',
+          'checked': accepted_agbs is defined and accepted_agbs is not empty,
+          'label': termsLabel,
+          'required': true,
+          'validationMessage': accepted_agbs_message
+        }
+        }
+      ]) %}
+    {% endif %}
+
+    {% if advantagesLabel is defined and advantagesLabel is not empty and advantagesLabel %}
+      {% set checkboxes = checkboxes|merge([
+        {
+          'component': 'input',
+          'data': {
+            'type': 'checkbox',
+            'name': 'optin',
+            'value': 'yes',
+            'checked': optin is defined and optin is not empty,
+            'label': advantagesLabel
+          }
+        }
+      ]) %}
+    {% endif %}
+
+    {% if optin is defined and optin is not empty %}
+      {% if trackingLabel is defined and trackingLabel is not empty and trackingLabel %}
+        {% set checkboxes = checkboxes|merge([
+          {
+            'component': 'input',
+            'data': {
+              'type': 'checkbox',
+              'name': 'optin_tracking',
+              'value': 'yes',
+              'checked': optin_tracking is defined and optin_tracking is not empty,
+              'label': trackingLabel
+            }
+          }
+        ]) %}
+      {% endif %}
+    {% endif %}
+
+    {% set children = [
+      {
+          'component': 'input',
+          'data': {
+              'type': 'hidden',
+              'name': 'oauth_id',
+              'value': oauth_id,
+              'labelHidden': true
+          }
+      },
+      {
+          'component': 'input',
+          'data': {
+              'type': 'email',
+              'name': 'email',
+              'autocomplete': 'email',
+              'value': email,
+              'label': 'E-Mail-Adresse',
+              'required': true,
+              'validationMessage': email_message
+          }
+      },
+      {
+          'component': 'input',
+          'data': {
+              'name': 'username',
+              'value': username,
+              'autocomplete': 'nickname',
+              'label': 'Benutzername',
+              'required': true,
+              'hint': 'Dieser Name ist öffentlich einsehbar, wenn Sie Artikel kommentieren.',
+              'validationMessage': username_message
+          }
+      },
+      {
+          'component': 'input',
+          'data': {
+              'type': 'password',
+              'name': 'password',
+              'autocomplete': 'new-password',
+              'value': password,
+              'label': 'Passwort',
+              'required': true,
+              'pattern': '.{5,}',
+              'title': 'Mindestens 5 Zeichen',
+              'hint': 'Das Passwort muss mindestens 5 Zeichen enthalten'
+          }
+      }
+  ] %}
+
+    {% if hideOptionalSection is not defined or not hideOptionalSection %}
+      {% set children = children|merge([
+          {
+              'component': 'form-fieldset',
+              'data': {
+                  'expandable': true,
+                  'label': 'optionale Angaben',
+                  'children': [
+                      {
+                          'component': 'radio-group',
+                          'data': {
+                              'name': 'salutation',
+                              'autocomplete': 'honorific-prefix',
+                              'value': salutation,
+                              'label': 'Anrede',
+                              'options': [
+                                  {
+                                      'label': 'Frau',
+                                      'value': 'Mrs.'
+                                  },
+                                  {
+                                      'label': 'Herr',
+                                      'value': 'Mr.'
+                                  }
+                              ]
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'firstname',
+                              'autocomplete': 'given-name',
+                              'value': firstname,
+                              'label': 'Vorname'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'familyname',
+                              'autocomplete': 'family-name',
+                              'value': familyname,
+                              'label': 'Nachname'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'street',
+                              'autocomplete': 'address-line1',
+                              'value': street,
+                              'label': 'Straße und Hausnummer'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'addresssuffix',
+                              'autocomplete': 'address-line2',
+                              'value': addresssuffix,
+                              'label': 'Adresszusatz'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'postalcode',
+                              'autocomplete': 'postal-code',
+                              'value': postalcode,
+                              'inputmode': 'numeric',
+                              'label': 'PLZ'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'name': 'city',
+                              'autocomplete': 'locality',
+                              'value': city,
+                              'label': 'Ort'
+                          }
+                      },
+                      {
+                          'component': 'input',
+                          'data': {
+                              'type': 'tel',
+                              'name': 'phone',
+                              'autocomplete': 'tel',
+                              'value': phone,
+                              'label': 'Handynummer'
+                          }
+                      }
+                  ]
+              }
+          }
+      ]) %}
+    {% endif %}
+
+    {% if legalNote is defined and legalNote is not empty and legalNote %}
+      {% set children = children|merge([
+        {
+          'component': 'html',
+          'data': {
+            'html': '<aside class="park-registration__aside"><span class="park-registration__aside-inner">' ~ legalNote ~ '</span></aside>'
+          }
+        }
+      ]) %}
+    {% endif %}
+
+    {% if recaptchaSitekey is defined and recaptchaSitekey is not empty  %}
+      {% set children = children|merge([
+        {
+            'component': 'recaptcha',
+              'data': {
+                'name': 'captcha-response',
+                'sitekey': recaptchaSitekey,
+                'type': 'invisible'
+              }
+        }
+      ]) %}
+    {% endif %}
+
+    {% set form = {
+      'notification': notification,
+      'vertical': true,
+      'action': action,
+      'method': 'post',
+      'submit': 'kostenlos registrieren',
+      'children': [
+          {
+              'component': 'form-fieldset',
+              'data': {
+                  'children': children
+              }
+          },
+          {
+              'component': 'form-fieldset',
+              'data': {
+                  'children': checkboxes
+              }
+          }
+      ],
+      'config': config
+    } %}
+    {% set footerChildren = [] %}
+
+    {% if config.appMode is not defined or not config.appMode %}
+
+        {% if compactMode is not defined or compactMode is same as(false) or not compactMode %}
+          {% set footerChildren = footerChildren|merge([
+            {
+              'component': 'html',
+              'data': {
+                'html': '<aside class="park-registration__aside"><span class="park-registration__aside-inner">* Pflichtfeld</span></aside>'
+              }
+            }
+          ]) %}
+        {% endif %}
+
+    {% endif %}
+
+
+    {% if (googleLoginURL is defined and googleLoginURL is not same as(false)) %}
+      {% set footerChildren = footerChildren|merge([
+          {
+            'component': 'spacer',
+            'data': {
+              'label': 'Alternativen'
+            }
+          },
+          {
+            'component': 'button',
+            'data': {
+              'config': config,
+              'class': 'google',
+              'style': 'google',
+              'href': googleLoginURL,
+              'text': 'mit Google anmelden'
+            }
+          }
+        ]) %}
+    {% endif %}
+
+    {% set form = form|merge({
+      'footerChildren': footerChildren
+    })
+    %}
+    {% include 'components/form/template.twig' with form only %}
+
+  </div>
+  <aside class="park-registration__advantages">
+    <img src="{{ advantages.src }}" alt="" class="park-registration__advantages-image">
+    {% include 'components/markdown/template.twig' with {
+      'text': advantages.text,
+      'config': config} only %}
+  </aside>
+
+
+</section>

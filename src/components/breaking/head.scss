@@ -1,0 +1,73 @@
+.park-breaking {
+  position: relative;
+  margin-bottom: $global-spacing;
+  background-color: $global-color-breaking;
+  color: #fff;
+  border-top: 1px solid rgba(0, 0, 0, 0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+
+  &::before,
+  &::after {
+    position: absolute;
+    top: -1px;
+    bottom: -1px;
+    background-color: inherit;
+    border: inherit;
+  }
+
+  &::before {
+    right: 100%;
+
+    @include mq(desktop) {
+      width: $global-spacing;
+    }
+
+    @media screen and (min-width: #{em(1610px)}) {
+      width: calc((100vw - #{$global-container-width}) / 2);
+    }
+  }
+
+  &::after {
+    left: 100%;
+
+    @include mq(desktop) {
+      width: calc(100vw - #{$global-container-width} - #{$global-spacing});
+    }
+
+    @media screen and (min-width: #{em(1610px)}) {
+      width: calc((100vw - #{$global-container-width}) / 2);
+    }
+  }
+
+  &__link {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    padding: rem(10px) $global-spacing;
+    color: inherit;
+    text-align: center;
+    text-transform: uppercase;
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+    @include global-serif-font-size(2);
+
+    display: block;
+    margin: rem(5px) 0;
+  }
+
+  &__kicker {
+    @include global-sans-serif-font-size(2);
+  }
+
+  &__headline,
+  &__kicker {
+    text-transform: none;
+  }
+}

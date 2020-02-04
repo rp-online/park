@@ -1,0 +1,46 @@
+<div class="park-quick-nav {% if personalized is defined and personalized is same as(true) %} park-quick-nav--personalized{% else %} park-quick-nav--is-done{% endif %}">
+  {% set headline = headline|merge({ 'config': config }) %}
+  {% include 'components/section-headline/template.twig' with headline only %}
+  <div class="park-quick-nav__navs">
+  {% if cities is defined and cities is iterable %}
+    <ul class="park-quick-nav__cities">{% for item in cities %}<li class="park-quick-nav__item">
+        {% set item = item|merge({ 'config': config }) %}
+        {% include 'components/quick-nav-item/template.twig' with item only %}
+      </li>{% endfor %}</ul>
+  {% endif %}
+  {% if sportsclubs is defined and sportsclubs is iterable %}
+    <ul class="park-quick-nav__sportsclubs">{% for item in sportsclubs %}<li class="park-quick-nav__item">
+        {% set item = item|merge({ 'config': config }) %}
+        {% include 'components/quick-nav-item/template.twig' with item only %}
+      </li>{% endfor %}</ul>
+  {% endif %}
+  </div>
+  {% if personalized is defined and personalized is same as(true) %}
+    {% include 'components/button-settings/template.twig' with { 'config': config } only %}
+  {% endif %}
+  <template>
+    <li class="park-quick-nav__item">
+      {% include 'components/quick-nav-item/template.twig' with {
+        'icon': 'data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==',
+        'href': '#void',
+        'text': '',
+        'config': config
+      } only %}
+    </li>
+  </template>
+</div>
+<!--[IF !IE]> -->
+<script>
+  (function () {
+    var elem = window.park.$('.park-quick-nav').pop();
+
+    if (!elem.classList.contains('park-quick-nav--personalized')) {
+      return;
+    }
+
+    if (window.park && window.park.quickNav && window.park.quickNav.isLoggedIn !== undefined && !window.park.quickNav.isLoggedIn()) {
+      elem.classList.add('park-quick-nav--is-done');
+    }
+  })();
+</script>
+<!-- <![ENDIF]-->

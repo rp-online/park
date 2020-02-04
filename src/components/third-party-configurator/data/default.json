@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "name": "Facebook",
+      "description": "Über das Facebook-Plugin integriert RP ONLINE Inhalte seiner eigenen Facebook-Präsenzen oder die anderer Anbieter in das Internetangebot. Zu den Datenschutzhinweisen von Facebook: <a href=\"https://www.facebook.com/privacy/explanation\">https://www.facebook.com/privacy/explanation</a>"
+    },
+    {
+      "name": "Twitter",
+      "description": "Über das Tweet-Plugin integriert RP ONLINE Inhalte seiner eigenen Twitter-Präsenzen oder die anderer Anbieter in das Internetangebot. Zu den Datenschutzhinweisen von Twitter: <a href=\"https://twitter.com/de/privacy\">https://twitter.com/de/privacy</a>"
+    }
+  ]
+}

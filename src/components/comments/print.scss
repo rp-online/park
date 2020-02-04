@@ -1,0 +1,18 @@
+.park-comments {
+  &__commentscount,
+  .park-select {
+    display: none;
+  }
+
+  &__wrapper {
+    max-width: none;
+  }
+
+  &__comment {
+    page-break-inside: avoid;
+  }
+
+  &__comment-user {
+    color: #000;
+  }
+}

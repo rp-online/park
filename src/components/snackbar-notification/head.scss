@@ -1,0 +1,33 @@
+.park-snackbar-notification {
+  .park-snackbar {
+    @include global-sans-serif-font-size(3);
+
+    padding: 0 0 100vh;
+    background-color: #fff;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  .park-snackbar__wrapper {
+    display: block;
+    padding: 0;
+
+    @include mq(mobile) {
+      width: 100%;
+      max-width: none;
+    }
+
+    @include mq(desktop) {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      margin-bottom: 0;
+    }
+  }
+
+  .park-snackbar__close {
+    color: $global-color-text-black;
+  }
+}

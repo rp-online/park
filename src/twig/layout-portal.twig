@@ -1,0 +1,45 @@
+{% extends 'twig/base.twig' %}
+
+{% block page_content %}
+  {% if skyscraper is defined %}
+    {% set skyscraperRight = skyscraper %}
+  {% endif %}
+  {% if skyscraperLeft is defined %}
+    {% set skyscraperLeft = skyscraperLeft|merge({
+      'side': 'left',
+      'config': config
+    }) %}
+    {% include 'components/wallpaper-portal/template.twig' with skyscraperLeft only %}
+  {% endif %}
+  {% if skyscraperRight is defined %}
+    {% set skyscraperRight = skyscraperRight|merge({
+      'side': 'right',
+      'config': config
+    }) %}
+    {% include 'components/wallpaper-portal/template.twig' with skyscraperRight only %}
+  {% endif %}
+  {% if outofpage is defined %}
+    {% if outofpage is iterable and outofpage.type is not defined %}
+      {% for ad in outofpage %}
+        {% set ad = ad|merge({'config': config}) %}
+        {% include 'components/outofpage-portal/template.twig' with ad only %}
+      {% endfor %}
+    {% else %}
+      {% set outofpage = outofpage|merge({'config': config}) %}
+      {% include 'components/outofpage-portal/template.twig' with outofpage only %}
+    {% endif %}
+  {% endif %}
+  <main id="park-main" role="main" tabindex="-1">
+    {% block main %}
+      {% if children is defined %}
+        {% include 'twig/component.twig' with {
+        'config': config,
+        'children': children
+        } only %}
+      {% endif %}
+    {% endblock %}
+  </main>
+  {% include 'components/floating-bell/template.twig' with {
+    'config': config
+  } only %}
+{% endblock %}

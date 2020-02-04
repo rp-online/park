@@ -1,0 +1,10 @@
+/* stylelint-disable at-rule-empty-line-before */
+@import 'colors';
+@import 'dimensions';
+@import 'images';
+@import 'texts';
+@import 'typography';
+
+@import '../../scss/head';
+@import '../../components/**/head.scss';
+/* stylelint-enable */

@@ -1,0 +1,1 @@
+Die Section-Headline kommt ausnahmsweise nicht nur zu Beginn einer [Section](#section)-Komponente vor, sondern auch oberhalb von Unterbrechern/[Slidern](#slider) oder [Tab-Containern](#tab-container) vor. Also im Prinzip immer dann, wenn Abschnitte betitelt werden müssen.

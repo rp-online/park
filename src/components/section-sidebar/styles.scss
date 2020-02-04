@@ -1,0 +1,22 @@
+.park-section-sidebar {
+  display: block;
+
+  @include mq(desktop) {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &--reversed {
+    @include mq(desktop) {
+      flex-direction: row-reverse;
+    }
+  }
+
+  &__sidebar {
+    min-width: rem(350px);
+
+    @include mq(desktop) {
+      margin-left: -$global-spacing;
+    }
+  }
+}

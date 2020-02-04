@@ -1,0 +1,12 @@
+{
+  "action": "#void",
+  "passwordResetURL": "#void",
+  "loginURL": "#void",
+  "termsLabel": "Ich habe die <a href=\"/info/agb\">Teilnahmebedingungen</a> und die <a href=\"/info/datenschutz\">Datenschutzerklärung</a> gelesen und bin damit einverstanden.",
+  "advantagesLabel": "Ich bin einverstanden, dass die Rheinische Post Verlagsgesellschaft mbH und RP Digital GmbH meine zuvor angegebenen Daten verarbeiten, um mich über Angebote für die Bereiche Print- und Onlineabonnements, Anzeigen, RP Shop, Gewinnspiele und Veranstaltungen per Telefon, E-Mail oder SMS zu informieren. Meine Einwilligung kann ich jederzeit mit Wirkung für die Zukunft formlos widerrufen – per E-Mail: <a href=\"mailto:le%73er%73ervice@rheinis%63he-post%2Ed%65\">leserservice@rheinische-post.de</a> oder per Post an den Verlag.",
+  "trackingLabel": "Ich willige ein, dass die Rheinische Post Verlagsgesellschaft mbH und RP Digital GmbH mein Lese- und Nutzungsverhalten in Bezug auf die Inhalte von erhaltenen Emails mit Angeboten für die o.g. Bereiche analysieren und die Analyseergebnisse mit meinen zuvor angegebenen personenbezogenen Daten zusammenführen, um mir zukünftig Angebote für die o.g. Bereiche zuzusenden, die meinen Interessen entsprechen. Meine Einwilligung kann ich jederzeit mit Wirkung für die Zukunft formlos widerrufen - per Email an: <a href=\"mailto:le%73er%73ervice@rheinis%63he-post%2Ed%65\">leserservice@rheinische-post.de</a> oder per Post an den Verlag.",
+  "advantages": {
+    "src": "./assets/images/rp-online/registrieren-grafik.jpg",
+    "text": "Genießen Sie alle Vorteile Ihres persönlichen RP ONLINE Profils.\r\n\r\n* Insgesamt 20 Artikel/Monat lesen\r\n* Teilnehmen an Diskussionen\r\n* Personalisiertes Profil\r\n* Eigene Ressorts\r\n* Personalisiertes Wetter\r\n* Personalisierte Stauinfos"
+  }
+}

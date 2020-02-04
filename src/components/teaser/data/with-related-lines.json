@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "type": "article",
+  "href": "#void",
+  "headline": {
+    "tag": "h2",
+    "text": "Endlich wieder der alte FC Bayern"
+  },
+  "src": "./assets/images/261x196.jpg",
+  "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+  "kicker": {
+    "tag": "span",
+    "text": "Lage der Liga"
+  },
+  "label": "Meinung",
+  "dateline": "München",
+  "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+  "authors": "von Kristina Dunst",
+  "related": [
+    {
+      "type": "article",
+      "href": "#void",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "#void",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

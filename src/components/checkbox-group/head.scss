@@ -1,0 +1,36 @@
+.park-checkbox-group {
+  @extend %input-groups;
+
+  &__legend {
+    @extend %labels;
+  }
+
+  &__legend {
+    @extend %labels--hidden;
+  }
+
+  &__wrapper {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 1;
+    grid-column: 2 / 3;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .park-input {
+    width: auto;
+    margin-right: $global-spacing;
+    padding-right: rem(7px);
+    padding-bottom: 0;
+
+    @include mq(desktop) {
+      width: auto;
+    }
+  }
+
+  .park-input--tag {
+    margin-right: rem(2px);
+    padding-right: 0;
+  }
+}

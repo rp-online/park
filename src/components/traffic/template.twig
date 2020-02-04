@@ -1,0 +1,81 @@
+<div
+  class="park-traffic{% if personalized is defined and personalized is same as(true) %} park-traffic--personalized{% else %} park-traffic--is-interactive{% endif %}">
+  {% if personalized is defined and personalized is same as(true) %}
+    {% include 'components/button-settings/template.twig' with { 'config': config } only %}
+  {% endif %}
+  {% if initialState is defined %}
+    {% set initialState = initialState|merge({
+      'ajax': ajax,
+      'config': config
+    }) %}
+  {% else %}
+    {% set initialState = {
+      'items': [],
+      'ajax': ajax,
+      'config': config
+    } %}
+  {% endif %}
+  {% if initialState.items is not defined or initialState.items|length == 0 %}
+    {% set initialState = initialState|merge({
+      'type': 'card-traffic'
+    }) %}
+  {% else %}
+  {% if initialState.items|length < 6 %}
+    {% set items = initialState.items %}
+    {% set initialState = initialState|merge({
+      'type': 'card-traffic',
+      'blocks': [
+        {
+          'title': 'Alle',
+          'items': items
+        }
+      ]
+    }) %}
+  {% else %}
+    {% set blockMap = {} %}
+    {% for item in initialState.items %}
+      {% set key = '' ~ item.headline.badge %}
+      {% if key not in blockMap|keys %}
+        {% set blockMap = blockMap|merge({ ('' ~ key): {
+          'title': '' ~ key,
+          'items': []
+        } }) %}
+      {% endif %}
+      {% set blockItems = blockMap[key]['items']|merge([item]) %}
+      {% set blockMap = blockMap|merge({ ('' ~ key): {
+        'title': '' ~ key,
+        'items': blockItems
+      } }) %}
+    {% endfor %}
+    {% set blocks = [] %}
+    {% for key in blockMap|keys %}
+      {% set blocks = blocks|merge([blockMap[key]]) %}
+    {% endfor %}
+    {% set initialState = initialState|merge({
+      'type': 'card-traffic',
+      'blocks': blocks
+    }) %}
+  {% endif %}
+  {% endif %}
+  {% include 'components/widget/template.twig' with {
+    'type': 'traffic',
+    'component': 'tab-container',
+    'initialState': initialState,
+    'config': config
+  } only %}
+</div>
+<!--[IF !IE]> -->
+<script>
+  (function () {
+    var elem = window.park.$('.park-traffic').pop();
+
+    if (!elem.classList.contains('park-traffic--personalized')) {
+      return;
+    }
+
+    if (window.park && window.park.traffic && window.park.traffic.isLoggedIn !== undefined && !window.park.traffic.isLoggedIn()) {
+      elem.classList.add('park-traffic--is-interactive');
+    }
+  })();
+</script>
+<!-- <![ENDIF]-->

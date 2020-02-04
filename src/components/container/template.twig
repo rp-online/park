@@ -1,0 +1,15 @@
+<div class="park-container"
+  {% if linkpulseGroup is defined and linkpulseGroup %}
+  data-linkpulse-group="{{ linkpulseGroup }}"
+  {% endif %}
+  {% if taboolaNewsroomGroup is defined and taboolaNewsroomGroup %}
+  {% set config = config|merge({'taboolaMarkup': true}) %}
+  data-tb-region="{{ taboolaNewsroomGroup }}"
+  {% endif %}>
+  {% if children is defined and children is iterable %}
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  {% endif %}
+</div>

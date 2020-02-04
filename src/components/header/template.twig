@@ -1,0 +1,124 @@
+{% if (config.appMode is not defined or config.appMode is not same as('embedded'))
+  and (config.header is not defined or config.header is not same as(false))
+  and (config.output is not defined or config.output is not same as('webview')) %}
+  <header class="park-header
+{% if (config.personalArea is defined and config.personalArea is same as(true)) or (compactMode is defined and compactMode is same as(true)) %} park-header--is-compact{% endif %}
+">
+    <div class="park-header__nav">
+      <ul class="park-header__skiplinks" title="Sprungmenü">
+        <li><a class="park-header__skiplink" href="#park-main">Zum Inhalt springen (Drücken Sie Enter)</a></li>
+        <li><a class="park-header__skiplink" href="#park-navigation">Zum Hauptmenü springen (Drücken Sie Enter)</a></li>
+        <li><a class="park-header__skiplink" href="#park-header__search">Zur Suche springen (Drücken Sie Enter)</a></li>
+      </ul>
+      <div id="park-header__offer" class="park-header__offer">
+        {% include 'components/offer-slot/template.twig' with {} only %}
+        <button class="park-header__offer-close"
+                data-close="true"
+                aria-controls="park-header__offer"
+                aria-expanded="false">{% include 'svg/cross-fat.svg' %}
+          Schließen
+        </button>
+      </div>
+      <ul class="park-header__wrapper">
+        <li class="park-header__logo">
+          <{{ logo.tag }} class="park-header__logo-headline">
+          {% set logoMarkup %}{% spaceless %}{% include 'skins/' ~ config.client ~ '/logo.svg' %}{% endspaceless %}{% endset %}
+          {% set logoMarkup = logoMarkup ~ '' %}
+          {% if '<a' in logoMarkup and 'xlink:href' in logoMarkup %}
+            <span title="Zur Startseite" class="park-header__logo-link">
+              <span class="park-header__logo-text">{{ logo.text }}</span>
+              {{ logoMarkup|raw }}
+            </span>
+          {% else %}
+            <a href="{{ logo.href }}" title="Zur Startseite" class="park-header__logo-link">
+              <span class="park-header__logo-text">{{ logo.text }}</span>
+              {{ logoMarkup|raw }}
+            </a>
+          {% endif %}
+        </{{ logo.tag }}>
+        </li>
+        {% if (config.personalArea is defined and config.personalArea is same as(true)) or (compactMode is defined and compactMode is same as(true)) %}
+          <li class="park-header__gotohome">
+            <a href="{{ logo.href }}" class="park-header__gotohome-link">{% include 'svg/home.svg' %}zur Startseite</a>
+          </li>
+        {% else %}
+          <li class="park-header__quicklinks">
+            <ul class="park-header__quicklinks-items">
+              {% for item in quicklinks %}
+                <li
+                  class="park-header__quicklinks-item {% if item.isActive is defined and item.isActive %}park-header__quicklinks-item-current{% endif %}">
+                  {% set item = item|merge({
+                    classes: [
+                      'park-header__quicklinks-item-link'
+                    ],
+                    config: config
+                  }) %}
+                  {% include 'components/link-helper/template.twig' with item only %}
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% if mainmenu is not defined or mainmenu.disabled is not defined or mainmenu.disabled is same as(false) %}
+            <li class="park-header__menu-toggle" title="Hauptmenü">
+              <a href="#park-navigation"
+                 class="park-header__menu-toggle-link"
+                 aria-expanded="false"
+                 aria-controls="park-navigation"><span class="park-header__menu-toggle-icon"></span>{% if mainmenu is defined and mainmenu.text is defined %}{{ mainmenu.text }}{% else %}Menü{% endif %}</a>
+            </li>
+          {% endif %}
+          {% if salesCta is defined and salesCta.href is defined and salesCta.icon is defined and (salesCta.disabled is not defined or salesCta.disabled is same as(false)) %}
+            <li class="park-header__sales-cta" title="Verlagsangebot">
+              {% set salesCtaContent %}
+                <img src="{{ salesCta.icon }}" alt="" class="park-header__sales-cta-icon">{{ salesCta.text }}
+              {% endset %}
+              {% set salesCta = salesCta|merge({
+                text: salesCtaContent,
+                classes: [
+                  'park-header__sales-cta-link'
+                ],
+                config: config
+              }) %}
+              {% include 'components/link-helper/template.twig' with salesCta only %}
+            </li>
+          {% endif %}
+          <li class="park-header__search" title="Suche">
+            {% include 'components/searchform/template.twig' with {
+              id: 'park-header__search',
+              name: 'q',
+              action: search.action,
+              label: 'Suche',
+              labelHidden: false,
+              placeholder: search.label,
+              config: config
+            } only %}
+          </li>
+        {% endif %}
+        {% if usermenu is defined and (usermenu.disabled is not defined or usermenu.disabled is not same as(true))  %}
+          {# The next two are for backwards compatibility and can be removed the next time this component gets updated #}
+          {% if usermenu.text is not defined and usermenu.main is defined and usermenu.main.text is defined %}
+            {% set usermenu = usermenu|merge({
+              text: usermenu.main.text
+            }) %}
+          {% endif %}
+          {% if usermenu.href is not defined and usermenu.main is defined and usermenu.main.href is defined %}
+            {% set usermenu = usermenu|merge({
+              href: usermenu.main.href
+            }) %}
+          {% endif %}
+          <li class="park-header__usermenu" title="Personalisierter Bereich">
+            {% set usermenu = usermenu|merge({ 'config': config }) %}
+            {% include 'components/user-menu/template.twig' with usermenu only %}
+          </li>
+        {% endif %}
+      </ul>
+    </div>
+    {% if snackbars is defined and snackbars is iterable %}
+      <aside class="park-header__snackbars">
+        {% for snackbar in snackbars %}
+          {% set data = snackbar.data|merge({'config': config}) %}
+          {% include 'components/' ~ snackbar.component ~ '/template.twig' with data only %}
+        {% endfor %}
+      </aside>
+    {% endif %}
+  </header>
+{% endif %}

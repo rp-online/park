@@ -1,0 +1,59 @@
+<section class="park-new-password">
+  {%  set loginHTML = '<aside class="park-new-password__aside">zurück zur Anmeldung? <a href="' ~ loginURL ~ '">Hier anmelden</a>.</aside>' %}
+  {%  set html = '<p class="park-new-password__paragraph">' ~ text ~ '</p>' %}
+  {% include 'components/form/template.twig' with {
+    'notification': notification,
+    'vertical': true,
+    'action': action,
+    'method': 'post',
+    'headline': headline,
+    'submit': 'anmelden',
+    'children': [
+      {
+        'component': 'html',
+        'data': {
+          'html': html
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'type': 'hidden',
+          'name': 'hash',
+          'value': form.hash
+         }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'name': 'username',
+          'autocomplete': 'nickname',
+          'value': form.username,
+          'label': 'Benutzername',
+          'disabled': true
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'type': 'password',
+          'name': 'new_password',
+          'autocomplete': 'new-password',
+          'label': 'Passwort',
+          'required': true,
+          'pattern': '.{5,}',
+          'hint': 'Das Passwort muss mindestens 5 Zeichen enthalten'
+        }
+      }
+    ],
+    'footerChildren': [
+      {
+        'component': 'html',
+        'data': {
+          'html': loginHTML
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</section>

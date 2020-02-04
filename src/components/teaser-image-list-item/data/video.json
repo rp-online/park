@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "type": "video",
+  "kicker": {
+    "tag": "span",
+    "text": "USA nach der Wahl"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+  },
+  "href": "#void",
+  "src": "./assets/images/142x108.jpg",
+  "alt": "Süßes Kätzchen"
+}

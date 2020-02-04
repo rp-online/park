@@ -1,0 +1,1 @@
+Diese Komponente wird vom Widget `paywall-article` aufgegriffen und unter einen Artikel mit aktivem `reduced`-Flag gehängt. 

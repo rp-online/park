@@ -1,0 +1,3 @@
+Diese Komponente ist im Prinzip die [markdown](#markdown)-Komponente. Der Inhalt in der Eigenschaft `text` kann wahlweise als Richtext in Markdown- oder HTML-Annotation übergeben werden.
+
+Alternativ lässt sich auch dieser Komponente (wie diversen anderen Komponenten auch) ein Array von einzubindenden Kind-Komponenten in der `children`-Eigenschaft übergeben. Jeder Eintrag in diesem Array besteht aus einem Objekt mit den Eigenschaften `component` und `data`. `component` bezeichnet die in den Artikel-Inhalt einzuhängende Komponente und `data` bildet Datenstruktur ab, mit der diese Komponente befüttert werden soll.

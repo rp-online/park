@@ -1,0 +1,5 @@
+Mit der Form-Fieldset-Komponente lassen sich bei umfangreichen Formularen Eingabegruppen zusammenfassen. Folgende Eingenschaften unterstützt die Komponente:
+
+* `label`: Die Überschrift, die die entsprechenden Eingabegruppe beschreibt (z.B. "Ihre Adressdaten")
+* `children`: Nimmt ein Array von einzubindenden Kind-Komponenten auf. Jeder Eintrag in diesem Array besteht aus einem Objekt mit den Eigenschaften `component` und `data`. `component` bezeichnet die in den Artikel-Inhalt einzuhängende Komponente und `data` bildet Datenstruktur ab, mit der diese Komponente befüttert werden soll. Üblicherweise handelt es bei diesen Kind-Komponenten um [Inputs](#input), [Selects](#select), [Textareas](#textarea), [Radio-Groups](#radio-group), [Form-Fieldsets](#form-fieldset), [Form-Headlines](#form-headline), [Form-Instructions](#form-instruction) oder freies  [HTML](#html).
+* `expandable`: Eine boolsche Eigenschaft, die bestimmt, ob die Eingabegruppe sich auf- und zuklappen läasst

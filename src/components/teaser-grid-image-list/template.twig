@@ -1,0 +1,26 @@
+<ul
+  class="park-teaser-grid-image-list{% if withAd is defined and withAd %} park-teaser-grid-image-list--with-ad{% endif %}">
+    {% if withAd is defined and withAd %}
+      {% set imageCount = 2 %}
+    {% else %}
+      {% set imageCount = 3 %}
+    {% endif %}
+    {% for item in items %}
+    <li class="park-teaser-grid-image-list__item">
+      {% set item = item|merge({
+        'config': config
+      }) %}
+      {% if config.advertorial is defined and config.advertorial is same as(true) %}
+        {% set item = item|merge({
+          'isAd': true
+        }) %}
+      {% endif %}
+      {% if item.src is defined and loop.index0 >= imageCount %}
+        {% set item = item|merge({
+          'src': undefined_var
+        }) %}
+      {% endif %}
+      {% include 'components/teaser-list-item/template.twig' with item only %}
+    </li>
+  {% endfor %}
+</ul>

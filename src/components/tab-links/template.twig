@@ -1,0 +1,40 @@
+{% set uuid = random() %}
+<ul class="park-tab-links
+{% if inverted is defined and inverted is same as(true) %}
+  park-tab-links--inverted
+{% endif %}">
+  {% if links is defined %}
+    {% for link in links %}
+      <li class="park-tab-links__tab">
+        {% set link = link|merge({
+          'classes': [
+            'park-tab-links__link'
+          ],
+          'config': config
+        }) %}
+        {% if link.active is defined and link.active is same as(true) %}
+          {% set link = link|merge({
+            'attributes': {
+              'aria-selected': 'true'
+            }
+          }) %}
+        {% endif %}
+        {% include 'components/link-helper/template.twig' with link only %}
+      </li>
+    {% endfor %}
+  {% else %}
+    {% if options is defined %}
+      {% for option in options %}
+        <input type="radio"
+               name="{{ name }}"
+               value="{{ option.value }}"
+          {% if value is defined and value is same as(option.value) %}
+            checked
+          {% endif %}
+               id="park-tab-links__input-{{ uuid }}-{{ loop.index }}"
+               class="park-tab-links__input">
+        <label for="park-tab-links__input-{{ uuid }}-{{ loop.index }}" class="park-tab-links__tab">{{ option.label }}</label>
+      {% endfor %}
+    {% endif %}
+  {% endif %}
+</ul>

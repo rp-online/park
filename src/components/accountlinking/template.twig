@@ -1,0 +1,11 @@
+<section class="park-accountlinking">
+  {% if notification is defined and notification is not null %}
+    {%  set notification = notification|merge({ 'config': config }) %}
+    {% include 'components/notification/template.twig' with notification only %}
+  {% endif %}
+
+    {{ text }}
+    {{ pixel|raw }}
+
+  </aside>
+</section>

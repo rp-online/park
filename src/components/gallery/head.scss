@@ -1,0 +1,501 @@
+/* stylelint-disable */
+$parkGalleryMinHeightMobile: 75vw;
+$parkGalleryMinHeightdesktop: rem(600px);
+
+.park-gallery {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin-bottom: $global-spacing;
+  counter-reset: park-gallery-counter;
+  background-color: #f7f7f7;
+
+  &__action-buttons {
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    backface-visibility: hidden;
+    margin-right: rem(12px);
+    margin-top: rem(8px);
+
+    @include mq(desktop) {
+      top: $global-spacing;
+    }
+
+    .park-button {
+      font-size: 0;
+    }
+
+    .park-button__icon {
+      margin: 0;
+    }
+  }
+
+  &__body {
+    position: relative;
+    display: block;
+    text-align: center;
+
+    > * {
+      text-align: left;
+    }
+  }
+
+  &__slides-portal,
+  &__wrapper,
+  &__caption-portal,
+  &__footer {
+    max-width: rem(800px);
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &__slides-portal {
+    position: absolute;
+    top: rem(100px);
+    right: 0;
+    left: 0;
+    height: $parkGalleryMinHeightMobile;
+    margin: auto;
+
+    @include mq(desktop) {
+      height: $parkGalleryMinHeightdesktop;
+    }
+
+    &--lazy {
+      display: none;
+    }
+
+    .park-portal {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      margin: auto;
+    }
+  }
+
+  &__innerwrapper {
+    overflow: hidden;
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+    @include global-serif-font-size(1);
+
+    margin: rem(20px);
+    margin-bottom: 0px;
+    padding: 0 rem(20px);
+    font-weight: $global-font-weight-serif-regular;
+    text-align: center;
+  }
+
+  &__list {
+    @extend %slider-list;
+
+    pointer-events: none;
+
+    .js-disabled & {
+      margin-bottom: $global-spacing;
+      scroll-snap-points-x: repeat(100vw);
+
+      @include mq(desktop) {
+        scroll-snap-points-x: repeat(#{rem(800px)});
+      }
+    }
+  }
+
+  &__item {
+    @extend %slider-item;
+    @include global-sans-serif-font-size(2);
+
+    position: relative;
+    width: 100%;
+    box-sizing: border-box;
+
+    &:not(.park-gallery__item--portal) {
+      pointer-events: auto;
+    }
+
+    &:not(.park-gallery__item--portal):not(.park-gallery__item--last) {
+      counter-increment: park-gallery-counter;
+      background-color: #f7f7f7;
+    }
+
+    &-meta {
+      @include global-sans-serif-font-size(3);
+
+      margin-top: 20px;
+      color: #a4a4a4;
+      text-align: center;
+
+      &,
+      *,
+      ::before {
+        vertical-align: baseline;
+      }
+    }
+
+    &-headline {
+      height: 0px;
+      overflow: hidden;
+      margin-top: rem(42px);
+    }
+
+    &-meta + &-headline {
+      margin-top: 0;
+    }
+
+    &-wrapper {
+      position: relative;
+    }
+
+    &-innerwrapper {
+      position: relative;
+      z-index: 2;
+      display: flex;
+      flex-direction: column;
+
+      &[href]::after {
+        top: auto;
+        right: rem(30px);
+        bottom: rem(30px);
+      }
+
+      > * {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        width: calc(100% - #{rem(30px)});
+        min-height: $parkGalleryMinHeightMobile;
+        margin: 0 $global-spacing;
+        background-color: #f7f7f7;
+        border: none;
+        vertical-align: middle;
+
+        @supports (display: flex) {
+          height: auto;
+        }
+
+        @include mq(desktop) {
+          min-height: $parkGalleryMinHeightdesktop;
+        }
+      }
+
+      .park-teaser-tiles {
+        width: 100%;
+        height: auto;
+        margin: 0;
+        border-top: 0;
+
+        .park-card-image__wrapper,
+        .park-card-article__wrapper,
+        .park-card-info__wrapper,
+        .park-card-video__wrapper {
+          width: 100%;
+          float: none;
+          margin: 0;
+        }
+
+        .park-card-image__caption,
+        .park-card-article__caption,
+        .park-card-info__caption,
+        .park-card-video__caption {
+          width: 100%;
+          margin: 0;
+          float: none;
+          padding: rem(6px);
+        }
+      }
+
+      .park-teaser-tiles__list {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        > :nth-child(2n+1) {
+          -ms-grid-column: 1;
+        }
+
+        > :nth-child(2n+0) {
+          -ms-grid-column: 2;
+        }
+
+        @for $i from 1 through 4 {
+          > :nth-child(#{(($i * 2) - 1)}),
+          > :nth-child(#{($i * 2)}) {
+            -ms-grid-row: #{$i};
+          }
+        }
+      }
+
+      .park-teaser-tiles__listitem {
+        width: 100%;
+        height: 100%;
+      }
+
+      > .park-image {
+        width: calc(100% - #{rem(30px)});
+        height: $parkGalleryMinHeightMobile;
+
+        @include mq(desktop) {
+          height: $parkGalleryMinHeightdesktop;
+        }
+      }
+
+      > .park-markdown {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: $global-spacing;
+      }
+
+      .park-teaser-tiles__list {
+        grid-template-columns: 1fr 1fr;
+
+        @include mq(desktop) {
+          padding: 0 rem(20px);
+        }
+      }
+
+      .park-teaser-tiles__listitem {
+        @include mq(desktop) {
+          width: 50%;
+
+          @supports (display: grid) {
+            width: 100%;
+            height: 100%;
+          }
+        }
+      }
+
+      iframe {
+        touch-action: none;
+      }
+    }
+
+    &-caption {
+      @include richtext;
+
+      position: relative;
+      padding: rem(30px) $global-spacing 0 $global-spacing;
+      background-color: #f7f7f7;
+
+      @include mq(desktop) {
+        min-height: rem(60px);
+        padding: rem(30px) $global-spacing $global-spacing $global-spacing;
+      }
+
+      a {
+        @include text-link;
+
+        color: inherit;
+      }
+
+      @include mq(desktop) {
+        .park-gallery--with-caption-portal & {
+          min-height: calc(250px + #{$global-spacing} + #{rem(30px)});
+          padding-right: calc(300px + #{$global-spacing} + #{$global-spacing});
+        }
+      }
+    }
+
+    blockquote#{&}-caption {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      width: 100%;
+      min-height: $parkGalleryMinHeightMobile;
+      background-color: #f7f7f7;
+
+      @include mq(desktop) {
+        min-height: $parkGalleryMinHeightdesktop;
+      }
+    }
+
+    &-source {
+      @include global-sans-serif-font-size(3);
+
+      position: absolute;
+      top: rem(5px);
+      right: $global-spacing;
+      font-weight: $global-font-weight-sans-serif-regular;
+      font-style: normal !important;
+      text-align: right;
+      vertical-align: baseline;
+
+      @include mq(desktop) {
+        top: rem(7px);
+      }
+    }
+
+    &-source-link {
+      @include text-link;
+    }
+
+    &--portal {
+      position: relative;
+      z-index: 1;
+      box-sizing: content-box;
+      width: calc(100% + 20px);
+      height: $parkGalleryMinHeightMobile;
+      margin-left: -10px;
+      margin-right: -10px;
+      padding-top: rem(110px);
+
+      @include mq(desktop) {
+        height: $parkGalleryMinHeightdesktop;
+      }
+
+      &::before {
+        content: '';
+        display: block;
+        width: 1px;
+        height: 100%;
+      }
+    }
+
+    &--portal {
+      .js-disabled & {
+        display: none;
+      }
+    }
+  }
+
+  .park-gallery__item {
+    .park-gallery__item-wrapper::before,
+    blockquote.park-gallery__item-caption::before {
+      @include global-sans-serif-font-size(2);
+
+      position: absolute;
+      right: 0;
+      bottom: 100%;
+      left: 0;
+      margin-bottom: rem(10px);
+      color: #a4a4a4;
+      text-align: center;
+    }
+  }
+
+  .park-gallery__item--last {
+    height: $parkGalleryMinHeightMobile;
+    background-color: #fff;
+
+    @include mq(desktop) {
+      height: $parkGalleryMinHeightdesktop;
+    }
+
+    .park-gallery__item-headline {
+      background-color: transparent;
+    }
+
+    .park-gallery__item-wrapper::before {
+      content: 'Auch interessant'!important;
+    }
+
+    .park-gallery__item-innerwrapper {
+      > * {
+        background-color: transparent;
+      }
+    }
+
+    .park-gallery__item-caption {
+      background-color: transparent;
+    }
+  }
+
+  &__caption-portal {
+    position: relative;
+    text-align: center;
+
+    .park-portal {
+
+      @include mq(desktop) {
+        position: absolute;
+        right: $global-spacing;
+        bottom: $global-spacing;
+      }
+    }
+  }
+
+  &__arrow-nav {
+    @extend %arrow-nav;
+
+    @include mq(mobile) {
+      display: block;
+      .park-gallery {
+        &__arrow-nav-button {
+          top: rem(20px);
+          height: rem(42px);
+          background-color: transparent !important;
+          background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 15 23' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M5.724 11.434l8.56 8.56-2.861 2.862L.003 11.437l.015-.014-.003-.004L11.434 0l2.862 2.862-8.572 8.572z' fill='%23555'/%3E%3C/svg%3E");
+          background-size: rem(13px) rem(20px);
+        }
+      }
+    }
+
+    .park-gallery {
+      &__arrow-nav-button {
+        @extend %arrow-nav-button;
+
+        top: calc(#{$parkGalleryMinHeightdesktop / 2} + #{rem(40px)});
+        z-index: 2;
+
+        @each $selector in $fullscreenSelectors {
+          .park-gallery:#{$selector} & {
+            position: fixed;
+            top: 50%;
+          }
+        }
+      }
+
+      &__arrow-nav-prev-button {
+        @extend %arrow-nav-prev-button;
+
+        left: rem(7.5px);
+
+        @include mq(desktop) {
+          left: 0;
+        }
+      }
+
+      &__arrow-nav-next-button {
+        @extend %arrow-nav-next-button;
+
+        right: rem(7.5px);
+
+        @include mq(desktop) {
+          right: 0;
+        }
+      }
+    }
+  }
+
+  &__footer {
+    position: relative;
+    padding-bottom: $global-spacing;
+    text-align: center;
+
+    @include mq(desktop) {
+      @include clearfix;
+
+      padding: 0 $global-spacing $global-spacing $global-spacing;
+    }
+
+    .park-social-buttons {
+      @include mq(desktop) {
+        width: auto;
+        float: left;
+      }
+    }
+
+    .park-button {
+      @include mq(desktop) {
+        float: right;
+      }
+    }
+  }
+}

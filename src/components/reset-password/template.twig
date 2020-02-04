@@ -1,0 +1,55 @@
+<section class="park-reset-password">
+  {%  set loginHTML = '<aside class="park-reset-password__aside">zurück zur Anmeldung? <a href="' ~ loginURL ~ '">Hier anmelden</a>.</aside>' %}
+  {%  set html = '<p class="park-reset-password__paragraph">' ~ text ~ '</p>' %}
+
+  {% set children = [
+  {
+    'component': 'html',
+    'data': {
+      'html': html
+    }
+  },
+  {
+    'component': 'input',
+    'data': {
+      'type': 'email',
+      'name': 'email',
+      'value': form.email,
+      'autocomplete': 'email',
+      'label': 'E-Mail-Adresse',
+      'required': true,
+      'validationMessage': form.validationMessage
+    }
+  }] %}
+  {% if recaptchaSitekey is defined and recaptchaSitekey is not empty  %}
+    {% set children = children|merge([
+      {
+          'component': 'recaptcha',
+            'data': {
+              'name': 'captcha-response',
+              'sitekey': recaptchaSitekey,
+              'type': 'invisible'
+            }
+      }
+    ]) %}
+  {% endif %}
+
+  {% include 'components/form/template.twig' with {
+    'notification': notification,
+    'vertical': true,
+    'action': form.action,
+    'method': form.method,
+    'headline': headline,
+    'submit': 'absenden',
+    'children': children,
+    'footerChildren': [
+      {
+        'component': 'html',
+        'data': {
+          'html': loginHTML
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</section>

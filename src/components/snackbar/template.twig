@@ -1,0 +1,20 @@
+<aside id="park-snackbar-{{ id }}"
+       class="park-snackbar{% if isSelfclosing is defined and isSelfclosing %} park-snackbar--is-selfclosing{% endif %}"
+       tabindex="-1"
+  {% if startOpened is not defined or startOpened is same as(false) %}
+  aria-hidden="true"
+  {% endif %}>
+  <div class="park-snackbar__wrapper">
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  </div>
+  {% if closeButton is not defined or closeButton is same as(true) %}
+    <button class="park-snackbar__close"
+            data-close="true"
+            aria-controls="park-snackbar-{{ id }}"
+            aria-expanded="{% if startOpened is not defined or startOpened is same as(false) %}false{% else %}true{% endif %}">{% include 'svg/cross-fat.svg' %}Schließen
+    </button>
+  {% endif %}
+</aside>

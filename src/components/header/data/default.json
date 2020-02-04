@@ -1,0 +1,122 @@
+{
+  "globals": [],
+  "logo": {
+    "tag": "b",
+    "text": "Rheinische Post Online",
+    "href": "/"
+  },
+  "quicklinks": [
+    {
+      "isActive": false,
+      "text": "NRW",
+      "href": "/nrw/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Politik2",
+      "href": "/politik/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Sport",
+      "href": "/sport/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Panorama",
+      "href": "/panorama/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Kultur",
+      "href": "/kultur/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Wirtschaft",
+      "href": "/wirtschaft/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Digital",
+      "href": "/digitales/",
+      "target": "_self"
+    },
+    {
+      "isActive": false,
+      "text": "Leben",
+      "href": "/leben/",
+      "target": "_self"
+    }
+  ],
+  "usermenu": {
+    "main": {
+      "href": "javascript:window.park.user.login()",
+      "text": "Anmelden"
+    },
+    "items": [
+      {
+        "text": "Meine Merkliste",
+        "href": "/sso/bookmarks"
+      },
+      {
+        "text": "Einstellungen",
+        "href": "/sso/settings"
+      },
+      {
+        "text": "Meine Daten",
+        "href": "/sso/profile"
+      },
+      {
+        "text": "Abonnieren",
+        "href": "https://leserservice.rp-online.de"
+      }
+    ],
+    "login": {
+      "text": "Anmelden",
+      "href": "/sso/login"
+    },
+    "logout": {
+      "text": "Abmelden",
+      "href": "javascript:window.park.user.logout();"
+    }
+  },
+  "search": {
+    "action": "/suche/",
+    "label": "Suchbegriff eingeben"
+  },
+  "login": {
+    "label": "Anmelden"
+  },
+  "snackbars": [
+    {
+      "component": "snackbar-cookies",
+      "data": {
+        "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+        "link": {
+          "href": "https://rp-online.de/info/datenschutz/",
+          "text": "zur Datenschutzerklärung",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      }
+    }
+  ],
+  "salesCta": {
+    "icon": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/20190105_091202-d3f2f13129c23c1a.jpg",
+    "text": "",
+    "href": "https://www.fuerteventurazeitung.de/",
+    "target": "_blank",
+    "rel": [
+      "nofollow"
+    ]
+  }
+}

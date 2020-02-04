@@ -1,0 +1,15 @@
+{
+  "name": "salutation",
+  "label": "Anrede",
+  "options": [
+    {
+      "label": "Frau",
+      "value": "Mrs."
+    },
+    {
+      "label": "Herr",
+      "value": "Mr."
+    }
+  ],
+  "required": true
+}

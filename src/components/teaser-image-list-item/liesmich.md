@@ -1,0 +1,1 @@
+Die Komponente stellt eine kompaktere Form des Beitrags-Teasers dar, die aus Kicker, Headline und Vorschaubild besteht.

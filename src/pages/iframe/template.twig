@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>IFrame Example</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    script {
+      display: block;
+      padding: 0.25rem;
+      background-color: #d6d9dd;
+      font-family: 'Courier New', monospace;
+      white-space: pre;
+    }
+
+    code {
+      display: inline-block;
+      padding: 0 0.25rem;
+      background-color: #d6d9dd;
+    }
+  </style>
+</head>
+<body>
+<p>The following tells the parent window how tall the iframe is:</p>
+<script>
+  (function () {
+    if (!window.parent) {
+      return;
+    }
+
+    function updateHeight() {
+      window.parent.postMessage({
+        action: 'resize',
+        data: {
+          name: window.name,
+          height: document.documentElement.offsetHeight,
+        },
+      }, '*');
+    }
+
+    window.setInterval(updateHeight, 1000);
+
+    if (document.readyState !== 'loading') {
+      updateHeight();
+    }
+
+    updateHeight();
+  })();
+</script>
+<p>You can find this script at <code>/dist/assets/iframe-resizer.js</code></p>
+</body>
+</html>

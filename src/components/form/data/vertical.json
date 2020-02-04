@@ -1,0 +1,369 @@
+{
+  "vertical": true,
+  "action": "#void",
+  "method": "post",
+  "submit": "Absenden",
+  "children": [
+    {
+      "component": "select",
+      "data": {
+        "name": "salutation",
+        "label": "Anrede",
+        "placeholder": "Bitte wählen Sie eine Anrede",
+        "options": [
+          {
+            "label": "Frau",
+            "value": "Mrs."
+          },
+          {
+            "label": "Herr",
+            "value": "Mr."
+          },
+          {
+            "label": "Ihre Durchlaucht",
+            "value": "Majesty"
+          }
+        ],
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "firstname",
+        "label": "Vorname",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "name": "familyname",
+        "label": "Nachname",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "email",
+        "name": "email",
+        "label": "E-Mail",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "password",
+        "name": "password",
+        "label": "Passwort",
+        "required": true
+      }
+    },
+    {
+      "component": "select",
+      "data": {
+        "combobox": true,
+        "name": "city",
+        "label": "Ihre Stadt",
+        "placeholder": "Bitte wählen Sie eine Stadt",
+        "options": [
+          {
+            "label": "Alpen",
+            "value": "alpen"
+          },
+          {
+            "label": "Burscheid",
+            "value": "bedburg"
+          },
+          {
+            "label": "Dinslaken",
+            "value": "dinslaken"
+          },
+          {
+            "label": "Dormagen",
+            "value": "dormagen"
+          },
+          {
+            "label": "Duisburg",
+            "value": "duesseldorf"
+          },
+          {
+            "label": "Emmerich",
+            "value": "emmerich"
+          },
+          {
+            "label": "Erkelenz",
+            "value": "erkelenz"
+          },
+          {
+            "label": "Erkrath",
+            "value": "erkrath"
+          },
+          {
+            "label": "Geldern",
+            "value": "geldern"
+          },
+          {
+            "label": "Goch",
+            "value": "goch"
+          },
+          {
+            "label": "Grefrath",
+            "value": "grefrath"
+          },
+          {
+            "label": "Grevenbroich",
+            "value": "grevenbroich"
+          },
+          {
+            "label": "Haan",
+            "value": "haan"
+          },
+          {
+            "label": "Hamminkeln",
+            "value": "hamminkeln"
+          },
+          {
+            "label": "Heiligenhaus",
+            "value": "heiligenhaus"
+          },
+          {
+            "label": "Hilden",
+            "value": "hilden"
+          },
+          {
+            "label": "Isselburg",
+            "value": "hueckelhoven"
+          },
+          {
+            "label": "Issum",
+            "value": "issum"
+          },
+          {
+            "label": "Kaarst",
+            "value": "juechen"
+          },
+          {
+            "label": "Kalkar",
+            "value": "kalkar"
+          },
+          {
+            "label": "Kempen",
+            "value": "kamp"
+          },
+          {
+            "label": "Kerken",
+            "value": "kerken"
+          },
+          {
+            "label": "Kevelaer",
+            "value": "kevelaer"
+          },
+          {
+            "label": "Kleve",
+            "value": "kleve"
+          },
+          {
+            "label": "Korschenbroich",
+            "value": "koeln"
+          },
+          {
+            "label": "Kranenburg",
+            "value": "kranenburg"
+          },
+          {
+            "label": "Krefeld",
+            "value": "krefeld"
+          },
+          {
+            "label": "Heinsberg",
+            "value": "heinsberg"
+          },
+          {
+            "label": "Langenfeld",
+            "value": "langenfeld"
+          },
+          {
+            "label": "Leichlingen",
+            "value": "leichlingen"
+          },
+          {
+            "label": "Leverkusen",
+            "value": "leverkusen"
+          },
+          {
+            "label": "Meerbusch",
+            "value": "meerbusch"
+          },
+          {
+            "label": "Mettmann",
+            "value": "mettmann"
+          },
+          {
+            "label": "Moers",
+            "value": "moenchengladbach"
+          },
+          {
+            "label": "Monheim",
+            "value": "monheim"
+          },
+          {
+            "label": "Nettetal",
+            "value": "nettetal"
+          },
+          {
+            "label": "Neuss",
+            "value": "neukirchen"
+          },
+          {
+            "label": "Niederkruechten",
+            "value": "niederkruechten"
+          },
+          {
+            "label": "Radevormwald",
+            "value": "radevormwald"
+          },
+          {
+            "label": "Ratingen",
+            "value": "ratingen"
+          },
+          {
+            "label": "Rees",
+            "value": "rees"
+          },
+          {
+            "label": "Remscheid",
+            "value": "remscheid"
+          },
+          {
+            "label": "Rheinberg",
+            "value": "rheinberg"
+          },
+          {
+            "label": "Rheurdt",
+            "value": "rheurdt"
+          },
+          {
+            "label": "Rommerskirchen",
+            "value": "rommerskirchen"
+          },
+          {
+            "label": "Schermbeck",
+            "value": "schermbeck"
+          },
+          {
+            "label": "Schwalmtal",
+            "value": "schwalmtal"
+          },
+          {
+            "label": "Solingen",
+            "value": "solingen"
+          },
+          {
+            "label": "Sonsbeck",
+            "value": "sonsbeck"
+          },
+          {
+            "label": "Straelen",
+            "value": "straelen"
+          },
+          {
+            "label": "Uedem",
+            "value": "toenisvorst"
+          },
+          {
+            "label": "Viersen",
+            "value": "viersen"
+          },
+          {
+            "label": "Voerde",
+            "value": "voerde"
+          },
+          {
+            "label": "Wachtendonk",
+            "value": "wachtendonk"
+          },
+          {
+            "label": "Wassenberg",
+            "value": "wassenberg"
+          },
+          {
+            "label": "Weeze",
+            "value": "weeze"
+          },
+          {
+            "label": "Wegberg",
+            "value": "wegberg"
+          },
+          {
+            "label": "Wermelskirchen",
+            "value": "wermelskirchen"
+          },
+          {
+            "label": "Wesel",
+            "value": "wesel"
+          },
+          {
+            "label": "Willich",
+            "value": "willich"
+          },
+          {
+            "label": "Wuelfrath",
+            "value": "wuelfrath"
+          },
+          {
+            "label": "Xanten",
+            "value": "xanten"
+          }
+        ]
+      }
+    },
+    {
+      "component": "textarea",
+      "data": {
+        "name": "message",
+        "label": "Nachricht",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "toggle",
+        "name": "autoplay",
+        "value": "yes",
+        "label": "Autoplay aktivieren"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "checkbox",
+        "name": "terms",
+        "value": "accepted",
+        "label": "Ich akzeptiere die AGB",
+        "required": true
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "radio",
+        "name": "likes_chocolate",
+        "value": "yes",
+        "label": "Ich mag Schokolade!"
+      }
+    },
+    {
+      "component": "input",
+      "data": {
+        "type": "radio",
+        "name": "likes_chocolate",
+        "value": "no",
+        "label": "Ich hasse Schokolade..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{% set uuid = random() %}
+{% set featuredExist = false %}
+{% set isAlwaysOpen = false %}
+{% if children is defined %}
+  {% for item in children %}
+    {% if item.featured is defined and item.featured is same as(true) %}
+      {% set featuredExist = true %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% set isExpanded = false %}
+{% if isCurrent is not defined or isCurrent is same as(false) %}
+  {% if children is defined %}
+    {% for item in children %}
+      {% if item.children is defined %}
+        {% for subItem in item.children %}
+          {% if subItem.children is defined %}
+            {% for subSubItem in subItem.children %}
+              {% if subSubItem.children is defined %}
+                {% for subSubSubItem in subSubItem.children %}
+                  {% if subSubSubItem.children is defined %}
+                    {% for subSubSubSubItem in subSubSubItem.children %}
+                      {% if subSubSubSubItem.isCurrent is defined and subSubSubSubItem.isCurrent is same as(true) %}
+                        {% set isExpanded = true %}
+                      {% endif %}
+                    {% endfor %}
+                  {% endif %}
+                  {% if subSubSubItem.isCurrent is defined and subSubSubItem.isCurrent is same as(true) %}
+                    {% set isExpanded = true %}
+                  {% endif %}
+                {% endfor %}
+              {% endif %}
+              {% if subSubItem.isCurrent is defined and subSubItem.isCurrent is same as(true) %}
+                {% set isExpanded = true %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+          {% if subItem.isCurrent is defined and subItem.isCurrent is same as(true) %}
+            {% set isExpanded = true %}
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+      {% if item.isCurrent is defined and item.isCurrent is same as(true) %}
+        {% set isExpanded = true %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% else %}
+  {% set isExpanded = true %}
+{% endif %}
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  <li class="park-navigation-item
+{% if featured is defined and featured is same as(true) %} park-navigation-item--is-featured{% endif %}
+{% if isAd is defined and isAd is same as(true) %} park-navigation-item--sugardaddy{% endif %}
+">
+    {% if href is defined and href is not null %}
+      {% set linkClasses = [
+        'park-navigation-item__link'
+      ] %}
+      {% if isCurrent is defined and isCurrent is same as(true) %}
+        {% set linkClasses = linkClasses|merge([
+          'park-navigation-item__link--is-current'
+        ]) %}
+      {% endif %}
+      {% set link = {
+        'href': href,
+        'target': target,
+        'rel': rel,
+        'text': text,
+        'classes': linkClasses,
+        'isAd': isAd,
+        'config': config
+      } %}
+      {% include 'components/link-helper/template.twig' with link only %}
+    {% else %}
+      {% set isExpanded = true %}
+      {% set isAlwaysOpen = true %}
+      {% set featuredExist = true %}
+    {% endif %}
+    {% if children is defined and children is iterable and children|length > 0 %}
+        {% if isAlwaysOpen is same as(false) %}
+          <button class="park-navigation-item__toggle"
+                  aria-expanded="{% if isExpanded is defined and isExpanded is same as(true) %}true{% else %}false{% endif %}"
+                  aria-controls="park-navigation-item__submenu-{{ uuid }}">{% include 'svg/chevron-down.svg' %} Untermenü
+            anzeigen
+          </button>
+        {% endif %}
+      <div id="park-navigation-item__submenu-{{ uuid }}"
+           class="park-navigation-item__submenu{% if featuredExist is same as(true) %} park-navigation-item__submenu--has-featured{% endif %}"
+           aria-hidden="{% if isExpanded is defined and isExpanded is same as(true) %}false{% else %}true{% endif %}">
+        {% if search is defined %}
+          {% if search.label is defined %}
+            {% set searchLabel = search.label %}
+          {% else %}
+            {% set searchLabel = 'Untermenü durchsuchen' %}
+          {% endif %}
+          {% set searchName = 'search-' ~ uuid %}
+          {% set ariaControls = 'park-navigation-item__submenu-' ~ uuid %}
+          {% include 'components/searchform/template.twig' with {
+            'name': searchName,
+            'label': searchLabel,
+            'labelHidden': true,
+            'placeholder': searchLabel,
+            'ariaControls': ariaControls,
+            'config': config
+          } only %}
+          <p class="park-navigation-item__resultcount"
+             aria-live="polite">{{ children|length }} Suchergebnis{% if children|length > 1 %}se{% endif %}</p>
+        {% endif %}
+        <ul id="park-navigation-item__subitems-{{ uuid }}"
+            class="park-navigation-item__subitems"
+            aria-live="polite">
+          {% for item in children %}
+            {% set item = item|merge({
+              'config': config
+            }) %}
+            {% include 'components/navigation-item/template.twig' with item only %}
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+  </li>
+{% endif %}

@@ -1,0 +1,126 @@
+$park-snackbar-offset: 100vh;
+
+@keyframes park-snackbar-slide-up {
+  from {
+    transform: translateY($park-snackbar-offset);
+  }
+
+  to {
+    transform: translateY(0);
+  }
+}
+
+@keyframes park-snackbar-slide-down {
+  from {
+    transform: translateY(0);
+  }
+
+  to {
+    transform: translateY($park-snackbar-offset);
+  }
+}
+
+.park-snackbar {
+  @include global-sans-serif-font-size(2);
+
+  position: relative;
+  display: block;
+  width: 100%;
+  margin-bottom: -1 * $park-snackbar-offset;
+  padding: $global-spacing $global-spacing $park-snackbar-offset $global-spacing;
+  padding: $global-spacing $global-spacing calc(#{$park-snackbar-offset} + #{$global-spacing}) $global-spacing;
+  background-color: #2e2e2e;
+  color: #fff;
+  animation-name: park-snackbar-slide-up;
+  animation-duration: 300ms;
+  animation-timing-function: ease-out;
+  animation-fill-mode: both;
+
+  &--is-closing {
+    animation-name: park-snackbar-slide-down;
+  }
+
+  *,
+  *::before,
+  *::after {
+    vertical-align: baseline;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    float: right;
+    width: rem(20px);
+    height: rem(1px);
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    bottom: 100%;
+    left: 0;
+    height: rem(20px);
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    pointer-events: none;
+  }
+
+  &__wrapper {
+    @extend %content-position;
+
+    margin-bottom: $global-spacing;
+
+    @include mq(desktop) {
+      display: flex;
+      flex-direction: row;
+      align-items: flex-start;
+      margin-bottom: $global-spacing;
+      padding-right: rem(45px);
+    }
+
+    a {
+      white-space: nowrap;
+    }
+
+    .park-button {
+      position: relative;
+      width: 100%;
+
+      &::after {
+        content: '';
+        position: absolute;
+        top: -$global-spacing;
+        right: -$global-spacing;
+        bottom: -$global-spacing;
+        left: -$global-spacing;
+      }
+
+      @include mq(desktop) {
+        width: auto;
+      }
+    }
+
+    & > * {
+      margin-bottom: $global-spacing;
+
+      @include mq(desktop) {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        min-height: rem(42px);
+        margin-top: auto;
+        margin-right: $global-spacing;
+        margin-bottom: auto;
+      }
+    }
+
+    & > *:last-child {
+      margin-right: 0;
+    }
+  }
+
+  &__close {
+    @include small-close-button;
+  }
+}

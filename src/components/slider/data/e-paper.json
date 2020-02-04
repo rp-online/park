@@ -1,0 +1,81 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "e-Paper"
+  },
+  "items": [
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/0002BEA14565F7BF/w/600",
+      "alt": "",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Starke Partner 2/2019"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/0002BEA250B72BAD/w/600",
+      "alt": "",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Automobilausstellung 2019 | 15.09.2019"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/0002BEA306CAB87F/w/600",
+      "alt": "",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Pluspunkt Giesenkirchen|28.08.19"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/000288833FFD6526/w/600",
+      "alt": "",
+      "href": "#void",
+      "target": "_blank",
+      "headline": {
+        "tag": "span",
+        "text": "Kerngesund"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/0001BBC4ABCFFF76/w/600",
+      "alt": "",
+      "href": "./assets/images/panorama.jpg",
+      "headline": {
+        "tag": "span",
+        "text": "Palliative Versorgung in Düsseldorf"
+      }
+    },
+    {
+      "id": 1,
+      "type": "image",
+      "mode": "display",
+      "src": "https://secure.wi-paper.de/book/preview/id/0001CB68AC095484/w/600",
+      "alt": "",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Kerngesund"
+      }
+    }
+  ]
+}

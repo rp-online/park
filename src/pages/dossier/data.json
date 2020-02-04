@@ -1,0 +1,304 @@
+{
+  "title": "Dossier",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für ein Dossier"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/dossier.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "section-breadcrumb",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Rheinkirmes"
+              },
+              "navigation": [
+                {
+                  "text": "Themen",
+                  "href": "#void"
+                }
+              ]
+            }
+          },
+          {
+            "component": "page-opener",
+            "data": {
+              "topicId": "123",
+              "image": {
+                "src": "./assets/images/opener.jpg",
+                "alt": "Blick von oben auf die Rheinkirmes",
+                "caption": "Rheinkirmes 2018: Alle Infos zur Größten Kirmes am Rhein",
+                "source": {
+                  "text": "Jan Jansen",
+                  "href": "#void"
+                }
+              },
+              "headline": {
+                "tag": "h2",
+                "text": "Rheinkirmes"
+              },
+              "intro": "Die Rheinkirmes, oder auch die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der größten Volksfeste in Deutschland.",
+              "authors": "von Kristina Dunst",
+              "text": "Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\nSie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\nSie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\n* [Termine](#void)\n* [Anfahrt](#void)\n* [Zahlen und Fakten](#void)\n* [Welche Attraktionen gibt es auf der Rheinkirmes?](#void)\n* [Holen Sie sich die App zur Kirmes](#void)\n\n[Neueste Bilder und Infos zur Größten Kirmes am Rhein finden Sie hier oder auch auf unserer Facebookseite RP Rheinkirmes](#void)"
+            }
+          },
+          {
+            "component": "slider",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Beliebte Bilder"
+              },
+              "items": [
+                {
+                  "type": "image",
+                  "src": "./assets/images/300x225.jpg",
+                  "alt": "Süße Katze",
+                  "href": "./bilderstrecke.html",
+                  "kicker": {
+                    "tag": "h2",
+                    "text": "Rheinkirmes 2016"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Neue Show \"Die Kirmeskönige\""
+                  }
+                },
+                {
+                  "isAd": true,
+                  "type": "image",
+                  "src": "./assets/images/300x225.jpg",
+                  "alt": "Süße Katze",
+                  "href": "./advertorial.html",
+                  "kicker": {
+                    "tag": "h2",
+                    "text": "Werbung"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                  }
+                },
+                {
+                  "type": "image",
+                  "src": "./assets/images/300x225.jpg",
+                  "alt": "Süße Katze",
+                  "href": "./bilderstrecke.html",
+                  "kicker": {
+                    "tag": "h2",
+                    "text": "Fortuna Düsseldorf"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "\"Das Testspiel passt jetzt nicht so gut rein\""
+                  }
+                },
+                {
+                  "type": "image",
+                  "src": "./assets/images/300x225.jpg",
+                  "alt": "Süße Katze",
+                  "href": "./bilderstrecke.html",
+                  "kicker": {
+                    "tag": "h2",
+                    "text": "Rechtsstreit um Dopingsperre"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Davies trifft die DEG am Freitag vor Gericht"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "tab-teaser-results",
+            "data": {
+              "links": [
+                {
+                  "href": "#void",
+                  "text": "217 Artikel",
+                  "active": true
+                },
+                {
+                  "href": "#void",
+                  "text": "57 Bilder"
+                },
+                {
+                  "href": "#void",
+                  "text": "17 Videos"
+                }
+              ],
+              "items": [
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Endlich wieder der alte FC Bayern"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Lage der Liga"
+                  },
+                  "label": "Meinung",
+                  "dateline": "München",
+                  "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Nur noch geleaste Maschinen"
+                  },
+                  "dateline": "Berlin",
+                  "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Interview mit Bamf-Präsident Weise"
+                  },
+                  "dateline": "Düsseldorf",
+                  "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Interview mit Bamf-Präsident Weise"
+                  },
+                  "dateline": "Düsseldorf",
+                  "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                  "authors": "von Kristina Dunst"
+                }
+              ]
+            }
+          },
+          {
+            "component": "page-footer",
+            "data": {
+              "children": [
+                {
+                  "component": "pager-previous-next",
+                  "data": {
+                    "previous": {
+                      "text": "zurück",
+                      "href": "#previous"
+                    },
+                    "next": {
+                      "text": "weiter",
+                      "href": "#next"
+                    },
+                    "pages": {
+                      "current": 2,
+                      "total": 4
+                    }
+                  }
+                },
+                {
+                  "component": "dossier-content",
+                  "data": {
+                    "text": "Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\nSie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\nSie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus. Die 115. Rheinkirmes 2016 fand vom 15. bis 24. Juli 2016 statt. Alle Infos, News und Bilder zur Größten Kirmes am Rhein erhalten Sie hier.\n\n* [Termine](#void)\n* [Anfahrt](#void)\n* [Zahlen und Fakten](#void)\n* [Welche Attraktionen gibt es auf der Rheinkirmes?](#void)\n* [Holen Sie sich die App zur Kirmes](#void)\n\n[Neueste Bilder und Infos zur Größten Kirmes am Rhein finden Sie hier oder auch auf unserer Facebookseite RP Rheinkirmes](#void)"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

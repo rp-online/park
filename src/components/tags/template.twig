@@ -1,0 +1,15 @@
+<ul class="park-tags">
+  {% if links is defined %}
+    {% for link in links %}
+      <li class="park-tags__tag">
+        {% set link = link|merge({
+          'classes': [
+            'park-tags__link'
+          ],
+          'config': config
+        }) %}
+        {% include 'components/link-helper/template.twig' with link only %}
+      </li>
+    {% endfor %}
+  {% endif %}
+</ul>

@@ -1,0 +1,31 @@
+<blockquote cite="https://twitter.com/{{ user.screen_name }}"
+            lang="{{ lang }}"
+            style="background-image: url({{ user.profile_image_url_https }})"
+            class="park-card-twitter-tweet">
+  <header class="park-card-twitter-tweet__header">
+    <a href="https://twitter.com/{{ user.screen_name }}" rel="nofollow noopener noreferrer" target="_blank" class="park-card-twitter-tweet__user-link">
+      <cite class="park-card-twitter-tweet__user-name">{{ user.screen_name }}</cite>
+    </a>
+  </header>
+  {% for hashtag in entities.hashtags %}
+    {% set search_str = '#' ~ hashtag.text %}
+    {% set replace_str = '<a href="https://twitter.com/search?q=%23' ~ hashtag.text ~ '" rel="nofollow noopener" target="_blank" class="park-card-twitter-tweet__hashtag">#' ~ hashtag.text ~ '</a>' %}
+    {% set text = text|replace({(search_str): replace_str}) %}
+  {% endfor %}
+  {% for mention in entities.user_mentions %}
+    {% set search_str = '@' ~ mention.screen_name %}
+    {% set replace_str = '<a href="https://twitter.com/' ~ mention.screen_name ~ '" rel="nofollow noopener" target="_blank" class="park-card-twitter-tweet__mention">@' ~ mention.screen_name ~ '</a>' %}
+    {% set text = text|replace({(search_str): replace_str}) %}
+  {% endfor %}
+  {% for url in entities.urls %}
+    {% set search_str = url.url %}
+    {% set replace_str = '<a href="' ~ url.expanded_url ~ '" rel="nofollow noopener" target="_blank" class="park-card-twitter-tweet__url">' ~ url.url ~ '</a>' %}
+    {% set text = text|replace({(search_str): replace_str}) %}
+  {% endfor %}
+  {{ text|raw }}
+  <footer class="park-card-twitter-tweet__footer">
+    <a href="https://twitter.com/{{ user.screen_name }}/status/{{ id }}" rel="nofollow noopener noreferrer" target="_blank" class="park-card-twitter-tweet__tweet-link">
+      {% include 'components/date/template.twig' with {'timestamp': created_at|date('U'), 'config': config} only %}
+    </a>
+  </footer>
+</blockquote>

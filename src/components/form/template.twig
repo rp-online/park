@@ -1,0 +1,38 @@
+<form method="{{ method }}"
+      action="{{ action }}"
+      class="park-form
+  {% if vertical is defined and vertical is same as(true) %}
+     park-form--vertical
+  {% endif %}"
+  {% if autocomplete is defined and autocomplete is same as(true) %}
+    autocomplete="on"
+  {% endif %}
+  {% if novalidate is defined and novalidate is same as(true) %}
+    novalidate
+  {% endif %}>
+  {% if notification is defined and notification is not null %}
+    {%  set notification = notification|merge({ 'config': config }) %}
+    {% include 'components/notification/template.twig' with notification only %}
+  {% endif %}
+  {% if headline is defined %}
+    {% set headline = headline|merge({'config': config}) %}
+    {% include 'components/form-headline/template.twig' with headline only %}
+  {% endif %}
+  {% if children is defined %}
+  {% for child in children %}
+    {% set data = child.data|merge({'config': config}) %}
+    {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+  {% endfor %}
+  {% endif %}
+  {% include 'components/button/template.twig' with {
+  'config': config,
+  'type': 'submit',
+  'text': submit
+  } %}
+  {% if footerChildren is defined %}
+    {% for child in footerChildren %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  {% endif %}
+</form>

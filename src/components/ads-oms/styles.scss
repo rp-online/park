@@ -1,0 +1,43 @@
+/* fuer Wallpaper */
+#adl_sb_table {
+  width: calc(#{$global-container-width} + #{$global-spacing}) !important;
+  max-width: none !important;
+  background-color: transparent !important;
+}
+
+#adl_sb_table td {
+  padding: 0;
+  background-color: transparent !important;
+  font-size: 0;
+}
+
+#omsv_sky_DhtmlLayer {
+  top: calc(#{$header-navbar-height-mobile} + #{rem(14px)}) !important;
+  backface-visibility: hidden;
+  transition: top 300ms;
+
+  @include mq(desktop) {
+    top: calc(#{$header-navbar-height-desktop} + #{rem(14px)}) !important;
+  }
+
+  .with-offers & {
+    top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile} + #{rem(14px)}) !important;
+
+    @include mq(desktop) {
+      top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop} + #{rem(14px)}) !important;
+    }
+  }
+}
+
+#omsv_sky_DhtmlLayer td {
+  padding: 0;
+}
+
+#eyeDiv {
+  * {
+    &[style*="position:absolute"],
+    &[style*="position: absolute"] {
+      top: 0 !important;
+    }
+  }
+}

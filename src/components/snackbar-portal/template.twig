@@ -1,0 +1,14 @@
+<div class="park-snackbar-portal">
+  {% set ad = ad|merge({ 'config': config }) %}
+  {% include 'components/snackbar/template.twig' with {
+    'id': 'portal',
+    'children': [
+      {
+        'component': 'portal',
+        'data': ad
+      }
+    ],
+    'closeButton': false,
+    'config': config
+  } only %}
+</div>

@@ -1,0 +1,63 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set headlineLevel = false %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set headlineTag = 'span' %}
+    {% if 'h' in headline.tag %}
+      {% set headlineLevel = headline.tag|replace({'h': ''}) %}
+    {% endif %}
+  {% else %}
+    {% set headlineTag = headline.tag %}
+  {% endif %}
+  <article class="park-teaser-image-list-item
+  {% if type is defined and type %} park-teaser-image-list-item--{{ type }}{% endif %}
+  {% if isAd is defined and isAd is same as(true) %} park-teaser-image-list-item--sugardaddy{% endif %}
+  ">
+  {% set content %}
+    {% if src is defined %}
+    <div class="park-teaser-image-list-item__image">
+    {% include 'components/image/template.twig' with {
+      'src': src,
+      'alt': alt,
+      'width': 71,
+      'height': 54,
+      'sizes': { 'mobile': '100px', 'desktop': '100px' },
+      'config': config} %}
+    </div>
+    {% endif %}
+    <{{ headlineTag }}
+    {% if headlineLevel %}
+      role="heading" aria-level="{{ headlineLevel }}"
+    {% endif %}
+    class="park-teaser-image-list-item__headlines">
+    {% if kicker is defined and kicker.text is defined and kicker.text %}
+      <span class="park-teaser-image-list-item__kicker">
+        {% include 'components/content-label/template.twig' with {
+          'contentLabel': contentLabel,
+          'config': config
+        } only %}
+        {{ kicker.text | raw }}
+      </span>
+    {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}
+      <span class="park-teaser-image-list-item__headline">{{ headline.text }}</span>
+    {% endif %}
+    </{{ headlineTag }}>
+  {% endset %}
+  {% set link = {
+    'href': href,
+    'text': content,
+    'target': target,
+    'rel': rel,
+    'classes': [
+      'park-teaser-image-list-item__link'
+    ],
+    'isAd': isAd,
+    'config': config
+  } %}
+  {% include 'components/link-helper/template.twig' with link only %}
+  {% if (isAd is not defined or isAd is same as(false)) and not target %}
+    <footer class="park-teaser-image-list-item__user-actions">
+      {% include 'components/button-bookmark/template.twig' with {'id': id, 'config': config} only %}
+    </footer>
+  {% endif %}
+  </article>
+{% endif %}

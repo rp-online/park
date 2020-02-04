@@ -1,0 +1,24 @@
+{
+  "headline": {
+    "tag": "strong",
+    "text": "Überschrift"
+  },
+  "items": [
+    {
+      "text": "Anzeige aufgeben",
+      "href": "#void"
+    },
+    {
+      "text": "RP Trauer",
+      "href": "#void"
+    },
+    {
+      "text": "RP ePaper",
+      "href": "#void"
+    },
+    {
+      "text": "RP Forum",
+      "href": "#void"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+<a href="{{ href }}" class="park-quick-nav-item{% if icon is defined and icon %} park-quick-nav-item--has-icon{% endif %}" title="{{ text|raw }}">{% if icon is defined and icon %}<img
+        src="{{ icon }}"
+        alt=""
+        width="34"
+        height="34"
+        class="park-quick-nav-item__icon">{% endif %}<span class="park-quick-nav-item__text">{{ text|raw }}</span></a>

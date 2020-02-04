@@ -1,0 +1,52 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Neuste Videos"
+  },
+  "items": [
+    {
+      "id": 1,
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Hier übt Barack Obama Kitesurfen"
+      }
+    },
+    {
+      "id": 1,
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "China: Sechsjähriger fährt unbeaufsichtigt mit Auto seiner Eltern"
+      }
+    },
+    {
+      "id": 1,
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Bahnhof Opladen: Das ist der lahmste Aufzug der Stadt"
+      }
+    },
+    {
+      "id": 1,
+      "type": "video",
+      "src": "./assets/images/300x170.jpg",
+      "alt": "Süße Katze",
+      "href": "#void",
+      "headline": {
+        "tag": "span",
+        "text": "Neue Smartphone-Ampeln in den Niederlanden"
+      }
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+.park-article-paywall {
+  padding-top: $global-spacing;
+
+  *,
+  *::before,
+  *::after {
+    vertical-align: baseline;
+  }
+
+  svg {
+    vertical-align: middle;
+  }
+
+  &__wrapper {
+    @include global-sans-serif-font-size(2);
+
+    padding: 0 $global-spacing;
+    text-align: center;
+    animation-name: park-fade-in;
+    animation-duration: 600ms;
+    animation-fill-mode: both;
+
+    @include mq(desktop) {
+      padding: 0;
+      text-align: center;
+    }
+  }
+
+  .park-input {
+    padding-bottom: rem(10px);
+  }
+
+  .park-icon-paid {
+    vertical-align: bottom;
+  }
+
+  .park-article-paywall__offer {
+    &-text {
+      display: block;
+      max-width: 450px;
+      padding: 10px 0;
+      font-size: 1rem;
+    }
+
+    &-title {
+      display: block;
+      font-size: rem(18px);
+      font-weight: bold;
+    }
+
+    &-priceWrapper {
+      float: right;
+      text-align: right;
+    }
+
+    &-price {
+      font-size: rem(18px);
+      font-weight: bold;
+    }
+
+    &-priceExtension {
+      display: block;
+      color: rgba(0, 0, 0, 0.5);
+      text-align: right;
+    }
+  }
+
+  .park-input--radio .park-input__input + label::before {
+    top: rem(12px);
+    left: rem(10px);
+  }
+
+  .park-input--radio .park-input__input + label {
+    padding: 10px 16px 10px 38px;
+    background-color: #edf2f7;
+    text-align: left;
+  }
+
+  .park-input__input:checked + label::before {
+    color: #ffbe00;
+  }
+
+  &__main {
+    > .park-image {
+      width: auto;
+    }
+
+    @include mq(desktop) {
+      overflow: hidden;
+      padding: 0 $article-spacing;
+
+      > .park-image {
+        float: right;
+        width: 33%;
+        margin-bottom: $global-spacing;
+        margin-left: $global-spacing;
+      }
+
+      .park-image__image {
+        object-fit: contain;
+        background-size: contain;
+      }
+    }
+  }
+
+  &__content,
+  &__headline,
+  &__text,
+  &__cta {
+    margin-bottom: $global-spacing;
+  }
+
+  &__legal {
+    @include global-sans-serif-font-size(3);
+
+    strong {
+      font-weight: $global-font-weight-sans-serif-bold;
+      vertical-align: baseline;
+    }
+  }
+
+  &__headline {
+    @include global-sans-serif-font-size(2);
+
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__cta {
+    width: auto;
+    text-align: center;
+
+    .park-button {
+      width: 100%;
+      text-align: center;
+      min-width: 70%;
+    }
+
+    .park-button--style-google {
+      width: auto;
+    }
+
+    @include mq(desktop) {
+      width: 45%;
+      margin: auto;
+      text-align: center;
+      float: none;
+
+      .park-button {
+        width: auto;
+      }
+    }
+  }
+
+  &__login {
+    margin-bottom: -10px;
+  }
+
+  &__login,
+  &__welect {
+    a {
+      @include text-link;
+    }
+  }
+
+  &__welect {
+    position: relative;
+    display: none;
+    padding: $global-spacing 0 rem(30px) 0;
+    animation-name: park-fade-in;
+    animation-duration: 300ms;
+
+    @include mq(desktop) {
+      padding: $global-spacing $article-spacing rem(30px) $article-spacing;
+    }
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      border-top: 1px solid #ccc;
+
+      @include mq(desktop) {
+        right: $global-spacing;
+        left: $global-spacing;
+      }
+    }
+  }
+
+  &--welect-available &__welect--is-available {
+    display: block;
+  }
+
+  &--welect-unavailable &__welect--is-unavailable {
+    display: block;
+  }
+
+  &__welect-text {
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__welect-link {
+    position: relative;
+    display: inline-block;
+    font-weight: $global-font-weight-sans-serif-regular;
+    white-space: nowrap;
+  }
+
+  &--welect-available &__welect-link {
+    padding-left: rem(24px);
+
+    &::before {
+      @extend %icon-video-black;
+
+      content: '';
+      position: absolute;
+      left: 0;
+      width: rem(20px);
+      height: rem(20px);
+    }
+  }
+
+  &__login {
+    @include global-sans-serif-font-size(3);
+  }
+}

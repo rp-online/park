@@ -1,0 +1,31 @@
+<section class="park-new-validation-email">
+  {%  set html = '<p class="park-new-validation-email__paragraph">' ~ text ~ '</p>' %}
+  {% include 'components/form/template.twig' with {
+    'notification': notification,
+    'vertical': true,
+    'action': form.action,
+    'method': form.method,
+    'headline': headline,
+    'submit': 'absenden',
+    'children': [
+      {
+        'component': 'html',
+        'data': {
+          'html': html
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'name': 'login',
+          'value': form.login,
+          'autocomplete': 'nickname',
+          'label': 'Benutzername / E-Mail-Adresse',
+          'required': true,
+          'validationMessage': form.validationMessage
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</section>

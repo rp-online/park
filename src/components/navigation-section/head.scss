@@ -1,0 +1,32 @@
+.park-navigation-section {
+  padding: rem(10px) 0 $global-spacing 0;
+
+  &__headline {
+    display: block;
+    margin-bottom: $global-spacing;
+    padding: rem(2px) rem(15px);
+    background-color: rgba(0, 0, 0, 0.05);
+    font-size: rem(13px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (25 / 13);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+
+  &__items {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: $global-spacing;
+  }
+
+  &__item {
+    flex: 1 0 50%;
+    padding: rem(4px);
+    line-height: rem(32px);
+  }
+
+  &__item-link {
+    color: inherit;
+  }
+}

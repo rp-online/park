@@ -1,0 +1,51 @@
+.park-textarea {
+  @extend %input-groups;
+
+  &__label {
+    @extend %labels;
+  }
+
+  &__label--is-hidden {
+    @extend %labels--hidden;
+  }
+
+  &__required {
+    @extend %labels-required;
+  }
+
+  &__textarea {
+    @extend %inputs;
+
+    min-height: rem(100px);
+  }
+
+  &[data-validation-message] &__textarea:not(:focus),
+  &--was-touched &__textarea:invalid:not(:focus) {
+    @extend %input-invalid-marker;
+
+    background-position: right rem(12px) top rem(12px);
+    border-bottom-color: $global-error-color;
+  }
+
+  &__hint {
+    -ms-grid-column: 2;
+    -ms-grid-column-span: 1;
+    grid-column: 2 / 3;
+    float: right;
+    margin-top: rem(3px);
+    margin-bottom: rem(-23px);
+    font-size: rem(10px);
+    line-height: (20 / 10);
+    text-align: right;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+  }
+
+  &[data-validation-message] &__textarea ~ &__hint,
+  &--was-touched &__textarea:invalid ~ &__hint {
+    @include visuallyhidden;
+  }
+}

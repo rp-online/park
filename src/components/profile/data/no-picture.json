@@ -1,0 +1,31 @@
+{
+  "id": "H12345",
+  "name": {
+    "tag": "h2",
+    "text": "Max Mustermann"
+  },
+  "bio": "Max Mustermann (mamu) ist Social-Media-Redakteur bei RP ONLINE",
+  "longBio": "Er wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Seinen Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat er in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist er über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo er von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\r\n\r\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+  "contact": [
+    {
+      "type": "facebook",
+      "href": "https://www.facebook.com/maxmustermann",
+      "text": "maxmustermann"
+    },
+    {
+      "type": "twitter",
+      "href": "https://twitter.com/maxmustermann",
+      "text": "@maxmustermann"
+    },
+    {
+      "type": "email",
+      "href": "mailto:max.mustermann@rp-online.de",
+      "text": "Kontakt"
+    },
+    {
+      "type": "link",
+      "href": "http://www.max-mustermann.de",
+      "text": "Webseite"
+    }
+  ]
+}

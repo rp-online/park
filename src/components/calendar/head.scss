@@ -1,0 +1,125 @@
+@mixin park-calendar-option {
+  background-color: $global-brand-color;
+  color: #fff;
+  font-weight: $global-font-weight-sans-serif-bold;
+}
+
+.park-calendar {
+  margin-bottom: $global-spacing;
+
+  &__date-fragments {
+    display: block;
+
+    @include mq(desktop) {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+
+  &__date-fragment {
+    position: relative;
+    flex: 1 1 33%;
+    min-width: 0;
+    padding: rem(60px) rem(15px) rem(30px) rem(15px);
+    border-top: 1px solid #ccc;
+
+    @include mq(desktop) {
+      border-top: none;
+      border-left: 1px solid #ccc;
+    }
+
+    &:first-child {
+      border-top: none;
+      border-left: none;
+    }
+  }
+
+  &__option-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    max-width: rem(280px);
+    margin-left: auto;
+    margin-right: auto;
+
+    &::before {
+      @include global-font-family-sans-serif;
+      @include global-sans-serif-font-size(2);
+
+      content: attr(title);
+      position: absolute;
+      top: $global-spacing;
+      left: 0;
+      width: 100%;
+      font-weight: $global-font-weight-sans-serif-bold;
+      text-align: center;
+    }
+  }
+
+  &__option {
+    @include global-sans-serif-font-size(3);
+
+    flex: 0 1 auto;
+    margin-left: rem(7px);
+    margin-right: rem(7px);
+    margin-bottom: rem(10px);
+    color: $global-color-text-black;
+    font-weight: $global-font-weight-sans-serif-regular;
+    line-height: (26 / 14);
+    text-align: center;
+    transition-property: background-color;
+    transition-duration: 600ms;
+
+    &[aria-current] {
+      font-weight: $global-font-weight-sans-serif-bold;
+    }
+  }
+
+  &__option-list:not(:hover) &__option[aria-current] {
+    @include park-calendar-option;
+
+    transition-duration: 300ms;
+  }
+
+  &__option-list--year &__option,
+  &__option-list--month &__option {
+    width: calc(25% - #{rem(2px)});
+    margin-left: rem(1px);
+    margin-right: rem(1px);
+  }
+
+  &__option-list--day &__option {
+    width: rem(25px);
+  }
+
+  &__option,
+  &__link,
+  &__disabled {
+    vertical-align: baseline;
+  }
+
+  &__link,
+  &__disabled {
+    display: inline-block;
+    width: 100%;
+    color: inherit;
+  }
+
+  &__link {
+    transition-property: background-color;
+    transition-duration: 600ms;
+
+    &:focus,
+    &:hover {
+      @include park-calendar-option;
+
+      transition-duration: 0ms;
+    }
+  }
+
+  &__disabled {
+    opacity: 0.5;
+    pointer-events: none;
+  }
+}

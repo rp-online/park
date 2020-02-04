@@ -1,0 +1,194 @@
+$park-floating-bell-button-distance: rem(60px);
+
+@keyframes park-floating-bell-button-settings-show {
+  from {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-225deg) translateY($park-floating-bell-button-distance) rotate(225deg);
+    opacity: 0;
+  }
+
+  to {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-180deg) translateY($park-floating-bell-button-distance) rotate(180deg);
+    opacity: 1;
+  }
+}
+
+@keyframes park-floating-bell-button-settings-hide {
+  from {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-180deg) translateY($park-floating-bell-button-distance) rotate(180deg);
+    opacity: 1;
+  }
+
+  to {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-225deg) translateY($park-floating-bell-button-distance) rotate(225deg);
+    opacity: 0;
+  }
+}
+
+@keyframes park-floating-bell-button-hide-show {
+  from {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-225deg) translateY($park-floating-bell-button-distance) rotate(225deg);
+    opacity: 0;
+  }
+
+  to {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-112.5deg) translateY($park-floating-bell-button-distance) rotate(112.5deg);
+    opacity: 1;
+  }
+}
+
+@keyframes park-floating-bell-button-hide-hide {
+  from {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-112.5deg) translateY($park-floating-bell-button-distance) rotate(112.5deg);
+    opacity: 1;
+  }
+
+  to {
+    transform: translate(rem(-20px), rem(-20px)) rotate(-225deg) translateY($park-floating-bell-button-distance) rotate(225deg);
+    opacity: 0;
+  }
+}
+
+.park-floating-bell {
+  position: fixed;
+  z-index: 3;
+  bottom: $global-spacing;
+  left: $global-spacing;
+  display: none;
+  width: rem(60px);
+  height: rem(60px);
+  background-color: $global-brand-color;
+  color: $global-brand-color;
+  box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12), 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+  cursor: pointer;
+  animation: park-fade-in 0.3s;
+
+  @include mq(desktop) {
+    bottom: (2 * $global-spacing);
+    left: (2 * $global-spacing);
+  }
+
+  @media screen and (min-width: #{em(1610px)}) {
+    left: calc(((100vw - #{($global-container-width)}) / 2) + #{$global-spacing});
+  }
+
+  &:hover {
+    background-color: lighten($global-brand-color, 10);
+  }
+
+  &:hover::after {
+    content: '';
+    position: absolute;
+    z-index: -2;
+    top: rem(-80px);
+    right: rem(-80px);
+    bottom: rem(-15px);
+    left: rem(-15px);
+  }
+
+  &,
+  &__menuitem {
+    border-radius: 50%;
+    backface-visibility: hidden;
+  }
+
+  &__menu {
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 50%;
+  }
+
+  > svg,
+  &__menutitem,
+  &__button {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+  }
+
+  > svg {
+    width: rem(24px);
+    height: rem(30px);
+    fill: #fff;
+    transform: translate(-50%, -50%);
+  }
+
+  &__button {
+    width: rem(40px);
+    height: rem(40px);
+    background-color: $global-color-text-black;
+    color: #fff;
+    border: none;
+    border-radius: 50%;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+    animation-duration: 1s;
+    animation-delay: -1s;
+    animation-fill-mode: both;
+    backface-visibility: hidden;
+
+    .park-floating-bell--animations-enabled & {
+      animation-delay: 0s;
+    }
+
+    > svg {
+      fill: currentColor;
+    }
+
+    &::after {
+      position: absolute;
+      padding: rem(2px) rem(6px);
+      background-color: $global-color-text-black;
+      color: #fff;
+      box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+      opacity: 0;
+      backface-visibility: hidden;
+      white-space: nowrap;
+    }
+
+    &:hover {
+      background-color: #fff;
+      color: $global-color-text-black;
+    }
+
+    &:hover::after {
+      content: attr(aria-label);
+      animation: park-fade-in 0.3s;
+      animation-fill-mode: both;
+    }
+  }
+
+  &__button--settings {
+    animation-name: park-floating-bell-button-settings-hide;
+
+    .park-floating-bell--animations-enabled & {
+      animation-delay: 0.1s;
+    }
+
+    &::after {
+      bottom: rem(55px);
+      left: rem(-15px);
+    }
+  }
+
+  &:hover &__button--settings,
+  &:focus &__button--settings {
+    animation-name: park-floating-bell-button-settings-show;
+    animation-duration: 0.6s;
+  }
+
+  &__button--hide {
+    animation-name: park-floating-bell-button-hide-hide;
+
+    &::after {
+      top: 50%;
+      left: rem(55px);
+      transform: translateY(-50%);
+    }
+  }
+
+  &:hover &__button--hide,
+  &:focus &__button--hide {
+    animation-name: park-floating-bell-button-hide-show;
+    animation-duration: 0.6s;
+  }
+}

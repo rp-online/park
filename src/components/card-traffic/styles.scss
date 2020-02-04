@@ -1,0 +1,118 @@
+.park-card-traffic {
+  @include card-status-styles;
+  @include global-sans-serif-font-size(2);
+
+  position: relative;
+  z-index: 0;
+  display: block;
+  height: 100%;
+  padding: rem(9px) rem(10px);
+  background-color: #fff;
+  color: $global-color-text-black;
+  outline: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08), 1px 1px 2px 0 rgba(0, 0, 0, 0.17);
+
+  &__headline {
+    display: inline;
+    margin-bottom: rem(2px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (20 / 16);
+    vertical-align: baseline;
+  }
+
+  &__badge {
+    @include global-sans-serif-font-size(3);
+
+    position: relative;
+    z-index: 1;
+    display: inline-block;
+    width: rem(40px);
+    height: rem(24px);
+    font-style: normal;
+    background-color: #fff;
+    color: $global-color-text-black;
+    border-width: 2px;
+    border-style: solid;
+    border-color: currentColor;
+    border-radius: rem(3px);
+    box-shadow: 0 0 0 1px #fff;
+    text-align: center;
+    text-transform: capitalize;
+
+    &[data-badge^="a"],
+    &[data-badge^="A"] {
+      padding: 2px;
+      background-color: #fff;
+      color: #fff;
+      border: none;
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+      perspective: 100px;
+
+      &::before,
+      &::after {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        top: 0;
+        bottom: 0;
+        width: 90%;
+        height: rem(22px);
+        margin: auto;
+        background-color: rgba(21, 72, 137, 1);
+        border-top: 1px solid rgba(21, 72, 137, 0);
+        border-bottom: 1px solid rgba(21, 72, 137, 0);
+      }
+
+      &::before {
+        right: 50%;
+        transform-origin: right center;
+        transform: rotateY(-50deg);
+      }
+
+      &::after {
+        left: 50%;
+        transform-origin: left center;
+        transform: rotateY(50deg);
+      }
+    }
+
+    &[data-badge^="b"],
+    &[data-badge^="B"] {
+      background-color: #f0ca00;
+      color: $global-color-text-black;
+      box-shadow: 0 0 0 1px #f0ca00;
+    }
+
+    &[data-badge^="e"],
+    &[data-badge^="E"] {
+      background-color: #008754;
+      color: #fff;
+      box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.25);
+    }
+  }
+
+  &__time {
+    margin: 0 rem(2px) 0 0;
+    font-weight: $global-font-weight-sans-serif-regular;
+  }
+
+  &__badge + &__time {
+    margin: 0 rem(2px);
+  }
+
+  &__badge,
+  &__time {
+    vertical-align: baseline;
+  }
+
+  &__text {
+    @include richtext;
+
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 5;
+    overflow: hidden;
+    line-height: (20 / 16);
+    vertical-align: baseline;
+  }
+}

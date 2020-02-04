@@ -1,0 +1,1425 @@
+{
+  "title": "S Corpus Immobilienmakler",
+  "globals": {
+    "rootBase": "https://rp-online.de",
+    "assetsBase": "https://rp-online.de/assets",
+    "title": "S Corpus Immobilienmakler",
+    "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1526442129",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Die neuesten Nachrichten, Bilder und Videos aus Politik, Wirtschaft, Sport, Kultur, Gesellschaft, Auto, Digitale Welt sowie Düsseldorf und ganz NRW."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "advertorial",
+      "subressort": "",
+      "dossier": "s-corpus-immobilienmakler",
+      "contentType": "Index",
+      "analyticsUrl": "https://rp-online.de/nrw/staedte/duesseldorf/s-corpus-immobilienmakler",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/",
+      "rho_url": "https://rp-online.de//r.rp-online.de/images/pic.gif?m=rp&b=8791657&cstr=7200778&l=&tit=S+Corpus+Immobilienmakler&url=https%3A%2F%2Frp-online.de%2Fadvertorial%2Fs-corpus-immobilienmakler%2F&sep=%7C&tce=1&tid=64380&tn=64377&tp=50327%7C64377&tpn=50327%7C64377&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": true,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "https://rp-online.de//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "https://rp-online.de//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "https://rp-online.de//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "https://rp-online.de//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "https://rp-online.de//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "https://rp-online.de//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 7200778,
+      "doctype": "section",
+      "contentid": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/",
+      "channel": 64377,
+      "subchannel": 64380,
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/advertorial/s-corpus-immobilienmakler/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/nrw/staedte/duesseldorf/s-corpus-immobilienmakler"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Wohnen",
+        "sv": "i2",
+        "co": "https://rp-online.de/nrw/staedte/duesseldorf/s-corpus-immobilienmakler"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Thema-Wohnen",
+        "sv": "mo",
+        "co": "https://rp-online.de/nrw/staedte/duesseldorf/s-corpus-immobilienmakler"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "https://rp-online.de///xxx",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "https://rp-online.de///xxx",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "https://rp-online.de///xxx",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "s-corpus-immobilienmakler",
+          "pfad3": "stop",
+          "oms": "xxx",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "s-corpus-immobilienmakler",
+          "pfad3": "stop",
+          "oms": "xxx",
+          "mode": "desktop"
+        },
+        "zone": "xxx"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "ist",
+            "adUnitPath": "https://rp-online.de///xxx",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "https://rp-online.de///xxx",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "s-corpus-immobilienmakler",
+          "pfad3": "stop",
+          "oms": "xxx",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "s-corpus-immobilienmakler",
+          "pfad3": "stop",
+          "oms": "xxx",
+          "mode": "mobile"
+        },
+        "zone": "xxx"
+      },
+      "reloadFrequency": "5"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/von-der-niedrigzinsphase-profitieren-vor-allem-investoren_aid-22575833"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/sechs-eigentumswohnungen-in-einem-der-gruensten-stadtteile-duesseldorfs_aid-18930751"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/zeitgemaesses-wohnen-in-historischem-ambiente_aid-20599679"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/historische-stadthaeuser-zu-neuem-leben-erweckt_aid-20599791"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/sicher-in-duesseldorf-unterbilk-parken-nemo-sei-dank_aid-18932343"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/wenn-das-haus-zur-belastung-wird_aid-16465579"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/komfortable-parkplaetze-in-den-karolinger-hoefen_aid-20768859"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/modernes-wohnen-im-gruenen_aid-20751119"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "url": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/vorhang-auf-fuer-das-ria-oberkassel_aid-17947975"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>"
+    }
+  },
+  "outofpage": {
+    "desktop": {
+      "type": "interstitial",
+      "html": "<div id=\"out-of-page\"></div>"
+    },
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"ist\"></div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "https://rp-online.de/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "https://rp-online.de/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "https://rp-online.de/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "https://rp-online.de/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "https://rp-online.de/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "https://rp-online.de/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "https://rp-online.de/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "https://rp-online.de/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "https://rp-online.de/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "https://rp-online.de/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "https://rp-online.de/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "https://rp-online.de/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "https://rp-online.de/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "https://rp-online.de/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "https://rp-online.de/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erklären Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "Mehr Informationen"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-rectangle",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"banner\"></div>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "",
+                        "href": "https://rp-online.de/",
+                        "isHidden": true
+                      },
+                      {
+                        "text": "Advertorial",
+                        "href": "https://rp-online.de/advertorial/",
+                        "isHidden": false
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "S Corpus"
+                    }
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "isAd": true,
+                    "id": 22575833,
+                    "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/von-der-niedrigzinsphase-profitieren-vor-allem-investoren_aid-22575833",
+                    "type": "article",
+                    "headline": {
+                      "tag": "span",
+                      "text": "„Von der Niedrigzinsphase profitieren vor allem Investoren“\n"
+                    },
+                    "intro": "Meine Funktion bei der S Corpus umfasst als Projektleiter sowohl die Tätigkeit als Immobilienmakler - also die Bewertung und den Vertrieb von Immobilien - als auch die Betreuung der Stadtsparkasse Düsseldorf. ",
+                    "src": "https://rp-online.de/imgs/32/2/5/9/9/6/1/4/7/tok_f718bd7f85a48d73540190a3fea3080f/w490_h368_x1644_y925_Kambiz_Payandeh_quer-777f5a1c5cff9e45.png",
+                    "alt": "",
+                    "orig_src": "https://rp-online.de/imgs/32/2/5/9/9/6/1/4/7/Kambiz_Payandeh_quer-777f5a1c5cff9e45.png",
+                    "source": "",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Interview mit Kambiz Payandeh\n"
+                    },
+                    "backgroundColor": "rgba(26, 30, 37,1)",
+                    "backgroundLuma": 30.5054
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "isAd": true,
+                        "id": 18930751,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/sechs-eigentumswohnungen-in-einem-der-gruensten-stadtteile-duesseldorfs_aid-18930751",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Sechs Eigentumswohnungen in einem der „grünsten“ Stadtteile Düsseldorfs"
+                        },
+                        "intro": "Leben in Lörick ist mehr als nur Wohnen. DIEPROJEKTISTEN errichten in der Walther-Hensel-Straße 7A sechs praktisch aufgeteilte und großzügig geschnittene Zwei- bis Fünf-Zimmer-Eigentumswohnungen – das Projekt Leben - Lieben - Lörick.",
+                        "src": "https://rp-online.de/imgs/32/2/1/9/1/5/1/8/7/tok_e6f471d1afb608380c7fdbdd0e01512c/w490_h368_x470_y264_65c6b50aafedbf61.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/1/9/1/5/1/8/7/65c6b50aafedbf61.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Neubauprojekt Leben - Lieben - Lörick"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 20599679,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/zeitgemaesses-wohnen-in-historischem-ambiente_aid-20599679",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Zeitgemäßes Wohnen in historischem Ambiente"
+                        },
+                        "intro": "Entworfen vom bekannten Düsseldorfer Architekten Bruno Lambart, ist die Schillerstraße 12 ein gelungenes Beispiel der Architektur der 1950er Jahre. Den Charakter dieser modernen Formsprache wird NIDUS zeitgemäß weiterentwickeln.",
+                        "src": "https://rp-online.de/imgs/32/2/3/6/7/0/3/9/5/tok_b59f09db6fe747c29a732d0b5da74c10/w490_h368_x470_y264_808cef191a806b03.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/3/6/7/0/3/9/5/808cef191a806b03.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Schillerstraße 12"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Immobilienverkauf leicht gemacht - Für Sie vor Ort"
+                    },
+                    "items": [
+                      {
+                        "href": "https://www.s-corpus.de/standorte/standort-duesseldorf/",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Ihre Ansprechpartner in Düsseldorf"
+                        },
+                        "src": "https://rp-online.de/imgs/33/2/1/0/4/2/2/9/5/tok_9ed57aca9e3d5916e10fee0d9a9ea67b/w306_h175_x500_y333_MDB_1685_D_sseldorf-5ac386222b0aa3f7.jpg",
+                        "type": "image"
+                      },
+                      {
+                        "href": "https://www.s-corpus.de/standorte/standort-koeln/",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Ihre Ansprechpartner in Köln"
+                        },
+                        "src": "https://rp-online.de/imgs/33/2/1/0/4/2/2/9/5/tok_4778bfa8669d528f5714f8decac6722c/w306_h175_x500_y333_1.7020854-021efe1d20f13176.jpg",
+                        "type": "image"
+                      },
+                      {
+                        "href": "https://www.s-corpus.de/standorte/standort-bonn/",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Ihre Ansprechpartner in Bonn"
+                        },
+                        "src": "https://rp-online.de/imgs/33/2/1/0/4/2/2/9/5/tok_2ad8ec9c064883b1811abb9f73c430ae/w306_h175_x500_y334_1.7020852-0f087ca9e1eee8d4.jpg",
+                        "type": "image"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-image-list",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": ""
+                    },
+                    "items": [
+                      {
+                        "id": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Gefällt mir!"
+                        },
+                        "headline": {
+                          "tag": "h2",
+                          "text": "S Corpus bei Facebook"
+                        },
+                        "href": "https://www.facebook.com/scorpus/",
+                        "isAd": true,
+                        "src": "https://rp-online.de/imgs/33/2/4/5/9/9/9/3/9/tok_99bc3b17457f786cad8427b0dbb0346e/w100_h75_x125_y125_flogo_rgb_hex-brc-site-250-079887da8de7ce6b.png"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "isAd": true,
+                        "id": 20599791,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/historische-stadthaeuser-zu-neuem-leben-erweckt_aid-20599791",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Historische Stadthäuser zu neuem Leben erweckt"
+                        },
+                        "intro": "Die NIDUS GmbH, ein Projektentwickler mit Sitz in Düsseldorf, hat es sich zum Ziel gesetzt, zeitgemäße Wohnkonzepte im historischen Bestand zu entwickeln.",
+                        "src": "https://rp-online.de/imgs/32/2/3/6/7/0/5/0/7/tok_2c2b870b73b8b969f32d32b3d59c1986/w490_h368_x470_y264_38c3c59c6d68d17a.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/3/6/7/0/5/0/7/38c3c59c6d68d17a.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Wohnprojekt An Sankt Swidbert"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 18932343,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/sicher-in-duesseldorf-unterbilk-parken-nemo-sei-dank_aid-18932343",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Sicher in Düsseldorf-Unterbilk parken - NeMo sei Dank"
+                        },
+                        "intro": "NeMo - das steht nicht etwa für den Clownfisch aus dem bekannten Disneyfilm, sondern ist der Name des neuen Wohnblocks an der Neusser-/Moselstraße in Düsseldorf-Unterbilk, in unmittelbarer Nähe zu Rhein, Landtag und Altstadt.",
+                        "src": "https://rp-online.de/imgs/32/2/1/9/1/7/1/2/1/tok_85035fa736da85946e9a14c9665f5228/w490_h368_x470_y264_0b2ea68806ab0331.JPG",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/1/9/1/7/1/2/1/0b2ea68806ab0331.JPG",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fünf Stellplätze vor dem Rheinturm verfügbar"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-headline",
+                  "data": {
+                    "tag": "span",
+                    "text": "Kontakt und weitere Infos"
+                  }
+                },
+                {
+                  "component": "html",
+                  "data": {
+                    "html": "<article class=\"park-teaser-collection\">\r\n    <ul class=\"park-teaser-collection__list\">\r\n                              <li class=\"park-teaser-collection__list-item\">\r\n                                        <article class=\"park-teaser park-teaser--sugardaddy\">\r\n    \r\n              <div class=\"park-teaser__image park-teaser__image--article\">\r\n<a href=\"http://www.s-corpus.de\" target=\"_blank\" rel=\"nofollow\">\r\n                        <img src=\"https://www-prod.rp-online.de/imgs/32/2/4/5/2/5/9/7/1/S_Corpus_Logo_261_196-1756e2086d8f3616.png\" alt=\"\" data-src=\"https://www-prod.rp-online.de/imgs/32/2/4/5/2/5/9/7/1/S_Corpus_Logo_261_196-1756e2086d8f3616.png\" width=\"261\" height=\"196\" style=\"background-image: url(https://www-prod.rp-online.de/imgs/32/2/4/5/2/5/9/7/1/S_Corpus_Logo_261_196-1756e2086d8f3616.png); background-size: cover\" async=\"on\" decoding=\"async\" class=\"park-image from-cache\">\r\n</a>\r\n\r\n<!--[IF !IE]> -->\r\n  <!--[IF !IE]> -->\r\n  <script>\r\n    (function() {\r\n      var elem = window.park.$('div.park-image').pop();\r\n\r\n      window.park.lazyLoad(elem);\r\n    })();\r\n  </script>\r\n                  </div>\r\n            <div class=\"park-teaser__body\">\r\n        <header>\r\n          <span class=\"park-teaser__headlines\">\r\n                      <span class=\"park-teaser__kicker\"></span>\r\n          :             <span class=\"park-teaser__headline\">S Corpus Immobilienmakler GmbH Büro Düsseldorf \r\n<p style=\"line-height: 75%\"><font size=\"2\"> Berliner Allee 27-29, 40212 Düsseldorf</br>\r\n\r\nTel. 0211/ 15978 – 400</br>\r\nEmail: <a href=\"mailto:duesseldorf@s-corpus.de\" rel=\"nofollow\" target=\"_blank\">duesseldorf@s-corpus.de</a></br>\r\n<strong><a href=\"http://www.s-corpus.de\" target=\"_blank\" rel=\"nofollow\">www.s-corpus.de</a> </strong></font></p></span>\r\n                  </span>\r\n \r\n        </header>\r\n      \r\n      </div>\r\n    \r\n    <aside>\r\n          </aside>\r\n      </article>\r\n          </li>\r\n          </ul>\r\n</article>"
+                  }
+                },
+                {
+                  "component": "teaser-image-list",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Vertriebsprojekte"
+                    },
+                    "items": [
+                      {
+                        "id": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Heymat Gerresheim"
+                        },
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Heymat ist, wo das Herz wohnt"
+                        },
+                        "href": "http://www.heymat-duesseldorf.de",
+                        "isAd": false,
+                        "src": "https://rp-online.de/imgs/33/2/1/0/3/2/1/8/1/tok_8b6913d194bd75ff5954fe03d20bab0c/w100_h75_x577_y432_1.6791719-4f261a0394d553c7.jpg"
+                      },
+                      {
+                        "id": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "StadtGrün Wittlaer"
+                        },
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Wo Düsseldorf am schönsten ist"
+                        },
+                        "href": "http://www.stadt-gruen-wittlaer.de/",
+                        "isAd": false,
+                        "src": "https://rp-online.de/imgs/33/2/1/0/3/2/1/8/1/tok_da6cbf3f7a49ed6a79bbe99c89b993b7/w100_h75_x1796_y898_21d97cf23ca644c497240b6ed574e2bf-526e63805977161d.jpg"
+                      },
+                      {
+                        "id": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "RIA Oberkassel"
+                        },
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Genießen Sie mit allen Sinnen das Leben"
+                        },
+                        "href": "http://www.ria-oberkassel.de",
+                        "isAd": false,
+                        "src": "https://rp-online.de/imgs/33/2/1/0/3/2/1/8/1/tok_670c3df11b484a2213de4ff450f3975c/w100_h75_x1500_y844_03c318dbb46e4a5191c5d57ac3d56b84-8b2e54af63d7b6c3.jpg"
+                      },
+                      {
+                        "id": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Vierzig549"
+                        },
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Zuhause in Heerdt"
+                        },
+                        "href": "http://www.vierzig549.de/",
+                        "isAd": false,
+                        "src": "https://rp-online.de/imgs/33/2/1/0/3/2/1/8/1/tok_fad20a2c0e60fd65e9b8930547886dc1/w100_h75_x591_y422_1.5881182-7a8be73aa946593b.jpg"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "isAd": true,
+                        "id": 16465579,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/wenn-das-haus-zur-belastung-wird_aid-16465579",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Wenn das Haus zur Belastung wird"
+                        },
+                        "intro": "Gerade für Senioren kann der Aufwand, ein Haus zu unterhalten, zur Plage werden. Für sie ist oft ein Verkauf des Eigenheims eine willkommene Lösung.",
+                        "src": "https://rp-online.de/imgs/32/1/9/2/8/2/8/6/7/tok_65689b4847bdce3f2b43dd10e378cfd2/w490_h368_x310_y232_409dba5e9831af1c.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/1/9/2/8/2/8/6/7/409dba5e9831af1c.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Senioren und Immobilien"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 20768859,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/komfortable-parkplaetze-in-den-karolinger-hoefen_aid-20768859",
+                        "type": "article",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Komfortable Parkplätze in den Karolinger Höfen"
+                        },
+                        "intro": "Mitten in Bilk wächst das neue Wohnquartier Karolinger Höfe heran. Den trendigen Stadtteil zeichnet aber wie ganz Düsseldorf eines aus: Parkplatzmangel. Ob Oldtimer, Limousine, SUV, Cabrio oder Sportwagen – sie alle haben eines gemeinsam – es ist schwierig einen Parkplatz zu finden.",
+                        "src": "https://rp-online.de/imgs/32/2/3/8/4/5/6/6/5/tok_533f75cd70a2f01184a7b79f2c556e24/w490_h368_x310_y232_4437503bdb49141a.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/3/8/4/5/6/6/5/4437503bdb49141a.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Düsseldorf-Bilk"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 20751119,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/modernes-wohnen-im-gruenen_aid-20751119",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Modernes Wohnen im Grünen"
+                        },
+                        "intro": "Individuelle Eigentumswohnungen mit Wohlfühlcharakter und in vielversprechender Wohnlage realisiert die BPD Immobilienentwicklung GmbH im Aachener Stadtteil Eilendorf.",
+                        "src": "https://rp-online.de/imgs/32/2/3/8/2/7/0/5/1/tok_47ecddec2e5a2eca627987757b9421b6/w490_h368_x470_y264_3ba7fa0d6ef71387.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/3/8/2/7/0/5/1/3ba7fa0d6ef71387.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "BachTerrassen"
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "id": 17947975,
+                        "href": "https://rp-online.de/advertorial/s-corpus-immobilienmakler/vorhang-auf-fuer-das-ria-oberkassel_aid-17947975",
+                        "type": "bild",
+                        "headline": {
+                          "tag": "span",
+                          "text": "Vorhang auf für das RIA Oberkassel"
+                        },
+                        "intro": "Mit dem Neubauprojekt \"RIA Oberkassel\" entstehen in einem der begehrtesten Stadtteile Düsseldorfs 51 variantenreiche Wohneinheiten. Der Projektentwickler BPD Immobilienentwicklung GmbH plant und baut das gesamte Ensemble.",
+                        "src": "https://rp-online.de/imgs/32/2/0/8/9/9/3/3/3/tok_bc0a66bf81d1a72adbec45360053b69b/w490_h368_x470_y264_2ce5466fe9c46640.jpg",
+                        "alt": "",
+                        "orig_src": "https://rp-online.de/imgs/32/2/0/8/9/9/3/3/3/2ce5466fe9c46640.jpg",
+                        "source": "",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Neubauprojekt in Düsseldorf"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div class=\"park-section-headline\"><span class=\"park-section-headline__text\">Video</span></div>\r\n<iframe width=\"100%\" height=\"\"  src=\"https://www.youtube.com/embed/328Qi3gQtNY\" frameborder=\"0\" allowfullscreen></iframe>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div class=\"park-section-headline\"><span class=\"park-section-headline__text\">Video</span></div>\r\n<iframe width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/328Qi3gQtNY\" frameborder=\"0\" allowfullscreen></iframe>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "https://rp-online.de/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https://rp-online.de/api/tree?output=navigation&currentNode=64380"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "https://rp-online.de/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/"
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/"
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "https://rp-online.de/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de"
+            },
+            {
+              "text": "Digitale Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/"
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#stadtauswahl",
+          "text": "Städte",
+          "href": "https://rp-online.de/nrw/staedte",
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "https://rp-online.de/nrw/staedte/dinslaken/",
+              "featured": true,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "https://rp-online.de/nrw/staedte/dormagen/",
+              "featured": true,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "https://rp-online.de/nrw/staedte/duesseldorf/",
+              "featured": true,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "https://rp-online.de/nrw/staedte/duisburg/",
+              "featured": true,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "https://rp-online.de/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "https://rp-online.de/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "https://rp-online.de/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "https://rp-online.de/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "https://rp-online.de/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "https://rp-online.de/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "https://rp-online.de/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "https://rp-online.de/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "https://rp-online.de/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "https://rp-online.de/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "Hünxe",
+              "href": "https://rp-online.de/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "https://rp-online.de/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "https://rp-online.de/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "https://rp-online.de/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "https://rp-online.de/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "https://rp-online.de/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "https://rp-online.de/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "Köln",
+              "href": "https://rp-online.de/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "https://rp-online.de/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "https://rp-online.de/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "https://rp-online.de/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "https://rp-online.de/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "https://rp-online.de/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "https://rp-online.de/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "https://rp-online.de/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "https://rp-online.de/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "https://rp-online.de/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "https://rp-online.de/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "https://rp-online.de/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "https://rp-online.de/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "https://rp-online.de/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "https://rp-online.de/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "https://rp-online.de/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "https://rp-online.de/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "https://rp-online.de/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "https://rp-online.de/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "https://rp-online.de/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "https://rp-online.de/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "https://rp-online.de/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "https://rp-online.de/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "https://rp-online.de/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "https://rp-online.de/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "https://rp-online.de/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "https://rp-online.de/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "https://rp-online.de/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "Wülfrath",
+              "href": "https://rp-online.de/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "https://rp-online.de/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "https://rp-online.de/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "https://rp-online.de/nrw/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#nrw"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "https://rp-online.de/wirtschaft/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "https://rp-online.de/politik/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "https://rp-online.de/sport/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "https://rp-online.de/kultur/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "https://rp-online.de/panorama/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "https://rp-online.de/digitales/",
+          "target": "_self",
+          "icon": "https://rp-online.de/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "https://rp-online.de/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

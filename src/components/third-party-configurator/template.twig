@@ -1,0 +1,13 @@
+<ul class="park-third-party-configurator">
+  {% if items is defined and items is iterable %}
+    {% for item in items %}
+      <li class="park-third-party-configurator__item">
+        {% include 'components/input/template.twig' with {
+          'type': 'checkbox',
+          'name': item.name,
+          'label': item.description
+        } %}
+      </li>
+    {% endfor %}
+  {% endif %}
+</ul>

@@ -1,0 +1,6 @@
+{% if text is defined and text %}
+  <div
+  {% if id is defined %} id="{{ id }}"{% endif %}
+  {% if prefix is defined and prefix %} aria-hidden="true"{% endif %}
+  class="park-section-headline">{% if prefix is defined and prefix %}{{ prefix }} {% endif %}<{{ tag }} class="park-section-headline__text">{{ text }}</{{ tag }}></div>
+{% endif %}

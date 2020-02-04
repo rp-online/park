@@ -1,0 +1,1 @@
+Diese Komponente ist eine Hilfskomponente, die alle Links, die auf ein Bild zeigen, derart umwandelt, dass die Zielbilder in einem Overlay aufgehen.

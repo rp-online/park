@@ -1,0 +1,11 @@
+<article class="park-breaking">
+  <a href="{{ href }}" class="park-breaking__link">
+    +++ Eilmeldung +++
+    <{{ headline.tag }} class="park-breaking__headlines">
+    <span class="park-breaking__headline">{{ headline.text }}</span>
+    {% if kicker is defined and kicker.text is defined and kicker.text %}
+     : <span class="park-breaking__kicker">{{ kicker.text | raw }}</span>
+    {% endif %}
+  </{{ headline.tag }}>
+  </a>
+</article>

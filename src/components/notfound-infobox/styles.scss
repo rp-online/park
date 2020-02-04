@@ -1,0 +1,94 @@
+.park-notfound-infobox {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  margin-bottom: $global-spacing;
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+  border-bottom: 2px solid $global-error-color;
+  pointer-events: auto;
+
+  @include mq(desktop) {
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.17);
+    animation-name: park-slide-down;
+    animation-duration: 600ms;
+  }
+
+  &--is-closed {
+    display: none;
+  }
+
+  &__headline,
+  &__text {
+    margin-bottom: $global-spacing;
+    text-align: center;
+  }
+
+  &__headline {
+    @include global-sans-serif-font-size(1);
+
+    display: block;
+    vertical-align: baseline;
+
+    &::before {
+      content: '';
+      display: inline-block;
+      width: rem(20px);
+      height: rem(20px);
+      margin-right: rem(6px);
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 18 18' version='1.1' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2 0h14a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V2C0 .9.9 0 2 0zm6.27 11.25h1.46l.32-4.7.07-2.05H7.88l.07 2.04.32 4.71zM9 14.63a1.1 1.1 0 0 0 1.13-1.12A1.1 1.1 0 0 0 9 12.38a1.1 1.1 0 0 0-1.13 1.13c0 .63.49 1.12 1.13 1.12z' fill='%23c00000'/%3E%3C/svg%3E");
+      background-size: rem(20px) rem(20px);
+      background-color: #fff;
+      border-radius: rem(2px);
+    }
+  }
+
+  &__text {
+    @include global-sans-serif-font-size(2);
+  }
+
+  .park-searchform__form {
+    display: flex;
+    flex-direction: row;
+    max-width: rem(600px);
+    margin: 0 auto;
+  }
+
+  .park-searchform__form {
+    background-color: #fff;
+  }
+
+  .park-searchform__submit {
+    @include button;
+
+    position: static;
+    width: auto;
+    height: auto;
+    padding: rem(10px) rem(15px);
+    clip: auto; // stylelint-disable-line plugin/no-unsupported-browser-features
+    clip-path: none; // stylelint-disable-line plugin/no-unsupported-browser-features
+  }
+
+  &__close {
+    position: absolute;
+    top: rem(15px);
+    right: rem(10px);
+    padding: rem(5px);
+    background-color: transparent;
+    color: $global-color-text-black;
+    border: none;
+    font-size: 0;
+
+    &:focus,
+    &:hover {
+      color: $global-brand-color;
+      outline: none;
+    }
+
+    > svg {
+      width: rem(10px);
+      height: rem(10px);
+      fill: currentColor;
+    }
+  }
+}

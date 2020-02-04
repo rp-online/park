@@ -1,0 +1,142 @@
+{
+  "reduced": true,
+  "headline": {
+    "tag": "h2",
+    "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+  },
+  "kicker": {
+    "text": "Schwere Gewitter möglich"
+  },
+  "timestamp": 1483637749,
+  "cover": {
+    "type": "image",
+    "src": "./assets/images/950x534.jpg",
+    "width": 950,
+    "height": 526,
+    "alt": "Das Kirmes-Riesenrad",
+    "caption": "Das sind die Fahrgeschäfte und Attraktionen",
+    "source": {
+      "text": "Martin Gerten",
+      "href": "#void"
+    },
+    "link": {
+      "type": "image",
+      "text": "17 Bilder",
+      "href": "#void"
+    }
+  },
+  "dateline": "Düsseldorf",
+  "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt. In diesem Falle könnte die Rheinkirmes für den Abend schließen müssen.",
+  "authors": [
+    {
+      "src": "./assets/images/person.jpg",
+      "name": "Cat Cookie",
+      "position": "Katzen Ressort",
+      "bio": "Cat war in seinem früheren Leben einmal Florist, bis er vor ein paar Jahren arbeitslos wurde. Wir von der Rheinischen Post gaben ihm ein neues Zuhause. Und eine lustige Kolumne über Katzen.",
+      "links": {
+        "profile": "./",
+        "column": "./"
+      }
+    }
+  ],
+  "ads": {
+    "authors": {
+      "mobile": {
+        "type": "large-mobile-banner",
+        "html": "<img src=\"https://placehold.it/320x100\">"
+      },
+      "desktop": {
+        "type": "banner",
+        "html": "<img src=\"https://placehold.it/468x60\">"
+      }
+    },
+    "article": {
+      "desktop": {
+        "type": "medium-rectangle",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    }
+  },
+  "children": [
+    {
+      "component": "article-content",
+      "data": {
+        "text": "Es scheint so, als hätte Düsseldorf in diesem Jahr einfach Pech mit dem Wetter bei Großveranstaltungen. Erst musste im Februar der Rosenmontagszug wegen einer Sturmwarnung abgesagt werden, jetzt ist die Rheinkirmes von einem Unwetter bedroht. Der Deutsche Wetterdienst (DWD) hat am Mittwochvormittag zwei amtliche Warnungen für das Düsseldorfer Stadtgebiet herausgegeben, die sich beide auf die Rheinkirmes auswirken."
+      }
+    },
+    {
+      "component": "article-content",
+      "data": {
+        "text": "Zum einen wird für den Zeitraum von 11 bis 19 Uhr vor starker Hitze und Temperaturen über 33 Grad gewarnt. Die Kirmes wird trotzdem wie geplant öffnen, auch wenn die Verantwortlichen sich ein milderes Klima gewünscht hätten. Kirmessprecher Wolfgang Osinski sagte auf Anfrage unserer Redaktion: \"33 Grad sind sicher kein ideales Kirmeswetter.\""
+      }
+    },
+    {
+      "component": "article-content",
+      "data": {
+        "text": "Die Kirmes-Verantwortlichen haben angekündigt, die Wetterlage im Laufe des Tages weiter zu beobachten. Das Sicherheitskonzept für die Rheinkirmes sieht vor, dass ab einer bestimmten Warnstufe des DWD die Kirmes aus Sicherheitsgründen geschlossen werden muss. Besonders hohe Windstärken können sich gefährlich auf die vielen Fahrgeschäfte unter freiem Himmel auswirken."
+      }
+    },
+    {
+      "component": "slider",
+      "data": {
+        "items": [
+          {
+            "type": "image",
+            "src": "./assets/images/300x225.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Rheinkirmes 2016"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Neue Show \"Die Kirmeskönige\""
+            }
+          },
+          {
+            "type": "image",
+            "src": "./assets/images/300x225.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Nationalmannschaft"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+            }
+          },
+          {
+            "type": "image",
+            "src": "./assets/images/300x225.jpg",
+            "alt": "Süße Katze",
+            "href": "#void",
+            "kicker": {
+              "tag": "h2",
+              "text": "Nationalmannschaft"
+            },
+            "headline": {
+              "tag": "span",
+              "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "component": "article-content",
+      "data": {
+        "text": "Die Kirmes-Verantwortlichen haben angekündigt, die Wetterlage im Laufe des Tages weiter zu beobachten. Das Sicherheitskonzept für die Rheinkirmes sieht vor, dass ab einer bestimmten Warnstufe des DWD die Kirmes aus Sicherheitsgründen geschlossen werden muss. Besonders hohe Windstärken können sich gefährlich auf die vielen Fahrgeschäfte unter freiem Himmel auswirken."
+      }
+    },
+    {
+      "component": "article-content",
+      "data": {
+        "text": "\"Nach aktuellem Stand wird die Kirmes ganz normal um 14 Uhr öffnen. Natürlich behalten wir die Wetterlage im Auge und werden gegebenenfalls im Laufe des Tages Maßnahmen ankündigen\", so Kirmessprecher Wolfgang Osinski. Das Sicherheitskonzept sieht verschiedene Reaktionen bis hin zu einer Räumung des Geländes vor."
+      }
+    }
+  ],
+  "sign": " (arl/siev)"
+}

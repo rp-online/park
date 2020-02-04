@@ -1,0 +1,39 @@
+<article class="park-teaser-collection">
+  {% if headline is defined and headline is not null %}
+    <header class="park-slider__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <ul class="park-teaser-collection__list">
+    {% for item in items %}
+    {% set renderItem = false %}
+    {% if config.disableAds is defined and config.disableAds is same as(true) %}
+      {% if (item.isAd is not defined or not item.isAd is same as(true)) and (item.type is not defined or not item.type is same as('portal')) %}
+        {% set renderItem = true %}
+      {% endif %}
+    {% else %}
+      {% set renderItem = true %}
+    {% endif %}
+    {% if renderItem is same as(true) %}
+    <li class="park-teaser-collection__list-item">
+      {% if item.type is same as('portal') %}
+      {# The following injects the global config #}
+      {% set item = item|merge({'config': config}) %}
+      {% include 'components/portal/template.twig' with item only %}
+      {% else %}
+      {# The following injects the global config #}
+      {% set item = item|merge({'config': config}) %}
+      {% if config.advertorial is defined and config.advertorial is same as(true) %}
+        {% set item = item|merge({
+          'isAd': true
+        }) %}
+      {% endif %}
+      {% include 'components/teaser/template.twig' with item only %}
+      {% endif %}
+    </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</article>

@@ -1,0 +1,570 @@
+{
+  "ad": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<img src=\"https://placehold.it/300x250\">",
+      "lazy": false,
+      "sticky": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<img src=\"https://placehold.it/300x600\">",
+      "lazy": false,
+      "sticky": false
+    }
+  },
+  "component": "tab-container",
+  "data":{
+    "headline": {
+      "tag": "h2",
+      "prefix": "Mehr zu ",
+      "text": "In Deutschland: Deutsche Bank will offenbar rund 9000 Jobs streichen"
+    },
+    "blocks": [
+      {
+        "title": "Aus dem dasas",
+        "children": [
+          {
+            "component": "teaser-grid-image-list",
+            "data": {
+              "withAd": true,
+              "items": [
+                {
+                  "id": 46348107,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_56fa3dc9e9550e87f98b54d1e1f26ce9/w250_h187_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_4cf6016ab81d21a6d897d0052a9d89f6/w400_h300_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_1a051667f5f36dd9ebc2ee13d444ed82/w600_h450_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_dcf91384bfddb8939e8e80951c7854c9/w900_h675_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_f7ba0ca6205becbc4bae756ea0af57fb/w950_h712_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_ccd78950632445693b4c6f2a167ac8bc/w1200_h900_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg"
+                  },
+                  "alt": "ARCHIV - 09.03.2017, Nordrhein-Westfalen, Düsseldorf: Das",
+                  "href": "/wirtschaft/unternehmen/fortum-uebernimmt-mehrheit-an-energiekonzern-uniper_aid-46348107",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Düsseldorfer Energiekonzern"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Bei XYXY wächst die Angst vor der Zerschlagung"
+                  }
+                },
+                {
+                  "id": 46354667,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_62416ee29737fd2aba2337f60d322ab9/w250_h187_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_35ebd8b8eb3ef2077798c39392dfdcc7/w400_h300_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_45d0fe1f9055791463fb13dc22f8ddc3/w600_h450_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_8cb442d57e1ee5c106900807a0622bf7/w900_h675_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_69c40dc7dbf164ffb7453abfd89cafb8/w950_h712_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_4e12c3cd8a920119b79afed6b3678e29/w1200_h900_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_c7e5a60e5ffb3816e08183deb54d3496/w1900_h1425_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg"
+                  },
+                  "alt": "Paul Achleitner, Aufsichtsratsvorsitzender der Deutschen Bank,",
+                  "href": "/wirtschaft/unternehmen/deutsche-bank-aufsichtsratschef-paul-achleitner-fuehrt-spitzenverdiener-ranking-an_aid-46354667",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Ranking"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Diese Aufsichtsratschefs verdienen am meisten"
+                  }
+                },
+                {
+                  "id": 46349395,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_a62566a07fddb50781c7bae888bf01bc/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_6f197815691a6632e429dbeb98d73c21/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_ffb4d52c24fe66f6cb45983704f6270d/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_52e02a0247132166b9956d83b9bf3e42/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_242498855e64132c87edddd10878eb88/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_f8a6d1e60197c6cffc7d789f3346d35e/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_234ae1764f4a90ebb74fd469d4cddd06/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg"
+                  },
+                  "alt": "Blick auf die Produktionsgebäude des Fleischherstellers",
+                  "href": "/wirtschaft/unternehmen/foodwatch-verdacht-auf-listerien-schon-wochen-vor-rueckruf-aktion_aid-46349395",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Foodwatch kritisiert"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Ministerium kannte Listerien-Verdacht schon Wochen vor Rückruf-Aktion"
+                  }
+                },
+                {
+                  "id": 46344399,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_b40fe156dbe0528a51a74eee89c89944/w250_h187_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_ae6692dffa60a7279725449f9a6263f1/w400_h300_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_7b2aec53aa4a5e52e567038815b20d99/w600_h450_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_e88d9dd67eb46f05bc5994b9c545fa16/w900_h675_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_5d3b9aeba808246c944f64f3d0a34a6b/w950_h712_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_840319d4d00a1de7b8fe9eef13fcc1fa/w1200_h900_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_b0ad3721c33f844a437dd57755e7dcf2/w1900_h1425_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg"
+                  },
+                  "alt": "Eine Warteschlange am Düsseldorfer Flughafen.",
+                  "href": "/wirtschaft/unternehmen/flughafen-duesseldorf-airport-erwartet-2019-neuen-passagierrekord_aid-46344399",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "25,5 Millionen Fluggäste"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Düsseldorfer Flughafen erwartet neuen Passagierrekord"
+                  }
+                },
+                {
+                  "id": 46341191,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_1c3101881cea3c50fc99a25ec9b647b7/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_ed7a82ce53bb710673a5e189159f425c/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_cf924dfd8ba47379b471f07b7b8e2e5a/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_af88a34649971d4bf64f5eb2709a06f6/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_49b217233c363a2729559324f7cb724e/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_46f803b647fb92221979717be2cb5c5d/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_e4551cc62b4d93fa3970a8921fc5c3fd/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg"
+                  },
+                  "alt": "Die Produktionsgebäude der Firma Wilke Wurstwaren",
+                  "href": "/wirtschaft/unternehmen/keime-in-wilke-wurst-liste-der-betroffenen-produkte-veroeffentlicht_aid-46341191",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Behörden veröffentlichen Liste"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "So erkennen Verbraucher verseuchte Wilke-Wurst"
+                  }
+                },
+                {
+                  "id": 46342295,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_b991e9a00ca26260ed7b6d512da769fa/w250_h187_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_0ebcee2b32bae37c76fe00397e4d81d0/w400_h300_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_da09da8a84ff93317e52233a0784103d/w600_h450_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_e87ef9a32316085109a7ded115b3a8c8/w900_h675_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_149efb18cf7804290480ff82a68f3dce/w950_h712_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_496feda9e8a12f3b5223b9200f80991f/w1200_h900_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_8d06ddc638caad7e13e710990053f57c/w1900_h1425_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg"
+                  },
+                  "alt": "Die neue Konzernchefin Martina Merz. (Archiv)",
+                  "href": "/wirtschaft/unternehmen/thyssenkrupp-will-zwei-konzernsparten-aufloesen_aid-46342295",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Zeitungsbericht"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Thyssenkrupp will zwei Konzernsparten auflösen"
+                  }
+                },
+                {
+                  "id": 46328735,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_9a17c4b6728b2a71291a19bc9478a945/w250_h187_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_8fe7f76e2546c2bc8654ccd61f75bf89/w400_h300_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_fb9204e845b0d3a9266e29c037fab57d/w600_h450_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_ab6d0f098957e070f60c8fba97b25d88/w900_h665_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_66971581827dd1127387d471f5bfec0b/w950_h665_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg"
+                  },
+                  "alt": "Produktion von Dauerwurst der Firma Wilke",
+                  "href": "/wirtschaft/unternehmen/hunderte-von-nrw-firmen-rufen-wurst-der-firma-wilke-zurueck_aid-46328735",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Skandal bei Wilke"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "NRW-Firmen rufen Wurst zurück"
+                  }
+                },
+                {
+                  "id": 46249039,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_4f46ab38a1dfbdcc246bd87371f1e593/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_eae9241b90dc602f604950a663152c0c/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_30740c459d8cef150bf0adfa20cddb46/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_745cbe23d3f671e5b8c69e8e30373eb5/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_22b873c2239e4f5f21fa07311b2156ef/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_cbc286344b09fa2cf7ad340fe42e16b7/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_f0c7a20eb6177d16d75e6a140a4cc30b/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg"
+                  },
+                  "alt": "",
+                  "href": "/wirtschaft/unternehmen/startups/start-ups-und-gruender-in-nrw-frank-thelen-investiert-in-smartlane_aid-46249039",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Nachrichten-Ticker"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Gründer-Ticker: Frank Thelen investiert in Logistik-Start-up"
+                  }
+                },
+                {
+                  "id": 46325477,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_a62566a07fddb50781c7bae888bf01bc/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_6f197815691a6632e429dbeb98d73c21/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_ffb4d52c24fe66f6cb45983704f6270d/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_52e02a0247132166b9956d83b9bf3e42/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_242498855e64132c87edddd10878eb88/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_f8a6d1e60197c6cffc7d789f3346d35e/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_234ae1764f4a90ebb74fd469d4cddd06/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg"
+                  },
+                  "alt": "Auch Ikea wurde von Wilke beliefert.",
+                  "href": "/wirtschaft/unternehmen/keime-in-fleisch-in-duisburg-acht-betriebe-von-wilke-wurst-rueckruf-betroffen_aid-46325477",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Keime in Fleischwaren"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "In Duisburg sind acht Betriebe von Wilke-Wurst-Rückruf betroffen"
+                  }
+                },
+                {
+                  "id": 46319221,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_c39bf70a9559c2c5320860b1f0870570/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_7a7a3457dbcb8408277cd6ec5b5c30a7/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_5b600b25eb45ccf23749af49f5cd1a35/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_2f48c11fb50b0f9f3898fe80ea3e036a/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_995aacf5dc6c65e411bedd891198fbed/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_6cd34445565f927972ed6741755a272f/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_f28ab140727a2dd1e72128f466010bff/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg"
+                  },
+                  "alt": "In dem sogenannten Community Raum in",
+                  "href": "/wirtschaft/unternehmen/co-living-wgs-720-euro-fuer-ein-moebliertes-15-quadratmeter-zimmer_aid-46319221",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Kritik an Co-Living-WGs"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "720 Euro für ein möbliertes 15-Quadratmeter-Zimmer"
+                  }
+                },
+                {
+                  "id": 46319231,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_c39bf70a9559c2c5320860b1f0870570/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_7a7a3457dbcb8408277cd6ec5b5c30a7/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_5b600b25eb45ccf23749af49f5cd1a35/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_2f48c11fb50b0f9f3898fe80ea3e036a/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_995aacf5dc6c65e411bedd891198fbed/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_6cd34445565f927972ed6741755a272f/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_f28ab140727a2dd1e72128f466010bff/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg"
+                  },
+                  "alt": "In dem sogenannten Community Raum in",
+                  "href": "/wirtschaft/unternehmen/co-living-wgs-720-euro-fuer-ein-moebliertes-15-quadratmeter-zimmer_aid-46319221",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Kritik an Co-Living-WGs"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "720 Euro für ein möbliertes 15-Quadratmeter-Zimmer"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Aus dem Ressort",
+        "children": [
+          {
+            "component": "teaser-grid-image-list",
+            "data": {
+              "withAd": true,
+              "items": [
+                {
+                  "id": 46348107,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_56fa3dc9e9550e87f98b54d1e1f26ce9/w250_h187_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_4cf6016ab81d21a6d897d0052a9d89f6/w400_h300_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_1a051667f5f36dd9ebc2ee13d444ed82/w600_h450_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_dcf91384bfddb8939e8e80951c7854c9/w900_h675_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_f7ba0ca6205becbc4bae756ea0af57fb/w950_h712_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/4/5/6/9/5/tok_ccd78950632445693b4c6f2a167ac8bc/w1200_h900_x910_y993_DPA_bfunk_dpa_5F9E90008116BC17-3948eee98de81155.jpg"
+                  },
+                  "alt": "ARCHIV - 09.03.2017, Nordrhein-Westfalen, Düsseldorf: Das",
+                  "href": "/wirtschaft/unternehmen/fortum-uebernimmt-mehrheit-an-energiekonzern-uniper_aid-46348107",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Düsseldorfer Energiekonzern"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Bei Uniper wächst die Angst vor der Zerschlagung"
+                  }
+                },
+                {
+                  "id": 46354667,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_62416ee29737fd2aba2337f60d322ab9/w250_h187_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_35ebd8b8eb3ef2077798c39392dfdcc7/w400_h300_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_45d0fe1f9055791463fb13dc22f8ddc3/w600_h450_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_8cb442d57e1ee5c106900807a0622bf7/w900_h675_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_69c40dc7dbf164ffb7453abfd89cafb8/w950_h712_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_4e12c3cd8a920119b79afed6b3678e29/w1200_h900_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/6/7/5/4/1/tok_c7e5a60e5ffb3816e08183deb54d3496/w1900_h1425_x1500_y1127_DPA_bfunk_dpa_5F9E9000C4D7A981-c5552b53818d8ae7.jpg"
+                  },
+                  "alt": "Paul Achleitner, Aufsichtsratsvorsitzender der Deutschen Bank,",
+                  "href": "/wirtschaft/unternehmen/deutsche-bank-aufsichtsratschef-paul-achleitner-fuehrt-spitzenverdiener-ranking-an_aid-46354667",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Ranking"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Diese Aufsichtsratschefs verdienen am meisten"
+                  }
+                },
+                {
+                  "id": 46349395,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_a62566a07fddb50781c7bae888bf01bc/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_6f197815691a6632e429dbeb98d73c21/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_ffb4d52c24fe66f6cb45983704f6270d/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_52e02a0247132166b9956d83b9bf3e42/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_242498855e64132c87edddd10878eb88/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_f8a6d1e60197c6cffc7d789f3346d35e/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/5/0/0/6/3/tok_234ae1764f4a90ebb74fd469d4cddd06/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg"
+                  },
+                  "alt": "Blick auf die Produktionsgebäude des Fleischherstellers",
+                  "href": "/wirtschaft/unternehmen/foodwatch-verdacht-auf-listerien-schon-wochen-vor-rueckruf-aktion_aid-46349395",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Foodwatch kritisiert"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Ministerium kannte Listerien-Verdacht schon Wochen vor Rückruf-Aktion"
+                  }
+                },
+                {
+                  "id": 46344399,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_b40fe156dbe0528a51a74eee89c89944/w250_h187_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_ae6692dffa60a7279725449f9a6263f1/w400_h300_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_7b2aec53aa4a5e52e567038815b20d99/w600_h450_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_e88d9dd67eb46f05bc5994b9c545fa16/w900_h675_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_5d3b9aeba808246c944f64f3d0a34a6b/w950_h712_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_840319d4d00a1de7b8fe9eef13fcc1fa/w1200_h900_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/3/6/5/9/7/tok_b0ad3721c33f844a437dd57755e7dcf2/w1900_h1425_x1500_y1003_DPA_bfunk_dpa_5F99A200716B8A26-0aeef9451ca438c1.jpg"
+                  },
+                  "alt": "Eine Warteschlange am Düsseldorfer Flughafen.",
+                  "href": "/wirtschaft/unternehmen/flughafen-duesseldorf-airport-erwartet-2019-neuen-passagierrekord_aid-46344399",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "25,5 Millionen Fluggäste"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Düsseldorfer Flughafen erwartet neuen Passagierrekord"
+                  }
+                },
+                {
+                  "id": 46341191,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_1c3101881cea3c50fc99a25ec9b647b7/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_ed7a82ce53bb710673a5e189159f425c/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_cf924dfd8ba47379b471f07b7b8e2e5a/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_af88a34649971d4bf64f5eb2709a06f6/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_49b217233c363a2729559324f7cb724e/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_46f803b647fb92221979717be2cb5c5d/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/2/9/4/9/1/tok_e4551cc62b4d93fa3970a8921fc5c3fd/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8400008D1D6F-5875c2cea1346dbc.jpg"
+                  },
+                  "alt": "Die Produktionsgebäude der Firma Wilke Wurstwaren",
+                  "href": "/wirtschaft/unternehmen/keime-in-wilke-wurst-liste-der-betroffenen-produkte-veroeffentlicht_aid-46341191",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Behörden veröffentlichen Liste"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "So erkennen Verbraucher verseuchte Wilke-Wurst"
+                  }
+                },
+                {
+                  "id": 46342295,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_b991e9a00ca26260ed7b6d512da769fa/w250_h187_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_0ebcee2b32bae37c76fe00397e4d81d0/w400_h300_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_da09da8a84ff93317e52233a0784103d/w600_h450_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_e87ef9a32316085109a7ded115b3a8c8/w900_h675_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_149efb18cf7804290480ff82a68f3dce/w950_h712_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_496feda9e8a12f3b5223b9200f80991f/w1200_h900_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/8/3/2/7/2/1/tok_8d06ddc638caad7e13e710990053f57c/w1900_h1425_x1658_y692_DPA_bfunk_dpa_5F9E700078BC5D0B-9377d2afff15c1e1.jpg"
+                  },
+                  "alt": "Die neue Konzernchefin Martina Merz. (Archiv)",
+                  "href": "/wirtschaft/unternehmen/thyssenkrupp-will-zwei-konzernsparten-aufloesen_aid-46342295",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Zeitungsbericht"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Thyssenkrupp will zwei Konzernsparten auflösen"
+                  }
+                },
+                {
+                  "id": 46328735,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_9a17c4b6728b2a71291a19bc9478a945/w250_h187_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_8fe7f76e2546c2bc8654ccd61f75bf89/w400_h300_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_fb9204e845b0d3a9266e29c037fab57d/w600_h450_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_ab6d0f098957e070f60c8fba97b25d88/w900_h665_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/7/8/4/2/5/tok_66971581827dd1127387d471f5bfec0b/w950_h665_x600_y332_RP_68778449_1576661155_RGB_190_1_1_eea7dd9970bc779a104a7b200dd71681_1570466045_1576661155_d1e96e96ce-fc3c6d5b60946f38.jpg"
+                  },
+                  "alt": "Produktion von Dauerwurst der Firma Wilke",
+                  "href": "/wirtschaft/unternehmen/hunderte-von-nrw-firmen-rufen-wurst-der-firma-wilke-zurueck_aid-46328735",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Skandal bei Wilke"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "NRW-Firmen rufen Wurst zurück"
+                  }
+                },
+                {
+                  "id": 46249039,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_4f46ab38a1dfbdcc246bd87371f1e593/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_eae9241b90dc602f604950a663152c0c/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_30740c459d8cef150bf0adfa20cddb46/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_745cbe23d3f671e5b8c69e8e30373eb5/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_22b873c2239e4f5f21fa07311b2156ef/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_cbc286344b09fa2cf7ad340fe42e16b7/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/5/3/4/6/8/3/tok_f0c7a20eb6177d16d75e6a140a4cc30b/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9C7C008833328D-721e65e78309849e.jpg"
+                  },
+                  "alt": "",
+                  "href": "/wirtschaft/unternehmen/startups/start-ups-und-gruender-in-nrw-frank-thelen-investiert-in-smartlane_aid-46249039",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Nachrichten-Ticker"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "Gründer-Ticker: Frank Thelen investiert in Logistik-Start-up"
+                  }
+                },
+                {
+                  "id": 46325477,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_a62566a07fddb50781c7bae888bf01bc/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_6f197815691a6632e429dbeb98d73c21/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_ffb4d52c24fe66f6cb45983704f6270d/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_52e02a0247132166b9956d83b9bf3e42/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_242498855e64132c87edddd10878eb88/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_f8a6d1e60197c6cffc7d789f3346d35e/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/6/6/9/8/1/tok_234ae1764f4a90ebb74fd469d4cddd06/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8C00CD1F1360-5f30003930f3f7fc.jpg"
+                  },
+                  "alt": "Auch Ikea wurde von Wilke beliefert.",
+                  "href": "/wirtschaft/unternehmen/keime-in-fleisch-in-duisburg-acht-betriebe-von-wilke-wurst-rueckruf-betroffen_aid-46325477",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Keime in Fleischwaren"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "In Duisburg sind acht Betriebe von Wilke-Wurst-Rückruf betroffen"
+                  }
+                },
+                {
+                  "id": 46319221,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_c39bf70a9559c2c5320860b1f0870570/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_7a7a3457dbcb8408277cd6ec5b5c30a7/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_5b600b25eb45ccf23749af49f5cd1a35/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_2f48c11fb50b0f9f3898fe80ea3e036a/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_995aacf5dc6c65e411bedd891198fbed/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_6cd34445565f927972ed6741755a272f/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_f28ab140727a2dd1e72128f466010bff/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg"
+                  },
+                  "alt": "In dem sogenannten Community Raum in",
+                  "href": "/wirtschaft/unternehmen/co-living-wgs-720-euro-fuer-ein-moebliertes-15-quadratmeter-zimmer_aid-46319221",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Kritik an Co-Living-WGs"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "720 Euro für ein möbliertes 15-Quadratmeter-Zimmer"
+                  }
+                },
+                {
+                  "id": 46319231,
+                  "type": "article",
+                  "src": {
+                    "250w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_c39bf70a9559c2c5320860b1f0870570/w250_h187_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "400w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_7a7a3457dbcb8408277cd6ec5b5c30a7/w400_h300_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "600w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_5b600b25eb45ccf23749af49f5cd1a35/w600_h450_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_2f48c11fb50b0f9f3898fe80ea3e036a/w900_h675_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "950w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_995aacf5dc6c65e411bedd891198fbed/w950_h712_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1200w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_6cd34445565f927972ed6741755a272f/w1200_h900_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg",
+                    "1900w": "https://rp-online.de/imgs/32/6/8/7/4/9/8/5/9/tok_f28ab140727a2dd1e72128f466010bff/w1900_h1425_x1500_y998_DPA_bfunk_dpa_5F9E8E00EC0635B4-b40c25ededeb4029.jpg"
+                  },
+                  "alt": "In dem sogenannten Community Raum in",
+                  "href": "/wirtschaft/unternehmen/co-living-wgs-720-euro-fuer-ein-moebliertes-15-quadratmeter-zimmer_aid-46319221",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Kritik an Co-Living-WGs"
+                  },
+                  "headline": {
+                    "tag": "span",
+                    "text": "720 Euro für ein möbliertes 15-Quadratmeter-Zimmer"
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "title": "Schlagworte",
+        "children": [
+          {
+            "component": "tags",
+            "data": {
+              "withAd": true,
+              "links": [
+                {
+                  "href": "/thema/deutsche-bank-ag/",
+                  "text": "Deutsche Bank AG"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

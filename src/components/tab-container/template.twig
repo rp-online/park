@@ -1,0 +1,74 @@
+<article class="park-tab-container
+{% if type is defined %}
+park-tab-container--{{ type }}
+{% endif %}
+">
+  {% if headline is defined %}
+    <header class="park-tab-container__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+
+      {% if blocks|length == 1 and blocks[0].items|length == 0 and type == 'card-traffic' %}
+        <p class="park-traffic-text">Zu Ihrer Auswahl werden aktuell keine Staus gemeldet.<br><br></p>
+      {% endif %}
+    </header>
+  {% endif %}
+  {% set uuid = random() %}
+  {% if blocks|length > 1 %}
+    <ul role="tablist" class="park-tab-container__tabs">
+      {% for block in blocks %}
+        <li role="presentation" class="park-tab-container__tab">
+          <a id="park-tab-container__tab-{{ uuid }}-{{ loop.index }}"
+             href="#park-tab-container__panel-{{ uuid }}-{{ loop.index }}"
+             role="tab"
+             aria-controls="park-tab-container__panel-{{ uuid }}-{{ loop.index }}"
+             class="park-tab-container__tab-link">{{ block.title }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+  <div class="park-tab-container__panels">
+    {% for block in blocks %}
+      <{% if loop.first %}section{% else %}div{% endif %} id="park-tab-container__panel-{{ uuid }}-{{ loop.index }}"
+               role="tabpanel"
+               aria-labelledby="park-tab-container__tab-{{ uuid }}-{{ loop.index }}"
+               class="park-tab-container__panel">
+        {% if not loop.first %}<!--[IF !IE]> --><noscript><section><!-- <![ENDIF]-->{% endif %}
+        {% if not loop.first %}
+          {% set config = config|merge({
+            'childOfNoscript': true
+          }) %}
+        {% endif %}
+          {% if block.children is defined %}
+            {% for child in block.children %}
+              {% set data = child.data|merge({
+                'config': config
+              }) %}
+              {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+            {% endfor %}
+          {% else %}
+            <ul
+              class="park-tab-container__items{% if isNumeric is defined and isNumeric is same as(true) %}park-tab-container__items--is-numeric{% endif %}">
+              {% for item in block.items %}
+                {# The following injects the global config #}
+                {% set item = item|merge({
+                  'config': config,
+                  'isNumeric': block.isNumeric
+                }) %}
+                {% if config.advertorial is defined and config.advertorial is same as(true) %}
+                  {% set item = item|merge({
+                    'isAd': true
+                  }) %}
+                {% endif %}
+                <li class="park-tab-container__item">
+                  {% include 'components/' ~ type ~ '/template.twig' with item only %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+          {% if not loop.first %}<!--[IF !IE]> --></section></noscript><!-- <![ENDIF]-->{% endif %}
+      </{% if loop.first %}section{% else %}div{% endif %}>
+    {% endfor %}
+  </div>
+</article>

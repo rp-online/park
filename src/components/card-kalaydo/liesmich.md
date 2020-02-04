@@ -1,0 +1,1 @@
+Diese kartenartige Komponente wird nur in [Slidern](#slider)/Unterbrechern verwendet und könnte ggf. auch mal im [Cards-Container](#cards-container) auftauchen. Sie teasert eine Kalaydo-Anzeige an, deshalb `"type": "kalaydo"`.

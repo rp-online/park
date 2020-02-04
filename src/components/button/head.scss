@@ -1,0 +1,163 @@
+.park-button {
+  @include button;
+
+  &--ghost {
+    padding: rem(9px) rem(14px);
+    background-color: transparent;
+    color: $global-color-text-black;
+    border: rem(1px) solid currentColor;
+    box-shadow: none;
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.05);
+    }
+  }
+
+  &[class*="park-button--style"] {
+    background-color: #6f6f6f;
+    border-color: #6f6f6f;
+
+    &:hover {
+      background-color: lighten(#6f6f6f, 10);
+    }
+
+    &.park-button--ghost {
+      background-color: transparent;
+      color: #6f6f6f;
+
+      &:hover {
+        color: lighten(#6f6f6f, 10);
+      }
+    }
+  }
+
+  &--style {
+    &-bookmark[class],
+    &-comments[class] {
+      padding-left: 0;
+      padding-right: 0;
+      background-color: transparent;
+      color: #6f6f6f;
+      box-shadow: none;
+
+      &:hover {
+        background-color: transparent;
+        color: #333;
+      }
+    }
+
+    &.park-button--ghost {
+      background-color: transparent;
+      color: #6f6f6f;
+
+      &:hover {
+        color: #333;
+      }
+    }
+
+    &-twitter[class] {
+      background-color: $global-color-twitter;
+
+      &:hover {
+        background-color: lighten($global-color-twitter, 10);
+      }
+
+      &.park-button--ghost {
+        background-color: transparent;
+        color: $global-color-twitter;
+
+        &:hover {
+          background-color: lighten($global-color-twitter, 10);
+        }
+      }
+    }
+
+    &-facebook[class] {
+      background-color: $global-color-facebook;
+
+      &:hover {
+        background-color: lighten($global-color-facebook, 10);
+      }
+
+      &.park-button--ghost {
+        background-color: transparent;
+        color: $global-color-facebook;
+
+        &:hover {
+          background-color: lighten($global-color-facebook, 10);
+        }
+      }
+    }
+
+    &-google[class] {
+      background-color: $global-color-google;
+      color: $global-color-text-black;
+
+      &:hover {
+        background-color: darken($global-color-google, 10);
+      }
+
+      &.park-button--ghost {
+        background-color: transparent;
+        color: $global-color-google;
+
+        &:hover {
+          background-color: lighten($global-color-google, 10);
+        }
+      }
+    }
+
+    &-google-plus[class] {
+      background-color: $global-color-google-plus;
+
+      &:hover {
+        background-color: lighten($global-color-google-plus, 10);
+      }
+
+      &.park-button--ghost {
+        background-color: transparent;
+        color: $global-color-google-plus;
+
+        &:hover {
+          background-color: lighten($global-color-google-plus, 10);
+        }
+      }
+    }
+
+    &-whatsapp[class] {
+      background-color: $global-color-whatsapp;
+
+      &:hover {
+        background-color: lighten($global-color-whatsapp, 10);
+      }
+
+      &.park-button--ghost {
+        background-color: transparent;
+        color: $global-color-whatsapp;
+
+        &:hover {
+          background-color: lighten($global-color-whatsapp, 10);
+        }
+      }
+    }
+  }
+
+  .is-advertorial main &:not([class*="park-button--style"]),
+  &--sugardaddy {
+    background-color: $global-advertisement-color;
+    border-color: $global-advertisement-color;
+
+    &:hover {
+      background-color: lighten($global-advertisement-color, 10);
+    }
+
+    &.park-button--ghost {
+      background-color: transparent;
+      color: $global-advertisement-color;
+
+      &:hover {
+        background-color: lighten($global-advertisement-color, 10);
+      }
+    }
+  }
+}

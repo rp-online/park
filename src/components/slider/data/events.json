@@ -1,0 +1,65 @@
+{
+  "items": [
+    {
+      "type": "event",
+      "href": "https://rp-online.de/app/joyoyoy/details/stadt/5c667d676d456758da7445fb",
+      "headline": {
+        "tag": "span",
+        "text": "Robotik mit Lego Mindstorms EV3-Robotern - Ferien...",
+        "title": "Robotik mit Lego Mindstorms EV3-Robotern - Ferien-Workshop im katholischen Forum"
+      },
+      "widgetIcons": [
+        "https://app.joyoyoy.net/api/poi/file/59146865abaef409cc879442",
+        "https://app.joyoyoy.net/api/poi/file/5beedee2abaef406ec22219c"
+      ],
+      "openingTimes": "23.04.2019 bis 25.04.2019",
+      "distanceKm": "0,40",
+      "address": "Felbelstraße 25, <br>47799 Krefeld"
+    },
+    {
+      "type": "event",
+      "href": "https://rp-online.de/app/joyoyoy/details/stadt/5c667d676d456758da7445fb",
+      "headline": {
+        "tag": "span",
+        "text": "Robotik mit Lego Mindstorms EV3-Robotern - Ferien-Workshop im katholischen Forum"
+      },
+      "widgetIcons": [
+        "https://app.joyoyoy.net/api/poi/file/59146865abaef409cc879442",
+        "https://app.joyoyoy.net/api/poi/file/5beedee2abaef406ec22219c"
+      ],
+      "openingTimes": "23.04.2019 bis 25.04.2019",
+      "distanceKm": "0,40",
+      "address": "Felbelstraße 25, <br>47799 Krefeld"
+    },
+    {
+      "type": "event",
+      "href": "https://rp-online.de/app/joyoyoy/details/stadt/5c667d676d456758da7445fb",
+      "headline": {
+        "tag": "span",
+        "text": "Robotik mit Lego Mindstorms EV3-Robotern - Ferien-Workshop im katholischen Forum"
+      },
+      "widgetIcons": [
+        "https://app.joyoyoy.net/api/poi/file/59146865abaef409cc879442",
+        "https://app.joyoyoy.net/api/poi/file/5beedee2abaef406ec22219c"
+      ],
+      "openingTimes": "23.04.2019 bis 25.04.2019",
+      "distanceKm": "0,40",
+      "address": "Felbelstraße 25, <br>47799 Krefeld"
+    },
+    {
+      "type": "event",
+      "href": "https://rp-online.de/app/joyoyoy/details/stadt/5c667d676d456758da7445fb",
+      "headline": {
+        "tag": "span",
+        "text": "Robotik mit Lego Mindstorms EV3-Robotern - Ferien-Workshop im katholischen Forum"
+      },
+      "widgetIcons": [
+        "https://app.joyoyoy.net/api/poi/file/59146865abaef409cc879442",
+        "https://app.joyoyoy.net/api/poi/file/5beedee2abaef406ec22219c"
+      ],
+      "openingTimes": "23.04.2019 bis 25.04.2019",
+      "distanceKm": "0,40",
+      "address": "Felbelstraße 25, <br>47799 Krefeld"
+    }
+  ]
+}

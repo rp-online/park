@@ -1,0 +1,125 @@
+{
+  "isNumeric": true,
+  "items": [
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Insider Wissen"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "\"Germany's next Topmodel\""
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Zicken-Aus, raus die Mas"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Geiselnahme im Stadtteil Rumeln"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Schwere Gewitter möglich"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Wahl in den Niederlanden"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "So reagieren AfD und Front National auf die Niederlage"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "DEL"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Kölner Haie suspendieren Nationalspieler Hager"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Ärger über Absage"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Düsseldorfer Kirmes will Füchschen nicht zurück"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "U-Auschuss zur Kölner Silvesternacht"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Ralf Jäger verspielt seine Glaubwürdigkeit"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Unfall auf der A5 in Hessen"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Feuerwehr zeigt Blockierer von Rettungsgasse an"
+      },
+      "href": "#void"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Tanzshow \"Let's Dance\""
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Das sind die neuen Promis auf dem Tanzparkett"
+      },
+      "href": "#void"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+// See: https://github.com/wicg/focus-ring
+:focus:not(.focus-ring) {
+  // stylelint-disable-next-line
+  outline: none;
+}

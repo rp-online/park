@@ -1,0 +1,23 @@
+{
+  "text": "Popover-Demo",
+  "data": {
+    "popover": {
+      "position": "bottom",
+      "backgroundColor": "black",
+      "closeEvents": "",
+      "showCloseButton": true,
+      "component": "promotion",
+      "data": {
+        "headline": {
+          "text": "Seitenüberschrift"
+        },
+        "text": "Immer informiert für nur 10€ im Monat. Jederzeit kündbar.",
+        "image": "https://source.unsplash.com/random",
+        "button": {
+          "text": "Zum Aboshop",
+          "icon": "shopping-cart"
+        }
+      }
+    }
+  }
+}

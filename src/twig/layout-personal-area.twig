@@ -1,0 +1,20 @@
+{% set config = config|merge({
+  'personalArea': true,
+  'ads': false,
+  'dataLayer': true
+}) %}
+
+{% extends 'twig/base.twig' %}
+
+{% block page_content %}
+  <main id="park-main" role="main" tabindex="-1">
+    {% block main %}
+      {% if children is defined %}
+        {% include 'twig/component.twig' with {
+        'config': config,
+        'children': children
+        } only %}
+      {% endif %}
+    {% endblock %}
+  </main>
+{% endblock %}

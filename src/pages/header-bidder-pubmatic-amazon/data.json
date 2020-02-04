@@ -1,0 +1,3339 @@
+{
+  "title": "Gummibärchen: Freiheitspartei der Gummibärchen",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "subscriptionsPage": "/sso/subscriptions",
+    "myNewsPage": "/sso/my-news",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "registrationPage": "/sso/register",
+    "settingsPage": "/sso/settings",
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "Gummibärchen: Freiheitspartei der Gummibärchen",
+    "url": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1571306765",
+    "container_id": 36569304,
+    "beitrag_id": 47832138,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Man kauft sie in Packungen an der Kinokasse. Dieser Kauf ist der Beginn einer fast erotischen und sehr ambivalenten Beziehung Gummibärchen-Mensch. Zuerst genießt man."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "property": "og:title",
+        "content": "Gummibärchen: Freiheitspartei der Gummibärchen"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304"
+      },
+      {
+        "property": "og:description",
+        "content": "Man kauft sie in Packungen an der Kinokasse. Dieser Kauf ist der Beginn einer fast erotischen und sehr ambivalenten Beziehung Gummibärchen-Mensch. Zuerst genießt man."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_cd133abad0809695009c56b72890375b/w1200_h630_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Gummibärchen: Freiheitspartei der Gummibärchen"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Man kauft sie in Packungen an der Kinokasse. Dieser Kauf ist der Beginn einer fast erotischen und sehr ambivalenten Beziehung Gummibärchen-Mensch. Zuerst genießt man."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_cd133abad0809695009c56b72890375b/w1200_h630_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg"
+      }
+    ],
+    "display_video_kicker": "0",
+    "dataLayer": {
+      "ressort": "politik",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "Artikel",
+      "analyticsUrl": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+      "author": "RP ONLINE",
+      "date": "2019-03-25T09:25:00+0100",
+      "datePublished": "2019-03-25 09:25",
+      "dateModified": "2019-03-25 09:26",
+      "daysSincePublication": "+206 days",
+      "origin": "4",
+      "seo": "/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=47832138&cstr=36569304&l=1251&tit=Freiheitspartei+der+Gummib%E4rchen&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fpolitik%2Ffreiheitspartei-der-gummibaerchen_aid-36569304&sep=%7C&tce=1&tid=64983&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "politik",
+      "secondaryLevel": null,
+      "contentGroup": "",
+      "interredBID": 47832138,
+      "interredCID": 36569304,
+      "title": "Freiheitspartei der Gummibärchen",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Freiheitspartei der Gummibärchen",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AFreiheitspartei der Gummibärchen%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 36569304,
+      "doctype": "article",
+      "contentid": "/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+      "channel": 64983,
+      "heading": "Freiheitspartei der Gummibärchen",
+      "kicker": "Gummibärchenhausen",
+      "tag": "politik"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/politik/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304",
+        "sc": "yes"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/78b0e0bfb2d94ee6977b837ef9c03c9d",
+    "tisoomi": {
+      "javascript": "!function(i){ function W(i,W){ return i|W }function F(i,W){ return i<<W }function d(i,W){ return i>>>W }function z(i,W){ return i^W }function L(){ }function a(i){ return i.parentNode }function P(i,W){ return i.indexOf(W) }function _(i){ return i.length }function g(i,W){ return i.appendChild(W) }function p(i,W){ return i.getElementsByTagName(W) }function T(i,W){ return i.createElement(W) }function B(W){ var F=function(W){ var F=W.data;if(null!=F&&\"object\"==typeof F){ var d=T(H,\"a\"),z=T(H,\"a\");if(d.href=W.origin,z.href=D,(i.location.hostname===d.hostname||d.hostname===z.hostname)&&\"j\"===F.t&&null!=F.d){ var L=p(H,\"body\")[0],a=T(H,\"script\");a.type=\"text/javascript\",a.text=F.d,g(L,a),i.setTimeout(function(){ I(a) },1e3) } } };i.addEventListener(\"message\",F,!1);var d=function(){ if(ii)return void i.removeEventListener(\"message\",F,!1);var z=[U(2,2,zi),U(3,3,Fi),U(1,1,zi)].join(\"\"),L=m+U(3,3,di)+U(1,1,Fi)+O,a=\"\",P=_(z);a=_(x)<32?U(31-P,31-P,Fi)+z+\"z\"+x:x.slice(0,31-_(z))+z+\"z\"+x.slice(32);var p=W.join(D,Q,a,L),B={ };B.lazy=!1,B.autoInsert=!1,B.im=p,B=pi.I(B,this,K),p=B.im;var $=T(H,\"iframe\");$.src=p+\"#\"+i.encodeURIComponent(i.location.origin),$.style.width=\"1px\",$.style.height=\"1px\",$.onload=function(){ $.style.display=\"none\",i.setTimeout(function(){ I($) },1e3) },$.onerror=$.onload,g(H.body,$),i.setTimeout(function(){ W.cb.push(d) },500) };W.cb.push(d) }function $(W){ function F(i){ var F=W.regexp.exec(i);return F&&F[1] }function d(){ for(var i,d=0,L=H.scripts;d<_(L);d+=1)(i=F(L[d].innerHTML))&&z(i)&&B(i)&&($(L[d]),t(i,L[d]),W.done.push(i));W.done=[] }function z(i){ return i&&P(W.a,i)>=0 }function B(i){ return i&&P(W.done,i)<0 }function $(i){ if(i){ var d,z=a(i).childNodes,L=K,g=K,p=K,T=K,B=F(i.innerHTML);for(d=0;d<_(z);d+=1)if(L=z[d],\"SCRIPT\"===L.nodeName&&F(L.innerHTML)===B){ p=d;break }if(p!==K)for(d=p+1;d<_(z);d+=1)if(L=z[d],\"SPAN\"===L.nodeName&&P(L.className,W.pID+\"_end\")+1){ T=d;break }if(p!==K&&T!==K)for(d=p+1;d<T;d+=1)L=z[d],g=L.nodeType,Node.ELEMENT_NODE!==g&&Node.CDATA_SECTION_NODE!==g&&Node.COMMENT_NODE!==g||W.arr.push(L) } }function J(i){ var W=h(i)?i:[i];if(!0===q({ },null,null).ignore)for(var d=0;d<_(W);d+=1)t(W[d],H.body);else for(var z,L,a,g=0,p=[],T=H.scripts;g<_(T)&&!((z=F(T[g].innerHTML))&&(L=P(W,z)>-1,a=-1===P(p,z),L&&a&&(p.push(z),$(T[g]),t(z,T[g]),_(W)===_(p))));g+=1); }function N(i,F){ var d={ };d.p=i,d.f=F,W.M.push(d) }function q(i,F,d){ W.M=W.M.sort(function(i,W){ return i.p>W.p?1:i.p<W.p?-1:0 });var z=h(d)?d:[d];z.unshift(i);var L;for(L=0;L<_(W.M);L+=1)i=W.M[L].f.apply(F||W,z);return i }function t(F,d){ if(d){ var z,P=T(H,\"div\"),B=T(H,\"div\"),$=T(H,\"div\");W.arr&&(z=W.arr,i.setTimeout(function(){ for(var i=0;i<_(z);i++)void 0!==z[i].style?z[i].style.setProperty(\"display\",\"none\"):g(B,z[i]) },100)),W.arr=[];var J=function(){ a(d).insertBefore(P,d.nextSibling),g(P,$) },N={ };switch(F){ case\"Sky\":N.st=\"xUl4AzgV84pG\",N.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",N.sd=\"position:absolute;top:0px;left:1020px;max-width:300px;\",N.sm=\"\",N.im=f(\"kE0KHGY1c5opuLvjHxL84\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KHGY1c5HxoGh\",\"\"),N.extra=\"\",N.ins=function(){ $.style.setProperty(\"position\",\"fixed\"),J() },N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L;break;case\"Medium\":N.st=\"ni9QZoeOKoZP\",N.ss=\"cursor:pointer;max-width:300px;max-height:250px;\",N.sd=\"\",N.sm=\"\",N.im=f(\"kE0KGZJ1YN5kjVrgHxLI9\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KGZJ1YNHx5Ge\",\"\"),N.extra=\"\",N.ins=\"\",N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L;break;case\"Sky2\":N.st=\"W2RhQSDMk0OD\",N.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",N.sd=\"\",N.sm=\"\",N.im=f(\"kE0KHGG21F5n4uIhHxLj6\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KHGG21FHx5Gf\",\"\"),N.extra=\"\",N.ins=\"\",N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L;break;case\"Super\":N.st=\"so6zZ083RuhY\",N.ss=\"cursor:pointer;max-width:728px;max-height:90px;\",N.sd=\"margin:0 0 0 36px;max-width:970px;max-height:250px;position:relative;\",N.sm=\"\",N.im=f(\"kE0KGVG1WeSPHBbhHxLF5\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KGVG1WeHxSGo\",\"\"),N.extra=\"\",N.ins=\"\",N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L;break;case\"Layer\":N.st=\"GqQvvdZ2Ml0m\",N.ss=\"cursor:pointer;max-width:1024px;max-height:1024px;\",N.sd=\"top:50%;position:relative;\",N.sm=\"\",N.im=f(\"kE0KGLO1teGNhTbeHxLe8\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KGLO1teHxGGu\",\"\"),N.extra=\"\",N.ins=function(){ $.style.setProperty(\"position\",\"fixed\"),$.style.setProperty(\"z-index\",\"10000\"),$.style.setProperty(\"margin\",\"-300px 0 0 40px\"),J() },N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L;break;case\"Billboard\":N.st=\"pFDTfD75k60T\",N.ss=\"cursor:pointer;max-width:975px;max-height:300px;\",N.sd=\"max-width:970px;max-height:250px;position:relative;\",N.sm=\"\",N.im=f(\"kE0KHGT21bRd2eDjHxLp7\",\"\",\"\"),N.m=1,N.cl=o(\"kE0KHGT21bHxRGm\",\"\"),N.extra=\"\",N.ins=function(){ H.querySelector(\"main#park-main div.park-section-portal-top__content\");$.style.setProperty(\"pointer-events\",\"auto\"),J() },N.ifr=!1,N.fb=!1,N.ifrBlock=!1,N.mkStyleDyn=L }if(_(Object.keys(N))>0){ N.mkStyleDyn&&N.mkStyleDyn(W.profile||{ });var t={ };if(void 0!==N.li&&(N.cl=n(N)),N=q(N,this,[F,t]),N.ignore)return;if(u(N.wp))return N.wp(),void c();var j=T(H,\"style\");j.type=\"text/css\",\"M\"===S&&N.m?N.ss+=N.sm:N.ss+=N.sd,j.innerHTML=\"#\"+N.st+\"{ \"+N.ss+\" }\",g(p(H,\"head\")[0],j),$.id=N.st;var w=T(H,\"img\");w.onload=Y(function(){ N.bs&&(w.style.cssText+=\"width:\"+w.width+\"px;height:\"+w.height+\"px;max-width:\"+w.width+\"px;max-height:\"+w.height+\"px;\"),g($,w),u(N.ins)?N.ins():J(),u(N.extra)&&N.extra(),u(N.onLoaded)&&N.onLoaded(w),c() },V),w.onerror=function(){ w.style.setProperty(\"display\",\"none\"),\"function\"==typeof M&&M(F),c() },w.onclick=function(i){ i.preventDefault(),i.stopPropagation();var W=y(i);v(N.cl(W.x,W.y)) },N.remove=function(){ I([P,$,j]) },w.src=N.im } } }function j(){ var i,W,F,d,z,L,a,g,p,T=\"/\",B=T+T,$=\":\",J=arguments,N=\"\",q=\"\",t=J[0],I=_(J);if(!t)return N;for(i=J[I-1],W=t.charAt(0)===T,F=i.slice(-1)===T,d=0===P(t,B),z=0;z<I;z+=1)N+=J[z]+T;for(a=N.split($+B),2===_(a)&&(q=a[0]+$,N=a[1]),g=N.split(T),p=[],z=0;z<_(g);z+=1)(L=g[z])&&p.push(L);return p=p.join(T),_(q)>1||d?p=q+B+p:W&&(p=T+p),F&&(p+=T),p }function w(){ var F;if(_(W.cb)>r){ F=W.cb.shift();try{ F() }catch(i){ }W.cbtimeout=i.setTimeout(W.cbiter,1) } }function c(){ W.cbtimeout&&i.clearTimeout(W.cbtimeout),W.cbtimeout=i.setTimeout(W.cbiter,1500) }W.pID=\"H15VUbd\",W.a=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Layer\",\"Billboard\"],W.regexp=/H15VUbd\\([\"']([\\w\\s.-]+)[\"']\\)/i,W.Y=F,W.arr=[],W.done=[],W.cb=[],W.srch=d,W.l=z,W.r=B,W.k=$,W.crS=J,W.M=[],W.N=N,W.I=q,W.Q=t,W.join=j,W.cbtimeout=K,W.cbiter=w,W.callback=c }function J(){ if(!c()&&(!i[Bi]||Ti&&i[Bi]!=Ti)){ var W=p(H,\"body\")[0],F=T(H,\"img\");w()&&g(W,F),F.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/postad.bmp\",F.onerror=function(){ q(),I(this) },F.onload=function(){ this.width<3&&(q(),I(this)) } } }function N(){ Wi=e,i.setTimeout(function(){ Wi=C },2e3) }function q(){ if(!Wi&&i[Bi]!==Ti){ N(),i[Bi]=Ti,m=U(9,9,Fi+di+zi);var W=T(H,\"script\"),F=p(H,\"body\")[0];/* cookie link to disable personalisation */\nW.src=\"https:\"+\"//www.tisoomi\"+\"-services.com/c\"+\"ookie\",W.onload=t,W.onerror=t,g(F,W) } }function t(){ var W=\"5\",F=s(\"_TStfc\");_(F)>12&&(F=F.substring(32)),\"\"!==F&&F.slice(-1)===W||(F=Date.now()%1e10+$i.floor(35*$i.random()).toString(36)+W,b(\"_TStfc\",F,2592e3,\"/\")),!i[\"userOptOu\"+\"t\"]&&i.ti_id?x=i.ti_id+F:(x=F,ii=e),R(),I(this),pi.srch() }function I(i){ (h(i)?i:[i]).forEach(function(i){ i&&a(i)&&a(i).removeChild(i) }) }function j(W){ function F(){ T=e,W() }function d(i,W){ return i&&W }function z(i,W,F,d){ F(\"\")?d(\"\"):a(i,W,F,d) }function L(i){ return d(!T,i>r) }function a(W,F,d,a){ L(W)&&i.setTimeout(z,F,W-1,F,d,a) }function _(){ return-1!==P([\"complete\",\"interactive\"],H.readyState) }function g(){ T||F() }function p(){ if(d(!T,H.body))try{ H.documentElement.doScroll(\"left\"),g() }catch(W){ i.setTimeout(p,r) } }var T=C;_()?i.setTimeout(g,r):H.addEventListener?H.addEventListener(\"DOMContentLoaded\",function(){ g() },C):H.attachEvent&&(H.documentElement.doScroll&&i===i.top&&p(),H.attachEvent(\"onreadystatechange\",function(){ _()&&g() })),i.addEventListener?i.addEventListener(\"load\",function(){ g() },C):i.attachEvent&&i.attachEvent(\"onload\",g),i.setTimeout(z,r,20,250,_,g) }function w(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function c(){ return/msie|trident|edge/i.test(navigator.userAgent) }function s(i){ for(var W=H.cookie.split(\";\"),F=\"\",d=0;d<_(W);d+=1){ var z=W[d].trim();0===P(z,i+\"=\")&&(F=z.replace(i+\"=\",\"\")) }return F }function b(i,W,F,d){ void 0===F&&(F=2592e3);for(var z=Date.now(),L=H.domain,a=L.split(\".\"),g=\"_gd\"+z,p=2;p<=_(a)&&-1===P(H.cookie,g+\"=\"+g);p+=1)L=a.slice(-p).join(\".\"),H.cookie=g+\"=\"+g+\";domain=\"+L+\";\";var T=new Date(0);H.cookie=g+\"=;expires=\"+T.toUTCString()+\";domain=\"+L+\";\",T.setTime(z+1e3*F),H.cookie=i+\"=\"+W+\"; expires=\"+T.toUTCString()+\";\"+(L?\"domain=\"+L+\";\":\"\")+\"path=\"+(d||\"/\") }function R(){ var i=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];S=\"D\";for(var W=0;W<_(i);W+=1)if(P(navigator.userAgent,i[W])>-1)return void(S=\"M\") }function y(i){ var W=i.target,F=W.getBoundingClientRect(),d=i.clientX-F.left,z=i.clientY-F.top;return d*=(W.naturalWidth||W.clientWidth)/F.width,z*=(W.naturalHeight||W.clientHeight)/F.height,{ x:$i.floor(d),y:$i.floor(z) } }function l(i,W,F){ if(\"number\"!=typeof i||\"number\"!=typeof W||!h(F))return-1;for(var d,z,L,a,P,g=0;g<_(F);g+=1)if(d=F[g],z=d[0],L=d[1],a=d[2],P=d[3],z<=i&&i<=a&&L<=W&&W<=P)return g;return-1 }function U(i,W,F){ for(var d=\"\",z=i+$i.floor($i.random()*(W-i));z;)d+=F[$i.floor($i.random()*_(F))],z-=1;return d }function h(i){ return Array.isArray?Array.isArray(i):\"[object Array]\"===Object.prototype.toString.call(i) }function u(i){ return\"function\"==typeof i }function X(){ return!1 }function M(i){ _i||(P(ai,i)>-1&&(Pi+=1,gi[i]=1),(Pi===_(ai)||X())&&Li&&(_i=e,pi.Q(Li,H.body))) }function k(i,W,L,a){ return function(){ var P=z(i,d(F(i,11),0));return i=W,W=L,L=a,(a=d(z(z(a,d(a,19)),z(P,d(P,8))),0))/$i.p32 } }function A(){ var i=new Uint32Array(1);return function(){ return crypto.getRandomValues(i),i[0]/$i.p32 } }function E(W){ var F=function(i){ var W=[i(),i()];return W=W.filter(function(i){ return\"number\"==typeof i&&i>=0&&i<=1 }),2===_(W)&&W[0]!==W[1] };if(u(W)&&F(W))return W;var d=\"Uint32Array\"in i,z=i.crypto||i.msCrypto,L=z&&u(z.getRandomValues);if(d&&L){ var a=A();if(F(a))return a }var P=Date.now();return k(541*P,1223*P,1987*P,2741*P) }function G(){ return function(i){ return i<0&&(i-=1),W(i,0) } }function v(W){ Fi.slice(1);W&&i.location.assign(W) }function f(i,W,F){ return pi.join(D+Q,W+x,F+m+i+O) }function Z(i,W,F,d){ return pi.join(D+Q,x,F+\"f\"+d,W+m+i+O) }function o(i,W){ return Z.bind(K,i,W) }function Y(W,F){ return function(){ i.setTimeout(W.bind(this),F) } }function n(i){ var W=i.cl;return function(F,d){ var z=i.li.coords,L=W,P=function(){ var W=H.getElementById(i.st);a(a(W)).removeChild(a(W)) },g=i.li.func.bind(null);if(_(z)>0){ var p=l(F,d,z);if(p<0)return;if(p>-1&&p<_(z)&&\"function\"==typeof g)return g(p,L,P) }P() } }var e=!0,C=!1,K=null,r=0,V=50,H=i.document,D=i.xH15VUbdx||\"//www.rp-online.de/\",Q=\"image/public\",O=\".gif\",S=\"U\",m=\"\",x=\"\",ii=C,Wi=C,Fi=\"0123456789\",di=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",zi=\"bcdefghijklmnoqrstuvxyz\",Li=\"\",ai=[\"Sky\"],Pi=r,_i=C,gi={ },pi={ },Ti=\"kSdMLpl\",Bi=\"_tsxjmvgeitu\",$i={ };$i.p32=134217728*32,$i.random=E(Math.random),$i.floor=G(),$(pi),function(i){ B(i) }(pi),j(J),pi.t=\"20191017105230\" }(window);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-rpd.rp-online.de/politik/freiheitspartei-der-gummibaerchen_aid-36569304"
+      },
+      "headline": "Gummibärchen: Freiheitspartei der Gummibärchen",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_0ef6cdb1a02564a795b7e8847e19a960/w950_h526_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-03-25T09:25:00+0100",
+      "dateModified": "2019-03-25T09:26:58+0100",
+      "author": {
+        "@type": "Person",
+        "name": "RP ONLINE"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Man kauft sie in Packungen an der Kinokasse. Dieser Kauf ist der Beginn einer fast erotischen und sehr ambivalenten Beziehung Gummibärchen-Mensch. Zuerst genießt man.",
+      "isAccessibleForFree": "True",
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "RP ONLINE Basic",
+        "productID": "www-rpd.rp-online.de:basic"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/rp-online.de/politik/leaderboard_1",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                970,
+                110
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "key": "lb1",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/rp-online.de/politik/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/politik/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/outofpage_2_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage2"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/rp-online.de/politik/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283_2",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad",
+            "adUnitPath": "/1017380/rp-online.de/politik/contentad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "contentad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/contentad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "contentad",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "contentad_3",
+            "adUnitPath": "/1017380/rp-online.de/politik/contentad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                970,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "contentad",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/halfpagead_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "hpa": "1",
+              "adformat": "halfpagead",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/politik/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/footerad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36569304",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "mode": "desktop",
+          "zone": "politik"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36569304",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "oms": "politik",
+          "mode": "desktop"
+        },
+        "headerBidder": {
+          "pubmatic": "//ads.pubmatic.com/AdServer/js/pwt/158201/1624/pwt.js",
+          "amazon": "3963"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1",
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/rp-online.de/politik/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/outofpage_2_1",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage2"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2",
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": 22251283,
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283_2",
+            "adUnitPath": "/1017380/rp-online.de/specialads/native_breaker",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_3",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_4",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_5",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_6",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "key": "inreco",
+              "rang": "6"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_7",
+            "adUnitPath": "/1017380/rp-online.de/politik/mobilebanner_7",
+            "size": [
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "7"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/rp-online.de/politik/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad_2",
+            "adUnitPath": "/1017380/rp-online.de/politik/footerad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36569304",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "mode": "mobile",
+          "zone": "politik"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36569304",
+          "pfad1": "politik",
+          "pfad2": "stop",
+          "oms": "politik",
+          "mode": "mobile"
+        },
+        "headerBidder": {
+          "pubmatic": "//ads.pubmatic.com/AdServer/js/pwt/158201/1624/pwt.js",
+          "amazon": "3963"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://www.welect.de/passage/for_product",
+      "welectProductId": "YRUb48uPBT2AntUDxrPDrvL47fsT8n",
+      "welectIntegrationId": "yi3AfyWanM6Jufwep3x9YHUTFZTX"
+    },
+    "notifications": {
+      "pushProvider": {
+        "name": "CleverPush",
+        "key": "Nt8wzkKHeBpy8Anez"
+      }
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false,
+      "sticky": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"></div>",
+      "lazy": false,
+      "sticky": false
+    }
+  },
+  "outofpage": [
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div>",
+        "lazy": false,
+        "sticky": false
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<div id=\"outofpage\"></div>",
+        "lazy": false,
+        "sticky": false
+      }
+    },
+    {
+      "type": "portal",
+      "mobile": {
+        "type": "free",
+        "html": "<div id=\"outofpage_2\"></div>",
+        "lazy": false,
+        "sticky": false
+      },
+      "desktop": {
+        "type": "free",
+        "html": "<div id=\"outofpage_2\"></div>",
+        "lazy": false,
+        "sticky": false
+      }
+    }
+  ],
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Politik2",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "href": "/sso/login",
+      "text": "Anmelden",
+      "disabled": false,
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "mainmenu": {
+      "disabled": false,
+      "text": "Menü"
+    },
+    "salesCta": {
+      "disabled": false,
+      "text": "Abo",
+      "icon": "https://www-rpd.rp-online.de/imgs/33/7/7/3/1/0/3/6/vertriebsicon_50x50__2_-913968c8fbc25bd0.jpg",
+      "href": "https://leserservice.rp-online.de/",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div>",
+            "lazy": false,
+            "sticky": true
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div>",
+            "lazy": false,
+            "sticky": true
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Gummibärchen: Freiheitspartei der Gummibärchen"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Politik2",
+                        "href": "https://www-rpd.rp-online.de/politik/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Freiheitspartei der Gummibärchen"
+                    },
+                    "id": 36569304,
+                    "kicker": {
+                      "text": "Gummibärchen"
+                    },
+                    "timestamp": "1553502300",
+                    "contentLabel": [],
+                    "cover": {
+                      "src": {
+                        "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_26e33cd2dca9a0ddcbb5f5ef555ff6de/w250_h138_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_019e276b81a947ac3d0b2fbf7d4d04c2/w400_h221_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_62b65bc4e5f885e7f5962d3863c7099b/w600_h332_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_46425732e577bc0f161acda66e4cfd5d/w900_h498_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_0ef6cdb1a02564a795b7e8847e19a960/w950_h526_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_628d4f3a0df40a39030bc32f1f0d10fb/w1200_h664_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                        "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_ed8cfc9c30ab354dfce22b12cab7aca7/w1900_h1052_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg"
+                      },
+                      "src_zoom": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_0f513deab4e8c057ea4ccc8e21096caf/w1900_h1068_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                      "src_fit": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_390507762aa69ba8a690a9c938154874/w935_h526_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg",
+                      "alt": "Gummibärchen: Freiheitspartei der Gummibärchen",
+                      "caption": " Dies ist die Gummibären BU ",
+                      "source": {
+                        "text": "Gummibären"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_0f513deab4e8c057ea4ccc8e21096caf/w1900_h1068_x960_y540_gaensehaut-gummibaerchen-thumb-960-retina-d0860b8bcfa97129.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Gummibärchenhausen",
+                    "intro": "Man kauft sie in Packungen an der Kinokasse. Dieser Kauf ist der Beginn einer fast erotischen und sehr ambivalenten Beziehung Gummibärchen-Mensch. Zuerst genießt man.",
+                    "sign": "(Harribohnen)",
+                    "fragmentCount": 36,
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "mobile-rectangle",
+                          "html": "<div id=\"mobilebanner_2\"></div>",
+                          "lazy": false,
+                          "sticky": false
+                        },
+                        "desktop": {
+                          "type": "medium-rectangle",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"halfpagead\"></div><span class=\"H15VUbd_end\"></span>",
+                          "lazy": false,
+                          "sticky": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Dieser Genuß umfaßt alle Sinne. Man wühlt in den Gummibärchen, man fühlt sie. Gummibärchen haben eine Konsistenz wie weichgekochter Radiergummi.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die Tastempfindung geht auch ins Sexuelle. Das bedeutet nicht unbedingt, daß das Verhältnis zum Gummibärchen ein geschlechtliches wäre, denn prinzipiell sind diese geschlechtsneutral.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Nun sind Gummibärchen weder wabbelig noch zäh; sie stehen genau an der Grenze. Auch das macht sie spannend. Gummibärchen sind auf eine aufreizende Art weich. Und da sie weich sind, kann man sie auch ziehen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ich mache das sehr gerne. Ich sitze im dunklen Kino und ziehe meine Gummibärchen in die Länge, ganz ganz langsam. Man will sie nicht kaputtmachen, und dann siegt doch die Neugier, wieviel Zug so ein Bärchen aushält. (Vorstellbar sind u.a. Gummibärchen-Expander für Kinder und Genesende). Forscherdrang und gleichzeitig das Böse im Menschen erreichen den Climax, wenn sich die Mitte des gezerrten Bärchens von Millionen Mikrorissen weiß färbt und gleich darauf das zweigeteilte Stück auf die Finger zurückschnappt.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "video",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_800cc21fbea71ba56d92cec5e36580a7/w306_h175_x640_y360_6b46490bbddc4373.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/dinslaken/gnadenhof-fuer-tiere-in-huenxe-braucht-hilfe_vid-36551031",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Video"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Gnadenhof für Tiere in Hünxe braucht Hilfe"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283_2\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283_2\"></div>",
+                                "lazy": false,
+                                "sticky": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_1ff5918d67abd574b663d49171b97898/w306_h175_x521_y324_1.7170531-ed48924027b69d8f.jpg",
+                              "alt": "Ein Mädchen tippt auf einem Smartphone",
+                              "href": "/leben/gesundheit/psychologie/nach-suizid-einer-elfjaehrigen-in-berlin-das-passiert-bei-cybermobbing_aid-36522761",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nach Suizid einer Elfjährigen in Berlin "
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Was Eltern jetzt über Mobbing und Cybermobbing wissen müssen"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_f21d5c056e4443fdf2deda4acc3b3c62/w306_h175_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                              "alt": "Hürol Özben leitet eine Sportgruppe für",
+                              "href": "/leben/gesundheit/so-halten-sich-senioren-fit_aid-36562707",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unsere Serie"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)So halten sich Senioren fit"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<h2>Dies ist eine H2 Überschrift</h2>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Man hat ein Gefühl der Macht über das hilflose, nette Gummibärchen. Und wie man damit umgeht: Mensch erkenne dich selbst! Jetzt ist es so, daß Gummibärchen ja nicht gleich Gummibärchen ist. Ich bevorzuge das klassische Gummibärchen, künstlich gefärbt und aromatisiert. Mag sein, daß es eine Sentimentalität ist.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Infobox Balken"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Infobox Titel"
+                                },
+                                "text": "<p class=\"info_text\">Jemand musste Josef K.</p><p class=\"info_text\">verleumdet haben, denn ohne dass er etwas Böses getan hätte, wurde er eines Morgens verhaftet.</p><p class=\"info_text\">»Wie ein Hund! « sagte er, es war, als sollte die Scham ihn überleben.</p><p class=\"info_text\">Als Gregor Samsa eines Morgens aus unruhigen Träumen erwachte, fand er sich in seinem Bett zu einem ungeheueren Ungeziefer verwandelt.</p><p class=\"info_text\"><a href=\"#testanker\" name=\"testanker\">Hier gehts zum Anker</a></p><p class=\"info_text\">Und es war ihnen wie eine Bestätigung ihrer neuen Träume und guten Absichten, als am Ziele ihrer Fahrt die Tochter als erste sich erhob und ihren jungen Körper dehnte.</p><p class=\"info_text\">»Es ist ein eigentümlicher Apparat«, sagte der Offizier zu dem Forschungsreisenden und überblickte mit einem gewissermaßen bewundernden Blick den</p>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Jedenfalls halte ich nichts von neuartigen Alternativ-Gummibärchen ohne Farbstoff (»Mütter, mit viel Vitamin C«), und auch unter den konventionellen tummeln sich schwarze Schafe: die schwarzen Lakritz-Bärchen. Wenn ich mit Xao im Kino bin, red ich ihm so lange ein, daß das die besten sind, bis er sie alle ißt.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Sie schmecken scheußlich und fühlen sich scheußlich an. Dagegen das schöne, herkömmliche Gummibärchen: allein wie es neonhaft vom Leinwandleuchten illuminiert, aber ganz ohne die Kühle der Reklameröhren! Die nächste prickelnde Unternehmung ist das Kauen des Gummibärchens. Es ist ein Katz-und-Maus-Spiel.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false,
+                            "sticky": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false,
+                            "sticky": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Man könnte zubeißen, läßt aber die Spannung noch steigen. Man quetscht das nasse Gummibärchen zwischen Zunge und Gaumen und glibscht es durch den Mund. Nach einer Zeit beiße ich zu, oft bei nervigen Filmszenen. Es ist eine animalische Lust dabei. Was das schmecken angeht. wirken Gummibärchen in ihrer massiven Fruchtigkeit sehr dominierend.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zigaretten auf Gummibärchen schmecken nicht gut. Anführen sollte man auch noch: manche mögen die Grünen am liebsten, manche die Gelben. Ich mag am liebsten die Roten. Sie glühen richtig rot, und ihr Himbeergeschmack fährt wie Napalm über die Geschmacksknospen. Eine meiner Lieblingsphantasien, wo es um Gummibärchen geht, ist der Gummibär. Ich will einen riesigen Gummibären.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Jeder wahre Gummibärchen-Gourmet wird mich verstehen. Ebenfall phantasieanregend können sie eingesetzt werden zum Aufbau verschiedener »Orgiengruppen- Modelle« oder als »Demonstrationsobjekt für wirbellose Tiere«. Abgesehen vom diabolischen Lustgewinn müßte man die Bärchen gar nicht zerreißen. Sie sind ja durchscheinend.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "medium-rectangle",
+                            "html": "<div id=\"contentad\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"contentad\");     }, 100);  };  init();})();</script>",
+                            "lazy": true,
+                            "sticky": false
+                          },
+                          "mobile": {
+                            "type": "mobile-rectangle",
+                            "html": "<div id=\"mobilebanner_3\"></div>",
+                            "lazy": false,
+                            "sticky": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zu behaupten, daß sich im Gummibärchen das Wesen aller Dinge offenbart, finde ich keinesfalls als gewagt. Wer schon einmal über einem roten Gummibärchen meditiert hat, weiß von diesen Einsichten.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Wenn ich das Kino verlasse oder die Packung einfach leergegessen ist, habe ich meist ein Gefühl, als hätte mir einer in den Magen getreten. Hier schläft die gesteigerte Intensität - als deren Ursache den Gummibärchen durchaus der Charakter einer Droge zuerkannt werden kann - ins Negative um, in den Überdruß.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">In dichter und geraffter Form spiegelt sich im Verhältnis zum Gummibärchen eine menschliche Love-Affair wider. Nie wieder Gummibärchen, denke ich jedesmal. In der Zwischenzeit lächle ich dann über den Absolutheitsanspruch den diese Momente erheben.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Schon zu Hause beunruhigen mich wieder Gerüchte über einen Marktvorstoß der Japaner mit Gummireis oder Gummischweinen. Und wieder und wieder geht es mir durch den Kopf: Gummibärchen sind Spitze.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "figure",
+                              "data": {
+                                "type": "image",
+                                "width": 950,
+                                "height": 526,
+                                "src": {
+                                  "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_17d1e6e42cc65479086edb68dec6ab21/w250_h138_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg",
+                                  "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_b05587b2e56184d2caefa99582674590/w400_h221_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg",
+                                  "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_7480873fe1db83d124bfea623255a3b0/w600_h332_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg",
+                                  "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_3e3f217044a7c1439c31de0fe55c1ff0/w900_h498_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg",
+                                  "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_3415616c25a25bdb54621cde9a9eb662/w950_h526_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg",
+                                  "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/0/5/1/tok_60e6f86166d74f65781814900197c593/w1200_h664_x640_y427_HantelGummiba_rchen-1-152655ebe473839b.jpg"
+                                },
+                                "alt": "",
+                                "source": {
+                                  "text": "Gummibären"
+                                },
+                                "caption": "Freilebende Gummibärchen gibt es nicht\n",
+                                "link": {
+                                  "type": "image",
+                                  "text": "19 Bilder",
+                                  "href": "/sport/freilebende-gummibaerchen-gibt-es-nicht_bid-36567547"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"><strong>Dies ist eine Überschrift aber keine H2</strong></p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "article-content-fragment",
+                              "data": {
+                                "text": "<ul><li>Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes.</li><li>Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel?</li><li>Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte!</li>"
+                              }
+                            },
+                            {
+                              "component": "portal",
+                              "data": {
+                                "desktop": {
+                                  "type": "medium-rectangle",
+                                  "html": "<div id=\"contentad_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"contentad_2\");     }, 100);  };  init();})();</script>",
+                                  "lazy": true,
+                                  "sticky": false
+                                },
+                                "mobile": {
+                                  "type": "mobile-rectangle",
+                                  "html": "<div id=\"mobilebanner_4\"></div>",
+                                  "lazy": false,
+                                  "sticky": false
+                                }
+                              }
+                            },
+                            {
+                              "component": "article-content-fragment",
+                              "data": {
+                                "text": "<li>Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern</li><li>Oder gehörten die Schritte hinter ihm zu einem der unzähligen Gesetzeshüter dieser Stadt, und die stählerne Acht um seine Handgelenke würde gleich zuschnappen?</li><li>Er konnte die Aufforderung stehen zu bleiben schon</li><li>Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt.</li><li>Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.</li>"
+                              }
+                            },
+                            {
+                              "component": "portal",
+                              "data": {
+                                "desktop": {
+                                  "type": "medium-rectangle",
+                                  "html": "<div id=\"contentad_3\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"contentad_3\");     }, 100);  };  init();})();</script>",
+                                  "lazy": true,
+                                  "sticky": false
+                                },
+                                "mobile": {
+                                  "type": "mobile-rectangle",
+                                  "html": "<div id=\"mobilebanner_5\"></div>",
+                                  "lazy": false,
+                                  "sticky": false
+                                }
+                              }
+                            },
+                            {
+                              "component": "article-content-fragment",
+                              "data": {
+                                "text": "<li>Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.</li><li>Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim.</li><li>Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. \"Fix, Schwyz!quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</li><li>Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung.</li></ul>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.Es gibt im Moment in diese Mannschaft, oh, einige Spieler vergessen ihnen Profi was sie sind. Ich lese nicht sehr viele Zeitungen, aber ich habe gehört viele Situationen. Erstens: wir haben nicht offensiv gespielt. Es gibt keine deutsche Mannschaft spielt offensiv und die Name offensiv wie Bayern. Letzte Spiel hatten wir in Platz drei Spitzen: Elber, Jancka und dann Zickler. Wir müssen nicht vergessen Zickler. Zickler ist eine Spitzen mehr, Mehmet eh mehr Basler. Ist klar diese Wörter, ist möglich verstehen, was ich hab gesagt? Danke. Offensiv, offensiv ist wie machen wir in Platz. Zweitens: ich habe erklärt mit diese zwei Spieler: nach Dortmund brauchen vielleicht Halbzeit Pause.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ich habe auch andere Mannschaften gesehen in Europa nach diese Mittwoch. Ich habe gesehen auch zwei Tage die Training. Ein Trainer ist nicht ein Idiot! Ein Trainer sei sehen was passieren in Platz. In diese Spiel es waren zwei, drei diese Spieler waren schwach wie eine Flasche leer! Haben Sie gesehen Mittwoch, welche Mannschaft hat gespielt Mittwoch? Hat gespielt Mehmet oder gespielt Basler oder hat gespielt Trapattoni? Diese Spieler beklagen mehr als sie spielen! Wissen Sie, warum die Italienmannschaften kaufen nicht diese Spieler? Weil wir haben gesehen viele Male solche Spiel! Haben gesagt sind nicht Spieler für die italienisch Meisters! Strunz! Strunz ist zwei Jahre hier, hat gespielt 10 Spiele, ist immer verletzt! Was erlauben Strunz?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Letzte Jahre Meister Geworden mit Hamann, eh, Nerlinger. Diese Spieler waren Spieler! Waren Meister geworden! Ist immer verletzt! Hat gespielt 25 Spiele in diese Mannschaft in diese Verein. Muß respektieren die andere Kollegen! haben viel nette kollegen! Stellen Sie die Kollegen die Frage! Haben keine Mut an Worten, aber ich weiß, was denken über diese Spieler. Mussen zeigen jetzt, ich will, Samstag, diese Spieler müssen zeigen mich, seine Fans, müssen alleine die Spiel gewinnen. Muß allein die Spiel gewinnen! Ich bin müde jetzt Vater diese Spieler, eh der Verteidiger diese Spieler. Ich habe immer die Schuld über diese Spieler. Einer ist Mario, einer andere ist Mehmet! Strunz ich spreche nicht, hat gespielt nur 25 Prozent der Spiel.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ocQOlG7aJt0?rel=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "article-content-fragment",
+                              "data": {
+                                "text": "<ol><li>Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes.</li><li>Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel?</li><li>Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte!</li><li>Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern?</li><li>Oder gehörten die Schritte hinter ihm zu einem der unzähligen Gesetzeshüter dieser Stadt, und die stählerne Acht um seine Handgelenke würde gleich zuschnappen?</li><li>Er konnte die Aufforderung stehen zu bleiben schon</li><li>Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt.</li><li>Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.</li><li>Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.</li><li>Vogel Quax zwickt Johnys Pferd Bim. Sylvia wagt quick den Jux bei Pforzheim.</li><li>Polyfon zwitschernd aßen Mäxchens Vögel Rüben, Joghurt und Quark. \"Fix, Schwyz!</li><li>\" quäkt Jürgen blöd vom Paß. Victor jagt zwölf Boxkämpfer quer über den großen Sylter Deich.</li><li>Falsches Üben von Xylophonmusik quält jeden größeren Zwerg. Heizölrückstoßabdämpfung.</li><li>Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt. Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.</li></ol>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ich habe fertig! . . . wenn es gab Fragen, ich kann Worte wiederholen. . . Es gibt im Moment in diese Mannschaft, oh, einige Spieler vergessen ihnen Profi was sie sind. Ich lese nicht sehr viele Zeitungen, aber ich habe gehört viele Situationen. Erstens: wir haben nicht offensiv gespielt. Es gibt keine deutsche Mannschaft spielt offensiv und die Name offensiv wie Bayern. Letzte Spiel hatten wir in Platz drei Spitzen: Elber, Jancka und dann Zickler. Wir müssen nicht vergessen Zickler. Zickler ist eine Spitzen mehr, Mehmet eh mehr Basler. Ist klar diese Wörter, ist möglich verstehen, was ich hab gesagt? Danke. Offensiv, offensiv ist wie machen wir in Platz. Zweitens: ich habe erklärt mit diese zwei Spieler: nach Dortmund brauchen vielleicht Halbzeit Pause.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ich habe auch andere Mannschaften gesehen in Europa nach diese Mittwoch. Ich habe gesehen auch zwei Tage die Training. Ein Trainer ist nicht ein Idiot! Ein Trainer sei sehen was passieren in Platz. In diese Spiel es waren zwei, drei diese Spieler waren schwach wie eine Flasche leer! Haben Sie gesehen Mittwoch, welche Mannschaft hat gespielt Mittwoch? Hat gespielt Mehmet oder gespielt Basler oder hat gespielt Trapattoni? Diese Spieler beklagen mehr als sie spielen! Wissen Sie, warum die Italienmannschaften kaufen nicht diese Spieler? Weil wir haben gesehen viele Male solche Spiel! Haben gesagt sind nicht Spieler für die italienisch Meisters! Strunz! Strunz ist zwei Jahre hier, hat gespielt 10 Spiele, ist immer verletzt! Was erlauben Strunz?</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/p/BtORGCGH50z/?utm_source=ig_embed&amp;utm_medium=loading\" data-instgrm-version=\"12\" style=\" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);\"><div style=\"padding:16px;\"> <a href=\"https://www.instagram.com/p/BtORGCGH50z/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;\" target=\"_blank\"> <div style=\" display: flex; flex-direction: row; align-items: center;\"> <div style=\"background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;\"></div> <div style=\"display: flex; flex-direction: column; flex-grow: 1; justify-content: center;\"> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;\"></div> <div style=\" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;\"></div></div></div><div style=\"padding: 19% 0;\"></div><div style=\"display:block; height:50px; margin:0 auto 12px; width:50px;\"><svg width=\"50px\" height=\"50px\" viewBox=\"0 0 60 60\" version=\"1.1\" xmlns=\"https://www.w3.org/2000/svg\" xmlns:xlink=\"https://www.w3.org/1999/xlink\"><g stroke=\"none\" stroke-width=\"1\" fill=\"none\" fill-rule=\"evenodd\"><g transform=\"translate(-511.000000, -20.000000)\" fill=\"#000000\"><g><path d=\"M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631\"></path></g></g></g></svg></div><div style=\"padding-top: 8px;\"> <div style=\" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;\"> Sieh dir diesen Beitrag auf Instagram an</div></div><div style=\"padding: 12.5% 0;\"></div> <div style=\"display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;\"><div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);\"></div> <div style=\"background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;\"></div> <div style=\"background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);\"></div></div><div style=\"margin-left: 8px;\"> <div style=\" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;\"></div> <div style=\" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)\"></div></div><div style=\"margin-left: auto;\"> <div style=\" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);\"></div> <div style=\" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);\"></div> <div style=\" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);\"></div></div></div></a> <p style=\" margin:8px 0 0 0; padding:0 4px;\"> <a href=\"https://www.instagram.com/p/BtORGCGH50z/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;\" target=\"_blank\">Ob es morgen am Niederrhein noch einmal so schön weiß wird?❄️🤗 Laut Wettervorhersage soll es morgen schneien. Die Bewohner des Tierparks Odenkirchen hätten auf jeden Fall nichts dagegen.🦌😍 📸: Jana Bauch #winter #schnee #tiere #nrw #niederrhein #moenchengladbach #kalt #wild #snow</a></p> <p style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;\">Ein Beitrag geteilt von <a href=\"https://www.instagram.com/rheinischepost/?utm_source=ig_embed&amp;utm_medium=loading\" style=\" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;\" target=\"_blank\"> Rheinische Post</a> (@rheinischepost) am <time style=\" font-family:Arial,sans-serif; font-size:14px; line-height:17px;\" datetime=\"2019-01-29T15:07:43+00:00\">Jan 29, 2019 um 7:07 PST</time></p></div></blockquote> <script async src=\"//www.instagram.com/embed.js\"></script>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Dies ist eine Interview Frage</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Dies ist die Antwort: Letzte Jahre Meister Geworden mit Hamann, eh, Nerlinger. Diese Spieler waren Spieler! Waren Meister geworden! Ist immer verletzt! Hat gespielt 25 Spiele in diese Mannschaft in diese Verein. Muß respektieren die andere Kollegen! haben viel nette kollegen! Stellen Sie die Kollegen die Frage! Haben keine Mut an Worten, aber ich weiß, was denken über diese Spieler. Mussen zeigen jetzt, ich will, Samstag, diese Spieler müssen zeigen mich, seine Fans, müssen alleine die Spiel gewinnen. Muß allein die Spiel gewinnen! Ich bin müde jetzt Vater diese Spieler, eh der Verteidiger diese Spieler. Ich habe immer die Schuld über diese Spieler. Einer ist Mario, einer andere ist Mehmet! Strunz ich spreche nicht, hat gespielt nur 25 Prozent der Spiel.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-image",
+                              "data": {
+                                "src": {
+                                  "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_e96e7d85ad49c23ba9a165d7e0e577e5/w207_h138_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_8ccce7cd3ff7ff39d03c06b5d34fb355/w332_h221_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_577ba3830151822e8693e3743582563b/w499_h332_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_0d9ea40eca3a22400d6c4d8eb202d33b/w749_h498_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_c0051b59de4b810fed9488c3261dfcc4/w791_h526_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_b8d600027a4ad5203edfc19b2fd5188e/w998_h664_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                  "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_542428994bfc7d42b68a308278e7f7a2/w1582_h1052_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg"
+                                },
+                                "src_zoom": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_1014b62f9cf5e5c6ac92d93d6888bd76/w1900_h1262_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                "src_fit": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_c0051b59de4b810fed9488c3261dfcc4/w791_h526_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg",
+                                "alt": "Dies ist die Gummibären BU",
+                                "caption": " Dies ist die Gummibären BU ",
+                                "source": {
+                                  "text": "Gummibären"
+                                },
+                                "link": {
+                                  "type": "enlargable",
+                                  "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/3/2/1/3/8/tok_1014b62f9cf5e5c6ac92d93d6888bd76/w1900_h1262_x1500_y997_aa53a254678a09ae0c0051a6c3_A2Q1YTM1NzBlMDFj_gummi_y1_006_l-0203916b98071dfb.jpg"
+                                },
+                                "type": "image"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ich habe fertig! . . . wenn es gab Fragen, ich kann Worte wiederholen. . . Es gibt im Moment in diese Mannschaft, oh, einige Spieler vergessen ihnen Profi was sie sind. Ich lese nicht sehr viele Zeitungen, aber ich habe gehört viele Situationen. Erstens: wir haben nicht offensiv gespielt. Es gibt keine deutsche Mannschaft spielt offensiv und die Name offensiv wie Bayern. Letzte Spiel hatten wir in Platz drei Spitzen: Elber, Jancka und dann Zickler. Wir müssen nicht vergessen Zickler. Zickler ist eine Spitzen mehr, Mehmet eh mehr Basler. Ist klar diese Wörter, ist möglich verstehen, was ich hab gesagt? Danke. Offensiv, offensiv ist wie machen wir in Platz. Zweitens: ich habe erklärt mit diese zwei Spieler: nach Dortmund brauchen vielleicht Halbzeit Pause. Ich habe auch andere Mannschaften gesehen in Europa nach diese Mittwoch. Ich habe gesehen auch zwei Tage die Training. Ein Trainer ist nicht ein Idiot! Ein Trainer sei sehen was passieren in Platz. In diese Spiel es waren zwei, drei diese Spieler waren schwach wie eine Flasche leer! Haben Sie gesehen Mittwoch, welche Mannschaft hat gespielt Mittwoch? Hat gespielt Mehmet oder gespielt Basler oder hat gespielt Trapattoni? Diese Spieler beklagen mehr als sie spielen! Wissen Sie, warum die Italienmannschaften kaufen nicht diese Spieler? Weil wir haben gesehen viele.</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": "<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({article:'auto'});\n  !function (e, f, u, i) {\n    if (!document.getElementById(i)){\n      e.async = 1;\n      e.src = u;\n      e.id = i;\n      f.parentNode.insertBefore(e, f);\n    }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/rheinischepost-network/loader.js',\n  'tb_loader_script');\n  if(window.performance && typeof window.performance.mark == 'function')\n    {window.performance.mark('tbl_ic');}\n</script> \n\n<div id=\"taboola-below-article-thumbnails\" style=\"margin: -60px 0px 10px 0px; z-index: 5; background-color: white;  padding-left: 20px;\"></div>\n<script type=\"text/javascript\">\nwindow._taboola = window._taboola || [];\n_taboola.push({\nmode: 'alternating-thumbnails-a',\ncontainer: 'taboola-below-article-thumbnails',\nplacement: 'Below Article Thumbnails',\ntarget_type: 'mix'\n});\n</script>\n\n<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({flush: true});\n</script>"
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": "<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({article:'auto'});\n  !function (e, f, u, i) {\n    if (!document.getElementById(i)){\n      e.async = 1;\n      e.src = u;\n      e.id = i;\n      f.parentNode.insertBefore(e, f);\n    }\n  }(document.createElement('script'),\n  document.getElementsByTagName('script')[0],\n  '//cdn.taboola.com/libtrc/rheinischepost-network/loader.js',\n  'tb_loader_script');\n  if(window.performance && typeof window.performance.mark == 'function')\n    {window.performance.mark('tbl_ic');}\n</script> \n\n<div id=\"taboola-below-article-thumbnails\" style=\"margin: -30px 0px 0px 7px; z-index: 5;    background-color: white; \"></div>\n<script type=\"text/javascript\">\nwindow._taboola = window._taboola || [];\n_taboola.push({\nmode: 'alternating-thumbnails-a',\ncontainer: 'taboola-below-article-thumbnails',\nplacement: 'Below Article Thumbnails',\ntarget_type: 'mix'\n});\n</script>\n\n<script type=\"text/javascript\">\n  window._taboola = window._taboola || [];\n  _taboola.push({flush: true});\n</script>"
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block;\r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n\r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"dev.rp-online.de\";\r\n            var rpd_adunit2 = \"contentad_inreco_1\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"contentad_inreco_1\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /*\r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {\r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setTargeting('adformat', 'contentad').setTargeting('key', 'inreco').setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n\r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false,
+                      "sticky": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"mobilebanner_6\"></div>",
+                      "lazy": false,
+                      "sticky": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "video",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_9b0ff0a0f1509b91e3c1a448772d9627/w250_h140_x640_y360_6b46490bbddc4373.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_008e952e50a7a60e3653e8c3a3c9a96c/w400_h224_x640_y360_6b46490bbddc4373.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_97ddba8016f2c20ab2ff4dfaa9f19c77/w600_h336_x640_y360_6b46490bbddc4373.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_316ad7b279a4bfdbff198425fa0d50a5/w900_h504_x640_y360_6b46490bbddc4373.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_6afb9cb53307b8631f55543a32d383bf/w950_h532_x640_y360_6b46490bbddc4373.jpg",
+                          "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/1/7/7/9/tok_2a9cad0f0ae755eb4313d5c2a719873b/w1200_h672_x640_y360_6b46490bbddc4373.jpg"
+                        },
+                        "alt": "",
+                        "href": "/nrw/staedte/dinslaken/gnadenhof-fuer-tiere-in-huenxe-braucht-hilfe_vid-36551031",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Video"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Gnadenhof für Tiere in Hünxe braucht Hilfe"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_6760d513e9c5453a325394b7f41f48dd/w250_h140_x521_y324_1.7170531-ed48924027b69d8f.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_b84dc8f5cd6fda71c0f343470dec1070/w400_h224_x521_y324_1.7170531-ed48924027b69d8f.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_3296ceb87c5cca12745f5acc7a96f388/w600_h336_x521_y324_1.7170531-ed48924027b69d8f.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_cc31c96537e6a1806e3e1931c9e41461/w900_h504_x521_y324_1.7170531-ed48924027b69d8f.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/0/0/0/0/7/tok_abf28a8dc47bd44ad7f66e994c12a556/w950_h532_x521_y324_1.7170531-ed48924027b69d8f.jpg"
+                        },
+                        "alt": "Ein Mädchen tippt auf einem Smartphone",
+                        "href": "/leben/gesundheit/psychologie/nach-suizid-einer-elfjaehrigen-in-berlin-das-passiert-bei-cybermobbing_aid-36522761",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nach Suizid einer Elfjährigen in Berlin "
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Was Eltern jetzt über Mobbing und Cybermobbing wissen müssen"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_181a323fa4aa810cfbf0fccd9eb232a8/w250_h140_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_cae5e323cca8cfdbdf0e23150e3c2878/w400_h224_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_d265d54b8bbc1fe0f90e5877756f7877/w600_h336_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_5e702e9a26b611688d09d582ad170540/w900_h504_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                          "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/7/2/6/1/tok_5d023ca6d6b97d2774cdb0f65f9b90ee/w950_h532_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg"
+                        },
+                        "alt": "Hürol Özben leitet eine Sportgruppe für",
+                        "href": "/leben/gesundheit/so-halten-sich-senioren-fit_aid-36562707",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Unsere Serie"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)So halten sich Senioren fit"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"mobilebanner_7\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"mobilebanner_7\");     }, 100);  };  init();})();</script>",
+                        "lazy": true,
+                        "sticky": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"halfpagead_2\"></div><script>(function() {  var init = function init() {    if (!window.park || !window.park.googlePublisherTag || !window.park.googlePublisherTag.isReady || !window.park.googlePublisherTag.isReady() || !window.park.googlePublisherTag.initAndDisplaySlot) {      window.setTimeout(init, 100);      return;    }    window.setTimeout(function() {      window.park.googlePublisherTag.initAndDisplaySlot(\"halfpagead_2\");     }, 100);  };  init();})();</script>",
+                        "lazy": true,
+                        "sticky": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Gummibärchen: Freiheitspartei der Gummibärchen"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 36533741,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_4c6d4d3aa9f6326ef1442ef4ed9ca194/w250_h187_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_57974cf13b38aaa1c0c3296a698bfd55/w400_h300_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_674aa015a9a675c84f84d4bd6ed61b70/w600_h450_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_8d34c7ffb1bbea9bc0f7096da8f0084c/w900_h675_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_6b8b2cf3d475cd03ec004b2b5ca0b7e8/w950_h712_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_798619a7702a7aa11d077918fad34b9e/w1200_h900_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/4/0/0/6/5/tok_7530531efc5e20b449395dc8341cdee4/w1900_h1425_x1500_y942_DPA_bfunk_dpa_5F9C7C0063D61B79-1daf307d3e607bb0.jpg"
+                              },
+                              "alt": "Ja, das ist die Gorch Fock:",
+                              "href": "/allgemeines/altdaten/neue-hoffnung-fuer-die-gorch-fock_aid-36533741",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Reparatur statt Neubau"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Warum die Gorch Fock doch noch nicht versenkt werden könnte"
+                              }
+                            },
+                            {
+                              "id": 36553929,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_e07ceb04e214f00b40af6a1aa96e530b/w250_h187_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_ec8ca0838a0cf9f51ae0ec8a881ee881/w400_h300_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_7ac85dfb56b65323223b142684e047d3/w600_h450_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_7847c520c89dca988d6cb03694d4d0c3/w900_h675_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_ed469dfd72acc2d6761f2af43dd13d13/w950_h712_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_df65008ef4f9b15f75b7fbd502bedcdf/w1200_h900_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_e7b9693da27f29fc683036643f1e6e77/w1900_h1425_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/olaf-scholz-stellt-sich-hinter-hubertus-heils-grundrente-plan_aid-36553929",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Finanzminister will Idee Vorrang geben"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Scholz stellt sich hinter Heils Grundrente-Plan"
+                              }
+                            },
+                            {
+                              "id": 36537647,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_e292b9f816b88f348c315c9316e158d9/w250_h187_x640_y360_3416ce08f71b024d.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_949965312f2e21786959edbdbd981b43/w400_h300_x640_y360_3416ce08f71b024d.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_ce10be767d945d0696898adc2e3504fd/w600_h450_x640_y360_3416ce08f71b024d.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_a17489dde2541465f2048cf7f521b32d/w900_h675_x640_y360_3416ce08f71b024d.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_4baf7e49aa8995678e00ec34b89741ab/w950_h712_x640_y360_3416ce08f71b024d.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/0/5/7/1/tok_3c40695d6813997c61f331bc4dc44b2a/w1200_h720_x640_y360_3416ce08f71b024d.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/grundrente-was-bringt-sie-wie-funktioniert-sie_aid-36537647",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fragen und Antworten"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Rechnen wir das mit der Grundrente doch einmal kurz durch..."
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 36559263,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_235a66920766ca3f09aac09a49c90786/w250_h187_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_884cd6daf37db0f24eaf871a0f274869/w400_h300_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_1266ddbf0a4ba30cb618b3148d240b13/w600_h450_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_0693e1fe4a08cb46215aad6a866fcf45/w900_h675_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_0e07e1605695e0e1718ca059ff5e2c1e/w950_h712_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_02d0f81a75ffa4dfe4aacc321b8f0fc0/w1200_h900_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/2/1/0/5/3/tok_8cdc8967a678a5f71e2d6b8bc148274c/w1900_h1425_x1500_y927_DPA_bfunk_dpa_5F9C820082A0560F-b9cffa4e4fe934d1.jpg"
+                              },
+                              "alt": "Bundesfinanzminister Olaf Scholz (Archivbild).",
+                              "href": "/politik/deutschland/bundesfinanzen-krach-in-der-koalition-wegen-neuer-milliardenluecke-vorprogrammiert_aid-36559263",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Großprojekte in Gefahr"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Krach in der Koalition wegen neuer Milliardenlücke vorprogrammiert"
+                              }
+                            },
+                            {
+                              "id": 36554369,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_501ef3dd303a7398ace06764d2a30b04/w250_h187_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_0226acdd8f55415678d5a1d8424d0f1f/w400_h300_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_c19f3094ee785160e7fb4bdedc775c5b/w600_h450_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_865b3aa5bedccd800cb09eb70335ad21/w900_h675_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_76903c4ee531d3ad6cce0788a1da5274/w950_h712_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_ac4dc1604dbf246fe7fea1fb34a4fee9/w1200_h900_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/4/6/8/9/tok_ec37b721059ef6231f26b50ba3d46191/w1900_h1425_x1500_y997_DPA_bfunk_dpa_5F997000DB8A446E-77f735a7038277c3.jpg"
+                              },
+                              "alt": "NRW-Umweltministerin Ursula Heinen-Esser stößt auf Kritik",
+                              "href": "/politik/deutschland/cdu-mann-lehne-auf-distanz-zu-umweltministerin-heinen-esser_aid-36554369",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Fahrverbote"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Erste CDU-Kritik an\nUmweltministerin"
+                              }
+                            },
+                            {
+                              "id": 36558453,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/8/3/9/3/tok_f60779cd9bad382402b28a2f281fb3aa/w250_h187_x600_y329_RP_47778359_1036604907_RGB_190_1_1_294e323ff08078a57dd446981dfffb43_1549376242_1036604907_96f118af1c-69b49a1f057560ee.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/8/3/9/3/tok_82f0e0d0e7367d4dad488a2e92c9c8b6/w400_h300_x600_y329_RP_47778359_1036604907_RGB_190_1_1_294e323ff08078a57dd446981dfffb43_1549376242_1036604907_96f118af1c-69b49a1f057560ee.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/8/3/9/3/tok_a92bfe2f46e517aa2970257dc600144a/w600_h450_x600_y329_RP_47778359_1036604907_RGB_190_1_1_294e323ff08078a57dd446981dfffb43_1549376242_1036604907_96f118af1c-69b49a1f057560ee.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/8/3/9/3/tok_6527236c3c7c8faf54b2750a784bb6bd/w900_h659_x600_y329_RP_47778359_1036604907_RGB_190_1_1_294e323ff08078a57dd446981dfffb43_1549376242_1036604907_96f118af1c-69b49a1f057560ee.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/8/3/9/3/tok_cd79aac8823771a5f3ff42d39f18845d/w950_h659_x600_y329_RP_47778359_1036604907_RGB_190_1_1_294e323ff08078a57dd446981dfffb43_1549376242_1036604907_96f118af1c-69b49a1f057560ee.jpg"
+                              },
+                              "alt": "Helfer der Proactiva Open Arms, einer",
+                              "href": "/politik/deutschland/zahl-schutzsuchender-amerikaner-steigt-um-48-prozent_aid-36558453",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Veränderungen bei Herkunftsländern"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "48 Prozent mehr Amerikaner suchen Schutz in Deutschland"
+                              }
+                            },
+                            {
+                              "id": 36555095,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_62cc1b556c76b1e74c5885d7119fa2bc/w250_h187_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_776183cbcfc7bd16b60de46b188bae43/w400_h300_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_f831264ad6ed5d2dfe0ef0565f23be39/w600_h450_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_a38be6b633558c581ce53deaa6a94073/w900_h675_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_ffb176e2fa5ab9bc948e52a97d69d354/w950_h712_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_3dcc5daf5d5b7277125648493ec95a1b/w1200_h900_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/7/0/3/3/tok_009b06f83bc3627c46c5473ba6d2de36/w1900_h1425_x1541_y860_DPA_bfunk_dpa_5F9C8A0084935345-b87a35555eadb3bb.jpg"
+                              },
+                              "alt": "Noch in diesem Jahr sollen 15",
+                              "href": "/wirtschaft/deutsche-bahn-will-200-weitere-zuege-anschaffen_aid-36555095",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Staatskonzern in der Krise"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die Bahn will 200 weitere Züge anschaffen"
+                              }
+                            },
+                            {
+                              "id": 36553929,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_e07ceb04e214f00b40af6a1aa96e530b/w250_h187_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_ec8ca0838a0cf9f51ae0ec8a881ee881/w400_h300_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_7ac85dfb56b65323223b142684e047d3/w600_h450_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_7847c520c89dca988d6cb03694d4d0c3/w900_h675_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_ed469dfd72acc2d6761f2af43dd13d13/w950_h712_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_df65008ef4f9b15f75b7fbd502bedcdf/w1200_h900_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/0/3/2/0/1/tok_e7b9693da27f29fc683036643f1e6e77/w1900_h1425_x1500_y935_DPA_bfunk_dpa_5F9C8600326FF1FD-88ff0a63155a4e15.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/olaf-scholz-stellt-sich-hinter-hubertus-heils-grundrente-plan_aid-36553929",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Finanzminister will Idee Vorrang geben"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Scholz stellt sich hinter Heils Grundrente-Plan"
+                              }
+                            },
+                            {
+                              "id": 36552313,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_5a2e3158a89cb67fabf526779bd32b45/w250_h187_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_ee57783c8b4b8881395b0f794dcf99c3/w400_h300_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_6e5309a8e3995403f03365a9efaea447/w600_h450_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_cc5e28099a0886fb48a5dab8d6834eeb/w900_h675_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_07a70e522db49f2f1ff2f5341d626ee7/w950_h712_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_694677bb5f751fcf515504b710b0edd4/w1200_h900_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/9/7/0/3/5/tok_f2ba863de638d3db78d930d8c5e36473/w1900_h1425_x2750_y1833_AFP_fAFP_1D13YG-fd7da22acc20dfa6.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/angela-merkel-zum-5g-ausbau-huawei-darf-keine-daten-nach-china-weitergeben_aid-36552313",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Merkel stellt Bedingung für 5G-Ausbau"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": " „Huawei darf keine Daten nach China weitergeben“"
+                              }
+                            },
+                            {
+                              "id": 36541597,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_07759ea57bad80c910a57f0aeb828c3e/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_99ce99f18f1b46d654ea2fd5b9f2c518/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_92b2b699adbd49eaa0968327d401f8b6/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_88b6155600d6e6f7f46ce34044a3183c/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_af4f2edd78c6d6d8604d5a2c37ecdb07/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_cc13466f7598af737551717f265cc09a/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/2/9/9/tok_c29eac9b9b75fbeda31ff445b903153e/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9C8A00901B312A-aeecc641bf732a63.jpg"
+                              },
+                              "alt": "Eine automatisierte Kennzeichenerkennungs-Anlage (AKE) steht vor",
+                              "href": "/politik/deutschland/autokennzeichen-abgleich-in-drei-bundeslaendern-zum-teil-verfassungswidrig_aid-36541597",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Drei Bundesländer"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Autokennzeichen-Abgleich teils verfassungswidrig"
+                              }
+                            },
+                            {
+                              "id": 36545673,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_e6f2bd4e40eca7535cbf1a80f4a93d81/w250_h187_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_3c3b0cac8a9a6df75a035d692a7f531f/w400_h300_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_becd83a8fa392be954a3aabda2eead76/w600_h450_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_322d4c371f419b518992864a8a282e04/w900_h675_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_c21bc9827c372b3fc1a51218b68314e3/w950_h712_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_861ac034f5ac783edf8a75b70f3b329b/w1200_h900_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/3/4/4/7/tok_7f2cd4f497292ce2ba397044d32c6f3e/w1900_h1425_x1604_y635_RTR_2019-02-02T230111Z_1376872037_RC1390039070_RTRMADP_3_BRITAIN-EU-MAY-5b8f77b2d96e124d.JPG"
+                              },
+                              "alt": "Theresa May (Archiv).",
+                              "href": "/politik/eu/brexit-may-reist-zu-neuen-beratungen-nach-bruessel_aid-36545673",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Treffen mit Kommission"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "May reist zu neuen Brexit-Beratungen nach Brüssel"
+                              }
+                            },
+                            {
+                              "id": 36545247,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_bc6e482ae444d895ebcb47710a387dcc/w250_h187_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_b093b2f69b0226682d86b02fb7dba4ff/w400_h300_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_134e42012fa20581e27422cee6bb9fcb/w600_h450_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_da3471de1c4553d0122587fecbe0e89d/w900_h675_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_e1483fc842ddef344c6613743a3ad8bb/w950_h712_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_5088e4abf80953c0471225c04d9ac8ea/w1200_h900_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/7/1/1/3/9/tok_abad5f1db0b9b71720be8cca5d1e0530/w1900_h1425_x894_y778_DPA_bfunk_dpa_5F9C8A00AE062569-4797efdf47a25607.jpg"
+                              },
+                              "alt": "Wirtschaftsminister Peter Altmaier bei der Vorstellung",
+                              "href": "/wirtschaft/wirtschaftsminister-peter-altmaier-will-konzerne-vor-uebernahme-schuetzen_aid-36545247",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Durch Staatsbeteiligungen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Altmaier will Konzerne vor feindlicher Übernahme schützen"
+                              }
+                            },
+                            {
+                              "id": 36541547,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_d7e79d9642c6292399a7d2ebc33dd90f/w250_h187_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_6973f51227e445197ec9038258437ed5/w400_h300_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_bffd23c9339492e39cf3a41483b70c3a/w600_h450_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_2ecb9503188bfc6215ce500a5aafa1a6/w900_h675_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_5a3d2e08fe961be38bc7e68e0d542147/w950_h712_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "1200w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_b8a3aa15bd1c76ca0c839420204b2f17/w1200_h900_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg",
+                                "1900w": "https://www-rpd.rp-online.de/imgs/32/4/7/7/5/8/1/1/3/tok_bb4e5f027459faac53d4f7ecc5025767/w1900_h1425_x1397_y628_AP_329C720083860CA0-2493052b1b1c4020.jpg"
+                              },
+                              "alt": "US-Präsident Donald Trump.",
+                              "href": "/politik/ausland/usa-praesident-trump-laedt-namensvetter-zur-rede-zur-lage-der-nation-ein_aid-36541547",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wegen Nachnamen gemobbt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Trump lädt jungen Namensvetter zu seiner Rede zur Lage der Nation ein"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Gummibärchen: Freiheitspartei der Gummibärchen"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "",
+                      "text": "Sehr geehrte Leserin, sehr geehrter Leser,<br><br>\r\nwir haben Ihnen die Kommentarrechte für Ihr Profil entzogen.<br>\r\nZu dieser Maßnahme sehen wir uns gezwungen, da Sie mehrfach und/oder in <br>\r\nerheblichem Maße gegen unsere Allgemeinen Geschäftsbedingungen verstoßen\r\nhaben.<br><br>\r\nViele Grüße<br>\r\nIhr RP ONLINE Team"
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 47832138,
+                      "url": "/api/comments?beitrag_id=47832138",
+                      "counturl": "/api/comments?type=count&beitrag_id=47832138"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false,
+                      "sticky": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false,
+                      "sticky": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"footerad_2\"></div>",
+                          "lazy": false,
+                          "sticky": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"footerad_2\"></div>",
+                          "lazy": false,
+                          "sticky": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        },
+        {
+          "icon": "instagram",
+          "text": "@rheinischepost",
+          "href": "https://www.instagram.com/rheinischepost/"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https://www-rpd.rp-online.de/api/tree?output=html&currentNode=64983&absolute=0"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "Politik2",
+          "href": "/politik/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Deutschland",
+              "href": "/politik/deutschland/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "News aus Berlin",
+                  "href": "/politik/deutschland/berlin/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Bundestagswahl",
+                  "href": "/politik/deutschland/bundestagswahl/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kolumnen",
+                  "href": "/politik/deutschland/kolumnen/",
+                  "target": "_self",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "EU-Politik",
+              "href": "/politik/eu/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Europawahl",
+                  "href": "/politik/eu/europawahl/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Unser Europa",
+                  "href": "/politik/eu/unser-europa/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Ausland",
+              "href": "/politik/ausland/",
+              "target": "_self",
+              "children": []
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

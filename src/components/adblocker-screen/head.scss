@@ -1,0 +1,158 @@
+.park-adblocker-screen {
+  background-color: #fff;
+
+  &__intro,
+  &__options {
+    display: block;
+    font-size: 0;
+  }
+
+  &__intro {
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+    background-color: $global-brand-color;
+
+    @include mq(desktop) {
+      display: block;
+    }
+
+    .park-image,
+    &-textcontent {
+      display: block;
+      padding: $global-spacing $global-spacing 1px $global-spacing;
+
+      @include mq(desktop) {
+        display: inline-block;
+        vertical-align: bottom;
+      }
+    }
+
+    .park-image {
+      @include mq(desktop) {
+        width: 50%;
+      }
+
+      &[src$="adblocker-journalist.png"] {
+        padding-bottom: 0;
+        transform: translateY(3.375%);
+      }
+    }
+
+    &-textcontent {
+      @include richtext;
+
+      @include mq(desktop) {
+        width: 100%;
+      }
+    }
+
+    .park-image + &-textcontent {
+      @include mq(desktop) {
+        width: 50%;
+      }
+    }
+
+    &-headline {
+      @include global-font-family-serif;
+      @include global-serif-font-size(1);
+    }
+
+    &-text {
+      @include global-sans-serif-font-size(2);
+    }
+  }
+
+  &__options {
+    @include mq(desktop) {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+  }
+
+  &__option {
+    flex: 1 1 50%;
+    min-width: 50%;
+    padding: $global-spacing;
+
+    @include mq(desktop) {
+      display: inline-block;
+      width: 50%;
+      vertical-align: top;
+    }
+
+    .park-image {
+      margin-bottom: $global-spacing;
+    }
+
+    &-headline,
+    &-text {
+      @include global-sans-serif-font-size(2);
+      @include richtext;
+    }
+
+    &-headline {
+      font-weight: $global-font-weight-sans-serif-bold;
+    }
+
+    &:nth-child(2n + 1) {
+      @include mq(desktop) {
+        padding-left: $article-spacing;
+      }
+    }
+
+    &:nth-child(2n) {
+      @include mq(desktop) {
+        padding-right: $article-spacing;
+      }
+    }
+
+    &:nth-child(4n + 3),
+    &:nth-child(4n + 4) {
+      @include mq(desktop) {
+        background-color: $global-light-grey;
+      }
+    }
+
+    &:nth-child(even) {
+      @include mq(mobile) {
+        background-color: $global-light-grey;
+      }
+    }
+
+    &:nth-child(odd):last-child {
+      @include mq(desktop) {
+        width: 100%;
+        padding-left: $article-spacing;
+        padding-right: $article-spacing;
+      }
+
+      .park-image {
+        @include mq(desktop) {
+          width: 50%;
+          float: left;
+          margin-right: $global-spacing;
+        }
+      }
+    }
+
+    &--welect {
+      display: none;
+
+      @include mq(desktop) {
+        display: none;
+      }
+
+      .park-adblocker-screen--show-welect & {
+        display: block;
+        animation-name: park-fade-in;
+        animation-duration: 600ms;
+
+        @include mq(desktop) {
+          display: inline-block;
+        }
+      }
+    }
+  }
+}

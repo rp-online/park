@@ -1,0 +1,551 @@
+{
+  "title": "Startseite",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist die Beispiel-Startseite"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/"
+      }
+    ],
+    "links": [
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/staedte/ratingen/feed.rss"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/atom+xml",
+        "title": "ATOM Feed",
+        "href": "/nrw/staedte/ratingen/feed.atom"
+      }
+    ],
+    "ads": {
+      "desktop": {
+        "slots": {
+          "billboard": {
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                728,
+                90
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                940,
+                120
+              ]
+            ],
+            "collapse": true
+          },
+          "skyscraper": {
+            "adUnitPath": "/5766/oms.rp-online.de/homepage",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ]
+            ]
+          }
+        },
+        "targeting": {}
+      },
+      "mobile": {
+        "slots": {},
+        "targeting": {}
+      }
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "http://www.rp-online.de/nrw/staedte/ratingen/unfall-auf-der-a3-bei-ratingen-breitscheid-ein-toter-und-viele-verletzte-aid-1.7207070"
+      },
+      "headline": "Unfall auf der A3 bei Ratingen-Breitscheid: Ein Toter und viele Verletzte",
+      "image": {
+        "@type": "ImageObject",
+        "url": "http://www.rp-online.de/polopoly_fs/1.7207192.1510826206!httpImage/692491934.jpg_gen/derivatives/d940x528/692491934.jpg",
+        "height": 528,
+        "width": 940
+      },
+      "datePublished": "2017-11-16T12:53+01:00",
+      "dateModified": "2017-11-16T12:53+01:00",
+      "author": {
+        "@type": "Person",
+        "name": "RP ONLINE"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "http://bc03.rp-online.de/polopoly_fs/1.5897863.1460989477!image/4005167000.jpg_gen/derivatives/d140x78/4005167000.jpg",
+          "width": 148,
+          "height": 60
+        }
+      },
+      "description": "Auf der A3 bei Ratingen-Breitscheid hat es am Morgen einen schweren Unfall mit zwei Lastwagen und fünf Autos gegeben. Die Autobahn bleibt in Richtung Oberhausen bis mindestens 14 Uhr gesperrt. "
+    },
+    "advertorial": true
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "NRW"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Städte",
+                        "href": "#void"
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "#void"
+                      },
+                      {
+                        "text": "Panorama",
+                        "href": "#void"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "href": "./artikel.html",
+                    "src": "./assets/images/opener.jpg",
+                    "backgroundColor": "rgba(25,36,86,1);",
+                    "kicker": {
+                      "tag": "h1",
+                      "text": "Schwere Gewitter möglich"
+                    },
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt.",
+                    "authors": "von Kristina Dunst",
+                    "related": [
+                      {
+                        "type": "article",
+                        "href": "./artikel.html",
+                        "kicker": "Fortuna Düsseldorf",
+                        "headline": "Akpoguma fehlt, Hoffman ist fit"
+                      },
+                      {
+                        "type": "image",
+                        "href": "./bilderstrecke.html",
+                        "kicker": "Porträt",
+                        "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<script>document.write('<img src=\"https://placehold.it/300x250\">"
+                      },
+                      "desktop": {
+                        "type": "halfpage",
+                        "html": "<img src=\"https://placehold.it/300x600\">"
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "isAd": true,
+                        "href": "./advertorial.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "isAd": true,
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "video",
+                            "href": "./video.html",
+                            "kicker": "Porträt",
+                            "headline": "Daggi B.: Auftieg zur bekannten Influencerin"
+                          },
+                          {
+                            "type": "info",
+                            "href": "#void",
+                            "kicker": "Eigentum",
+                            "headline": "In zehn einfachen Schritten zum Eigenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./advertorial-video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel-paywall.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Wie Paywalls unser Leben zerstören"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hier schnappt die Paywall zu"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "slider",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Beliebte Bilder"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rheinkirmes 2016"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Neue Show \"Die Kirmeskönige\""
+                        }
+                      },
+                      {
+                        "isAd": true,
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./advertorial.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Werbung"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<img src=\"https://placehold.it/200x200\">"
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<img src=\"https://placehold.it/200x200\">"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "./assets/images/300x225.jpg",
+                        "alt": "Süße Katze",
+                        "href": "./bilderstrecke.html",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Rechtsstreit um Dopingsperre"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Davies trifft die DEG am Freitag vor Gericht"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<script>document.write('<img src=\"https://placehold.it/300x250\">"
+                      },
+                      "desktop": {
+                        "type": "halfpage",
+                        "html": "<img src=\"https://placehold.it/300x600\">"
+                      }
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "isAd": true,
+                        "href": "./advertorial.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Endlich wieder der alte FC Bayern"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Lage der Liga"
+                        },
+                        "label": "Meinung",
+                        "dateline": "München",
+                        "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "article",
+                            "href": "./artikel.html",
+                            "kicker": "Fortuna Düsseldorf",
+                            "headline": "Akpoguma fehlt, Hoffman ist fit"
+                          },
+                          {
+                            "type": "image",
+                            "href": "./bilderstrecke.html",
+                            "kicker": "Porträt",
+                            "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "isAd": true,
+                        "type": "video",
+                        "href": "./video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nur noch geleaste Maschinen"
+                        },
+                        "dateline": "Berlin",
+                        "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                        "authors": "von Kristina Dunst",
+                        "related": [
+                          {
+                            "type": "video",
+                            "href": "./video.html",
+                            "kicker": "Porträt",
+                            "headline": "Daggi B.: Auftieg zur bekannten Influencerin"
+                          },
+                          {
+                            "type": "info",
+                            "href": "#void",
+                            "kicker": "Eigentum",
+                            "headline": "In zehn einfachen Schritten zum Eigenheim"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "video",
+                        "href": "./advertorial-video.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Interview mit Bamf-Präsident Weise"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                        "authors": "von Kristina Dunst"
+                      },
+                      {
+                        "href": "./artikel-paywall.html",
+                        "headline": {
+                          "tag": "h2",
+                          "text": "Wie Paywalls unser Leben zerstören"
+                        },
+                        "src": "./assets/images/261x196.jpg",
+                        "alt": "Eine süße Katze",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Hier schnappt die Paywall zu"
+                        },
+                        "dateline": "Düsseldorf",
+                        "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                        "authors": "von Kristina Dunst"
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"pos1\"><script>googletag.cmd.push(function() { googletag.display('pos1'); });</script></div>"
+          },
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>"
+          }
+        }
+      }
+    }
+  ]
+}

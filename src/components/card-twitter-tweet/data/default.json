@@ -1,0 +1,35 @@
+{
+  "type": "twitter-tweet",
+  "created_at": "Thu Apr 06 15:28:43 +0000 2017",
+  "id": 850007368138018817,
+  "text": "RT @TwitterDev: 1/ Today we’re sharing our vision for the future of the #Twitter API platform!\nhttps://t.co/XweGngmxlP",
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Twitter"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "TwitterDev",
+        "name": "TwitterDev",
+        "id": 2244994945
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/XweGngmxlP",
+        "expanded_url": "https://cards.twitter.com/cards/18ce53wgo4h/3xo1c",
+        "display_url": "cards.twitter.com/cards/18ce53wg…"
+      }
+    ]
+  },
+  "user": {
+    "id": 6253282,
+    "name": "Twitter API",
+    "screen_name": "twitterapi",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2284174872/7df3h38zabcvjylnyfe3_normal.png"
+  },
+  "lang": "en"
+}

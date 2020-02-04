@@ -1,0 +1,120 @@
+.park-registration {
+  @include mq(desktop) {
+    display: flex;
+    flex-direction: row;
+  }
+
+  &__form {
+    flex: 1 1 67%;
+    min-width: 0;
+    padding: $global-spacing;
+    background-color: $global-light-grey;
+  }
+
+  .park-form {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    padding: 0 rem(1px) rem(3px) 0;
+  }
+
+  [data-validation-message]:not([data-validation-message=""])::after {
+    padding-right: ($global-spacing / 2);
+    background-color: $global-light-grey;
+    box-shadow: 0 0 rem(4px) 0 #edf0f3;
+  }
+
+  &--is-compact {
+    .park-form {
+      overflow: visible;
+    }
+
+    .park-form-fieldset__wrapper > *:not(.park-registration__aside),
+    .park-button {
+      display: block;
+      width: 100%;
+      max-width: rem(400px);
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+
+  &:not(.park-registration--is-compact) .park-form {
+    @include mq(desktop) {
+      > * {
+        width: 48%;
+        float: right;
+        clear: right;
+      }
+
+      > *:first-child {
+        float: left;
+      }
+    }
+
+    > *:not(.park-form) {
+      display: inline-block;
+      width: 100%;
+
+      @include mq(desktop) {
+        width: 48%;
+      }
+    }
+
+    /* The following is a trick to artificially increase specificity */
+    .park-button.park-button.park-button {
+      display: block;
+    }
+  }
+
+  &__aside {
+    @include global-sans-serif-font-size(3);
+
+    margin-top: $global-spacing;
+    text-align: right;
+
+    a {
+      color: inherit;
+      text-decoration: underline;
+    }
+
+    strong {
+      font-weight: $global-font-weight-sans-serif-bold;
+      vertical-align: baseline;
+    }
+  }
+
+  &--is-compact &__aside {
+    text-align: center;
+  }
+
+  &--is-compact &__aside-inner {
+    display: inline-block;
+    text-align: left;
+  }
+
+  &__advantages {
+    @include richtext;
+    @include global-sans-serif-font-size(2);
+
+    display: none;
+    flex: 1 1 33%;
+    min-width: 0;
+    padding: rem(30px);
+
+    @include mq(desktop) {
+      display: block;
+    }
+
+    &-image,
+    p,
+    li {
+      margin-bottom: $global-spacing;
+    }
+
+    &-image {
+      width: 100%;
+      height: auto;
+    }
+  }
+}

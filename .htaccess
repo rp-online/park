@@ -1,0 +1,149 @@
+# ----------------------------------------------------------------------
+# gzip compression
+# ----------------------------------------------------------------------
+
+<IfModule mod_filter.c>
+  AddOutputFilterByType DEFLATE application/atom+xml \
+                                application/javascript \
+                                application/json \
+                                application/rss+xml \
+                                application/vnd.ms-fontobject \
+                                application/x-font-ttf \
+                                application/x-web-app-manifest+json \
+                                application/xhtml+xml \
+                                application/xml \
+                                font/opentype \
+                                image/svg+xml \
+                                image/x-icon \
+                                text/css \
+                                text/javascript \
+                                text/html \
+                                text/plain \
+                                text/x-component \
+                                text/xml
+</IfModule>
+
+# ----------------------------------------------------------------------
+# URL rewriting
+# ----------------------------------------------------------------------
+
+<IfModule mod_rewrite.c>
+  RewriteEngine on
+
+  # Make sure the browser supports gzip encoding before we send it
+  # without it, Content-Type will be "application/x-gzip"
+
+  RewriteCond %{HTTP:Accept-Encoding} \b(x-)?gzip\b
+  RewriteCond %{REQUEST_FILENAME}.gz -s
+  RewriteRule ^(.+) $1.gz [L]
+</IfModule>
+
+# Also add a content-encoding header to tell the browser to decompress
+<filesmatch "\.twig\.gz$">
+  AddType "text/plain" .gz
+</filesmatch>
+
+<filesmatch "\.html\.gz$">
+  AddType "text/html; charset=UTF-8" .gz
+</filesmatch>
+
+<filesmatch "\.svg\.gz$">
+  AddType "image/svg+xml" .gz
+</filesmatch>
+
+<filesmatch "\.json\.gz$">
+  AddType "application/json" .gz
+</filesmatch>
+
+<filesmatch "\.js\.gz$">
+  AddType "text/javascript" .gz
+</filesmatch>
+
+<filesmatch "\.css\.gz$">
+  AddType "text/css" .gz
+</filesmatch>
+
+<filesmatch "\.js\.map\.gz$">
+  AddType "application/octet-stream" .gz
+</filesmatch>
+
+# ----------------------------------------------------------------------
+# Expires headers (for better cache control)
+# ----------------------------------------------------------------------
+
+# these are pretty far-future expires headers
+# they assume you control versioning with cachebusting query params like
+#   <script src="application.js?20100608">
+# additionally, consider that outdated proxies may miscache
+#   www.stevesouders.com/blog/2008/08/23/revving-filenames-dont-use-querystring/
+
+# if you don't use filenames to version, lower the css and js to something like
+#   "access plus 1 week" or so
+
+<IfModule mod_expires.c>
+  ExpiresActive on
+
+# Perhaps better to whitelist expires rules? Perhaps.
+  ExpiresDefault                          "access plus 1 month"
+
+# cache.appcache needs re-requests in FF 3.6 (thx Remy ~Introducing HTML5)
+  ExpiresByType text/cache-manifest       "access plus 0 seconds"
+
+# your document html
+  ExpiresByType text/html                 "access plus 0 seconds"
+
+# your document html
+  ExpiresByType text/plain                "access plus 0 seconds"
+
+# data
+  ExpiresByType text/xml                  "access plus 0 seconds"
+  ExpiresByType application/xml           "access plus 0 seconds"
+  ExpiresByType application/json          "access plus 0 seconds"
+
+# rss feed
+  ExpiresByType application/rss+xml       "access plus 1 hour"
+
+# favicon (cannot be renamed)
+  ExpiresByType image/x-icon              "access plus 1 week"
+
+# media: images, video, audio
+  ExpiresByType image/gif                 "access plus 1 month"
+  ExpiresByType image/png                 "access plus 1 month"
+  ExpiresByType image/jpg                 "access plus 1 month"
+  ExpiresByType image/jpeg                "access plus 1 month"
+  ExpiresByType video/ogg                 "access plus 1 month"
+  ExpiresByType audio/ogg                 "access plus 1 month"
+  ExpiresByType video/mp4                 "access plus 1 month"
+  ExpiresByType video/webm                "access plus 1 month"
+
+# htc files  (css3pie)
+  ExpiresByType text/x-component          "access plus 1 month"
+
+# webfonts
+  ExpiresByType font/truetype             "access plus 1 month"
+  ExpiresByType font/opentype             "access plus 1 month"
+  ExpiresByType font/woff                 "access plus 1 month"
+  ExpiresByType font/woff2                "access plus 1 month"
+  ExpiresByType application/x-font-woff   "access plus 1 month"
+  ExpiresByType image/svg+xml             "access plus 1 month"
+  ExpiresByType application/vnd.ms-fontobject "access plus 1 month"
+
+# css and javascript
+  ExpiresByType text/css                  "access plus 1 month"
+  ExpiresByType application/javascript    "access plus 1 month"
+  ExpiresByType text/javascript           "access plus 1 month"
+
+  <IfModule mod_headers.c>
+    Header append Cache-Control "public"
+  </IfModule>
+</IfModule>
+
+<IfModule mod_headers.c>
+  <filesmatch "\.woff2$">
+    Header append Cache-Control "immutable"
+  </filesmatch>
+</IfModule>
+
+AddDefaultCharset utf-8
+AddCharset UTF-8 .html
+AddType "text/html; charset=UTF-8" .html

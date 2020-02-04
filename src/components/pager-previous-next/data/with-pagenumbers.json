@@ -1,0 +1,14 @@
+{
+  "previous": {
+    "text": "zurück",
+    "href": "#previous"
+  },
+  "next": {
+    "text": "weiter",
+    "href": "#next"
+  },
+  "pages": {
+    "current": 1,
+    "total": 4
+  }
+}

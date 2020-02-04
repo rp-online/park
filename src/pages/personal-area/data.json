@@ -1,0 +1,981 @@
+{
+  "title": "Persönlicher Bereich",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für den persönlichen Bereich"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/persoenlicher-bereich.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "section-breadcrumb",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Meine Einstellungen"
+              }
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "edit-profile",
+                  "data": {
+                    "username": "SneakyJoe",
+                    "email": "hallo@mail.de",
+                    "salutation": "Mr.",
+                    "firstname": "Max",
+                    "familyname": "Mustermann",
+                    "street": "Musterstraße 66",
+                    "addresssuffix": "",
+                    "postalcode": "12345",
+                    "city": "Musterstadt",
+                    "phone": "0173123456"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "settings",
+            "data": {
+              "quickNav": {
+                "cities": {
+                  "options": [
+                    {
+                      "label": "Alpen",
+                      "value": "alpen"
+                    },
+                    {
+                      "label": "Burscheid",
+                      "value": "bedburg"
+                    },
+                    {
+                      "label": "Dinslaken",
+                      "value": "dinslaken"
+                    },
+                    {
+                      "label": "Dormagen",
+                      "value": "dormagen"
+                    },
+                    {
+                      "label": "Düsseldorf",
+                      "value": "duesseldorf"
+                    },
+                    {
+                      "label": "Duisburg",
+                      "value": "duisburg"
+                    },
+                    {
+                      "label": "Emmerich",
+                      "value": "emmerich"
+                    },
+                    {
+                      "label": "Erkelenz",
+                      "value": "erkelenz"
+                    },
+                    {
+                      "label": "Erkrath",
+                      "value": "erkrath"
+                    },
+                    {
+                      "label": "Geldern",
+                      "value": "geldern"
+                    },
+                    {
+                      "label": "Goch",
+                      "value": "goch"
+                    },
+                    {
+                      "label": "Grefrath",
+                      "value": "grefrath"
+                    },
+                    {
+                      "label": "Grevenbroich",
+                      "value": "grevenbroich"
+                    },
+                    {
+                      "label": "Haan",
+                      "value": "haan"
+                    },
+                    {
+                      "label": "Hamminkeln",
+                      "value": "hamminkeln"
+                    },
+                    {
+                      "label": "Heiligenhaus",
+                      "value": "heiligenhaus"
+                    },
+                    {
+                      "label": "Hilden",
+                      "value": "hilden"
+                    },
+                    {
+                      "label": "Isselburg",
+                      "value": "hueckelhoven"
+                    },
+                    {
+                      "label": "Issum",
+                      "value": "issum"
+                    },
+                    {
+                      "label": "Kaarst",
+                      "value": "juechen"
+                    },
+                    {
+                      "label": "Kalkar",
+                      "value": "kalkar"
+                    },
+                    {
+                      "label": "Kempen",
+                      "value": "kamp"
+                    },
+                    {
+                      "label": "Kerken",
+                      "value": "kerken"
+                    },
+                    {
+                      "label": "Kevelaer",
+                      "value": "kevelaer"
+                    },
+                    {
+                      "label": "Kleve",
+                      "value": "kleve"
+                    },
+                    {
+                      "label": "Korschenbroich",
+                      "value": "koeln"
+                    },
+                    {
+                      "label": "Kranenburg",
+                      "value": "kranenburg"
+                    },
+                    {
+                      "label": "Krefeld",
+                      "value": "krefeld"
+                    },
+                    {
+                      "label": "Heinsberg",
+                      "value": "heinsberg"
+                    },
+                    {
+                      "label": "Langenfeld",
+                      "value": "langenfeld"
+                    },
+                    {
+                      "label": "Leichlingen",
+                      "value": "leichlingen"
+                    },
+                    {
+                      "label": "Leverkusen",
+                      "value": "leverkusen"
+                    },
+                    {
+                      "label": "Meerbusch",
+                      "value": "meerbusch"
+                    },
+                    {
+                      "label": "Mettmann",
+                      "value": "mettmann"
+                    },
+                    {
+                      "label": "Moers",
+                      "value": "moenchengladbach"
+                    },
+                    {
+                      "label": "Monheim",
+                      "value": "monheim"
+                    },
+                    {
+                      "label": "Nettetal",
+                      "value": "nettetal"
+                    },
+                    {
+                      "label": "Neuss",
+                      "value": "neukirchen"
+                    },
+                    {
+                      "label": "Niederkruechten",
+                      "value": "niederkruechten"
+                    },
+                    {
+                      "label": "Radevormwald",
+                      "value": "radevormwald"
+                    },
+                    {
+                      "label": "Ratingen",
+                      "value": "ratingen"
+                    },
+                    {
+                      "label": "Rees",
+                      "value": "rees"
+                    },
+                    {
+                      "label": "Remscheid",
+                      "value": "remscheid"
+                    },
+                    {
+                      "label": "Rheinberg",
+                      "value": "rheinberg"
+                    },
+                    {
+                      "label": "Rheurdt",
+                      "value": "rheurdt"
+                    },
+                    {
+                      "label": "Rommerskirchen",
+                      "value": "rommerskirchen"
+                    },
+                    {
+                      "label": "Schermbeck",
+                      "value": "schermbeck"
+                    },
+                    {
+                      "label": "Schwalmtal",
+                      "value": "schwalmtal"
+                    },
+                    {
+                      "label": "Solingen",
+                      "value": "solingen"
+                    },
+                    {
+                      "label": "Sonsbeck",
+                      "value": "sonsbeck"
+                    },
+                    {
+                      "label": "Straelen",
+                      "value": "straelen"
+                    },
+                    {
+                      "label": "Uedem",
+                      "value": "toenisvorst"
+                    },
+                    {
+                      "label": "Viersen",
+                      "value": "viersen"
+                    },
+                    {
+                      "label": "Voerde",
+                      "value": "voerde"
+                    },
+                    {
+                      "label": "Wachtendonk",
+                      "value": "wachtendonk"
+                    },
+                    {
+                      "label": "Wassenberg",
+                      "value": "wassenberg"
+                    },
+                    {
+                      "label": "Weeze",
+                      "value": "weeze"
+                    },
+                    {
+                      "label": "Wegberg",
+                      "value": "wegberg"
+                    },
+                    {
+                      "label": "Wermelskirchen",
+                      "value": "wermelskirchen"
+                    },
+                    {
+                      "label": "Wesel",
+                      "value": "wesel"
+                    },
+                    {
+                      "label": "Willich",
+                      "value": "willich"
+                    },
+                    {
+                      "label": "Wuelfrath",
+                      "value": "wuelfrath"
+                    },
+                    {
+                      "label": "Xanten",
+                      "value": "xanten"
+                    }
+                  ],
+                  "value": [
+                    "hilden",
+                    "duesseldorf"
+                  ]
+                },
+                "sportsclubs": {
+                  "options": [
+                    {
+                      "label": "1. FC Kaiserslautern",
+                      "value": "1-fc-kaiserslautern"
+                    },
+                    {
+                      "label": "Bayer Leverkusen",
+                      "value": "bayer-leverkusen"
+                    },
+                    {
+                      "label": "Borussia Dortmund",
+                      "value": "borussia-dortmund"
+                    },
+                    {
+                      "label": "Düsseldorfer EG",
+                      "value": "duesseldorfer-eg"
+                    },
+                    {
+                      "label": "Eintracht Frankfurt",
+                      "value": "eintracht-frankfurt"
+                    },
+                    {
+                      "label": "FC Augsburg",
+                      "value": "fc-augsburg"
+                    },
+                    {
+                      "label": "FC Bayern München",
+                      "value": "fc-bayern-muenchen"
+                    },
+                    {
+                      "label": "FC Erzgebirge Aue",
+                      "value": "fc-erzgebirge-aue"
+                    },
+                    {
+                      "label": "FC Heidenheim 1846",
+                      "value": "fc-heidenheim-1846"
+                    },
+                    {
+                      "label": "FC Ingolstadt",
+                      "value": "fc-ingolstadt"
+                    },
+                    {
+                      "label": "FC Köln",
+                      "value": "fc-koeln"
+                    },
+                    {
+                      "label": "FC Nürnberg",
+                      "value": "fc-nuernberg"
+                    },
+                    {
+                      "label": "FC Schalke 04",
+                      "value": "fc-schalke-04"
+                    },
+                    {
+                      "label": "FC St. Pauli",
+                      "value": "fc-st-pauli"
+                    },
+                    {
+                      "label": "FC Union Berlin",
+                      "value": "fc-union-berlin"
+                    },
+                    {
+                      "label": "Fortuna Düsseldorf",
+                      "value": "fortuna-duesseldorf"
+                    },
+                    {
+                      "label": "FSV Frankfurt 1899",
+                      "value": "fsv-frankfurt-1899"
+                    },
+                    {
+                      "label": "FSV Mainz 05",
+                      "value": "fsv-mainz-05"
+                    },
+                    {
+                      "label": "Hannover 96",
+                      "value": "hannover-96"
+                    },
+                    {
+                      "label": "Hertha BSC",
+                      "value": "hertha-bsc"
+                    },
+                    {
+                      "label": "Hamburger SV",
+                      "value": "hamburger-sv"
+                    },
+                    {
+                      "label": "Karlsruher SC",
+                      "value": "karlsruher-sc"
+                    },
+                    {
+                      "label": "Krefelder Pinguine",
+                      "value": "krefelder-pinguine"
+                    },
+                    {
+                      "label": "MSV Duisburg",
+                      "value": "msv-duisburg"
+                    },
+                    {
+                      "label": "RB Leipzig",
+                      "value": "rb-leipzig"
+                    },
+                    {
+                      "label": "SC Freiburg",
+                      "value": "sc-freiburg"
+                    },
+                    {
+                      "label": "SC Paderborn 07",
+                      "value": "sc-paderborn-07"
+                    },
+                    {
+                      "label": "SPVGG Greuther Fuerth",
+                      "value": "spvgg-greuther-fuerth"
+                    },
+                    {
+                      "label": "SV Darmstadt 98",
+                      "value": "sv-darmstadt-98"
+                    },
+                    {
+                      "label": "SV Sandhausen",
+                      "value": "sv-sandhausen"
+                    },
+                    {
+                      "label": "SV Werder Bremen",
+                      "value": "sv-werder-bremen"
+                    },
+                    {
+                      "label": "TSG Hoffenheim",
+                      "value": "tsg-hoffenheim"
+                    },
+                    {
+                      "label": "TSV 1860 München",
+                      "value": "tsv-1860-muenchen"
+                    },
+                    {
+                      "label": "VfB Stuttgart",
+                      "value": "vfb-stuttgart"
+                    },
+                    {
+                      "label": "VfL Bochum",
+                      "value": "vfl-bochum"
+                    },
+                    {
+                      "label": "VfL Wolfsburg",
+                      "value": "vfl-wolfsburg"
+                    },
+                    {
+                      "label": "VfR Aalen",
+                      "value": "vfr-aalen"
+                    }
+                  ],
+                  "value": [
+                    "fortuna-duesseldorf"
+                  ]
+                }
+              },
+              "weather": {
+                "place": {
+                  "options": [
+                    {
+                      "label": "Alpen",
+                      "value": "alpen"
+                    },
+                    {
+                      "label": "Burscheid",
+                      "value": "bedburg"
+                    },
+                    {
+                      "label": "Dinslaken",
+                      "value": "dinslaken"
+                    },
+                    {
+                      "label": "Dormagen",
+                      "value": "dormagen"
+                    },
+                    {
+                      "label": "Düsseldorf",
+                      "value": "duesseldorf"
+                    },
+                    {
+                      "label": "Duisburg",
+                      "value": "duisburg"
+                    },
+                    {
+                      "label": "Emmerich",
+                      "value": "emmerich"
+                    },
+                    {
+                      "label": "Erkelenz",
+                      "value": "erkelenz"
+                    },
+                    {
+                      "label": "Erkrath",
+                      "value": "erkrath"
+                    },
+                    {
+                      "label": "Geldern",
+                      "value": "geldern"
+                    },
+                    {
+                      "label": "Goch",
+                      "value": "goch"
+                    },
+                    {
+                      "label": "Grefrath",
+                      "value": "grefrath"
+                    },
+                    {
+                      "label": "Grevenbroich",
+                      "value": "grevenbroich"
+                    },
+                    {
+                      "label": "Haan",
+                      "value": "haan"
+                    },
+                    {
+                      "label": "Hamminkeln",
+                      "value": "hamminkeln"
+                    },
+                    {
+                      "label": "Heiligenhaus",
+                      "value": "heiligenhaus"
+                    },
+                    {
+                      "label": "Hilden",
+                      "value": "hilden"
+                    },
+                    {
+                      "label": "Isselburg",
+                      "value": "hueckelhoven"
+                    },
+                    {
+                      "label": "Issum",
+                      "value": "issum"
+                    },
+                    {
+                      "label": "Kaarst",
+                      "value": "juechen"
+                    },
+                    {
+                      "label": "Kalkar",
+                      "value": "kalkar"
+                    },
+                    {
+                      "label": "Kempen",
+                      "value": "kamp"
+                    },
+                    {
+                      "label": "Kerken",
+                      "value": "kerken"
+                    },
+                    {
+                      "label": "Kevelaer",
+                      "value": "kevelaer"
+                    },
+                    {
+                      "label": "Kleve",
+                      "value": "kleve"
+                    },
+                    {
+                      "label": "Korschenbroich",
+                      "value": "koeln"
+                    },
+                    {
+                      "label": "Kranenburg",
+                      "value": "kranenburg"
+                    },
+                    {
+                      "label": "Krefeld",
+                      "value": "krefeld"
+                    },
+                    {
+                      "label": "Heinsberg",
+                      "value": "heinsberg"
+                    },
+                    {
+                      "label": "Langenfeld",
+                      "value": "langenfeld"
+                    },
+                    {
+                      "label": "Leichlingen",
+                      "value": "leichlingen"
+                    },
+                    {
+                      "label": "Leverkusen",
+                      "value": "leverkusen"
+                    },
+                    {
+                      "label": "Meerbusch",
+                      "value": "meerbusch"
+                    },
+                    {
+                      "label": "Mettmann",
+                      "value": "mettmann"
+                    },
+                    {
+                      "label": "Moers",
+                      "value": "moenchengladbach"
+                    },
+                    {
+                      "label": "Monheim",
+                      "value": "monheim"
+                    },
+                    {
+                      "label": "Nettetal",
+                      "value": "nettetal"
+                    },
+                    {
+                      "label": "Neuss",
+                      "value": "neukirchen"
+                    },
+                    {
+                      "label": "Niederkruechten",
+                      "value": "niederkruechten"
+                    },
+                    {
+                      "label": "Radevormwald",
+                      "value": "radevormwald"
+                    },
+                    {
+                      "label": "Ratingen",
+                      "value": "ratingen"
+                    },
+                    {
+                      "label": "Rees",
+                      "value": "rees"
+                    },
+                    {
+                      "label": "Remscheid",
+                      "value": "remscheid"
+                    },
+                    {
+                      "label": "Rheinberg",
+                      "value": "rheinberg"
+                    },
+                    {
+                      "label": "Rheurdt",
+                      "value": "rheurdt"
+                    },
+                    {
+                      "label": "Rommerskirchen",
+                      "value": "rommerskirchen"
+                    },
+                    {
+                      "label": "Schermbeck",
+                      "value": "schermbeck"
+                    },
+                    {
+                      "label": "Schwalmtal",
+                      "value": "schwalmtal"
+                    },
+                    {
+                      "label": "Solingen",
+                      "value": "solingen"
+                    },
+                    {
+                      "label": "Sonsbeck",
+                      "value": "sonsbeck"
+                    },
+                    {
+                      "label": "Straelen",
+                      "value": "straelen"
+                    },
+                    {
+                      "label": "Uedem",
+                      "value": "toenisvorst"
+                    },
+                    {
+                      "label": "Viersen",
+                      "value": "viersen"
+                    },
+                    {
+                      "label": "Voerde",
+                      "value": "voerde"
+                    },
+                    {
+                      "label": "Wachtendonk",
+                      "value": "wachtendonk"
+                    },
+                    {
+                      "label": "Wassenberg",
+                      "value": "wassenberg"
+                    },
+                    {
+                      "label": "Weeze",
+                      "value": "weeze"
+                    },
+                    {
+                      "label": "Wegberg",
+                      "value": "wegberg"
+                    },
+                    {
+                      "label": "Wermelskirchen",
+                      "value": "wermelskirchen"
+                    },
+                    {
+                      "label": "Wesel",
+                      "value": "wesel"
+                    },
+                    {
+                      "label": "Willich",
+                      "value": "willich"
+                    },
+                    {
+                      "label": "Wuelfrath",
+                      "value": "wuelfrath"
+                    },
+                    {
+                      "label": "Xanten",
+                      "value": "xanten"
+                    }
+                  ],
+                  "value": "duesseldorf"
+                },
+                "preview": {
+                  "items": [
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Heute"
+                      },
+                      "temps": {
+                        "day": 24,
+                        "night": 8
+                      },
+                      "src": "http://bc01.rp-online.de/layout/img/app/wetter/icons_klein.v4/wolke_dunkel-sonne.png",
+                      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                      "href": "#void",
+                      "caption": "Sonnig, teils bewölkt"
+                    },
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Morgen"
+                      },
+                      "temps": {
+                        "day": 19,
+                        "night": 7
+                      },
+                      "src": "http://bc01.rp-online.de/layout/img/app/wetter/icons_klein.v4/wolke_dunkel-sonne.png",
+                      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                      "href": "#void",
+                      "caption": "Sonnig, teils bewölkt"
+                    },
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Übermorgen"
+                      },
+                      "temps": {
+                        "day": 21,
+                        "night": 8
+                      },
+                      "src": "http://bc01.rp-online.de/layout/img/app/wetter/icons_klein.v4/wolke_dunkel-sonne.png",
+                      "alt": "Symbolgrafik: Eine Wolke verdunkelt die Sonne",
+                      "href": "#void",
+                      "caption": "Sonnig, teils bewölkt"
+                    }
+                  ]
+                }
+              },
+              "traffic": {
+                "highways": {
+                  "options": [
+                    {
+                      "label": "A1",
+                      "value": "A1"
+                    },
+                    {
+                      "label": "A2",
+                      "value": "A2"
+                    },
+                    {
+                      "label": "A3",
+                      "value": "A3"
+                    },
+                    {
+                      "label": "A4",
+                      "value": "A4"
+                    },
+                    {
+                      "label": "A57",
+                      "value": "A57"
+                    },
+                    {
+                      "label": "A59",
+                      "value": "A59"
+                    },
+                    {
+                      "label": "A555",
+                      "value": "A555"
+                    }
+                  ],
+                  "value": [
+                    "A1",
+                    "A3",
+                    "A59"
+                  ]
+                },
+                "preview": {
+                  "type": "card-traffic",
+                  "blocks": [
+                    {
+                      "title": "Alle",
+                      "items": [
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A3",
+                            "time": "13:12",
+                            "text": "Köln Richtung Frankfurt"
+                          },
+                          "text": "zwischen Heumarer Dreieck und Köln-Poll 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Kreuz Köln-Nord und Kreuz Leverkusen-West 3 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Kreuz Köln-West und Bocklemünd 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A3",
+                            "time": "13:12",
+                            "text": "Köln Richtung Oberhausen"
+                          },
+                          "text": "zwischen Heumarer Dreieck und Kreuz Leverkusen-West 5 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A59",
+                            "time": "13:12",
+                            "text": "Düsseldorf Richtung Leverkusen"
+                          },
+                          "text": "zwischen Kreuz Monheim und Kreuz Leverkusen-West 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Burscheid und Wermelskirchen 1 km zähfließender Verkehr"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "A1",
+                      "items": [
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Kreuz Köln-Nord und Kreuz Leverkusen-West 3 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Kreuz Köln-West und Bocklemünd 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Koblenz"
+                          },
+                          "text": "zwischen Kreuz Köln-Nord und Kreuz Köln-West 5 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A1",
+                            "time": "13:12",
+                            "text": "Köln Richtung Dortmund"
+                          },
+                          "text": "zwischen Burscheid und Wermelskirchen 1 km zähfließender Verkehr"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "A3",
+                      "items": [
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A3",
+                            "time": "13:12",
+                            "text": "Köln Richtung Frankfurt"
+                          },
+                          "text": "zwischen Heumarer Dreieck und Köln-Poll 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A3",
+                            "time": "13:12",
+                            "text": "Köln Richtung Oberhausen"
+                          },
+                          "text": "zwischen Heumarer Dreieck und Kreuz Leverkusen-West 5 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A3",
+                            "time": "13:12",
+                            "text": "Köln Richtung Oberhausen"
+                          },
+                          "text": "zwischen Krez Hilden und Kreuz Oberhausen-West 10 km Stau"
+                        }
+                      ]
+                    },
+                    {
+                      "title": "A59",
+                      "items": [
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A59",
+                            "time": "13:12",
+                            "text": "Düsseldorf Richtung Leverkusen"
+                          },
+                          "text": "zwischen Kreuz Monheim und Kreuz Leverkusen-West 1 km Stau"
+                        },
+                        {
+                          "headline": {
+                            "tag": "h3",
+                            "badge": "A59",
+                            "time": "13:12",
+                            "text": "Leverkusen Richtung Düsseldorf"
+                          },
+                          "text": "zwischen Düsseldorf-Benrath und Düsseldorf-Garath 1 km Stau"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

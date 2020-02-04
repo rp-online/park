@@ -1,0 +1,32 @@
+<div class="park-offer park-article-content">
+  <style>
+  .park-offer,
+  .park-widget--offer {
+    background-color: {{ backgroundcolor }};
+  }
+
+  .park-offer__content {
+    color: {{ color }};
+  }
+  </style>
+  <a href="{{ href }}" title="Verlagsangebot">
+    <figure class="park-offer__content">
+      {% if image is defined and image.src is defined and image.src %}
+        {% include 'components/image/template.twig' with {
+          'src': image.src,
+          'alt': '',
+          'lazy': false
+        } %}
+      {% endif %}
+      <figcaption class="park-offer__text"{% if flag_textlink is defined and flag_textlink is same as(true) %} style="text-align: center;"{% endif %}>
+        {{ text }}
+        {% if flag_textlink is defined and flag_textlink is same as(true) %}
+          <span class="park-offer__linktext">{{ link_text }}</span>
+        {% endif %}
+      </figcaption>
+      {% if flag_textlink is not defined or flag_textlink is same as(false) %}
+        <button class="park-offer__button">{{ link_text }}</button>
+      {% endif %}
+    </figure>
+  </a>
+</div>

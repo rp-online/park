@@ -1,0 +1,169 @@
+{
+  "barebone": true,
+  "items": [
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "link": {
+        "type": "enlargable",
+        "href": "./assets/images/large-portrait.jpg"
+      },
+      "caption": "Herbert, der Bär",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "link": {
+        "type": "enlargable",
+        "href": "./assets/images/large-portrait.jpg"
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et [dolore magna](#void) aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/450x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "link": {
+        "type": "enlargable",
+        "href": "./assets/images/large-portrait.jpg"
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "caption": "Herbert, der Bär",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied"
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/800x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et [dolore magna](#void) aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    },
+    {
+      "headline": {
+        "tag": "h2",
+        "text": "Von diesen Bären nahmen wir 2016 Abschied und weinten dabei mindestens 100 Taschentücher nass."
+      },
+      "figure": {
+        "component": "image",
+        "data": {
+          "src": "./assets/images/450x600.jpg",
+          "width": 800,
+          "height": 600,
+          "fit": "contain",
+          "alt": "Passiv-aggressiver Bär"
+        }
+      },
+      "caption": "[Lorem ipsum dolor sit amet](#void), consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+      "source": {
+        "text": "Selfie",
+        "href": "#void"
+      }
+    }
+  ],
+  "lastItem": {
+    "headline": {
+      "tag": "p",
+      "text": "Auch interessant"
+    },
+    "figure": {
+      "component": "outbrain",
+      "data": {
+        "mobile": "<div class=\"OUTBRAIN\" data-src=\"http://m.rp-online.de/1.6127597\" data-widget-id=\"MB_3\" data-ob-template=\"DE_RPOnline.de\"></div>",
+        "desktop": "<div class=\"OUTBRAIN\" data-src=\"http://m.rp-online.de/1.6127597\" data-widget-id=\"MB_3\" data-ob-template=\"DE_RPOnline.de\"></div>"
+      }
+    }
+  },
+  "ads": {
+    "slides": {
+      "interval": 3,
+      "mobile": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      },
+      "desktop": {
+        "type": "content",
+        "html": "<img src=\"https://placehold.it/300x250\">"
+      }
+    }
+  }
+}

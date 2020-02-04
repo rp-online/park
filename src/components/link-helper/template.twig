@@ -1,0 +1,68 @@
+{% if target is defined and target %}
+  {% if rel is defined and rel %}
+    {% if rel is not iterable %}
+      {%  set rel = [rel] %}
+    {% endif %}
+    {% if rel is iterable and 'noopener' not in rel %}
+      {%  set rel = rel|merge(['noopener']) %}
+    {% endif %}
+  {% else %}
+    {%  set rel = ['noopener'] %}
+  {% endif %}
+{% endif %}{% if href is defined and ('http://' in href or 'https://' in href) %}
+  {% if rel is defined and rel %}
+    {% if rel is not iterable %}
+      {%  set rel = [rel] %}
+    {% endif %}
+    {% if rel is iterable and 'noopener' not in rel %}
+      {%  set rel = rel|merge(['noopener']) %}
+    {% endif %}
+  {% else %}
+    {%  set rel = ['noopener'] %}
+  {% endif %}
+{% endif %}<a
+  {% if href is defined %} href="{% if 'mailto:' in href %}{% include 'components/obfuscator/template.twig' with {
+    'text': href,
+    'config': config
+  } only %}{% else %}{{ href }}{% endif %}"{% endif %}
+  {% if name is defined and name %} name="{{ name|escape('html') }}"{% endif %}
+  {% if title is defined and title %} title="{{ title|escape('html') }}"{% endif %}
+  {% if target is defined and target %} target="{{ target|escape('html') }}"{% endif %}
+  {% if rel is defined and rel is iterable %} rel="{{ rel|join(' ')|escape('html') }}"{% endif %}
+  {% if data is defined and data is iterable %}
+  {% for attribute, value in data %}
+    {% if value is iterable %}
+        data-{{ attribute }}="{{ value|json_encode()|escape('html') }}"
+      {% else %}
+        data-{{ attribute }}="{{ value|escape('html') }}"
+    {% endif %}
+  {% endfor %}
+  {% endif %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% if attributes is defined and attributes.title is defined and attributes.title %}
+      {% set attributes = attributes|merge({
+        title: attributes.title ~ ' (Anzeige)'
+      }) %}
+    {% elseif attributes is defined and attributes is iterable %}
+      {% set attributes = attributes|merge({
+        title: 'Anzeige'
+      }) %}
+    {% else %}
+      {% set attributes = {
+        title: 'Anzeige'
+      } %}
+    {% endif %}
+  {% endif %}
+  {% if attributes is defined and attributes is iterable %}
+    {% for attribute, value in attributes %} {{ attribute }}="{{ value|escape('html') }}"{% endfor %}
+  {% endif %}
+  {% if classes is defined and classes is iterable %} class="{{ classes|join(' ')|escape('html') }}"{% endif %}
+  {% if isAd is defined and isAd is same as(true) %}
+  {% else %}
+      {% if config is defined and config.taboolaMarkup is defined and config.taboolaMarkup is same as(true) %}
+        data-tb-region-item
+      {% endif %}
+  {% endif %}
+
+
+>{% if text is defined %}{{ text|raw }}{% endif %}</a>

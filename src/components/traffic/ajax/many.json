@@ -1,0 +1,227 @@
+[
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A1",
+      "time": "18:18",
+      "text": "Köln - Dortmund"
+    },
+    "text": "Leverkusener Brücke in beiden Richtungen gesperrt für Schwerverkehr über 3,5 t, bis 31.12.2020 00:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A1",
+      "time": "11:05",
+      "text": "Köln Richtung Dortmund"
+    },
+    "text": "zwischen Kreuz Leverkusen (98) und Burscheid (97) Gefahr durch Gegenstände auf der Fahrbahn"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A1",
+      "time": "11:08",
+      "text": "Köln Richtung Münster"
+    },
+    "text": "zwischen Schwerte (85) und (84) 3 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A1",
+      "time": "13:00",
+      "text": "Dortmund - Köln"
+    },
+    "text": "Leverkusener Brücke in beiden Richtungen vorübergehende Begrenzung der Breite auf 2,30 m, bis 31.12.2020 00:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A2",
+      "time": "14:57",
+      "text": "Dortmund Richtung Hannover"
+    },
+    "text": "Ausfahrt Gütersloh (24) Anschlussstelle gesperrt, bis 23.11.2017 22:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A3",
+      "time": "11:07",
+      "text": "Köln Richtung Frankfurt"
+    },
+    "text": "zwischen Köln-Dellbrück (26) und Kreuz Köln-Ost (27) Gefahr durch Gegenstände auf der Fahrbahn auf dem linken Fahrstreifen"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A3",
+      "time": "11:11",
+      "text": "Oberhausen Richtung Köln"
+    },
+    "text": "zwischen Oberhausen-Holten (11) und Kreuz Oberhausen-West (12) 1 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A3",
+      "time": "15:49",
+      "text": "Köln Richtung Frankfurt"
+    },
+    "text": "Kreuz Köln-Ost (27) in beiden Richtungen Dauerbaustelle, Ausfahrt gesperrt, bis 31.12.2017 15:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A31",
+      "time": "10:13",
+      "text": "Gronau Richtung Oberhausen"
+    },
+    "text": "zwischen Gladbeck (41) und Dreieck Bottrop (42) Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A4",
+      "time": "11:33",
+      "text": "Köln Richtung Heerlen/Aachen"
+    },
+    "text": "in Höhe Aachen-Zentrum (3) Staugefahr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A4",
+      "time": "10:37",
+      "text": "Köln Richtung Heerlen/Aachen"
+    },
+    "text": "zwischen Kreuz Köln-Gremberg (14) und Köln-Poll (13) 1 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A40",
+      "time": "11:22",
+      "text": "Duisburg Richtung Venlo"
+    },
+    "text": "zwischen Duisburg-Häfen (12) und Duisburg-Homberg (11) 1 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A40",
+      "time": "11:35",
+      "text": "Venlo Richtung Duisburg"
+    },
+    "text": "zwischen Moers-Zentrum und Duisburg-Homberg (11) 2 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A40",
+      "time": "14:55",
+      "text": "Duisburg Richtung Venlo"
+    },
+    "text": "Ausfahrt Kempen (5) in beiden Richtungen Baustelle, Anschlussstelle gesperrt, eine Umleitung ist eingerichtet, bis 02.12.2017 05:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A42",
+      "time": "11:22",
+      "text": "Emscherschnellweg, Dortmund Richtung Kamp-Lintfort"
+    },
+    "text": "zwischen Kreuz Herne (21) und Herne-Crange (20) 2 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A43",
+      "time": "10:54",
+      "text": "Recklinghausen Richtung Wuppertal"
+    },
+    "text": "zwischen Kreuz Herne (14) und Bochum-Gerthe (17) 6 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A43",
+      "time": "16:02",
+      "text": "Recklinghausen Richtung Wuppertal"
+    },
+    "text": "Kreuz Bochum/Witten Überleitung zur A448 Baustelle, Ausfahrt gesperrt, der Umleitungsbeschilderung folgen, von 22.11.2017 08:00 Uhr bis 20.12.2017 18:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A44",
+      "time": "10:57",
+      "text": "Bochum Richtung Dortmund"
+    },
+    "text": "in Höhe Kreuz Bochum/Witten Baustelle, mit Störungen ist zu rechnen, folgen Sie den Schildern, von 22.11.2017 08:00 Uhr bis 20.12.2017 08:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A44",
+      "time": "10:14",
+      "text": "Mönchengladbach Richtung Düsseldorf"
+    },
+    "text": "zwischen Tunnel Strümp und Tunnel Rheinschlinge Baustelle, rechter Fahrstreifen gesperrt, bis 23.11.2017 18:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A45",
+      "time": "11:25",
+      "text": "Hagen Richtung Gießen"
+    },
+    "text": "zwischen Lüdenscheid-Süd (15) und Meinerzhagen (16) 3 km Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A46",
+      "time": "13:31",
+      "text": "Heinsberg Richtung Wuppertal"
+    },
+    "text": "zwischen Neuss-Uedesheim (22) und Düsseldorf-Bilk (23) Baustelle, Richtungsfahrbahn gesperrt, von 25.11.2017 20:00 Uhr bis 27.11.2017 05:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A46",
+      "time": "19:27",
+      "text": "Heinsberg Richtung Wuppertal"
+    },
+    "text": "zwischen Neuss-Uedesheim (22) und Düsseldorf-Bilk (23) Baustelle, Richtungsfahrbahn gesperrt, eine Umleitung ist eingerichtet, von 25.11.2017 20:00 Uhr bis 27.11.2017 05:00 Uhr"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A57",
+      "time": "11:32",
+      "text": "Köln Richtung Krefeld"
+    },
+    "text": "zwischen Dormagen (25) und Dreieck Neuss-Süd (24) Stau"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A57",
+      "time": "11:34",
+      "text": "Köln Richtung Krefeld"
+    },
+    "text": "zwischen Köln-Ehrenfeld (30) und Köln-Bickendorf (29) Gefahr durch ungesicherte Unfallstelle"
+  },
+  {
+    "headline": {
+      "tag": "h2",
+      "badge": "A59",
+      "time": "09:57",
+      "text": "Bonn Richtung Köln"
+    },
+    "text": "zwischen Lind (36) und Wahn (35) 2 km Stau"
+  }
+]

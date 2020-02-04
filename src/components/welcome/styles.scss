@@ -1,0 +1,51 @@
+.park-welcome {
+  display: block;
+  margin-bottom: rem(15px);
+
+  &__headline {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(1);
+
+    margin-bottom: rem(15px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    line-height: (32 / 22);
+  }
+
+  &__options {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-bottom: rem(25px);
+    font-size: 0;
+  }
+
+  &__option {
+    flex: 1 1 33%;
+    text-align: center;
+  }
+
+  &__link {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    color: inherit;
+    line-height: (21 / 14);
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $global-brand-color;
+    }
+
+    > svg {
+      display: block;
+      width: rem(37px);
+      height: rem(35px);
+      margin: rem(5px) auto;
+    }
+  }
+
+  &__notice {
+    @include global-sans-serif-font-size(3);
+  }
+}

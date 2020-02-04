@@ -1,0 +1,13 @@
+<div class="park-content">
+  {% if text is defined %}
+    {% include 'components/markdown/template.twig' with {
+    'text': text,
+    'config': config} only %}
+  {% endif %}
+  {% if children is defined and children is iterable %}
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  {% endif %}
+</div>

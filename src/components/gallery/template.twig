@@ -1,0 +1,212 @@
+{% set uuid = random() %}
+<article class="park-gallery
+{% if autoforward is defined and autoforward is same as(true) %}
+park-gallery--autoforward
+{% endif %}
+{% if ads is defined and ads.caption is defined and ads.caption is iterable and (config.disableAds is not defined or config.disableAds is same as(false)) %}
+park-gallery--with-caption-portal
+{% endif %}
+{% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}
+park-gallery--reduced
+{% endif %}
+">
+  {% if (barebone is defined and barebone) or ((config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true))) %}
+  {% if barebone is not defined or not barebone %}
+    {% if id is defined and id %}
+      <aside class="park-gallery__action-buttons">
+        {% include 'components/action-buttons/template.twig' with {
+          'id': id,
+          'config': config
+        } only %}
+      </aside>
+    {% endif %}
+    {% if headline is defined and headline.text is defined and headline.text %}
+      <{{ headline.tag }}
+      class="park-gallery__headline">{{ headline.text }}</{{ headline.tag }}>
+    {% endif %}
+  {% endif %}
+  <div class="park-gallery__body">
+    {% if ads is defined and ads.slides is defined and ads.slides.interval is defined and (config.disableAds is not defined or config.disableAds is same as(false)) %}
+      {# The following injects the global config #}
+      {% set adsSlides = ads.slides|merge({ 'config': config }) %}
+      {% set fullylazy = true %}
+      {% if adsSlides.mobile is defined and (adsSlides.mobile.lazy is not defined or adsSlides.mobile.lazy is same as(false)) %}
+        {% set fullylazy = false %}
+      {% endif %}
+      {% if adsSlides.desktop is defined and (adsSlides.desktop.lazy is not defined or adsSlides.desktop.lazy is same as(false)) %}
+        {% set fullylazy = false %}
+      {% endif %}
+      <div
+        class="park-gallery__slides-portal{% if fullylazy is same as(true) %} park-gallery__slides-portal--lazy{% endif %}">
+        {% include 'components/portal/template.twig' with adsSlides only %}
+      </div>
+    {% endif %}
+    <div class="park-gallery__wrapper">
+      <div class="park-gallery__innerwrapper">
+        <ul class="park-gallery__list">
+          {% for item in items %}
+            <li class="park-gallery__item">
+              <figure role="group" class="park-gallery__item-figure">
+              {% if item.headline is defined and item.headline.text is defined and item.headline.text %}
+                  <{{ item.headline.tag }}
+                  class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}
+                >
+              {% endif %}
+              {% if item.figure is defined %}
+              <div class="park-gallery__item-wrapper">
+                {% set content %}
+                  {% set data = item.figure.data|merge({
+                    'lazy': true,
+                    'config': config
+                  }) %}
+                  {% include 'components/' ~ item.figure.component ~ '/template.twig' with data only %}
+                {% endset %}
+                {% if item.link is defined and item.link.href is defined %}
+                  {% if item.link.type is defined and item.link.type is same as('enlargable') %}
+                    {% set link = item.link|merge({
+                      'target': '_blank',
+                      'attributes': {
+                        'title': 'Vergrößerte Ansicht',
+                        'aria-describedby': 'park-gallery__item-caption-' ~ uuid ~ '-' ~ loop.index
+                      }
+                    }) %}
+                  {% else %}
+                    {% set link = item.link %}
+                  {% endif %}
+                  {% set link = link|merge({
+                    'classes': [
+                      'park-gallery__item-innerwrapper'
+                    ],
+                    'text': content,
+                    'config': config
+                    }) %}
+                  {% include 'components/link-helper/template.twig' with link only %}
+                {% else %}
+                  <div class="park-gallery__item-innerwrapper">{{ content|raw }}</div>
+                {% endif %}
+              </div>
+              <figcaption id="park-gallery__item-caption-{{ uuid }}-{{ loop.index }}"
+                          class="park-gallery__item-caption">
+                {% if item.source is defined and item.source.text is not empty %}
+                  {% if item.source.href is defined %}
+                    {% set source = item.source|merge({
+                      'classes': [
+                        'parkgallery__item-source-link'
+                      ],
+                      'config': config
+                    }) %}
+                    <i
+                      class="park-gallery__item-source">Foto: {% include 'components/link-helper/template.twig' with source only %}</i>
+                  {% else %}
+                    <i class="park-gallery__item-source">Foto: {{ item.source.text }}</i>
+                  {% endif %}
+                {% endif %}
+                {% else %}
+                <blockquote class="park-gallery__item-caption">
+                  {% endif %}
+                  {% if timestamp is defined and timestamp and show_date and loop.first %}
+                    {% set item = item|merge({
+                      'caption': '<em class="park-article__dateline">' ~ timestamp|date("d.m.Y") ~ '</em>' ~ item.caption
+                    }) %}
+                  {% endif %}
+                  {% include 'components/markdown/template.twig' with {
+                    'text': item.caption
+                  } only %}
+                  {% if item.figure is not defined %}
+                </blockquote>
+                {% else %}
+              </figcaption>
+              {% endif %}
+              </figure>
+            </li>
+            {% if ads is defined and ads.slides is defined and ads.slides.interval is defined and (config.disableAds is not defined or config.disableAds is same as(false)) %}
+              {% if not loop.first and not loop.last and loop.index % ads.slides.interval == 0 %}
+                <div class="park-gallery__item park-gallery__item--portal">
+                  <div class="park-gallery__item-figure">
+                    <div class="park-gallery__item-caption"></div>
+                  </div>
+                </div>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+          {% if lastItem is defined %}
+            <li class="park-gallery__item park-gallery__item--last">
+              <figure role="group" class="park-gallery__item-figure">
+                {% if lastItem.headline is defined %}
+                <{{ lastItem.headline.tag }}
+                class="park-gallery__item-headline"
+                aria-hidden="true">{{ lastItem.headline.text }}</{{ lastItem.headline.tag }}>
+              {% endif %}
+              <div class="park-gallery__item-wrapper">
+                <div class="park-gallery__item-innerwrapper">
+                  {% set data = lastItem.figure.data|merge({ 'config': config }) %}
+                  {% include 'components/' ~ lastItem.figure.component ~ '/template.twig' with data only %}
+                </div>
+              </div>
+              </figure>
+              <div class="park-gallery__item-caption"></div>
+            </li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+    <ul class="park-gallery__arrow-nav">
+      <li class="park-gallery__arrow-nav-prev" aria-hidden="true">
+        <button type="button"
+                class="park-gallery__arrow-nav-prev-button park-gallery__arrow-nav-button">zurück
+        </button>
+      </li>
+      <li class="park-gallery__arrow-nav-next" aria-hidden="true">
+        <button type="button" class="park-gallery__arrow-nav-next-button park-gallery__arrow-nav-button">weiter
+        </button>
+      </li>
+    </ul>
+    {% if ads is defined and ads.caption is defined and ads.caption is iterable and (config.disableAds is not defined or config.disableAds is same as(false)) %}
+      <div class="park-gallery__caption-portal">
+        {# The following injects the global config #}
+        {% set adsCaption = ads.caption|merge({'config': config}) %}
+        {% include 'components/portal/template.twig' with adsCaption only %}
+      </div>
+    {% endif %}
+    {% if barebone is not defined or not barebone %}
+      <footer class="park-gallery__footer">
+        {% if (config.output is not defined or config.output is not same as('webview')) %}
+          {% include 'components/social-buttons/template.twig' with {'config': config} only %}
+        {% endif %}
+        {% include 'components/back-to-article/template.twig' with {'config': config} only %}
+      </footer>
+    {% endif %}
+  </div>
+{% else %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+    <{{ headline.tag }}
+    class="park-gallery__headline">{{ headline.text }}</{{ headline.tag }}>
+  {% endif %}
+  <div class="park-gallery__body">
+    <div class="park-gallery__wrapper">
+      <div class="park-gallery__innerwrapper">
+        <ul class="park-gallery__list">
+          <li class="park-gallery__item">
+            <figure role="group" class="park-gallery__item-figure">
+              {% if items[0] is defined %}
+              {% set item = items[0] %}
+              <{{ item.headline.tag }}
+              class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}>
+
+            {% if item.link is defined %}
+              {% include 'components/image/template.twig' with {
+                'src': item.link.href,
+                'alt': item.headline.text,
+                'sizes': { 'mobile': '100vw', 'desktop': '950px' },
+                'config': config} %}
+            {% endif %}
+            {% endif %}
+            </figure>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  {% include 'components/paywall/template.twig' with { 'config': config} %}
+{% endif %}
+</article>

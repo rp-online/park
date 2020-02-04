@@ -1,0 +1,1 @@
+Diese Komponente zählt im Sekundentakt die ihr übergebene Zahl herunter und wirft am Ende das Event `park.countdown:done`, das als Auslöser für weitere Abläufe genutzt werden kann.

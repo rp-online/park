@@ -1,0 +1,42 @@
+<div class="lory_slider">
+    <div class="frame js_frame">
+        <ul class="slides js_slides">
+            {% for item in items %}
+                <li class="js_slide">
+                    {% include 'components/opener/template.twig' with {
+                        'id'        : item.id,
+                        'href'      : item.href,
+                        'type'      : item.type,
+                        'headline'  : item.headline,
+                        'intro'     : item.intro,
+                        'src'       : item.src,
+                        'alt'       : item.alt,
+                        'orig_src'  : item.orig_src,
+                        'source'    : item.source,
+                        'kicker'    : item.kicker,
+                        'authors'   : item.authors,
+                        'related'   : item.related,
+                        'overwrite_backgroundColor'   : item.overwrite_backgroundColor,
+
+                        'config'    : item.config,
+                    } %}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div class="js_navi js_prev prev">
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 501.5 501.5"><g><path fill="#2E435A" d="M302.67 90.877l55.77 55.508L254.575 250.75 358.44 355.116l-55.77 55.506L143.56 250.75z"/></g></svg>
+    </div>
+    <div class="js_navi js_next next">
+        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 501.5 501.5"><g><path fill="#2E435A" d="M199.33 410.622l-55.77-55.508L247.425 250.75 143.56 146.384l55.77-55.507L358.44 250.75z"/></g></svg>
+    </div>
+    <ul class="js_dots dots"></ul>
+</div>
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) {
+    function a(u){var v=0,w=0;if('before.lory.init'===u.type){var x=document.createElement('li');for(v=l,w=0;w<v;w++){var y=x.cloneNode(),z=k[w].getElementsByClassName('park-opener__kicker');y.innerHTML='<span class="bar"></span><span class="dot"></span><span class="info">'+z[0].textContent+'</span>',m.appendChild(y)}m.childNodes[0].classList.add('active')}if('after.lory.init'===u.type)for(j.classList.add('loaded'),v=l,w=0;w<v;w++)m.childNodes[w].addEventListener('click',function(A){var B='LI'===A.target.nodeName?A.target:A.target.parentNode;var C=m.childNodes,D=Array.prototype.indexOf.call(C,B);t.slideTo(D)});if('after.lory.slide'===u.type){for(v=m.childNodes.length,w=0;w<v;w++)m.childNodes[w].classList.remove('active');m.childNodes[u.detail.currentSlide-1].classList.add('active')}if('on.lory.resize'===u.type){for(v=m.childNodes.length,w=0;w<v;w++)m.childNodes[w].classList.remove('active');m.childNodes[0].classList.add('active')}}function b(u){var v='undefined'!=typeof u&&u,w=c(k,v),x=c(m.childNodes,v);k.forEach(function(y){y.getElementsByClassName('park-opener')[0].style.height=w+'px'}),m.querySelectorAll('li').forEach(function(y){y.style.height=x+'px'})}function c(u,v){var w=0;return u.forEach(function(x){if(v){var y=x.getElementsByClassName('park-opener');0<y.length?y[0].style.height=null:x.style.height=null}x.offsetHeight>w&&(w=x.offsetHeight)}),w}function d(u){o=1e3/u,r=Date.now(),p=r,f()}function f(){requestAnimationFrame(f),q=Date.now(),s=q-r,r=q-s%o,n?g(0):g(s/5/10),s>o&&!n&&(g(0),t.next())}function g(u){m.querySelectorAll('.active span')[0].style.width=u+'%'}function h(){q=Date.now(),s=q-r,r=q-s%o}var j=document.querySelector('.lory_slider'),k=j.querySelectorAll('.js_slide'),l=k.length,m=j.querySelector('.js_dots'),n=!1,o,p,q,r,s;j.addEventListener('mouseover',function(){n=!0}),j.addEventListener('mouseout',function(){h(),n=!1}),j.addEventListener('before.lory.init',a),j.addEventListener('after.lory.init',a),j.addEventListener('after.lory.slide',a),j.addEventListener('on.lory.resize',function(u){a(u),b(!0)});var t;setTimeout(function(){b(),t=window.lory(j,{infinite:1,rewind:!0,ease:'cubic-bezier(0.455, 0.03, 0.515, 0.955)',enableMouseEvents:!0}),b(),d(.2)},400)
+  });
+  {#
+  window.onload=function(){function a(u){var v=0,w=0;if('before.lory.init'===u.type){var x=document.createElement('li');for(v=l,w=0;w<v;w++){var y=x.cloneNode(),z=k[w].getElementsByClassName('park-opener__kicker');y.innerHTML='<span class="bar"></span><span class="dot"></span><span class="info">'+z[0].textContent+'</span>',m.appendChild(y)}m.childNodes[0].classList.add('active')}if('after.lory.init'===u.type)for(j.classList.add('loaded'),v=l,w=0;w<v;w++)m.childNodes[w].addEventListener('click',function(A){var B='LI'===A.target.nodeName?A.target:A.target.parentNode;var C=m.childNodes,D=Array.prototype.indexOf.call(C,B);t.slideTo(D)});if('after.lory.slide'===u.type){for(v=m.childNodes.length,w=0;w<v;w++)m.childNodes[w].classList.remove('active');m.childNodes[u.detail.currentSlide-1].classList.add('active')}if('on.lory.resize'===u.type){for(v=m.childNodes.length,w=0;w<v;w++)m.childNodes[w].classList.remove('active');m.childNodes[0].classList.add('active')}}function b(u){var v='undefined'!=typeof u&&u,w=c(k,v),x=c(m.childNodes,v);k.forEach(function(y){y.getElementsByClassName('park-opener')[0].style.height=w+'px'}),m.querySelectorAll('li').forEach(function(y){y.style.height=x+'px'})}function c(u,v){var w=0;return u.forEach(function(x){if(v){var y=x.getElementsByClassName('park-opener');0<y.length?y[0].style.height=null:x.style.height=null}x.offsetHeight>w&&(w=x.offsetHeight)}),w}function d(u){o=1e3/u,r=Date.now(),p=r,f()}function f(){requestAnimationFrame(f),q=Date.now(),s=q-r,r=q-s%o,n?g(0):g(s/5/10),s>o&&!n&&(g(0),t.next())}function g(u){m.querySelectorAll('.active span')[0].style.width=u+'%'}function h(){q=Date.now(),s=q-r,r=q-s%o}var j=document.querySelector('.lory_slider'),k=j.querySelectorAll('.js_slide'),l=k.length,m=j.querySelector('.js_dots'),n=!1,o,p,q,r,s;j.addEventListener('mouseover',function(){n=!0}),j.addEventListener('mouseout',function(){h(),n=!1}),j.addEventListener('before.lory.init',a),j.addEventListener('after.lory.init',a),j.addEventListener('after.lory.slide',a),j.addEventListener('on.lory.resize',function(u){a(u),b(!0)});var t;setTimeout(function(){b(),t=window.lory(j,{infinite:1,rewind:!0,ease:'cubic-bezier(0.455, 0.03, 0.515, 0.955)',enableMouseEvents:!0}),b(),d(.2)},400)};
+  #}
+</script>

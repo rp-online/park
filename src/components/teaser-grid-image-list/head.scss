@@ -1,0 +1,48 @@
+.park-teaser-grid-image-list {
+  overflow: hidden;
+
+  @include mq(desktop) {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__item {
+    display: flex;
+    flex: 0 0 33%;
+    min-width: 0;
+    margin-bottom: -1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1));
+    background-size: calc(100% - #{$global-spacing} - #{$global-spacing}) 1px;
+    background-position: center bottom;
+
+    &:first-child ~ & {
+      .park-teaser-list-item__image {
+        @include mq(mobile) {
+          display: none;
+        }
+      }
+
+      .park-teaser-list-item__user-actions {
+        @include mq(mobile) {
+          margin-top: 0;
+        }
+      }
+    }
+
+    @include mq(desktop) {
+      width: calc(100% / 3);
+    }
+  }
+
+  &--with-ad &__item {
+    flex: 0 0 50%;
+
+    @include mq(desktop) {
+      width: calc(100% / 2);
+    }
+  }
+
+  .park-teaser-list-item {
+    width: 100%;
+  }
+}

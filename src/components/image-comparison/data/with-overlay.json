@@ -1,0 +1,13 @@
+{
+  "a": {
+    "src": "https://2.bp.blogspot.com/-VUtyA1E1LXs/U-tG_FPz0UI/AAAAAAAAIHc/dXifHfeBCUQ/s1600/face-before.jpg",
+    "alt": "vorher"
+  },
+  "b": {
+    "src": "https://1.bp.blogspot.com/-bEQl5-KrxHY/U-tG9gPXbZI/AAAAAAAAIHU/JEI5b_YRpjY/s1600/face-after.jpg",
+    "alt": "nachher"
+  },
+  "width": 661,
+  "height": 661,
+  "overlay": true
+}

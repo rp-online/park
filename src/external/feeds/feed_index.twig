@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:admin="http://webns.net/mvcb/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>{{ pagetitle }}{{ title }}</title>
+        <link>{{ link }}</link>
+        <description>{{ description }}</description>
+        <language>{{ language }}</language>
+        <lastBuildDate>{{ lastBuildDate }}</lastBuildDate>
+        <atom:link rel="self" href="{{ link }}"/>
+        {% if homepage %}
+            <category>Aktuelle Nachrichten</category>
+        {% endif %}
+
+        {% for item in items %}
+            <item>
+                <title>{{ item['titel'] }}</title>
+                {% if output == 'rss_pylba' %}
+                    <paidcontent>{{ item['paid_content'] }}</paidcontent>
+                    <prioritaet>{{ item['prioritaet'] }}</prioritaet>
+                {% endif %}
+                <link>{{ item['url'] }}</link>
+                <guid isPermaLink="true">{{ item['guid'] }}</guid>
+                {% if output == 'rss_newsletter' %}
+                    <subline>{{ item['dachzeile'] }}</subline>
+                {% endif %}
+                  {% if output == 'rss_newsletter' %}
+                    <description><![CDATA[{{ item['teasertext'] }}]]></description>
+                  {% else %}
+                    <description>
+                    <![CDATA[
+                    {% if item['teaserbild'] and show_pics == 1 and output != 'playkiosk' and output != 'rss_newsletter' %}
+                      <img src="{{ item['teaserbild']['src'] }}" hspace="5" align="left"/>
+                    {% endif %}
+                    {% if output == 'rss_pylba' %}
+                      <strong>{{ item['ortsmarke'] }}. </strong> {{ item['teasertext'] }}
+                    {% endif %}
+                    {% if output == 'rss_complex' or output == 'rss_pylba' or output == 'playkiosk' %}
+                      {{ item['volltext']|raw }}
+                    {% else %}
+                      {{ item['teasertext'] }}
+                    {% endif %}
+                    ]]>
+                    </description>
+                  {% endif %}
+                {% if output == 'playkiosk' %}
+                    <opener>
+                        <![CDATA[
+                        {{ item['teasertext'] }}
+                        ]]>
+                    </opener>
+                {% endif %}
+                {% if item.content %}
+                    <content:encoded><![CDATA[{{ item.content|raw }}]]></content:encoded>
+                {% endif %}
+                {% if item['orig_bild'] and show_pics == 1 %}
+                    <enclosure url="{{ item['orig_bild']['src'] }}"
+                            {% if item['orig_bild']['filesize'] %}
+                                length="{{ item['orig_bild']['filesize'] }}"
+                            {% endif %}
+                                type="image/jpeg"/>
+                {% endif %}
+                {% if item['creator'] %}
+                    <dc:creator>
+                        <![CDATA[
+                        {{ item['creator'] }}
+                        ]]>
+                    </dc:creator>
+                {% endif %}
+                {% if item['treenodes_name_paths'] %}
+                    {% for treenode in item['treenodes_name_paths'] %}
+                        <category>{{ treenode }}</category>
+                    {% endfor %}
+                {% endif %}
+                {% if item['datum_rfc'] %}
+                    <pubDate>{{ item['datum_rfc'] }}</pubDate>
+                {% endif %}
+            </item>
+        {% endfor %}
+    </channel>
+</rss>

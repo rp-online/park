@@ -1,0 +1,9 @@
+{% if page is not defined or not page %}
+  {% set page = 1 %}
+{% endif %}
+{% set pageOptions = {
+  'query': query,
+  'adPage' : page
+} %}
+<div class="park-search-adsense"
+     data-page-options="{{ pageOptions|json_encode|escape('html') }}"></div>

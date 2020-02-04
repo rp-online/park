@@ -1,0 +1,38 @@
+@keyframes park-data-notification-count {
+  from {
+    transform: scale(0) skew(-60deg);
+  }
+
+  to {
+    transform: scale(1) skew(0deg);
+  }
+}
+
+.user-is-authenticated [data-notification-count]:not([data-notification-count="0"]) {
+  perspective: 1px;
+
+  &::after {
+    @include global-font-family-sans-serif;
+
+    content: attr(data-notification-count);
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: rem(16px);
+    height: rem(16px);
+    background-color: $global-error-color;
+    color: #fff;
+    border-radius: 50%;
+    font-size: rem(10px);
+    line-height: rem(16px);
+    text-align: center;
+    animation-name: park-data-notification-count;
+    animation-duration: 300ms;
+    animation-fill-mode: both;
+    animation-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+
+  &[data-notification-count="99+"]::after {
+    padding-left: 0.25ex;
+  }
+}

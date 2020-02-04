@@ -1,0 +1,102 @@
+<div class="park-cta-newsletter">
+  <header class="park-cta-newsletter__header">
+    <h4 class="park-cta-newsletter__header-headline">{{ header.headline }}</h4> <span class="park-cta-newsletter__header-text">{{ header.text|raw }}</span>
+  </header>
+  <div class="park-cta-newsletter__form">
+    {% set children = [] %}
+    {% if options and options is iterable and options|length > 0 %}
+      {% if options and options|length > 1 %}
+        {% set children = children|merge([
+          {
+            'component': 'select',
+            'data': {
+              'name': 'list_ids[]',
+              'label': 'Stadt auswählen',
+              'placeholder': 'Bitte auswählen',
+              'value': list_id,
+              'options': options,
+              'required': true
+            }
+          }
+        ]) %}
+      {% elseif options and options|length == 1 and options[0].value %}
+        {% set children = children|merge([
+          {
+            'component': 'input',
+            'data': {
+              'name': 'list_ids[]',
+              'type': 'hidden',
+              'value': options[0].value
+            }
+          }
+        ]) %}
+      {% endif %}
+    {% endif %}
+    {% set children = children|merge([
+      {
+        'component': 'input',
+        'data': {
+          'name': 'email',
+          'type': 'email',
+          'autocomplete': 'email',
+          'label': 'E-Mail-Adresse',
+          'value': email,
+          'required': true
+        }
+      }
+    ]) %}
+    {% set submitLabel = 'Newsletter bestellen' %}
+    {% set recaptcha = [
+      {
+        'component': 'recaptcha',
+        'data': {
+          'name': 'captcha-response',
+          'sitekey': '6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK',
+          'type': 'invisible'
+        }
+      }
+    ] %}
+    {% if optin is defined and optin %}
+      {% set submitLabel = 'weiter' %}
+      {% set recaptcha = [] %}
+      {% if step is defined and step == 2 %}
+        {% set submitLabel = 'Newsletter bestellen' %}
+        {% set recaptcha = [
+          {
+            'component': 'recaptcha',
+            'data': {
+              'name': 'captcha-response',
+              'sitekey': '6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK',
+              'type': 'invisible'
+            }
+          }
+        ] %}
+        {% set children = children|merge([
+          {
+            'component': 'form-instructions',
+            'data': {
+              'text': optin
+            }
+          }
+        ]) %}
+      {% endif %}
+    {% endif %}
+    {% set children = children|merge([
+      {
+        'component': 'form-instructions',
+        'data': {
+          'text': '<p>Sie können den Newsletter jederzeit abbestellen.</p>'
+        }
+      }
+    ]) %}
+    {% set children = children|merge(recaptcha) %}
+    {% set form = {
+      'action': '#void',
+      'method': 'post',
+      'submit': submitLabel,
+      'vertical': true,
+      'children': children
+    } %}
+    {% include 'components/form/template.twig' with form only %}
+  </div>
+</div>

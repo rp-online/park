@@ -1,0 +1,164 @@
+<section>
+  {% include 'components/section-breadcrumb/template.twig' with {
+  'headline': {
+      'tag': 'h1',
+      'text': 'Profil bearbeiten'
+    }
+  } %}
+  {#
+    Todo: Find a solution that user does not need to enter the housenumber separately (bad UX)
+  #}
+<div class="park-edit-profile">
+{%  set hint = '<a href="' ~ passwordResetURL ~ '">Passwort vergessen?</a>' %}
+{% include 'components/form/template.twig' with {
+  'notification': notification,
+  'vertical': true,
+  'action': action,
+  'method': 'post',
+
+  'submit': 'speichern',
+  'children': [
+    {
+      'component': 'form-fieldset',
+      'data': {
+        'label': 'Accountdaten',
+        'children': [
+          {
+            'component': 'input',
+            'data': {
+              'type': 'hidden',
+              'name': 'password',
+              'value': password,
+              'labelHidden': true
+            }
+          },
+          {
+          'component': 'input',
+            'data': {
+              'name': 'login',
+              'value': login,
+              'label': 'Benutzername',
+              'readonly': true
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'type': 'email',
+              'name': 'email',
+              'value': email,
+              'autocomplete': 'email',
+              'label': 'E-Mail-Adresse'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'type': 'password',
+              'name': 'new_password',
+              'value': new_password,
+              'autocomplete': 'new-password',
+              'label': 'Passwort',
+              'pattern': '[\W\w]{5,}'
+            }
+          }
+        ]
+      }
+    },
+    {
+      'component': 'form-fieldset',
+      'data': {
+        'label': 'Persönliche Daten',
+        'children': [
+          {
+            'component': 'radio-group',
+            'data': {
+              'name': 'gender',
+              'autocomplete': 'honorific-prefix',
+              'value': gender,
+              'label': 'Anrede',
+              'options': [
+                {
+                  'label': 'Frau',
+                  'value': '0'
+                },
+                {
+                  'label': 'Herr',
+                  'value': '1'
+                }
+              ]
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'firstname',
+              'autocomplete': 'given-name',
+              'value': firstname,
+              'label': 'Vorname'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'lastname',
+              'autocomplete': 'family-name',
+              'value': lastname,
+              'label': 'Nachname'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'street',
+              'autocomplete': 'address-line1',
+              'value': street,
+              'label': 'Straße'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'street_no',
+              'autocomplete': 'address-line2',
+              'value': street_no,
+              'label': 'Hausnummer'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'zip_code',
+              'autocomplete': 'postal-code',
+              'value': zip_code,
+              'inputmode': 'numeric',
+              'label': 'PLZ'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'name': 'city',
+              'autocomplete': 'locality',
+              'value': city,
+              'label': 'Ort'
+            }
+          },
+          {
+            'component': 'input',
+            'data': {
+              'type': 'tel',
+              'name': 'phone',
+              'autocomplete': 'tel',
+              'value': phone,
+              'label': 'Handynummer'
+            }
+          }
+        ]
+      }
+    }
+  ],
+  'config': config
+} only %}
+</div>
+</section>

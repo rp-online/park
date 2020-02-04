@@ -1,0 +1,39 @@
+{
+  "title": "Login",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für den Login"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/login.html"
+      }
+    ],
+    "personalArea": true
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "login",
+            "data": {
+              "notification": {
+                "headline": "Registrierung erfolgreich",
+                "body": "Die Aktivierung Ihres Kontos war erfolgreich. Sie können sich jetzt anmelden.",
+                "type": "success"
+              },
+              "passwordResetURL": "/sso/reset_password",
+              "registrationURL": "/sso/register",
+              "recaptchaSitekey": "6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

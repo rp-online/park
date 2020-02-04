@@ -1,0 +1,81 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set uuid = random() %}
+  <div
+    class="park-figure
+{% if link is defined %} park-figure--is-link{% endif %}
+{% if source.text is defined and source.text is not empty %} park-figure--with-source{% endif %}
+{% if link is defined and link.type is defined and link.type is same as('enlargable') %} park-figure--enlargable{% endif %}
+{% if isAd is defined and isAd is same as(true) %} park-figure--sugardaddy{% endif %}">
+    <figure role="group" class="park-figure__figure">
+      {% set content %}
+        <span class="park-figure__wrapper">
+        {% if sizes is not defined %}
+          {% set sizes = { 'mobile': '100vw', 'desktop': '950px' } %}
+        {% endif %}
+        {% include 'components/image/template.twig' with {
+          'src': src,
+          'alt': alt,
+          'width': width,
+          'height': height,
+          'fit': fit,
+          'sizes': sizes,
+          'config': config
+        } %}
+        </span>
+      {% endset %}
+      {% if link is defined and link.href is defined %}
+        {% set upperlink = link|merge({
+          'text': content,
+          'classes': [
+            'park-figure__link'
+          ],
+          'isAd': isAd,
+          'config': config
+        }) %}
+        {% if link.type is defined and link.type is same as('enlargable') %}
+          {% set upperlink = upperlink|merge({
+            'target': '_blank',
+            'attributes': {
+              'title': 'Vergrößerte Ansicht',
+              'aria-describedby': 'park-figure__caption-' ~ uuid
+            }
+          }) %}
+        {% endif %}
+        {% include 'components/link-helper/template.twig' with upperlink only %}
+      {% else %}
+        {{ content|raw }}
+      {% endif %}
+      <figcaption class="park-figure__caption-wrapper">
+          <span
+            id="park-figure__caption-{{ uuid }}"
+            class="park-figure__caption{% if link is defined and link.type is defined %} park-figure__caption--{{ link.type }}{% endif %}">
+          {% if link is defined and link.text is defined and link.type is not same as('enlargable') %}
+            {% include 'components/button/template.twig' with {
+              'href': link.href,
+              'text': link.text,
+              'isAd': isAd,
+              'config': config
+            } only %}
+          {% endif %}
+            {% if caption is defined and caption %}
+              {% set caption = caption|trim %}
+              {{ caption | raw }}{% if caption and caption|last not in ['.', '!', '?'] %}.{% endif %}
+            {% endif %}
+            {% if source is defined and source.text is not empty %}
+              {% if source.href is defined %}
+                {% set source = source|merge({
+                  'classes': [
+                    'park-figure__caption-source-link'
+                  ],
+                  'config': config
+                }) %}
+                <i class="park-figure__caption-source">Foto: {% include 'components/link-helper/template.twig' with source only %}</i>
+      {% else %}
+                <i class="park-figure__caption-source">Foto: {{ source.text }}</i>
+              {% endif %}
+            {% endif %}
+          </span>
+      </figcaption>
+    </figure>
+  </div>
+{% endif %}

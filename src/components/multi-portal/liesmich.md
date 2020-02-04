@@ -1,0 +1,1 @@
+Diese Komponente gruppiert eine ganze Armada an Werbemitteln zu einem Slider. Alternativ lässt sich auch ein Grid-Layout definieren.

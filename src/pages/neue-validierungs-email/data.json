@@ -1,0 +1,40 @@
+{
+  "title": "Neue Validierungs E-Mail",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für eine neue Validierungs E-Mail"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/neue-validierungs-email.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "new-validation-email",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Neue Validierungs E-Mail"
+              },
+              "text": "Wir schicken Ihnen gerne eine neue E-Mail zur Validierung zu.",
+              "form": {
+                "action": "./notification.html",
+                "method": "post"
+              },
+              "loginURL": "#void"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

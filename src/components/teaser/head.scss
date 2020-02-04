@@ -1,0 +1,195 @@
+.park-teaser {
+  position: relative;
+  border-top: #d0d0d0 1px solid;
+
+  li:first-child > & {
+    border-top: none;
+  }
+
+  &__link {
+    @extend %teaser-hover;
+
+    display: block;
+    padding: $global-spacing;
+
+    &::after {
+      content: '';
+      display: block;
+      clear: left;
+    }
+
+    .park-teaser--sugardaddy & {
+      &::before {
+        @extend %sugardaddy-label;
+
+        display: block;
+        float: right;
+        margin-left: $global-spacing;
+      }
+    }
+  }
+
+  &__image {
+    position: relative;
+    width: rem(100px);
+    height: rem(0.75 * 100px);
+    float: left;
+    margin-right: $global-spacing;
+
+    @include mq(desktop) {
+      width: rem(260px);
+      height: rem(0.75 * 260px);
+    }
+
+    .park-image {
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+    }
+
+    &--image {
+      @extend %indicator-image;
+    }
+
+    &--info {
+      @extend %indicator-info;
+    }
+
+    &--video {
+      @extend %indicator-video;
+
+      height: rem(0.5625 * 100px);
+
+      @include mq(desktop) {
+        width: rem(260px);
+        height: rem(0.5625 * 260px);
+      }
+    }
+
+    a[target="_blank"] &:not(&--video) {
+      @extend %indicator-external;
+    }
+
+    .is-advertorial a[target="_blank"][title="Anzeige"] &:not(&--video)::after {
+      display: none;
+    }
+  }
+
+  &__image + &__body {
+    margin-left: rem(115px);
+
+    @include mq(desktop) {
+      margin-left: rem(275px);
+    }
+  }
+
+  .park-portal-marker &__image,
+  .is-advertorial &__image,
+  &--sugardaddy &__image {
+    color: rgba($global-advertisement-color, 0.8);
+  }
+
+  &__headlines {
+    display: block;
+    font-size: 0;
+  }
+
+  &__kicker {
+    @include global-sans-serif-font-size(2);
+
+    display: block;
+    padding-right: rem(30px);
+    color: $global-kicker-color;
+    font-weight: $global-font-weight-sans-serif-bold;
+
+    .park-portal-marker &,
+    .is-advertorial &,
+    .park-teaser--sugardaddy & {
+      color: $global-advertisement-color;
+    }
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+    @include global-serif-font-size(1);
+
+    display: block;
+    margin-bottom: rem(5px);
+    color: $global-color-text-black;
+
+    @include mq(desktop) {
+      margin-bottom: rem(10px);
+      color: $global-color-text-black;
+    }
+  }
+
+  &__intro {
+    @include global-sans-serif-font-size(2);
+
+    margin-bottom: $global-spacing;
+    color: $global-color-text-black;
+
+    @include mq(mobile) {
+      @include visuallyhidden;
+    }
+  }
+
+  &__source,
+  &__label,
+  &__dateline {
+    margin-right: rem(2px);
+    font-weight: $global-font-weight-sans-serif-bold;
+    font-style: normal;
+    vertical-align: baseline;
+  }
+
+  &__label {
+    color: $global-signal-color;
+  }
+
+  &__source {
+    font-weight: bold;
+  }
+
+  &__dateline:not(:empty)::after {
+    content: '.';
+    vertical-align: baseline;
+  }
+
+  &__label:not(:empty) + &__dateline::before {
+    content: '| ';
+    vertical-align: baseline;
+  }
+
+  &__authors {
+    @include global-sans-serif-font-size(3);
+
+    margin-left: rem(2px);
+    font-weight: $global-font-weight-sans-serif-regular;
+    font-style: normal;
+    vertical-align: baseline;
+
+    @include mq(desktop) {
+      color: #5f6064;
+      text-transform: uppercase;
+    }
+
+    @include mq(mobile) {
+      @include visuallyhidden;
+    }
+  }
+
+  &__related {
+    list-style: none;
+  }
+
+  &__user-actions {
+    position: absolute;
+    top: $global-spacing;
+    right: $global-spacing;
+  }
+}

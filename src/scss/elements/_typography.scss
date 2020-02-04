@@ -1,0 +1,12 @@
+html {
+  font-family: $global-font-family-sans-serif;
+  line-height: $global-line-height-base;
+
+  &.fonts-loaded {
+    font-family: $global-font-family-sans-serif-loaded;
+  }
+}
+
+body {
+  line-height: inherit;
+}

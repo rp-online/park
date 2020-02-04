@@ -1,0 +1,1 @@
+Das ist nur ein Proxy auf `icon-paid` für die Rückwärtskompatibilität.

@@ -1,0 +1,31 @@
+@function rem($px) {
+  @if $px == 0 {
+    @return 0;
+  }
+
+  @return ($px / 16px) * 1rem;
+}
+
+@function unrem($rem) {
+  @if $rem == 0 {
+    @return 0;
+  }
+
+  @return ($rem / 0.0625rem) * 1px;
+}
+
+@function em($px) {
+  @if $px == 0 {
+    @return 0;
+  }
+
+  @return ($px / 16px) * 1em;
+}
+
+@function strip-unit($number) {
+  @if type-of($number) == 'number' and not unitless($number) {
+    @return $number / ($number * 0 + 1);
+  }
+
+  @return $number;
+}

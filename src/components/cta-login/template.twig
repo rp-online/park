@@ -1,0 +1,14 @@
+<div class="park-cta-login">
+  <div class="park-cta-login__text">
+    Für diese Aktion müssen Sie angemeldet sein.
+  </div>
+  <div class="park-cta-login__button">
+    {% include 'components/button/template.twig' with {
+      'href': config.loginPage,
+      'text': 'zur Anmeldung'
+    } only %}
+  </div>
+  <aside class="park-cta-login__aside">Noch nicht registriert? <a href="{{ config.registrationPage }}">Jetzt
+      registrieren</a>
+  </aside>
+</div>

@@ -1,0 +1,49 @@
+{% if config.appMode is not defined or config.appMode is not same as('embedded')
+  and (config.noComments is not defined or config.noComments is not same as(true)) %}
+  <aside id="park-comments"
+         class="park-comments"
+         data-comments-id="{{ discussion.id|escape('html') }}"
+         data-comments-url="{{ discussion.url|escape('html') }}"
+         data-comments-counturl="{{ discussion.counturl|escape('html') }}">
+    <header class="park-comments__commentscount"></header>
+    {% include 'components/comments-form/template.twig' %}
+    <div class="park-comments__wrapper">
+      {% include 'components/select/template.twig' with {
+        'config': config,
+        'name': 'sorting',
+        'label': 'Sortierung',
+        'labelHidden': true,
+        'value': 'date+',
+        'options': [
+          {
+            'label': 'Älteste zuerst',
+            'value': 'date+'
+          },
+          {
+            'label': 'Neueste zuerst',
+            'value': 'date-'
+          }
+        ]
+      } only %}
+      <ul id="park-comments" class="park-comments__comments"></ul>
+      <hr class="park-comments__ruler">
+      {% include 'components/button/template.twig' with {
+        'config': config,
+        'type': 'button',
+        'text': 'Weitere Kommentare laden',
+        'loader': true
+      } only %}
+    </div>
+    <template>
+      <li class="park-comments__comment">
+        <blockquote class="park-comments__comment-text"></blockquote>
+        <footer class="park-comments__comment-metadata">
+          <cite class="park-comments__comment-user"></cite>
+          <a href="#void" class="park-comments__comment-link">
+            <time class="park-comments__comment-time"></time>
+          </a>
+        </footer>
+      </li>
+    </template>
+  </aside>
+{% endif %}

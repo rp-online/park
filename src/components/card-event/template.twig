@@ -1,0 +1,32 @@
+<a href="{{ href }}" class="park-card-event" title="{{ headline.title }}">
+  <div class="park-card-event__maininfo">
+    <{{ headline.tag }} class="park-card-event__headline">
+    {{ headline.text }}
+    </{{ headline.tag }}>
+    <span class="park-card-event__dates">{{ openingTimes }}</span>
+  </div>
+
+  {% if widgetIcons is not empty %}
+  <span class="park-card-event__categories">
+    <ul class="park-card-event__categories-list">
+      {% for icon in widgetIcons %}
+      <li class="park-card-event__categories-list-entry">
+        <img class="park-card-event__category-image" referrerpolicy="no-referrer" src="{{ icon }}">
+      </li>
+      {% endfor %}
+    </ul>
+  </span>
+  {% endif %}
+
+  <address class="park-card-event__address">
+    {% if fullStreet is defined %}
+    {{ fullStreet}} <br>
+    {% endif %}
+    {{ fullCity }}
+  </address>
+
+  {% if distanceKm is not empty %}
+  <span class="park-card-event__distance">{{ distanceKm }} km</span>
+  {% endif %}
+
+</a>

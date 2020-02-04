@@ -1,0 +1,1726 @@
+{
+  "title": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "title": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“",
+    "url": "https://rp-online.de/politik/deutschland/angela-merkel-aus-der-tatsache-dass-es-mich-gibt-darf-kein-alibi-werden_aid-34436107",
+    "client": "rp-online"
+  },
+  "config": {},
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"gpt_outofpage\"></div>\r\n<script>\r\n(function() {\r\n    var isApp = document.documentElement.classList.contains('is-app');\r\n    if(isApp===false){\r\n        function init() {\r\n            var slot_cad1;\r\n            var adslot = \"/1017380/rp-online.de/outofpage\";\r\n            var adslotid = \"gpt_outofpage\";\r\n            if(!window.SDG) {\r\n                window.setTimeout(init, 100);\r\n                return;  \r\n            }\r\n            googletag.cmd.push(function() {\r\n            slot_cad1 = googletag.defineSlot(adslot,[1, 1],adslotid).setCollapseEmptyDiv(true).addService(googletag.pubads());\r\n            googletag.cmd.push(function() {googletag.display(adslotid)});\r\n            googletag.enableServices();\r\n            });\r\n        };\r\n        init();\r\n    }\r\n})();\r\n</script>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Politik",
+                        "href": "https://rp-online.de/politik/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Deutschland",
+                        "href": "https://rp-online.de/politik/deutschland/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "„Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“"
+                    },
+                    "id": 34436107,
+                    "kicker": {
+                      "text": "Angela Merkel zur Gleichberechtigung"
+                    },
+                    "timestamp": "1542026520",
+                    "cover": {
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_2d29c8871f96a48e979023f5d702786e/w250_h138_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "400w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_aca8f1af49a08a0c48d889bd4460894a/w400_h221_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "600w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_20019bf6768dc2c8f75a0a974e96b8ef/w600_h332_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "900w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_c121a7a8293241df1c680f5789f56a43/w900_h498_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "950w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_fb90c65687ad71c07ceb3fa61effa48b/w950_h526_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "1200w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_4ca0cd07e0556fba20033092a39edad2/w1200_h664_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                        "1900w": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_714df687de372d6f8d5ccca1f291490a/w1900_h1052_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg"
+                      },
+                      "src_zoom": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_0aec2fe3af134772e8770c134cbba4eb/w1900_h1200_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                      "src_fit": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_451a94fe74a82118043687839219ea13/w834_h526_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg",
+                      "alt": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“",
+                      "caption": "Angela Merkel am Montag beim Festakt zu 100 Jahren Frauenwahlrecht im Deutschen Historischen Museum.",
+                      "source": {
+                        "text": "dpa/Bernd von Jutrczenka"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://rp-online.de/imgs/32/4/2/0/5/3/2/6/3/tok_0aec2fe3af134772e8770c134cbba4eb/w1900_h1200_x1500_y945_DPA_bfunk_dpa_5F9AD8006FEBDD5B-75cb0658f9727427.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Berlin",
+                    "intro": "Angela Merkel mag es nicht, wenn Deutschland ihretwegen als Musterland der Gleichberechtigung dargestellt wird. Das sagte die Kanzlerin am Montag beim Festakt zu 100 Jahren Frauenwahlrecht. ",
+                    "sign": "(jco/dpa)",
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": false,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Hochrangige Politikerinnen drängen auf eine Erhöhung des Frauenanteils im Bundestag und in den Länderparlamenten. „Wir werden auch hier neue Wege bestreiten müssen“, sagte Bundeskanzlerin Angela Merkel (CDU) am Montag bei einem Festakt zur Einführung des Frauenwahlrechts vor 100 Jahren. Der Bundestag sei in dieser Legislaturperiode „kein Ruhmesblatt“. In der Politik müsse genau wie in Wirtschaft, Verwaltung, Wissenschaft und Kultur gelten: „Das Ziel muss Parität sein“, sagte die Kanzlerin.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zuvor hatten bereits <a href=\"/politik/deutschland/katarina-barley-spd-zu-frauenanteil-im-bundestag-da-sitzt-ganz-oft-ein-meer-von-grauen-anzuegen_aid-34411691\">Justizministerin Katarina Barley</a> und Frauenministerin Franziska Giffey (beide SPD) gefordert, eine stärkere Vertretung von Frauen im Bundestag durchzusetzen. „Ich finde, wenn die Hälfte der Bevölkerung aus Frauen besteht, warum besteht dann die höchste Repräsentanz in unserem Land nicht auch zur Hälfte aus Frauen?“, sagte Giffey bei dem Festakt. Derzeit liegt der Frauenanteil im Bundestag bei 30,9 Prozent.</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Vor allem in den Fraktionen von AfD, FDP und CDU/CSU sitze oft „ein Meer von grauen Anzügen“, hatte Barley der „Bild am Sonntag“ gesagt. „Ändern wird sich das wohl nur durch ein neues Wahlrecht.“ Zur Erhöhung des Frauenanteils könnten Kandidatenlisten der Parteien abwechselnd mit Männern und Frauen besetzt werden. Eine andere Möglichkeit wären größere Wahlkreise mit zwei direkt gewählten Abgeordneten unterschiedlichen Geschlechts.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "figure",
+                              "data": {
+                                "type": "image",
+                                "width": 950,
+                                "height": 526,
+                                "src": "https://rp-online.de/imgs/32/1/2/0/5/7/5/8/5/tok_3168371b3e09040df0668c59c86190ec/w940_h526_x470_y264_fbecfe5b3d17ca1c.jpg",
+                                "alt": "",
+                                "source": {
+                                  "text": "dpa, Patrick Seeger"
+                                },
+                                "caption": "Das ist Angela Merkel\n",
+                                "link": {
+                                  "type": "image",
+                                  "text": "11 Bilder",
+                                  "href": "/politik/deutschland/bundestagswahl/angela-merkel-portraet-der-bundeskanzlerin-von-deutschland-in-bildern_bid-9470461"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Merkel betonte, der Frauenanteil im Bundestag stelle auch sie nicht zufrieden. Ihn zu ändern, sei aber nicht so einfach. Die CDU beispielsweise gewinne viele Direktwahlkreise - wenn Frauen hier mehr Chancen haben sollten, müssten sie schon ganz früh gut platziert werden. „Wir denken da sehr intensiv drüber nach“, sagte die Kanzlerin. Auch in der Unionsfraktion wurde die Forderung nach einer Wahlrechtsreform laut.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_dd427f5d7d84518c527bd2096b0d5eec/w306_h175_x470_y264_84a5fae62314eb03.jpg",
+                              "alt": "",
+                              "href": "/nrw/panorama/katholikentag-2018-in-muenster-angela-merkel-kommt_aid-16875637",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Zum Katholikentag"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Bundeskanzlerin Angela Merkel kommt nach Münster"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>googletag.cmd.push(function() { googletag.display(\"22512525\"); })</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<script>\r\n    var slot_cad1;\r\n    function init() {\r\n        var adslotname = \"rp-online.de/content_ad_2\";\r\n        var adslot = \"/1017380/\"+adslotname;\r\n        var adslotid = \"div-gptrpd_\"+adslotname;\r\n     if(!document.getElementById(adslotid)){\r\n            document.write('<div id=\"'+adslotid+'\"></div>');\r\n        }\r\n        if(!window.SDG) {\r\n            window.setTimeout(init, 100);\r\n            return;  \r\n        }\r\n        var adsize1=[];\r\n        if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n            adsize1.push([300,250]);\r\n            adsize1.push([300,300]);\r\n        }\r\n        if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n            adsize1.push([336,280]);\r\n        }\r\n        if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n            adsize1.push([468,60]);\r\n        }\r\n        if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n            adsize1.push([540,90]);\r\n            adsize1.push([540,300]);\r\n        }\r\n        if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n            adsize1.push([728,90]);\r\n        }\r\n        if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n            adsize1.push([800,250]);\r\n            adsize1.push([813,280]);\r\n        }\r\n       /* if (window.matchMedia(\"(min-width: 970px)\").matches) {\r\n            adsize1.push([970,90]);\r\n            adsize1.push([970,250]);\r\n        }*/\r\n        document.getElementById(adslotid).parentElement.style.width=\"100%\";\r\n        document.getElementById(adslotid).parentElement.style.margin=\"15px 0px\";\r\n    \r\n        googletag.cmd.push(function() {\r\n        slot_cad1 = googletag.defineSlot(adslot,adsize1,adslotid).setCollapseEmptyDiv(true).addService(googletag.pubads());\r\n        googletag.cmd.push(function() {googletag.display(adslotid)});\r\n       // googletag.pubads().refresh([slot_cad1]);\r\n\r\n        });\r\n    };\r\n    init();\r\n    function adref() {\r\n        googletag.pubads().refresh([slot_cad1]);\r\n    }\r\n//window.setTimeout(adref,30000);\r\n//window.setTimeout(adref,60000);\r\n//window.setTimeout(adref,90000);\r\n</script>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<script>\r\n    var slot_cad1;\r\n    function init() {\r\n        var adslotname = \"rp-online.de/mobil_banner_5\";\r\n        var adslot = \"/1017380/\"+adslotname;\r\n        var adslotid = \"div-gptrpd_\"+adslotname;\r\n        if(!document.getElementById(adslotid)){\r\n            document.write('<div id=\"'+adslotid+'\"></div>');\r\n        }\r\n        if(!window.SDG) {\r\n            window.setTimeout(init, 100);\r\n            return;  \r\n        }\r\n        var adsize1=[[300, 250], [300, 100], [300, 50], [320, 100], [300, 600], [320, 50]];\r\n        googletag.cmd.push(function() {\r\n        slot_cad1 = googletag.defineSlot(adslot,adsize1,adslotid).setCollapseEmptyDiv(true).addService(googletag.pubads());\r\n        googletag.cmd.push(function() {googletag.display(adslotid)});\r\n        // googletag.pubads().refresh([slot_cad1]);\r\n        });\r\n    };\r\n    init();\r\n\r\n</script>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die Grünen sprachen sich für eine gesetzliche Quote aus. „100 Jahre nach Einführung des Frauenwahlrechts ist ein solcher Schritt überfällig - von selbst steigt der Frauenanteil im Parlament offensichtlich nicht“, kritisierten Parteichefin Annalena Baerbock und die frauenpolitische Sprecherin Gesine Agena. Die Grünen haben strikte Regeln zur Förderung von Frauen und setzen in Partei und Fraktion auf Doppelspitzen mit mindestens einer Frau. Von den 67 Grünen-Abgeordneten im Bundestag sind 39 Frauen.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Giffey kritisierte auch die Zusammensetzung deutscher Unternehmensvorstände: Sie seien immer noch zu 94 Prozent mit Männern besetzt. Dies müsse sich ändern. Auch Wirtschaftsminister Peter Altmaier (CDU) bezeichnete die gleichberechtigte Teilhabe von Frauen als Daueraufgabe.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Im Kanzleramt dagegen seien inzwischen vier von acht Mitarbeitern im Rang eines Abteilungsleiters Frauen, sagte Merkel. „Darauf bin ich ein bisschen stolz.“</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Dass viele Deutschland nur wegen ihr als Musterland in Sachen Gleichberechtigung darstellten, möge sie dagegen nicht. „Eine Schwalbe macht noch keinen Sommer“, sagte Merkel. „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden.“</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/deutschland/angela-merkel-aus-der-tatsache-dass-es-mich-gibt-darf-kein-alibi-werden_aid-34436107\" data-widget-id=\"AR_10\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/politik/deutschland/angela-merkel-aus-der-tatsache-dass-es-mich-gibt-darf-kein-alibi-werden_aid-34436107\" data-widget-id=\"AR_10\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_CAD_4__Z_MB_6\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_72dfb9ff63ba0826df254f8724064df2/w250_h140_x470_y264_84a5fae62314eb03.jpg",
+                          "400w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_9dcd205b96398269f29e61443f75ae5f/w400_h224_x470_y264_84a5fae62314eb03.jpg",
+                          "600w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_e5bb805ace843e304aef93c9ac17a9e3/w600_h336_x470_y264_84a5fae62314eb03.jpg",
+                          "900w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_bec054f04ec6940d8907ed4f8bc2a1b1/w900_h504_x470_y264_84a5fae62314eb03.jpg",
+                          "950w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/1/9/7/4/5/2/2/1/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg"
+                        },
+                        "alt": "",
+                        "href": "/nrw/panorama/katholikentag-2018-in-muenster-angela-merkel-kommt_aid-16875637",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Zum Katholikentag"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Bundeskanzlerin Angela Merkel kommt nach Münster"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_98e3f326cd78f48bff354bbef253e9b3/w250_h140_x310_y232_fb28526beb38daf1.jpg",
+                          "400w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_894203da51767dff3b3aa22efb62cdfd/w400_h224_x310_y232_fb28526beb38daf1.jpg",
+                          "600w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_067c7190d800408cb624ce7b78e0aa1c/w600_h336_x310_y232_fb28526beb38daf1.jpg",
+                          "900w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_b587defdafad0062ef55451d5f94d332/w620_h465_x310_y232_fb28526beb38daf1.jpg",
+                          "950w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_b587defdafad0062ef55451d5f94d332/w620_h465_x310_y232_fb28526beb38daf1.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_b587defdafad0062ef55451d5f94d332/w620_h465_x310_y232_fb28526beb38daf1.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/1/9/2/6/2/7/7/5/tok_b587defdafad0062ef55451d5f94d332/w620_h465_x310_y232_fb28526beb38daf1.jpg"
+                        },
+                        "alt": "",
+                        "href": "/politik/deutschland/angela-merkel-zum-vierten-mal-zur-bundeskanzlerin-2018-gewaehlt_aid-16446317",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Knappe Mehrheit"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Angela Merkel zum vierten Mal zur Kanzlerin gewählt"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_72dfb9ff63ba0826df254f8724064df2/w250_h140_x470_y264_84a5fae62314eb03.jpg",
+                          "400w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_9dcd205b96398269f29e61443f75ae5f/w400_h224_x470_y264_84a5fae62314eb03.jpg",
+                          "600w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_e5bb805ace843e304aef93c9ac17a9e3/w600_h336_x470_y264_84a5fae62314eb03.jpg",
+                          "900w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_bec054f04ec6940d8907ed4f8bc2a1b1/w900_h504_x470_y264_84a5fae62314eb03.jpg",
+                          "950w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/1/9/2/6/7/0/7/9/tok_10b829db8578f8a98e70cc1d9ba035b3/w940_h528_x470_y264_84a5fae62314eb03.jpg"
+                        },
+                        "alt": "",
+                        "href": "/politik/deutschland/regierungserklaerung-angela-merkel-das-sind-die-ziele-der-bundeskanzlerin_aid-16450037",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Regierungserklärung im Bundestag"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Angela Merkel räumt Fehler ein"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 16437675,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_cd0bb36b2110a835b195cd3e04cdb59c/w250_h187_x470_y264_9130def119cf4933.jpg",
+                                "400w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_36d896da1fe372ea1095a60fca99413f/w400_h300_x470_y264_9130def119cf4933.jpg",
+                                "600w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_303960e45956c006103502fd8c5179f1/w600_h450_x470_y264_9130def119cf4933.jpg",
+                                "900w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_4729676d51e320ac9ea43e7bebc7392e/w900_h528_x470_y264_9130def119cf4933.jpg",
+                                "950w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_af358bdd759073ba02fbf92089cd6e81/w940_h528_x470_y264_9130def119cf4933.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_af358bdd759073ba02fbf92089cd6e81/w940_h528_x470_y264_9130def119cf4933.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/1/9/2/5/4/0/3/7/tok_af358bdd759073ba02fbf92089cd6e81/w940_h528_x470_y264_9130def119cf4933.jpg"
+                              },
+                              "alt": "",
+                              "href": "/panorama/fernsehen/maischberger-angela-merkel-ist-nur-eine-brillante-problembeschreiberin_aid-16437675",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "TV-Nachlese \"Maischberger\""
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Angela Merkel, die \"Problembeschreiberin\""
+                              }
+                            },
+                            {
+                              "id": 16749041,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_46a9bf8f97cde4f880b23894d84879f5/w250_h187_x470_y264_79881eaf54654616.jpg",
+                                "400w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_ef59addb35b852310917bc65cfaeecb1/w400_h300_x470_y264_79881eaf54654616.jpg",
+                                "600w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_a9260ca24ee90b35ae47619b2fe3b360/w600_h450_x470_y264_79881eaf54654616.jpg",
+                                "900w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_739fe595725b37c3a1f972b5d8353f45/w900_h528_x470_y264_79881eaf54654616.jpg",
+                                "950w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_b0319eaf04fa14f0de2af0a3ff0819bd/w940_h528_x470_y264_79881eaf54654616.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_b0319eaf04fa14f0de2af0a3ff0819bd/w940_h528_x470_y264_79881eaf54654616.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/1/9/6/0/1/2/5/5/tok_b0319eaf04fa14f0de2af0a3ff0819bd/w940_h528_x470_y264_79881eaf54654616.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/geldern/stadtgespraech/straelen-schueler-erleben-die-regierungserklaerung-der-bundeskanzlerin-angela-merkel-im-bundestag_aid-16749041",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geldern"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Straelen Schüler erleben die Regierungserklärung der Bundeskanzlerin Angela Merkel im Bundestag"
+                              }
+                            },
+                            {
+                              "id": 23462867,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_5ed255d35bec8e9741dd0b1a36f5aa0f/w250_h187_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "400w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_ae995cfcd59d5597f29c86e6428a1586/w400_h300_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "600w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_81861b025a6b3d07f8049761113f70be/w600_h450_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "900w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_9929ba98c0670e5df4e1c6a39ee49586/w900_h675_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "950w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_206133e3c59d65e63aac7146a2d8830a/w950_h712_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "1200w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_92298175417e4df2183a3519577c9553/w1200_h900_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG",
+                                "1900w": "https://rp-online.de/imgs/32/2/7/8/3/1/9/7/5/tok_1913e3089e418f3a236f358fbad7b090/w1900_h1425_x1750_y1157_RTR_2018-06-16T104659Z_853813701_RC1DB5AF1AA0_RTRMADP_3_EUROPE-MIGRANTS-GERMANY-cfcbb77575037d94.JPG"
+                              },
+                              "alt": "Die Kontrahenten im Asylstreit: Angela Merkel",
+                              "href": "/politik/deutschland/asylstreit-angela-merkel-kaempft-um-ihre-kanzlerschaft_aid-23462867",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Regierungskrise durch Asylstreit"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Angela Merkel kämpft um ihre Kanzlerschaft"
+                              }
+                            },
+                            {
+                              "id": 34431671,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_42b3634fec7a3b7ab8c0381b3d7f8667/w250_h187_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_724c17e61fe66dbe703a6590eb4fc299/w400_h300_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_1b98f89c1ac770125c9d53efed396b83/w600_h450_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_43866f0cc5bb91b349fc657aadad0ce8/w900_h675_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_506d16f59c9d310bf5c311699878a2c6/w950_h712_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_085dd3c033a4538fbe283d398a455ff3/w1200_h900_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_ceb340b31ebaf3d1fe73a6e7f15a8d03/w1900_h1425_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/alice-weidel-afd-schliesst-persoenliche-konsequenzen-wegen-parteispenden-affaere-aus_aid-34431671",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Parteispenden-Affäre bei der AfD"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Alice Weidel sieht keinen Grund für persönliche Konsequenzen"
+                              }
+                            },
+                            {
+                              "id": 34427081,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_bf8c507abe4b3bbc84a06f29389a06f9/w250_h187_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_c16655ed5070242a59c954d9f5ebec17/w400_h300_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_b5a66fb777c05cf1f14304008b80f62b/w600_h450_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_81fd09d557ab9428c6978b54f9b9b360/w900_h675_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_de737da924e105930a289a9fcd1db8a8/w950_h712_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_9835b7487cee5b0a41327dd0ec634be9/w1200_h900_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_8a7a81388fc3591d6bc5af5df416badf/w1900_h1425_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg"
+                              },
+                              "alt": "Moderatorin Anne Will führt durch den",
+                              "href": "/politik/deutschland/andrea-nahles-weist-bei-anne-will-forderungen-nach-ruecktritt-zurueck_aid-34427081",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "„Anne Will“ am Sonntagabend"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Nahles weist Rücktrittsforderungen zurück"
+                              }
+                            },
+                            {
+                              "id": 34433527,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_6fdf6f8cb1767e08570ad10f354c5f65/w250_h187_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_6b84bdff8140fa8e3872a8bb54fdbb23/w400_h300_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_a56e97450553135961e5743de960bc5c/w600_h450_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_5e0a8ae9fcf3076cc7b24a1c1d8a5aec/w900_h675_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_95de64fc12a01a2888024e660f217b2c/w950_h712_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_12176e4c5cb2c40d1267d7dce06a668e/w1200_h900_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_471fa6f4749aefd00ba0f71692c96819/w1900_h1425_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg"
+                              },
+                              "alt": "Seehofer am Montag bei einem Termin",
+                              "href": "/politik/deutschland/horst-seehofer-kuendigt-seinen-ruecktritt-als-csu-chef-an-will-aber-innenminister-bleiben_aid-34433527",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rücktritt als CSU-Chef bestätigt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Horst Seehofer will Innenminister bleiben"
+                              }
+                            },
+                            {
+                              "id": 34431857,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_29a756c5add26261d0c442b725f23f4a/w250_h187_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_cf97f384c2f730b2387276c22d8887ea/w400_h300_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_442a1f36b223b930a5260c6155b754c9/w600_h450_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_c3145b17c4fd083e5e5e1a4b494191fc/w900_h675_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_ee34336a230fb3accd33443c713d486c/w950_h712_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_b510ab351a166b0c5930aa8aa14bbf2f/w1200_h900_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_6f390c1dd69bd39d54e04b125cbbabc1/w1900_h1425_x1665_y712_180803-1-1-fc2fc639f1254658.jpg"
+                              },
+                              "alt": "Konstantin Kuhle (Archiv).",
+                              "href": "/politik/deutschland/nach-rueckzug-von-horst-seehofer-fdp-fordert-umbau-des-innenministeriums_aid-34431857",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nack Rückzug Seehofers"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "FDP fordert Umbau des Innenministeriums"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 34431671,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_42b3634fec7a3b7ab8c0381b3d7f8667/w250_h187_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_724c17e61fe66dbe703a6590eb4fc299/w400_h300_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_1b98f89c1ac770125c9d53efed396b83/w600_h450_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_43866f0cc5bb91b349fc657aadad0ce8/w900_h675_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_506d16f59c9d310bf5c311699878a2c6/w950_h712_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_085dd3c033a4538fbe283d398a455ff3/w1200_h900_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/3/3/8/1/7/tok_ceb340b31ebaf3d1fe73a6e7f15a8d03/w1900_h1425_x1500_y1000_20170906_bfunk_dpa_14964C00A727CB1A-7aa7c330f60e5eb0.jpg"
+                              },
+                              "alt": "",
+                              "href": "/politik/deutschland/alice-weidel-afd-schliesst-persoenliche-konsequenzen-wegen-parteispenden-affaere-aus_aid-34431671",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Parteispenden-Affäre bei der AfD"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Alice Weidel sieht keinen Grund für persönliche Konsequenzen"
+                              }
+                            },
+                            {
+                              "id": 34427081,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_bf8c507abe4b3bbc84a06f29389a06f9/w250_h187_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_c16655ed5070242a59c954d9f5ebec17/w400_h300_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_b5a66fb777c05cf1f14304008b80f62b/w600_h450_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_81fd09d557ab9428c6978b54f9b9b360/w900_h675_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_de737da924e105930a289a9fcd1db8a8/w950_h712_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_9835b7487cee5b0a41327dd0ec634be9/w1200_h900_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/2/5/2/7/5/tok_8a7a81388fc3591d6bc5af5df416badf/w1900_h1425_x2889_y1891_AFP_fAFP_1AL1G1-4c2f08e96500da6a.jpg"
+                              },
+                              "alt": "Moderatorin Anne Will führt durch den",
+                              "href": "/politik/deutschland/andrea-nahles-weist-bei-anne-will-forderungen-nach-ruecktritt-zurueck_aid-34427081",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "„Anne Will“ am Sonntagabend"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Nahles weist Rücktrittsforderungen zurück"
+                              }
+                            },
+                            {
+                              "id": 34433527,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_6fdf6f8cb1767e08570ad10f354c5f65/w250_h187_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_6b84bdff8140fa8e3872a8bb54fdbb23/w400_h300_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_a56e97450553135961e5743de960bc5c/w600_h450_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_5e0a8ae9fcf3076cc7b24a1c1d8a5aec/w900_h675_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_95de64fc12a01a2888024e660f217b2c/w950_h712_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_12176e4c5cb2c40d1267d7dce06a668e/w1200_h900_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/4/1/0/3/9/tok_471fa6f4749aefd00ba0f71692c96819/w1900_h1425_x1310_y1258_DPA_bfunk_dpa_5F9AD800C658C575-e5f104df415932bb.jpg"
+                              },
+                              "alt": "Seehofer am Montag bei einem Termin",
+                              "href": "/politik/deutschland/horst-seehofer-kuendigt-seinen-ruecktritt-als-csu-chef-an-will-aber-innenminister-bleiben_aid-34433527",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rücktritt als CSU-Chef bestätigt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Horst Seehofer will Innenminister bleiben"
+                              }
+                            },
+                            {
+                              "id": 34392203,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_8e7d4a5d57e6f35ce46d09c1299f07bf/w250_h187_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_8dc2c0b67ee795ff994be7d61766b488/w400_h300_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_9e781a31ac5c650cbd3955aa21a6f95b/w600_h450_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_085723c73e24aab1cb5cf62640f3f8cd/w900_h675_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_925582a4f2ca1473360bfcefcbc91501/w950_h712_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_f43fd090d028d0c49f06a88da86806fa/w1095_h900_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/1/9/2/9/3/3/3/tok_66e4670e212fa883b94d119f902ec61e/w1095_h1200_x593_y495_RP_41655223_890960611_RGB_190_1_1_0bcfcb19abf1cc26122d7fddfba26f63_1541693298_890960611_427dfaa87a-0e5950908cc60773.jpg"
+                              },
+                              "alt": "Bishop Eugenio Pacelli, the future Pope",
+                              "href": "/politik/deutschland/weimarer-republik/eugenio-pacelli-und-die-muenchner-raeterepublik_aid-34392203",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Zeitzeuge Eugenio Pacelli"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die Münchner Räterepublik"
+                              }
+                            },
+                            {
+                              "id": 34432765,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_8ceaff55d31d67392988e42ef018eb75/w250_h187_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_53e4d6092eab4152fc1b0a28ee0d2b0c/w400_h300_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_4e81f584222ffe2bd91261907a168472/w600_h450_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_0a9475bfda6c3039ea7558ff668af00c/w900_h675_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_10b1f8bc8157897e47a40061f6499b97/w950_h712_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_a1ccfda7eafc3db3a299dbcd448763fe/w1200_h900_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/3/7/8/1/5/tok_8c0de8527a52537c626afb6eb431b68e/w1795_h1354_x897_y677_DPA_bfunk_dpa_5F9AD80011091F16-37cf470ad83e2d71.jpg"
+                              },
+                              "alt": "Thomas Haldenwang (Archivbild).",
+                              "href": "/politik/deutschland/thomas-haldenwang-wird-neuer-chef-des-verfassungsschutzes_aid-34432765",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Maaßen-Nachfolge"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Haldenwang wird neuer Verfassungsschutz-Chef "
+                              }
+                            },
+                            {
+                              "id": 34431857,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_29a756c5add26261d0c442b725f23f4a/w250_h187_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_cf97f384c2f730b2387276c22d8887ea/w400_h300_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_442a1f36b223b930a5260c6155b754c9/w600_h450_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_c3145b17c4fd083e5e5e1a4b494191fc/w900_h675_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_ee34336a230fb3accd33443c713d486c/w950_h712_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_b510ab351a166b0c5930aa8aa14bbf2f/w1200_h900_x1665_y712_180803-1-1-fc2fc639f1254658.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/3/4/4/1/1/tok_6f390c1dd69bd39d54e04b125cbbabc1/w1900_h1425_x1665_y712_180803-1-1-fc2fc639f1254658.jpg"
+                              },
+                              "alt": "Konstantin Kuhle (Archiv).",
+                              "href": "/politik/deutschland/nach-rueckzug-von-horst-seehofer-fdp-fordert-umbau-des-innenministeriums_aid-34431857",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nack Rückzug Seehofers"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "FDP fordert Umbau des Innenministeriums"
+                              }
+                            },
+                            {
+                              "id": 34424099,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_3bfdcb10c9b0f8c25c393adb42a0f202/w250_h187_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_d364d55d9ed348a9627de9faa0bdcf63/w400_h300_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_f7b6fbca8b927b5143e63565f90471cc/w600_h450_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_a9cdd82a5c269b3d2e257fb9fd46f7bd/w900_h675_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_5416559819f347c8c457e9338ee67f9b/w950_h712_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_790b128e0b99b83e0293e2ecb2c1d23f/w1200_h900_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/1/7/9/4/7/tok_9a6e95c95e484005a3d5ace7ca568084/w1900_h1425_x1757_y1056_54785440-7ba72bc0c5cd25c0.jpg"
+                              },
+                              "alt": "Der Hauptgeschäftsführer des Städte- und Gemeindebundes",
+                              "href": "/politik/deutschland/grundsteuer-reform-staedte-und-gemeindebund-schlaegt-alarm_aid-34424099",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Städtebund dringt auf Grundsteuerreform"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "„In vielen Städten und Gemeinden werden die Lichter ausgehen“\n "
+                              }
+                            },
+                            {
+                              "id": 34429175,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_c657c74ed9c2cf4ce10e7741f85ca8c7/w250_h187_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_af3ccbc9a550725b65f5613beb5eeea4/w400_h300_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_3840e1a2f54738edd52811fa3deb63b4/w600_h450_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_4465167412e87d1095dd2c2c16eea44e/w900_h675_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_6acf9b9a1e296ede9ab7bd0a8b591e3d/w950_h712_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_041c4e8f1bae70ce8c9ad32bb631eb37/w1200_h900_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/2/7/8/6/3/tok_0eaf41c57da3ca4dfeac87c6cc02e2f1/w1900_h1425_x921_y591_AP_329AD800512A549F-8d90028690bc127e.jpg"
+                              },
+                              "alt": "Horst Seehofer",
+                              "href": "/politik/deutschland/angekuendigter-ruecktritt-horst-seehofer-seehofert-bis-zum-schluss_aid-34429175",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Angekündigter Rücktritt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Seehofer seehofert bis zum Schluss"
+                              }
+                            },
+                            {
+                              "id": 34427835,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_6b96d21fabd9500f1620083c2212e929/w250_h187_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_6d748351f8302f89a396fecce53fdfa9/w400_h300_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_a2b884731e12a338739c7fe57547a29a/w600_h450_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_932845b4ff7f3a3e4df5e517cf6a561a/w900_h675_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_abde2a09b826418638fe0f2f1db01c3c/w950_h712_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_75832fa274e34c7f4fbd74b52e22edd6/w1200_h900_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/2/6/0/2/9/tok_64164e68cf17c35adf0d63384fe323b6/w1900_h1425_x1500_y1056_DPA_bfunk_dpa_5F9AD80008DB5841-3c892f1ce4b6fc2e.jpg"
+                              },
+                              "alt": "Horst Seehofer (Archivbild) zieht sich vom",
+                              "href": "/politik/deutschland/katrin-goering-eckardt-fordert-horst-seehofer-zu-sofortigem-ruecktritt-als-innenminister-auf_aid-34427835",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rückzug vom Amt des CSU-Vorsitzenden"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Göring-Eckardt fordert Seehofer zu sofortigem Rücktritt als Innenminister auf"
+                              }
+                            },
+                            {
+                              "id": 34421061,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_c56ce094b9f3c226cbe731b2f415ee67/w250_h187_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_2d77b0f6e2e9269fa560f80e3a4b9fc7/w400_h300_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_fbe066b09f1b97d47aaa366ffd42170d/w600_h450_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_414c76b0bdd3ebe2926cc76fa699ee63/w900_h675_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_662c3118f40c4484da11cf83e5b2a006/w950_h712_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_f30889979354e7ce145dcfa9a984b069/w1200_h900_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/2/0/0/7/8/3/9/tok_7dc25a7072ad7f912fab75c76d348536/w1900_h1425_x1206_y770_DPA_bfunk_dpa_5F9AC40039F826C2-de9eab10f9568297.jpg"
+                              },
+                              "alt": "Könnte wegen einer Spende aus der",
+                              "href": "/politik/deutschland/alice-weidel-afd-nahm-bericht-zufolge-illegale-grossspende-an_aid-34421061",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "130.000 Euro aus der Schweiz"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "AfD nahm Bericht zufolge illegale Großspende an"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Angela Merkel: „Aus der Tatsache, dass es mich gibt, darf kein Alibi werden“"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Hitzefrei für die Community. Wir aktualisieren derzeit unser System. Deswegen können für ein paar Stunden keine Kommentare eingereicht werden."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 42053263,
+                      "url": "/api/comments?beitrag_id=42053263",
+                      "counturl": "/api/comments?type=count&beitrag_id=42053263"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank"
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": ""
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=navigation&currentNode=64987"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": ""
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": ""
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": ""
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": ""
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": ""
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": ""
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": ""
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Deutschland",
+              "href": "/politik/deutschland/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "News aus Berlin",
+                  "href": "/politik/deutschland/berlin/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Bundestagswahl",
+                  "href": "/politik/deutschland/bundestagswahl/",
+                  "target": "_self",
+                  "children": []
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kolumnen",
+                  "href": "/politik/deutschland/kolumnen/",
+                  "target": "_self",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "EU-Politik",
+              "href": "/politik/eu/",
+              "target": "_self",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Europawahl",
+                  "href": "/politik/eu/europawahl/",
+                  "target": "_self"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Unser Europa",
+                  "href": "/politik/eu/unser-europa/",
+                  "target": "_self"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Ausland",
+              "href": "/politik/ausland/",
+              "target": "_self",
+              "children": []
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

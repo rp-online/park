@@ -1,0 +1,38 @@
+<figure class="park-third-party-activator"
+     data-name="{% if name is defined and name %}{{ name }}{% else %}other{% endif %}">
+  {% if src is defined and src %}
+    {% include 'components/image/template.twig' with {
+      'src': src,
+      'config': config
+    } only %}
+  {% endif %}
+  {% set label %}Ich bin damit einverstanden, dass mir
+    {% if name is defined and name %}
+      Inhalte von {{ name }}
+    {% else %}
+      externe Inhalte
+    {% endif %}
+    angezeigt werden.
+  {% endset %}
+  <xmp class="park-third-party-activator__content">
+    {% if children is defined and children is iterable %}
+      {% for child in children %}
+        {% set data = child.data|merge({'config': config}) %}
+        {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+      {% endfor %}
+    {% endif %}
+  </xmp>
+  <figcaption class="park-third-party-activator__optin">
+    {% include 'components/input/template.twig' with {
+      'type': 'checkbox',
+      'name': 'optin',
+      'label': label
+    } %}
+  </figcaption>
+  <figcaption class="park-third-party-activator__caption">
+    Dieses Element enthält {% if name is defined and name %} Daten von {{ name }}{% else %} externe Daten{% endif %}. Sie können die Einbettung solcher Inhalte auf unserer {% if config.dataPrivacyPage is defined and config.dataPrivacyPage %}<a href="{{ config.dataPrivacyPage }}">Datenschutzseite</a>{% else %}Datenschutzseite{% endif %} blockieren
+  </figcaption>
+  <noscript class="park-third-party-activator__fallback">
+      An dieser Stelle befinden sich externe Inhalte{% if name is defined and name %} von {{ name }}{% endif %}, die ohne JavaScript nicht funktionieren.
+  </noscript>
+</figure>

@@ -1,0 +1,56 @@
+.park-searchform {
+  position: relative;
+  display: block;
+
+  .park-input {
+    display: block;
+    margin: 0;
+    padding: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 0;
+
+    &__input {
+      padding: rem(10px) rem(8px) rem(10px) rem(50px);
+      background-color: transparent;
+      border: none;
+
+      &::-webkit-input-placeholder {
+        opacity: 0.5;
+        color: inherit;
+      }
+    }
+  }
+
+  &__reset,
+  &__submit {
+    position: absolute;
+    overflow: hidden;
+    width: 0;
+    height: 0;
+    padding: 0;
+    color: transparent;
+    border: 0;
+    clip: rect(0, 0, 0, 0); // stylelint-disable-line plugin/no-unsupported-browser-features
+    clip-path: inset(50%); // stylelint-disable-line plugin/no-unsupported-browser-features
+    font-size: 0;
+    white-space: nowrap;
+  }
+
+  .park-input--is-filled + &__reset {
+    position: absolute;
+    top: 50%;
+    right: rem(10px);
+    width: rem(30px);
+    height: rem(30px);
+    margin: 0;
+    background-color: transparent;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100' x='0' y='0'%3E%3Cpath d='M27.37 27.37a32 32 0 1 0 45.25 0 32 32 0 0 0-45.25 0zm35.36 29.7l-5.66 5.66L50 55.66l-7.07 7.07-5.66-5.66L44.34 50l-7.07-7.07 5.66-5.66L50 44.34l7.07-7.07 5.66 5.66L55.66 50z' fill='%23adadad'/%3E%3C/svg%3E");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    transform: translateY(-50%);
+    clip: auto;
+    clip-path: none;
+  }
+}

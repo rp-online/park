@@ -1,0 +1,29 @@
+<div class="park-pager-previous-next">{% if previous is defined or next is defined %}
+    <nav class="park-pager-previous-next__nav">
+      <ul class="park-pager-previous-next__list">
+        {% if previous is defined %}
+          <li class="park-pager-previous-next__item park-pager-previous-next__item--previous">
+            {% set link = previous|merge({
+            'rel': 'prev',
+            'class': 'chevron-left',
+            'config': config
+            }) %}
+            {% include 'components/button/template.twig' with link only %}
+          </li>
+        {% endif %}
+        {% if next is defined %}
+          <li class="park-pager-previous-next__item park-pager-previous-next__item--next">
+            {% set link = next|merge({
+            'rel': 'next',
+            'class': 'chevron-right',
+            'config': config
+            }) %}
+            {% include 'components/button/template.twig' with link only %}
+          </li>
+        {% endif %}
+      </ul>
+      {% if pages is defined %}
+        <aside class="park-pager-previous-next__pages">Seite {{ pages.current }} von {{ pages.total }}</aside>
+      {% endif %}
+    </nav>
+  {% endif %}</div>

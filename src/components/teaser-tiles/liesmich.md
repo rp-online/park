@@ -1,0 +1,1 @@
+Die Teaser-Tiles-Komponente dient dazu, bildlastige Beiträge des Typs `image` oder `video` prominent anzuteasern. Statt als Liste, wie in der [Teaser-Collection](#teaser-collection) werden Sie als Kacheln ausgegeben.

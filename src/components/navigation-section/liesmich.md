@@ -1,0 +1,1 @@
+Die Navigations-Sektionen sind die Teilbereiche der Hauptnavigation die überhalb oder unterhalb des eigentlichen Menübaums stehen und bieten Platz für besonders hervorhebendswerte Links - seien es Services oder Angebote.

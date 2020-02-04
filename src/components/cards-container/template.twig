@@ -1,0 +1,23 @@
+<article class="park-cards-container">
+  {% if headline is defined %}
+    <header class="park-slider__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <ul class="park-cards-container__items">
+    {% for item in items %}
+      <li class="park-cards-container__item park-cards-container__item--{{ item.type }}">
+        {# The following injects the global config #}
+        {% set item = item|merge({'config': config}) %}
+        {% if config.advertorial is defined and config.advertorial is same as(true) %}
+          {% set item = item|merge({
+          'isAd': true
+          }) %}
+        {% endif %}
+        {% include 'components/card-' ~ item.type ~ '/template.twig' with item only %}
+      </li>
+    {% endfor %}
+  </ul>
+</article>

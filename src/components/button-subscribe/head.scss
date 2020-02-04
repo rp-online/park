@@ -1,0 +1,89 @@
+.park-button-subscribe.park-button-subscribe.park-button-subscribe {
+  overflow: visible;
+  background-color: hsl(45, 0%, 50%);
+  transition-property: background-color;
+  transition-duration: 0.3s;
+
+  &:hover {
+    background-color: hsl(45, 0%, 55%);
+  }
+
+  &::after {
+    content: '';
+    position: absolute;
+    backface-visibility: hidden;
+  }
+
+  &:not(.park-button-subscribe--is-compact) {
+    overflow: hidden;
+  }
+
+  &.park-button-subscribe--is-compact {
+    @extend %icon-bell-turned-off-white;
+
+    width: rem(50px);
+    height: rem(50px);
+    background-size: rem(19px) rem(20px);
+    border-radius: 50%;
+    font-size: 0;
+  }
+
+  &.was-just-toggled {
+    .user-is-authenticated & {
+      z-index: 1;
+      overflow: visible;
+      opacity: 1 !important;
+
+      &::after {
+        content: '';
+        position: absolute;
+        z-index: -1;
+        top: 50%;
+        left: 50%;
+        width: rem(100px);
+        height: rem(100px);
+        box-sizing: border-box;
+        background: lighten($global-brand-color, 35);
+        color: transparentize($global-brand-color, 1);
+        border: solid rem(50px) $global-brand-color;
+        border-radius: 50%;
+        animation-name: park-bubble;
+        animation-duration: 1.25s;
+        animation-timing-function: cubic-bezier(0.21, 0.61, 0.35, 1);
+        animation-fill-mode: both;
+
+        .park-portal-marker &,
+        .is-advertorial & {
+          background: lighten($global-advertisement-color, 35);
+          color: transparentize($global-advertisement-color, 1);
+          border: solid rem(50px) $global-advertisement-color;
+        }
+      }
+    }
+  }
+
+  &.is-subscribed {
+    background-color: $global-brand-color;
+
+    [class$="--sugardaddy"] &,
+    .park-portal-marker &,
+    .is-advertorial & {
+      background-color: $global-advertisement-color;
+    }
+
+    &:hover {
+      background-color: $global-brand-color;
+      filter: brightness(1.1);
+
+      [class$="--sugardaddy"] &,
+      .park-portal-marker &,
+      .is-advertorial & {
+        background-color: $global-advertisement-color;
+      }
+    }
+
+    &.park-button-subscribe--is-compact {
+      @extend %icon-bell-white;
+    }
+  }
+}

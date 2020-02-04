@@ -1,0 +1,1 @@
+Dies ist die Eilmeldungskomponente. Die Meldung kann wahlweise nur mit ihrer Überschrift, oder aber mit Überschrift und Kicker angeteasert werden. In Gebrauch ist derzeit nur die Variante ohne Kicker.

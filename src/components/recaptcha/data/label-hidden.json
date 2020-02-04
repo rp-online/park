@@ -1,0 +1,6 @@
+{
+  "name": "message",
+  "label": "Name",
+  "labelHidden": true,
+  "placeholder": "Ihre Nachricht"
+}

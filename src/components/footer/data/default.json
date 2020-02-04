@@ -1,0 +1,328 @@
+{
+  "navigation": {
+    "header": [
+      {
+        "headline": {
+          "tag": "strong",
+          "text": "Überschrift"
+        },
+        "items": [
+          {
+            "text": "Anzeige aufgeben",
+            "href": "#void",
+            "rel": [
+              "nofollow"
+            ]
+          },
+          {
+            "text": "RP Trauer",
+            "href": "#void",
+            "target": "blank",
+            "rel": [
+              "nofollow",
+              "noopener"
+            ]
+          },
+          {
+            "text": "RP ePaper",
+            "href": "#void",
+            "target": "blank"
+          },
+          {
+            "text": "RP Forum",
+            "href": "#void"
+          }
+        ]
+      }
+    ],
+    "main": [
+      {
+        "icon": "./assets/images/sprite.navigation.svg#stadtauswahl",
+        "text": "Städte",
+        "href": "#void",
+        "isCurrent": true
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#nrw",
+        "text": "NRW",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#politik",
+        "text": "Politik",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#wirtschaft",
+        "text": "Wirtschaft",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#weitere-sportarten",
+        "text": "Sport",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#kultur",
+        "text": "Kultur",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#panorama",
+        "text": "Panorama",
+        "href": "#void"
+      },
+      {
+        "isAd": true,
+        "icon": "./assets/images/sprite.navigation.svg#digitales",
+        "text": "Digital",
+        "href": "#void"
+      },
+      {
+        "icon": "./assets/images/sprite.navigation.svg#video",
+        "text": "aktuelles Video",
+        "href": "./video.html"
+      }
+    ],
+    "footer": [
+      {
+        "headline": {
+          "tag": "strong",
+          "text": "Services"
+        },
+        "items": [
+          {
+            "text": "Kontakt zur Redaktion",
+            "href": "#void"
+          },
+          {
+            "text": "WhatsApp-Newsletter bestellen",
+            "href": "#void"
+          },
+          {
+            "text": "Newsletter abonnieren",
+            "href": "#void"
+          },
+          {
+            "text": "Podcast abonnieren",
+            "href": "#void"
+          }
+        ]
+      },
+      {
+        "headline": {
+          "tag": "strong",
+          "text": "Weitere Angebote"
+        },
+        "items": [
+          {
+            "text": "Schlagzeilen",
+            "href": "#void"
+          },
+          {
+            "text": "Digitale Prospekte",
+            "href": "#void"
+          },
+          {
+            "text": "Spiele",
+            "href": "#void"
+          },
+          {
+            "text": "RP Digital Services",
+            "href": "#void"
+          },
+          {
+            "text": "Tonight",
+            "href": "#void"
+          },
+          {
+            "text": "de",
+            "href": "#void"
+          },
+          {
+            "text": "Kalaydo",
+            "href": "#void"
+          },
+          {
+            "text": "FuPa",
+            "href": "#void"
+          },
+          {
+            "text": "Zeitungsarchiv",
+            "href": "#void"
+          },
+          {
+            "text": "Westticket",
+            "href": "#void"
+          },
+          {
+            "text": "RP Shop",
+            "href": "#void"
+          },
+          {
+            "text": "Expertenzeit",
+            "href": "#void"
+          },
+          {
+            "text": "RP Reise",
+            "href": "#void"
+          },
+          {
+            "text": "Premiumcard",
+            "href": "#void"
+          },
+          {
+            "text": "Texthelden",
+            "href": "#void"
+          },
+          {
+            "text": "RP-Lesertour",
+            "href": "#void"
+          },
+          {
+            "text": "Termine",
+            "href": "#void"
+          },
+          {
+            "text": "Bürgermonitor",
+            "href": "#void"
+          }
+        ]
+      }
+    ],
+    "ajax": {
+      "url": "/assets/ajax/navigation/prerendered.html"
+    }
+  },
+  "headlinesTag": "h2",
+  "main": {
+    "links": [
+      {
+        "text": "Impressum",
+        "href": "#void",
+        "target": "_blank"
+      },
+      {
+        "text": "Kontakt",
+        "href": "https://google.com"
+      },
+      {
+        "text": "Datenschutz",
+        "href": "#void"
+      },
+      {
+        "text": "AGB",
+        "href": "#void"
+      }
+    ]
+  },
+  "social": {
+    "links": [
+      {
+        "icon": "facebook",
+        "text": "facebook.com/rponline",
+        "href": "https://facebook.com/rponline"
+      },
+      {
+        "icon": "twitter",
+        "text": "@rponline",
+        "href": "https://twitter.com/rponline"
+      }
+    ]
+  },
+  "newsletter": {
+    "action": "#void",
+    "headline": "Die Stimme des Westens",
+    "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion.",
+    "placeholder": "E-Mail Adresse",
+    "button": "Newsletter bestellen",
+    "showform": "1",
+    "inputname": "email"
+  },
+  "services": {
+    "headline": "Services",
+    "links": [
+      {
+        "text": "Digitale Prospekte",
+        "href": "#void"
+      },
+      {
+        "text": "Handy Tarife",
+        "href": "#void"
+      },
+      {
+        "text": "Strom Rechner",
+        "href": "#void"
+      },
+      {
+        "text": "Gas Rechner",
+        "href": "#void"
+      },
+      {
+        "text": "Mercedes Benz",
+        "href": "#void"
+      },
+      {
+        "text": "Schwarzwald",
+        "href": "#void"
+      },
+      {
+        "text": "Pausenspiele",
+        "href": "#void"
+      },
+      {
+        "text": "RP Apps",
+        "href": "#void"
+      },
+      {
+        "text": "Newsletter",
+        "href": "#void"
+      },
+      {
+        "text": "RSS Feed",
+        "href": "#void"
+      },
+      {
+        "text": "Themen",
+        "href": "#void"
+      },
+      {
+        "text": "Sitemap",
+        "href": "#void"
+      },
+      {
+        "text": "Archiv",
+        "href": "#void"
+      }
+    ]
+  },
+  "publisher": {
+    "headline": "Verlag",
+    "logo": {
+      "src": "rp-logo",
+      "href": "#void",
+      "alt": "RP Online"
+    },
+    "links": [
+      {
+        "text": "Pressemitteilungen",
+        "href": "#void"
+      },
+      {
+        "text": "Karriere",
+        "href": "#void"
+      },
+      {
+        "text": "Kundenservice",
+        "href": "#void"
+      }
+    ]
+  },
+  "endnote": "&copy; RP Digital | Alle Rechte vorbehalten.",
+  "poweredBy": {
+    "text": "Content Management by InterRed",
+    "href": "https://www.interred.de/",
+    "target": "_blank",
+    "rel": []
+  }
+}

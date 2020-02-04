@@ -1,0 +1,8 @@
+{
+  "ad": {
+    "mobile": {
+      "type": "mobile-banner",
+      "html": "<img src=\"https://placehold.it/320x50\">"
+    }
+  }
+}

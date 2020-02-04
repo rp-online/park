@@ -1,0 +1,12 @@
+{
+  "mobile": {
+    "type": "content",
+    "html": "<img src=\"https://placehold.it/300x250\">",
+    "lazy": true
+  },
+  "desktop": {
+    "type": "billboard",
+    "html": "<div id=\"billboard\"><script>googletag.cmd.push(function() { googletag.display('billboard'); });</script></div>",
+    "lazy": true
+  }
+}

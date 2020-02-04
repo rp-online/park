@@ -1,0 +1,29 @@
+<script type="text/javascript">
+  //GERACM-2924
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var style = document.createElement('style');
+    style.textContent = '.park-embed-image .park-image.park-image { clip: auto }';
+    document.head.appendChild(style);
+  });
+
+  // Livereporting
+  // Fix: GERACM-5161
+  document.addEventListener('DOMContentLoaded', function() {
+    if (
+      !window.dataLayer ||
+      !dataLayer.length ||
+      (!dataLayer[0].rho_url && !dataLayer[0].rhoUrl)
+    ) {
+      return;
+    }
+
+    var rhoUrl = dataLayer[0].rho_url || dataLayer[0].rhoUrl;
+    rhoUrl = eval("'" + rhoUrl.replace(/^'/, ''));
+
+    try {
+      var xhttp = new XMLHttpRequest();
+      xhttp.open('GET', rhoUrl);
+      xhttp.send();
+    } catch(e) {}
+  });
+</script>

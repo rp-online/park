@@ -1,0 +1,29 @@
+@keyframes park-component-preview-flash {
+  from {
+    box-shadow: 0 0 0 0 $global-brand-color;
+  }
+
+  50% {
+    box-shadow: 0 0 10px 4px $global-brand-color;
+  }
+
+  to {
+    box-shadow: 0 0 0 0 $global-brand-color;
+  }
+}
+
+.park-component-preview {
+  .park-iframe {
+    width: 100%;
+    transition: width 600ms;
+
+    .user-is-authenticated & {
+      animation-name: park-component-preview-flash;
+      animation-duration: 1s;
+    }
+  }
+
+  &--simulate-mobile .park-iframe {
+    width: rem(360px);
+  }
+}

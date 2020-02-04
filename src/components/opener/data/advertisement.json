@@ -1,0 +1,14 @@
+{
+  "isAd": true,
+  "href": "#void",
+  "src": "https://placebear.com/g/450/600",
+  "backgroundColor": "rgba(122,122,122,1);",
+  "kicker": {
+    "tag": "h1",
+    "text": "Formatkrieg"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Wie Hochkantbilder unser Leben zerstören"
+  }
+}

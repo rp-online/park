@@ -1,0 +1,96 @@
+{
+  "logo": {
+    "tag": "h1",
+    "text": "Rheinische Post Online",
+    "href": "./"
+  },
+  "quicklinks": [
+    {
+      "text": "NRW",
+      "href": "./"
+    },
+    {
+      "text": "Politik",
+      "href": "./"
+    },
+    {
+      "text": "Wirtschaft",
+      "href": "./",
+      "target": "_blank"
+    },
+    {
+      "text": "Sport",
+      "href": "./"
+    },
+    {
+      "text": "Kultur",
+      "href": "./"
+    },
+    {
+      "text": "Panorama",
+      "href": "./"
+    },
+    {
+      "text": "Leben",
+      "href": "./"
+    },
+    {
+      "text": "Digital",
+      "href": "./"
+    }
+  ],
+  "salesCta": {
+    "disabled": true,
+    "text": "Abonnement",
+    "icon": "./assets/images/sprite.navigation.svg#zeitung",
+    "href": "./"
+  },
+  "search": {
+    "action": "./suche.html",
+    "label": "Suchbegriff eingeben"
+  },
+  "usermenu": {
+    "disabled": true,
+    "text": "Anmelden",
+    "href": "#settings",
+    "items": [
+      {
+        "href": "./merkliste.html",
+        "text": "Meine Merkliste"
+      },
+      {
+        "href": "./persoenlicher-bereich.html",
+        "text": "Einstellungen"
+      },
+      {
+        "href": "./profil-bearbeiten.html",
+        "text": "Meine Daten"
+      }
+    ],
+    "login": {
+      "href": "javascript:window.park.user.login()",
+      "text": "Anmelden"
+    },
+    "logout": {
+      "href": "javascript:window.park.user.logout()",
+      "text": "Abmelden"
+    }
+  },
+  "mainmenu": {
+    "disabled": true,
+    "text": "Menü"
+  },
+  "snackbars": [
+    {
+      "component": "snackbar-cookies",
+      "data": {
+        "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+        "link": {
+          "href": "./",
+          "text": "Mehr Informationen"
+        },
+        "closeButton": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "image",
+  "src": "./assets/images/panorama.jpg",
+  "alt": "Ein brutal süßes Kätzchen",
+  "href": "#void",
+  "kicker": {
+    "tag": "h2",
+    "text": "Rheinkirmes 2016"
+  },
+  "headline": {
+    "tag": "span",
+    "text": "Das war die RTL-Show \"Die Kirmeskönige\""
+  }
+}

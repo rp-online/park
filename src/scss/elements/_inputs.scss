@@ -1,0 +1,19 @@
+input {
+  @include global-font-family-sans-serif;
+
+  font-size: rem(16px);
+}
+
+input:focus {
+  box-shadow: none;
+}
+
+input::-moz-focus-inner {
+  padding: 0;
+  border: 0;
+}
+
+input[type=password]::-ms-reveal,
+input[type=password]::-ms-clear {
+  display: none;
+}

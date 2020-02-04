@@ -1,0 +1,1 @@
+Diese Komponente stellt die Adsense-Einblendung innerhalb der Suchergebnisse dar.

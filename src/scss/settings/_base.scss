@@ -1,0 +1,18 @@
+$global-container-width: rem(980px);
+$global-spacing: rem(15px);
+$article-spacing: rem(96px);
+$header-navbar-height-mobile: rem(58px);
+$header-navbar-height-desktop: rem(58px);
+$header-navbar-wrapper-height: rem(58px);
+$header-navbar-wrapper-item-width: rem(58px);
+$header-is-extended: false;
+$header-offer-height-mobile: rem(114px);
+$header-offer-height-desktop: rem(58px);
+$header-logo-height: rem(34px);
+
+$fullscreenSelectors: (
+  '-webkit-full-screen',
+  '-moz-full-screen',
+  '-ms-fullscreen',
+  'fullscreen',
+);

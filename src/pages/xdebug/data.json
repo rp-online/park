@@ -1,0 +1,1283 @@
+{
+  "title": "Media-Sync: Neuer Artikel Neuer Artikel",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "bookmarksPage": "/sso/bookmarks",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "Media-Sync: Neuer Artikel Neuer Artikel",
+    "url": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576",
+    "client": "general-anzeiger-bonn",
+    "paywallType": ""
+  },
+  "config": {
+    "version": "1566213174",
+    "container_id": 37343576,
+    "beitrag_id": 48873351,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind."
+      },
+      {
+        "name": "author",
+        "content": "Peter Blochwitz"
+      },
+      {
+        "name": "keywords",
+        "content": ""
+      },
+      {
+        "name": "news_keywords",
+        "content": ""
+      },
+      {
+        "property": "og:title",
+        "content": "Media-Sync: Neuer Artikel Neuer Artikel"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": ""
+      },
+      {
+        "property": "og:url",
+        "content": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      },
+      {
+        "property": "og:description",
+        "content": "Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1cb2e2dcbed27c22e5aae20cca3f368e/w1200_h630_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@gabonn"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "22751175"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Media-Sync: Neuer Artikel Neuer Artikel"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1cb2e2dcbed27c22e5aae20cca3f368e/w1200_h630_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg"
+      }
+    ],
+    "display_video_kicker": "0",
+    "dataLayer": {
+      "ressort": "bonn",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "Artikel",
+      "analyticsUrl": "/bonn/neuer-artikel-neuer-artikel_aid-37343576",
+      "author": "Peter Blochwitz",
+      "date": "2019-08-01T14:38:00+0200",
+      "datePublished": "2019-08-01 14:38",
+      "dateModified": "2019-08-08 08:32",
+      "daysSincePublication": "+17 days",
+      "origin": "4",
+      "seo": "/bonn/neuer-artikel-neuer-artikel_aid-37343576",
+      "rhoUrl": "//r.general-anzeiger-bonn.de/images/pic.gif?m=ga_ga&b=48873351&cstr=37343576&l=2845&tit=Neuer+Artikel+Neuer+Artikel&url=https%3A%2F%2Fwww-int.general-anzeiger-bonn.de%2Fbonn%2Fneuer-artikel-neuer-artikel_aid-37343576&sep=%7C&tce=1&tid=265570&tn=263809&tp=263809&tpn=263809&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "ga_ga",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "bonn",
+      "secondaryLevel": "",
+      "contentGroup": "",
+      "interredBID": 48873351,
+      "interredCID": 37343576,
+      "title": "Neuer Artikel Neuer Artikel",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "",
+      "googleMaps": "ga_ga_AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Hinweis%20auf%20einen%20interessanten%20Artikel%3A%20Borussia%20holt%20Ginter%20f%C3%BCr%2017%20Millionen%20Euro",
+        "body": "Hallo%2C%0A%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%0A%0A---------------------------------------------%0ANeuer Artikel Neuer Artikel%0A---------------------------------------------%0A%0A%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%20%0A%0Ahttps://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576%2F%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0A%0A%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "",
+      "related": ""
+    },
+    "links": [
+      {
+        "rel": "canonical",
+        "href": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/bonn/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "???????",
+        "cp": "GA-GA-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      },
+      "mobile": {
+        "st": "???????",
+        "cp": "GA-GA-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      }
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-int.general-anzeiger-bonn.de/bonn/neuer-artikel-neuer-artikel_aid-37343576"
+      },
+      "headline": "Media-Sync: Neuer Artikel Neuer Artikel",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_6300a86a443130eebfb1b92e8e7e916c/w950_h526_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-08-01T14:38:00+0200",
+      "dateModified": "2019-08-08T08:32:38+0200",
+      "author": {
+        "@type": "Person",
+        "name": "Peter Blochwitz"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "",
+          "width": "",
+          "height": ""
+        }
+      },
+      "description": "Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind.",
+      "isAccessibleForFree": "True"
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "targeting": {
+          "type": "artikel",
+          "cid": "37343576",
+          "pfad1": "bonn",
+          "pfad2": "stop",
+          "mode": "desktop",
+          "zone": ""
+        },
+        "keyValues": {
+          "type": "artikel",
+          "cid": "37343576",
+          "pfad1": "bonn",
+          "pfad2": "stop",
+          "oms": "",
+          "mode": "desktop"
+        }
+      },
+      "mobile": {
+        "targeting": {
+          "type": "artikel",
+          "cid": "37343576",
+          "pfad1": "bonn",
+          "pfad2": "stop",
+          "mode": "mobile",
+          "zone": ""
+        },
+        "keyValues": {
+          "type": "artikel",
+          "cid": "37343576",
+          "pfad1": "bonn",
+          "pfad2": "stop",
+          "oms": "",
+          "mode": "mobile"
+        }
+      },
+      "reloadFrequency": ""
+    },
+    "preload": [],
+    "adblocker": {
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "????????",
+      "welectIntegrationId": "????????"
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "General-Anzeiger Bonn",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "Bonn",
+        "href": "/bonn/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Region",
+        "href": "/region/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "News",
+        "href": "/news/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Freizeit",
+        "href": "/freizeit/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Ratgeber",
+        "href": "/ratgeber/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wetter",
+        "href": "/wetter/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "GA English",
+        "href": "/ga-english/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "",
+          "href": ""
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "",
+          "link": {
+            "href": "",
+            "text": "",
+            "target": "",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": [],
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Media-Sync: Neuer Artikel Neuer Artikel"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-int.general-anzeiger-bonn.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Bonn",
+                        "href": "https://www-int.general-anzeiger-bonn.de/bonn/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Neuer Artikel Neuer Artikel"
+                    },
+                    "id": 37343576,
+                    "kicker": {
+                      "text": "Media-Sync"
+                    },
+                    "timestamp": "1564663080",
+                    "contentLabel": [],
+                    "cover": {
+                      "src": {
+                        "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_376df140c3f4eff41a2d7a313a5df71e/w250_h138_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_cc7f3c1a6f65772e4e31e9e2a23e97a3/w400_h221_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_8ccb8fa4b63f8d5ad77ea9523cbae9a3/w600_h332_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_b50cce1424591655b8beecd85ea4a6b0/w900_h498_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_6300a86a443130eebfb1b92e8e7e916c/w950_h526_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_90de8ae20d12d788087a8d100f73c3b3/w1200_h664_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                        "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_3c2a01f7f1a8eaeaf4fc694a410b0e41/w1900_h1052_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg"
+                      },
+                      "src_zoom": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_280b97871082ac1fe75bafe2dabc8b94/w1900_h1264_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                      "src_fit": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_67b3649f4811af525ac44ad766a47de3/w790_h526_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                      "alt": "Media-Sync: Neuer Artikel Neuer Artikel",
+                      "caption": " Gläsernes Labor. ",
+                      "source": {
+                        "text": "obs/Peter Himsel"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_280b97871082ac1fe75bafe2dabc8b94/w1900_h1264_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Bonn",
+                    "intro": "Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind.",
+                    "sign": "",
+                    "fragmentCount": 3,
+                    "authorsbox": {
+                      "text": "Von Peter Blochwitz"
+                    },
+                    "ads": {
+                      "author": []
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind. In einem weiteren Gastbeitrag kommentiert Friedhelm Frischenschlager die Performance des neuen Verteidigungsministers.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind. In einem weiteren Gastbeitrag kommentiert Friedhelm Frischenschlager die Performance des neuen Verteidigungsministers.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Im Gastkommentar erläutert der ehemalige Diplomat und Kreisky-Sekretär Thomas Nowotny, warum die Wirkungsmöglichkeiten des Nicht-Nato-Mitglieds Österreich beschränkt sind und Überschallabfangjäger bestenfalls eine Beschäftigungstherapie sind. In einem weiteren Gastbeitrag kommentiert Friedhelm Frischenschlager die Performance des neuen Verteidigungsministers.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "slider",
+                              "data": {
+                                "items": [
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Peter Himsel"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_157b650a766de05420221c32b994ba4b/w788_h458_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Silvia Marks"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1ba25b5b61b257ea7413898562e19d06/w788_h458_x1500_y1000_DPA_tmnbd_dpa_5F9DCA0076279E2C-ca501269a717d338.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_067f6a96b8db62266930d6088beb23d7/w788_h458_x960_y640_castle-505878_1920-64c2a9e7e930bca0.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Ich"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_532a2fdcd293b673fee13db80a45fae3/w788_h458_x443_y360_wood-2628286_960_720-9254b7ab04e23557.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_e29c8a3b68ec0b9bf48d2d6dd9e7cbd9/w788_h458_x960_y640_europe-4272297_1920-6299be211f588042.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1bf12ee371a9070d5eb5f847430d82ff/w788_h458_x640_y426_flyboard-3593272_1280-96142b8b83fd2d00.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_d00edbcf9924934736ca2668b3993a02/w788_h458_x960_y640_new-years-eve-1789147_1920-7fde2766bcac6dea.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Christin Klose"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_a0117c237f480930332d28d0dde521b6/w788_h458_x1500_y1000_DPA_tmnbd_dpa_5F9DD80073A0645D-5dd8d812c904dd99.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Rolf Vennenbernd"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_bb667d77d727f19ccae9ae57469157f1/w788_h458_x1500_y1000_DPA_bfunk_dpa_5F9DD600B626FA12-35292d1851cd7108.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Rolf Vennenbernd"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_aca46140eefdcd4822b8a804f00b99c5/w788_h458_x1500_y1000_DPA_bfunk_dpa_5F9DD600286C574B-aba2b386bb414ae0.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Peter Himsel"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_157b650a766de05420221c32b994ba4b/w788_h458_x1500_y998_DPA_obsbd_dpa_5F9DD200ACB3B21D-e389f90644aea3d0.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Silvia Marks"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1ba25b5b61b257ea7413898562e19d06/w788_h458_x1500_y1000_DPA_tmnbd_dpa_5F9DCA0076279E2C-ca501269a717d338.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_067f6a96b8db62266930d6088beb23d7/w788_h458_x960_y640_castle-505878_1920-64c2a9e7e930bca0.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Ich"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_532a2fdcd293b673fee13db80a45fae3/w788_h458_x443_y360_wood-2628286_960_720-9254b7ab04e23557.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_e29c8a3b68ec0b9bf48d2d6dd9e7cbd9/w788_h458_x960_y640_europe-4272297_1920-6299be211f588042.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_1bf12ee371a9070d5eb5f847430d82ff/w788_h458_x640_y426_flyboard-3593272_1280-96142b8b83fd2d00.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Pixabay"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_d00edbcf9924934736ca2668b3993a02/w788_h458_x960_y640_new-years-eve-1789147_1920-7fde2766bcac6dea.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Christin Klose"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_a0117c237f480930332d28d0dde521b6/w788_h458_x1500_y1000_DPA_tmnbd_dpa_5F9DD80073A0645D-5dd8d812c904dd99.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Rolf Vennenbernd"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_bb667d77d727f19ccae9ae57469157f1/w788_h458_x1500_y1000_DPA_bfunk_dpa_5F9DD600B626FA12-35292d1851cd7108.jpg",
+                                    "alt": ""
+                                  },
+                                  {
+                                    "type": "image",
+                                    "href": "javascript:void(0)",
+                                    "kicker": {
+                                      "tag": "span",
+                                      "text": " FOTO: Rolf Vennenbernd"
+                                    },
+                                    "headline": {
+                                      "tag": "span",
+                                      "text": ""
+                                    },
+                                    "src": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/1/tok_aca46140eefdcd4822b8a804f00b99c5/w788_h458_x1500_y1000_DPA_bfunk_dpa_5F9DD600286C574B-aba2b386bb414ae0.jpg",
+                                    "alt": ""
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": ""
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": ""
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von "
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_d4941a60e4e5f15b767b92b81ab70d41/w250_h140_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_4e2a7beb30f720099ba369d6946bf165/w400_h224_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_441c2eb0c9e4cf2fb480540bb36e180f/w600_h336_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_cb992df6ce9828fe82a0045f1b256b70/w900_h504_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_88cb60f178bc6d30e3c4b3f66e8806dc/w950_h532_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_0b53ec2ff8e966c12383850ed8d58a6f/w1200_h672_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg",
+                          "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/2/tok_dc724d29c86ccf6d48666b0749a688a4/w1900_h1064_x1266_y930_DPA_bfunk_dpa_5F9DD800A891229A-8e97b2ebbdce873b.jpg"
+                        },
+                        "alt": "Alte Menschen müssen viel Bier trinken.",
+                        "href": "/ratgeber/fit-und-gesund/studie-gluecklich-auch-im-alter_aid-37362281",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Neue Studie"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "In diesem Alter sind wir am glücklichsten"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_9328ae17d3a72865927d109e70db9d7b/w250_h140_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_e5730060b8f4dff9a5a1f8e779bf9f1a/w400_h224_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_fdd653b1db84e107539d4773d0043a04/w600_h336_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_7a34934c372dd6514c6d9c9f3409deda/w900_h504_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_1693aa09a183fdf9252d0e3249b5840e/w950_h532_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_b9eedd5624c23eac6bfd14411e7c8246/w1200_h672_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg",
+                          "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/2/6/tok_de077084416910659ca078a65b91bc00/w1900_h1064_x1452_y1015_DPA_bfunk_dpa_5F9DD800C5F40A6E-1d4ef7f57895c952.jpg"
+                        },
+                        "alt": "Schwimmen: Wasserspringen, Ein-Meter-Brett der Frauen, Qualifikation.",
+                        "href": "/sport/untersuchung-im-sport-wird-nicht-mehr-gedopt_aid-37362285",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Wo soll das hinführen"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Im Wassersport wird nicht mehr gedopt und gespritzt"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_0ba2e566ef0fedecb7e3a4560b79eea0/w250_h140_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_d5ae9e360fba2104af6071bfe89f52db/w400_h224_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_daea8059eb924ad0304b3f57a64622dc/w600_h336_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_ef9bf77b4c2df158b2c69402f45a022c/w900_h504_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_bebaed870b66d4586b6571949e8781f7/w950_h532_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_18a22581275097aeb9e9c17bf54abc2c/w1200_h672_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                          "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_efad16eeb29986cc96320a3f57a4e7c8/w1900_h1064_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg"
+                        },
+                        "alt": "TEST Start mit Muskelkraft: 20 Mann",
+                        "href": "/bonn/test-online-kleines-budget-grosse-siege-jumbo-visma-verzueckt-die-tour_aid-37339634",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Martin-Team"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "TEST ONLINE - Kleines Budget, große Siege: Jumbo-Visma verzückt die Tour"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "tab-container",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "prefix": "Mehr zu ",
+                      "text": "Media-Sync: Neuer Artikel Neuer Artikel"
+                    },
+                    "type": "teaser-image-list-item",
+                    "blocks": [
+                      {
+                        "title": "Aus dem Ressort",
+                        "items": [
+                          {
+                            "id": 37364615,
+                            "type": "article",
+                            "href": "/bonn/sxxsxsxs_aid-37364615",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "xwxwxwxwxwxwwx"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "sxxsxsxs"
+                            }
+                          },
+                          {
+                            "id": 37364609,
+                            "type": "article",
+                            "href": "/bonn/xwxwwxwxwxw_aid-37364609",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "xwxw"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "xwxwwxwxwxw"
+                            }
+                          },
+                          {
+                            "id": 37364607,
+                            "type": "article",
+                            "href": "/bonn/themenplanung-externen-link-berliner-buero-optimieren-und-reaktivieren_aid-37364607",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "sxxssxxs"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Themenplanung: Externen Link Berliner Büro optimieren und reaktivieren"
+                            }
+                          },
+                          {
+                            "id": 37364567,
+                            "type": "article",
+                            "href": "/bonn/aeliux-pxiuj-koejx-oekjwx-oelkjxw-loekj-k_aid-37364567",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "sxxssxsxsx"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "äliux pxiuj köjx ökjwx ölkjxw lökj k"
+                            }
+                          },
+                          {
+                            "id": 37364513,
+                            "type": "article",
+                            "href": "/bonn/slack-doppelte-nachrichten-rausfiltern_aid-37364513",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Slack | Doppelte Nachrichten rausfiltern"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Slack | Doppelte Nachrichten rausfiltern"
+                            }
+                          },
+                          {
+                            "id": 37364470,
+                            "type": "article",
+                            "href": "/bonn/oejhx-oeljx-klxoej-lxoekjx-oelkjx-oelkjx-jkxoe-klxoej-xoe_aid-37364470",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "öjhx öljx klxöj lxökjx ölkjx ölkjx jkxö klxöj xö"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "öjhx öljx klxöj lxökjx ölkjx ölkjx jkxö klxöj xö"
+                            }
+                          },
+                          {
+                            "id": 37362277,
+                            "type": "article",
+                            "src": {
+                              "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/1/8/tok_0300320fe85312e1019e6127ed817b1e/w250_h187_x200_y150_794787-1-c95cdedda0e33f18.jpg",
+                              "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/8/8/4/1/8/tok_ed243aed362c5cbff4e938d6c1864d6f/w400_h300_x200_y150_794787-1-c95cdedda0e33f18.jpg"
+                            },
+                            "alt": "Hier wird noch gehackt wie bei",
+                            "href": "/news/hier-gibt-s-das-beste-hackfleisch_aid-37362277",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Sponsored Content"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Bestes Hack in Bonn"
+                            }
+                          },
+                          {
+                            "id": 37343601,
+                            "type": "article",
+                            "src": {
+                              "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/7/6/tok_a7e32a7e22aa24051dfaafeb9c16fd4d/w250_h187_x310_y232_Golfplatz_Sankt_Augustin_-_1-89e441585f8d83d4.jpg",
+                              "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/7/6/tok_9d9ef78a4ec4d23dbd1748605287a14e/w400_h300_x310_y232_Golfplatz_Sankt_Augustin_-_1-89e441585f8d83d4.jpg",
+                              "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/7/6/tok_8ea2c9a9181ec1ab8ac00d002610e17d/w600_h450_x310_y232_Golfplatz_Sankt_Augustin_-_1-89e441585f8d83d4.jpg"
+                            },
+                            "alt": "",
+                            "href": "/bonn/test-golfplatz-hat-bauauflagen-nicht-erfuellt_aid-37343601",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Der Golf Course Sankt Augustin/Bonn"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "TEST Golfplatz hat Bauauflagen nicht erfüllt"
+                            }
+                          },
+                          {
+                            "id": 37343579,
+                            "type": "article",
+                            "src": {
+                              "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_0dc637983a669980e5479fd302cca4a4/w250_h187_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_18542e979d43dd55cb39c430d8a265de/w400_h300_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_d9e7b29db1daaa9917f3b8c8e46310de/w600_h450_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_664d62686b950ef8db2f51229f3f1472/w900_h675_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_d3b6cbc82cb7b7c730d8868979bcc76a/w950_h712_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_1ed7a7af84d7deefcb1106e14df15cbb/w1200_h900_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg",
+                              "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/7/3/3/5/4/tok_2c54e6f86861cc7e038e96ff37d2f5dc/w1900_h1425_x1500_y986_DPA_bfunk_dpa_5F9DC6001799D54D-c133786d2b3ca84b.jpg"
+                            },
+                            "alt": "Sonja Daroszewski versucht im Wasser wieder",
+                            "href": "/bonn/bonn-pferde-frau-gesichtet_aid-37343579",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Ungewöhnliche Fähigkeit"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "Frau läuft und springt wie ein Pferd"
+                            }
+                          },
+                          {
+                            "id": 37339634,
+                            "type": "article",
+                            "src": {
+                              "250w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_c853b668abf20e8ef1e5b901ae1a337d/w250_h187_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "400w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_1bdd7f7cd06810dafe976ac9d22c0e23/w400_h300_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "600w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_f74e7213e1d2e4b18709306c376dd96b/w600_h450_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_18da084f949fc4ff3acad92a29c4c8a8/w900_h675_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "950w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_26dbe3a0e48a2f5e9676a1080151a068/w950_h712_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "1200w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_af3cf1b655d4489efe1183e70b8e5b40/w1200_h900_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg",
+                              "1900w": "https://www-int.general-anzeiger-bonn.de/imgs/93/4/8/8/6/9/1/0/4/tok_239a8102ac782b554b10afc6fec2284a/w1900_h1365_x1024_y682_flugplatzfest_eudenbach-03519b9dd8dfae3b.jpeg"
+                            },
+                            "alt": "TEST Start mit Muskelkraft: 20 Mann",
+                            "href": "/bonn/test-online-kleines-budget-grosse-siege-jumbo-visma-verzueckt-die-tour_aid-37339634",
+                            "kicker": {
+                              "tag": "span",
+                              "text": "Martin-Team"
+                            },
+                            "headline": {
+                              "tag": "span",
+                              "text": "TEST ONLINE - Kleines Budget, große Siege: Jumbo-Visma verzückt die Tour"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Media-Sync: Neuer Artikel Neuer Artikel"
+                    },
+                    "success": {
+                      "headline": "",
+                      "text": ""
+                    },
+                    "error": {
+                      "headline": "",
+                      "text": ""
+                    },
+                    "closed": {
+                      "headline": "",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "",
+                      "text": ""
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": ""
+                    },
+                    "discussion": {
+                      "id": 48873351,
+                      "url": "/api/comments?beitrag_id=48873351",
+                      "counturl": "/api/comments?type=count&beitrag_id=48873351"
+                    },
+                    "terms": {
+                      "href": ""
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": []
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "de-de.facebook.com/gaonline/",
+          "href": "https://de-de.facebook.com/gaonline/"
+        },
+        {
+          "icon": "twitter",
+          "text": "@gabonn",
+          "href": "https://twitter.com/gabonn"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "https://www.general-anzeiger-bonn.de/newsletter/?widgetName=newsletter&widgetContentId=3144174&widgetView=subscribeBox_action",
+      "headline": "Newsletter-Abo",
+      "body": "Bestellen Sie hier unseren täglichen Newsletter",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": []
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": []
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=html&currentNode=265570"
+      },
+      "header": [
+        {
+          "items": []
+        }
+      ],
+      "footer": [],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Bonn",
+              "href": "/bonn/",
+              "featured": false
+            },
+            {
+              "text": "Region",
+              "href": "/region/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "Bonn",
+          "href": "/bonn/",
+          "target": "_self",
+          "children": []
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Region",
+          "href": "/region/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "News",
+          "href": "/news/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Freizeit",
+          "href": "/freizeit/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Ratgeber",
+          "href": "/ratgeber/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wetter",
+          "href": "/wetter/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Verkehr",
+          "href": "/verkehr/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "GA-Erlebniswelt",
+          "href": "/ga-erlebniswelt/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Meinung",
+          "href": "/meinung/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Bilder",
+          "href": "/bilder/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Verlag",
+          "href": "/verlag/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "GA English",
+          "href": "/ga-english/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": ""
+  }
+}

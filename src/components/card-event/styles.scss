@@ -1,0 +1,57 @@
+.park-card-event {
+  @include card-status-styles;
+
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  height: rem(180px);
+  padding: 1rem;
+  background-color: #fff;
+  color: $global-color-text-black;
+  outline: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08), 1px 1px 2px 0 rgba(0, 0, 0, 0.17);
+
+  &__maininfo {
+    flex: 1 0 90%;
+  }
+
+  &__headline {
+    @include global-sans-serif-font-size(2);
+
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__categories {
+    flex: 0 0 10%;
+  }
+
+  &__dates,
+  &__address,
+  &__distance {
+    @include global-sans-serif-font_size(3);
+
+    align-self: flex-end;
+  }
+
+  &__dates {
+    display: block;
+    flex: 1 0 100%;
+    color: $global-dark-grey;
+  }
+
+  &__address {
+    flex: 1;
+  }
+
+  &__distance {
+    flex: 0 0 5rem;
+    text-align: right;
+  }
+
+  &__category-image {
+    width: 1.2rem;
+    vertical-align: middle;
+  }
+}

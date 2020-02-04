@@ -1,0 +1,21 @@
+<a href="{{ href }}" class="park-card-weather">
+  <{{ headline.tag }} class="park-card-weather__headline">{{ headline.text }}</{{ headline.tag }}>
+<dl class="park-card-weather__temps">
+  <dt class="park-card-weather__temp-day-label">Temperatur am Tag:</dt>
+  <dd class="park-card-weather__temp-day-value" title="{{ temps.day }} Grad Celsius">{{ temps.day }}°C</dd>
+  <dt class="park-card-weather__temp-night-label">Temperatur in der Nacht:</dt>
+  <dd class="park-card-weather__temp-night-value" title="{{ temps.night }} Grad Celsius">{{ temps.night }}°C</dd>
+</dl>
+<figure role="group" class="park-card-weather__figure">
+  <div class="park-card-weather__wrapper">
+    {% include 'components/image/template.twig' with {
+    'src': src,
+    'alt': alt,
+    'width': 145,
+    'height': 120,
+    'fit': 'contain',
+    'config': config} %}
+  </div>
+  <figcaption class="park-card-weather__caption">{{ caption }}</figcaption>
+</figure>
+</a>

@@ -1,0 +1,24 @@
+<article class="park-components-browser">
+  <nav class="park-components-browser__navigation">
+    {% set config = config|merge({ 'isWidget': true }) %}
+    {% set navigation = navigation|merge({ 'config': config }) %}
+    {% include 'components/navigation/template.twig' with navigation only %}
+  </nav>
+  <div class="park-components-browser__content">
+    <header class="park-components-browser__intro" tabindex="0">
+      {% if readme is defined and readme %}
+        {% include 'components/markdown/template.twig' with {
+          'text': readme,
+          'config': config} only %}
+      {% endif %}
+    </header>
+    <ul class="park-components-browser__components">
+      {% for component in components %}
+        <li id="{{ component.name }}" class="park-components-browser__component">
+          {% set component = component|merge({ 'config': config }) %}
+          {% include 'components/component-documentation/template.twig' with component only %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</article>

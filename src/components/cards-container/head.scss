@@ -1,0 +1,35 @@
+.park-cards-container {
+  padding: 1px 0;
+  background-color: $global-light-grey;
+
+  &__items {
+    padding: 0 rem(7.5px);
+
+    @include mq(desktop) {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-items: flex-start;
+    }
+  }
+
+  &__item {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    margin-bottom: $global-spacing;
+    vertical-align: middle;
+    filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.17));
+
+    @include mq(desktop) {
+      flex: 0 0 auto;
+      min-width: 0;
+      width: calc((100% / 3) - #{rem(15px)});
+      margin: 0 rem(7.5px) $global-spacing rem(7.5px);
+    }
+
+    &--narrow {
+      height: rem(52px);
+    }
+  }
+}

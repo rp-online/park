@@ -1,0 +1,96 @@
+<div>
+  <section class="park-login"
+    {% if (oauth_clientid is defined and oauth_clientid is not same as(false)) %}
+      {% set oauth_data %}
+        { "oauth_clientid" : "{{ oauth_clientid }}",
+        "oauth_state" : "{{ oauth_state }}",
+        "oauth_scope" : "{{ oauth_scope }}",
+        "oauth_redirect_uri" : "{{ oauth_redirect_uri }}"}
+      {% endset %}
+      data-oauth="{{oauth_data|escape('html')}}"
+    {%  endif %}
+    >
+
+    {% set hint = '<a href="' ~ passwordResetURL ~ '">Passwort vergessen?</a>' %}
+    {% set children = [
+        {
+          'component': 'input',
+          'data': {
+            'name': 'username',
+            'value': username,
+            'autocomplete': 'nickname',
+            'label': 'Benutzername/E-Mail-Adresse',
+            'required': true,
+            'validationMessage': username_message
+          }
+        },
+        {
+          'component': 'input',
+          'data': {
+            'type': 'password',
+            'name': 'password',
+            'value': password,
+            'autocomplete': 'current-password',
+            'label': 'Passwort',
+            'required': true,
+            'hint': hint,
+            'validationMessage': password_message
+          }
+        },
+        {
+          'component': 'input',
+          'data': {
+            'type': 'checkbox',
+            'name': 'stay_logged_in',
+            'value': 'yes',
+            'checked': stay_logged_in,
+            'label': 'angemeldet bleiben'
+          }
+        }
+      ] %}
+      {% if recaptchaSitekey is defined and recaptchaSitekey is not empty  %}
+        {% set children = children|merge([
+          {
+              'component': 'recaptcha',
+                'data': {
+                  'name': 'captcha-response',
+                  'sitekey': recaptchaSitekey,
+                  'type': 'invisible'
+                }
+          }
+        ]) %}
+      {% endif %}
+      {% set form = {
+        'notification': notification,
+        'vertical': true,
+        'action': action,
+        'method': 'post',
+        'headline': {
+          'tag': 'h1',
+          'text': 'Anmelden'
+        },
+        'submit': 'anmelden',
+        'children': children,
+        'config': config
+      } %}
+
+    {% include 'components/form/template.twig' with form only %}
+
+    <aside class="park-login__aside">Noch nicht registriert? <a href="{{ registrationURL }}">Hier registrieren</a>.
+    </aside>
+  </section>
+  {% if (googleLoginURL is defined and googleLoginURL is not same as(false)) %}
+  <section  class="park-login">
+    {% include 'components/spacer/template.twig' with {
+    'label': 'Alternativen',
+    } %}
+    {% include 'components/button/template.twig' with {
+    'config': config,
+    'class': 'google',
+    'style': 'google',
+    'href': googleLoginURL,
+    'text': 'mit Google anmelden'
+    } %}
+  </section>
+  {%  endif %}
+</div>

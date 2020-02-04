@@ -1,0 +1,27 @@
+.park-video-list-item {
+  @extend %teaser-hover;
+
+  display: block;
+  overflow: hidden;
+
+  &__image {
+    @extend %indicator-video;
+
+    width: rem(140px);
+    height: rem(78px);
+    margin-right: rem(7px);
+    float: left;
+  }
+
+  .park-image {
+    width: 100%;
+    height: 100%;
+  }
+
+  &__headline {
+    @include global-font-family-sans-serif;
+    @include global-sans-serif-font-size(2);
+
+    color: $global-color-text-black;
+  }
+}

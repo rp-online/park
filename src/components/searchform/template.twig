@@ -1,0 +1,49 @@
+{% set uuid = random() %}
+{% if form is not defined %}
+  {% set form = true %}
+{% endif %}
+{% if action is not defined %}
+  {% set action = '.' %}
+{% endif %}
+{% if method is not defined %}
+  {% set method = 'get' %}
+{% endif %}
+{% if labelHidden is not defined %}
+  {% set labelHidden = false %}
+{% endif %}
+{% if reset is not defined %}
+  {% set reset = 'Suche zurücksetzen' %}
+{% endif %}
+{% if submit is not defined %}
+  {% set submit = 'Suche starten' %}
+{% endif %}
+<div role="search" class="park-searchform park-form--vertical">
+  {% if form %}
+  <form name="{{ name }}"
+        action="{{ action }}"
+        method="{{ method }}"
+    {% if ariaControls is defined %}
+    aria-controls="{{ ariaControls }}"
+    {% endif %}
+        class="park-searchform__form">
+    {% endif %}
+    {% if placeholder is not defined %}
+      {% set placeholder = label %}
+    {% endif %}
+    {% include 'components/input/template.twig' with {
+      'type': 'search',
+      'id': id,
+      'name': name,
+      'value': value,
+      'label': label,
+      'labelHidden': labelHidden,
+      'placeholder': placeholder,
+      'autocomplete': 'off',
+      'config': config
+    } only %}
+    <button type="reset" class="park-searchform__reset">{{ reset }}</button>
+    <button type="submit" class="park-searchform__submit">{{ submit }}</button>
+    {% if form %}
+  </form>
+  {% endif %}
+</div>

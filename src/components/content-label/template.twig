@@ -1,0 +1,5 @@
+{% if contentLabel is defined and contentLabel is iterable and 'paid' in contentLabel %}
+  {% include 'components/icon-paid/template.twig' %}
+{% elseif contentLabel is defined and contentLabel is iterable and 'registered' in contentLabel %}
+  {% include 'components/icon-registered/template.twig' %}
+{% endif %}

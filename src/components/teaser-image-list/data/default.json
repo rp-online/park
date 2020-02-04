@@ -1,0 +1,89 @@
+{
+  "isNumeric": false,
+  "items": [
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "USA nach der Wahl"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+      },
+      "href": "#void",
+      "target": "_blank",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Fortuna-Boss Schäfer im Interview"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Bei Akpoguma werden wir kreativ sein\""
+      },
+      "href": "https://google.com",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Zugunglück von Bad Aibling"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "alt": "Schmusekatze"
+    }
+  ]
+}

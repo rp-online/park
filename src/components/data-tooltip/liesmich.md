@@ -1,0 +1,1 @@
+Diese Hilfs-Komponente rüstet einen Tooltip an mit einem `data-tooltip`-Attribut ausgezeichneten Elementen nach, indem es ein `::after`-Pseudoelement erzeugt und es mit dem Text des `title`-Attributs füllt. 

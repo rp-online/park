@@ -1,0 +1,13 @@
+$global-image-icon-registered: $global-image-icon-paid !default;
+$global-image-icon-registered-light: $global-image-icon-paid-light !default;
+
+.park-icon-registered {
+  @extend %icon-premium;
+
+  background-image: url($global-image-icon-registered);
+  filter: saturate(0);
+
+  &--light {
+    background-image: url($global-image-icon-registered-light);
+  }
+}

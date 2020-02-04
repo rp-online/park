@@ -1,0 +1,71 @@
+.park-card-weather {
+  @include card-status-styles;
+
+  position: relative;
+  display: block;
+  height: rem(150px);
+  background-color: #fff;
+  color: $global-color-text-black;
+  outline: 1px solid rgba(0, 0, 0, 0.05);
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.08), 1px 1px 2px 0 rgba(0, 0, 0, 0.17);
+
+  &__headline {
+    @include global-sans-serif-font-size(2);
+
+    position: absolute;
+    top: rem(10px);
+    left: rem(20px);
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__temp-day-label,
+  &__temp-night-label {
+    position: absolute;
+    font-size: 0;
+  }
+
+  &__temp-day-value,
+  &__temp-night-value {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+
+  &__temp-day-value {
+    left: rem(20px);
+    color: #828282;
+  }
+
+  &__temp-night-value {
+    left: rem(80px);
+  }
+
+  &__figure {
+    display: block;
+    height: 100%;
+  }
+
+  .park-image {
+    width: 50%;
+    min-width: 1px;
+    height: 90%;
+    min-height: 1px;
+    float: right;
+  }
+
+  &__caption {
+    @include global-font-family-sans-serif;
+
+    position: absolute;
+    bottom: rem(10px);
+    left: $global-spacing;
+    margin: 0;
+    color: #828282;
+  }
+
+  &__temp-day-value,
+  &__temp-night-value,
+  &__caption {
+    @include global-sans-serif-font-size(2);
+  }
+}

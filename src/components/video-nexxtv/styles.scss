@@ -1,0 +1,9 @@
+.park-video-nexxtv {
+  iframe {
+    @include mq(mobile) {
+      height: auto;
+    }
+
+    width: 100%;
+  }
+}

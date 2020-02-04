@@ -1,0 +1,9 @@
+.park-embed-opinary {
+  @extend %embed;
+
+  display: block;
+
+  > * {
+    margin: 0 auto;
+  }
+}

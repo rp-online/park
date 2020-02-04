@@ -1,0 +1,1 @@
+Diese Komponente kann genutzt werden, wenn HTML direkt ausgegeben werden soll. Generell sollte diese Komponente so wenig wie möglich genutzt werden, weil sie zum Mißbrauch durch Content Autoren einlädt.

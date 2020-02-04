@@ -1,0 +1,24 @@
+<article class="park-video-list">
+  {% if headline is defined %}
+    <header class="park-video-list__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <ul class="park-video-list-list">
+    {% for item in items %}
+      <li class="park-video-list__item">
+        {% set item = item|merge({
+        'config': config,
+        }) %}
+        {% if config.advertorial is defined and config.advertorial is same as(true) %}
+          {% set item = item|merge({
+          'isAd': true
+          }) %}
+        {% endif %}
+        {% include 'components/video-list-item/template.twig' with item only %}
+      </li>
+    {% endfor %}
+  </ul>
+</article>

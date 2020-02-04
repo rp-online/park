@@ -1,0 +1,1 @@
+Diese Komponente ist nur eine Hilfskomponente und markiert Ausgabeplätze, in die jeweils eine [Offeer](#offer)-Komponente ausgespielt werden soll.

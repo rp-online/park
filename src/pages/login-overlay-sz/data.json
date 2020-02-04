@@ -1,0 +1,2561 @@
+{
+  "title": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "loginPage": "https://www.saarbruecker-zeitung.de/login/",
+    "loginOverlay": true,
+    "bookmarksPage": "/sso/bookmarks",
+    "title": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote",
+    "url": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1549980537",
+    "container_id": 36908593,
+    "beitrag_id": 48814275,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Innenminister Herbert Reul ist stolz auf seine Rekord-Aufklärungsquote: Nie zuvor seien in NRW so viele Straftaten aufgeklärt worden. Experten bezweifeln das. Aus ihrer Sicht wird die Aufklärungsquote mit untauglichen Methoden ermittelt. Aussagekraft: Null."
+      },
+      {
+        "name": "author",
+        "content": "Thomas Reisener"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497, 50327854366"
+      },
+      {
+        "name": "keywords",
+        "content": "aufgeklärt, Herbert Reul, NRW, Kawelovski, Fälle, Hälfte, Aufklärungsquote, Fällen, Staatsanwaltschaft, Kriminalitätsstatistik, Statistik, Verlaufsstatistik, staatsanwaltschaftlich, Strafverfolgungsstatistik, Aufklärung, geklärt"
+      },
+      {
+        "name": "news_keywords",
+        "content": "aufgeklärt, Herbert Reul, NRW, Kawelovski, Fälle, Hälfte, Aufklärungsquote, Fällen, Staatsanwaltschaft, Kriminalitätsstatistik, Statistik, Verlaufsstatistik, staatsanwaltschaftlich, Strafverfolgungsstatistik, Aufklärung, geklärt"
+      },
+      {
+        "property": "og:title",
+        "content": "Zweifel an Aufklärungsquote: NRW-Innenminister Reul trickst laut Experten bei Kriminalitätsstatistik"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      {
+        "property": "og:description",
+        "content": "Innenminister Herbert Reul ist stolz auf seine Rekord-Aufklärungsquote: Nie zuvor seien in NRW so viele Straftaten aufgeklärt worden. Experten bezweifeln das. Aus ihrer Sicht wird die Aufklärungsquote mit untauglichen Methoden ermittelt. Aussagekraft: Null."
+      },
+      {
+        "property": "og:image",
+        "content": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_ceb7bed88bb8a942b0ce1aca64281314/w1200_h630_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Innenminister Herbert Reul ist stolz auf seine Rekord-Aufklärungsquote: Nie zuvor seien in NRW so viele Straftaten aufgeklärt worden. Experten bezweifeln das. Aus ihrer Sicht wird die Aufklärungsquote mit untauglichen Methoden ermittelt. Aussagekraft: Null."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_ceb7bed88bb8a942b0ce1aca64281314/w1200_h630_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": "landespolitik",
+      "contentType": "Artikel",
+      "analyticsUrl": "/nrw/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593",
+      "author": "Thomas Reisener",
+      "date": "2019-02-21",
+      "origin": "4",
+      "seo": "/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593",
+      "rho_url": "//r.rp-online.de/images/pic.gif?m=rp&b=48814275&cstr=36908593&l=1251&tit=Straftaten%3A+Experten+bezweifeln+Herbert+Reuls+Rekord-Aufkl%E4rungsquote&url=https%3A%2F%2Frp-online.de%2Fnrw%2Flandespolitik%2Fstraftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593&sep=%7C&tce=1&tid=64686&tn=64600&tp=50327%7C64600&tpn=50327%7C64600&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: NRW-Innenminister Reul trickst laut Experten bei Kriminalitätsstatistik",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0ANRW-Innenminister Reul trickst laut Experten bei Kriminalitätsstatistik%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 36908593,
+      "doctype": "article",
+      "contentid": "/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593",
+      "channel": 64600,
+      "subchannel": 64686,
+      "heading": "NRW-Innenminister Reul trickst laut Experten bei Kriminalitätsstatistik",
+      "kicker": "Düsseldorf",
+      "tag": "landespolitik"
+    },
+    "links": [
+      {
+        "rel": "amphtml",
+        "href": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593?output=amp"
+      },
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/nrw/landespolitik/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "i2",
+        "co": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Nachrichten",
+        "sv": "mo",
+        "co": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/d719a9f520414ea3bc07d13f607ed51b",
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "stroeer",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                813,
+                280
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-3__H_MB_3",
+            "adUnitPath": "/1017380/rp-online.de/content_ad_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                300
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                90
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                800,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "///localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "hpa": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36908593",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36908593",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "desktop"
+        },
+        "zone": "localnews"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "interstitial",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_CAD-2__Z_MB-5",
+            "adUnitPath": "/1017380/rp-online.de/mobil_banner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "///localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "Z_Footer__Z_Footer",
+            "adUnitPath": "/1017380/rp-online.de/footer-ad-mew",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251283",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-kampa-1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22512525",
+            "adUnitPath": "/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": false,
+            "lazyload": true,
+            "targeting": {
+              "pos": "mobil-kampa-2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36908593",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36908593",
+          "pfad1": "nrw",
+          "pfad2": "landespolitik",
+          "pfad3": "stop",
+          "oms": "localnews",
+          "mode": "mobile"
+        },
+        "zone": "localnews"
+      },
+      "reloadFrequency": "3"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593"
+      },
+      "headline": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_d13faf8f2acb4795a6fadb8326d93f63/w950_h526_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-02-21T06:05:00",
+      "dateModified": "2019-02-21 09:50:08",
+      "author": {
+        "@type": "Person",
+        "name": "Thomas Reisener"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Innenminister Herbert Reul ist stolz auf seine Rekord-Aufklärungsquote: Nie zuvor seien in NRW so viele Straftaten aufgeklärt worden. Experten bezweifeln das. Aus ihrer Sicht wird die Aufklärungsquote mit untauglichen Methoden ermittelt. Aussagekraft: Null.",
+      "isAccessibleForFree": "False",
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "RP ONLINE Basic",
+        "productID": "www-rpd.rp-online.de:basic"
+      }
+    },
+    "preload": [],
+    "adblocker": {
+      "check": true,
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"interstitial\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "https://www.saarbruecker-zeitung.de/login/"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "https://www.saarbruecker-zeitung.de/login/"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://rp-online.de/imgs/32/8/7/5/8/5/3/1/vertriebsicon_50x50-4f1c5dd61fa27c3a.jpg",
+      "text": "[Link auf https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=E-RP_EPRO_24_NO;72967&ai=Icon;D77N046V]",
+      "href": "https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=E-RP_EPRO_24_NO;72967&ai=Icon;D77N046V",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https://rp-online.de/nrw/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      },
+                      {
+                        "text": "Landespolitik",
+                        "href": "https://rp-online.de/nrw/landespolitik/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 2
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "NRW-Innenminister Reul trickst laut Experten bei Kriminalitätsstatistik"
+                    },
+                    "id": 36908593,
+                    "kicker": {
+                      "text": "Zweifel an Aufklärungsquote"
+                    },
+                    "timestamp": "1550725500",
+                    "cover": {
+                      "src": {
+                        "250w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_183cf3d63b6defe988413743e4c0f541/w250_h138_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "400w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_d8d74b0b9305b0bf21ad515ae81ead5d/w400_h221_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "600w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_76550cc9362db4db64c3c89dfa7f2ee4/w600_h332_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "900w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_2df0f19ea2fa63e048aa740d6d2d748d/w900_h498_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "950w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_d13faf8f2acb4795a6fadb8326d93f63/w950_h526_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "1200w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_4e8634a2c570e9fbe3c0b3d50b0fc04d/w1200_h664_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                        "1900w": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_be1d49dbc243db97e3446ae52982d632/w1900_h1052_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg"
+                      },
+                      "src_zoom": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_574a56f465189808351b78b59f6c7786/w1900_h1266_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                      "src_fit": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_5a5d49e9d471401edecfb1f55bf6cdb2/w789_h526_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg",
+                      "alt": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote",
+                      "caption": " NRW-Innenminister Herbert Reul (CDU) sagt, dass die Polizei mehr als die Hälfte aller Straftaten aufgeklärt hat. Davon kann aber keine Rede sein.  ",
+                      "source": {
+                        "text": "dpa/Federico Gambarini"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://rp-online.de/imgs/32/4/8/8/1/4/2/7/5/tok_574a56f465189808351b78b59f6c7786/w1900_h1266_x1804_y962_DPA_bfunk_dpa_5F9C9A0099112E33-0bac4ce91c3c160a.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Innenminister Herbert Reul ist stolz auf seine Rekord-Aufklärungsquote: Nie zuvor seien in NRW so viele Straftaten aufgeklärt worden. Experten bezweifeln das. Aus ihrer Sicht wird die Aufklärungsquote mit untauglichen Methoden ermittelt. Aussagekraft: Null.",
+                    "sign": "",
+                    "authorsbox": {
+                      "text": "Von Thomas Reisener",
+                      "authors": [
+                        {
+                          "src": "https://rp-online.de/imgs/33/4/1/4/5/4/8/0/1/776ee9c0c04847668562c4d12eebdb7e-d1fd3f2718f82d36.jpg",
+                          "name": "Thomas Reisener",
+                          "position": "Chefkorrespondent Landespolitik",
+                          "bio": "Thomas Reisener ist Chefkorrespondent Landespolitik bei der Rheinischen Post. ",
+                          "links": {
+                            "profile": "/autor/thomas-reisener-tor/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).setTargeting({'hpa': ['1']}).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\"><a href=\"https://www.saarbruecker-zeitung.de/login/?reload=1\">Login!</a> Experten haben erhebliche Zweifel an der zentralen Erfolgsmeldung zur Kriminalitätsstatistik 2018, die NRW-Innenminister Herbert Reul (CDU) vor wenigen Tagen veröffentlicht hat. „Mehr als die Hälfte (53,7 Prozent) der Straftaten konnte von der Polizei aufgeklärt werden“, ließ Reul durch sein Ministerium verbreiten. Das sei ein Rekord in der Landesgeschichte. Reul selbst sagte: „Ein tolles Zeugnis für die 43.000 Polizistinnen und Polizisten im Land.“</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Der Mülheimer Polizeiwissenschaftler Frank Kawelovski widerspricht: „Dass in NRW mehr als jede zweite Straftat gerichtsfest aufgeklärt worden sein soll, halte ich für ausgeschlossen.“ Auch Thomas Feltes, Kriminologe an der Ruhr Universität Bochum, gießt Wasser in den Wein: „Bei mehr als 70% der von der Polizei als aufgeklärt eingestuften Fälle wird das Verfahren von der Staatsanwaltschaft eingestellt, zumeist weil sie die Beweise nicht für ausreichend erachtet.“</p>"
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"rpd_teads\"></div>\r\n\r\n<script type=\"text/javascript\" class=\"teads\" src=\"//a.teads.tv/page/55559/tag\" async=\"true\"></script>\r\n\r\n<div data-display=\"plista_widget_outstream\"></div>\r\n<script type=\"text/javascript\">\r\n(function(c){var x,d,g,s='script',w=window,n=c.name||'PLISTA';try{x=w.frameElement;w=x?w.top:w;}catch(e){}if(x){d=w.document.createElement('div');d.setAttribute(c.dataMode,'plista_widget_'+(c.widgets[0].name||c.widgets[0]));x.parentNode.insertBefore(d,x);}if(!w[n]){w[n]=c;w[n].onwidgetinit=function(d){!d.items.length&&this.passback&&this.passback.call(window,d);};g=w.document.getElementsByTagName(s)[0];s=w.document.createElement(s);s.async=true;s.type='text/javascript';s.src=(w.location.protocol==='https:'?'https:':'http:')+'//static'+(c.origin?'-'+c.origin:'')+'.plista.com/async'+(c.name?'/'+c.name:'')+'.js';g.parentNode.insertBefore(s,g);}\r\n}({\r\n    \"publickey\": \"fdef8f87ebba2f7d02cd0cf1\",\r\n    \"name\": \"PLISTA_OUTSTREAM\",\r\n    \"origin\": \"de\",\r\n    \"dataMode\": \"data-display\",\r\n    \"noCache\": true,\r\n    \"widgets\": [\r\n        \"outstream\"\r\n    ],\r\n    \"passback\": function() {\r\n        /*passback script here*/\r\n    }\r\n}));\r\n</script>\r\n<script>\r\n    var min = 0;\r\n    var max = 999999;\r\n    var zufall =  Math.round(Math.random() * (max - min)) + min;\r\n    //document.write(\"<img src='http://pubads.g.doubleclick.net/gampad/ad?iu=/1017380/Test/tracking_teads/&sz=3x3&c=\"+zufall+\"'/>\");\r\nwindow.console.log(\"debug Teads: \"+zufall);\r\n</script>\r\n",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Sowohl Kawelovski als auch Feltes haben sich mehrfach wissenschaftlich mit der Aufklärungsquote beschäftigt, die ein wesentlicher Wert der polizeilichen Kriminalitätsstatistik ist. „Die Aufklärungsquoten sind in NRW, wie auch in anderen Bundesländern, massiven Verzerrungen ausgesetzt, die sie in ihrer Aussagekraft wertlos machen“, bilanziert Kawelovski. So werde der Begriff „Tataufklärung“ in vielen Fällen zur Verschönerung der Statistik sehr weit interpretiert. Oft würden der „Aufklärung“ nicht viel mehr als Mutmaßungen zugrunde liegen mit der Folge, dass die Staatsanwaltschaft das Verfahren aus Mangel an Beweisen sofort wieder einstellt – eben weil die Tat nicht aufgeklärt ist. In früheren empirischen Studien will Kawelovski zum Beispiel 30 Fälle nachgewiesen haben, die als geklärt in der Statistik auftauchten, ohne dass die Ermittlungsakten auch nur den geringsten Hinweis auf eine verdächtige Person enthielten.</p>"
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22251283\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_f0cff407553e46d60b07aa23c145e40a/w306_h175_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                              "alt": "Eine Frau schaut sich eine Mauer",
+                              "href": "/digitales/internet/zac-nrw-staerkere-strafverfolgung-von-cyberkriminalitaet-in-nrw_aid-27088119",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwerpunkt Hass und Hetze"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Stärkere Strafverfolgung von Cyberkriminalität in NRW"
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div><script>window.setTimeout(function() {googletag.cmd.push(function() { googletag.display(\"22512525\"); });}, 100);</script>",
+                                "lazy": true
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"22512525\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_c25fa4ee865472124a11dca3d1e26eb2/w306_h175_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                              "alt": "",
+                              "href": "/nrw/staedte/leverkusen/kriminalstatistik-2018-koeln-und-leverkusen-sind-sicherer-geworden_aid-36746059",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kriminalitätsstatistik 2018 für Leverkusen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "„Die Kriminalität sinkt auf breiter Front“"
+                              }
+                            },
+                            {
+                              "isAd": false,
+                              "type": "article",
+                              "src": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_bf2336a18bd8fed5d5854b90b50cd492/w306_h175_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                              "alt": "Ein Polizist in Uniform (Symbolfoto)",
+                              "href": "/nrw/landespolitik/die-aufklaerungsquote-taugt-nicht-zur-beurteilung-der-polizeiarbeit_aid-36913535",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kommentar zur NRW-Polizei"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Aufklärung tut not"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Das Kriminologische Forschungsinstitut Niedersachsen stellte 2016 in einer bundesweiten Studie, bei der mehrere tausend Einbrüche untersucht wurden fest, dass die Beweislage bei „geklärten“ Fällen so schwach war, dass es lediglich in 2,6 Prozent der Fälle zu Verurteilungen kam. Feltes bringt den Forschungsstand so auf den Punkt: „Rechtspolitisch und kriminologisch ist die Aufklärungsquote nutzlos.“ Sie beschreibe, „was die Polizei als aufgeklärt definiert und nicht, wie viele Straftaten tatsächlich am Ende eines Strafverfahrens aufgeklärt sind.“</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-html",
+                              "data": {
+                                "html": "<div>\r\n   <a href=\"/whatsapp\"><img src=\"https://rp-online.de/static/logo/whatsapp.png\" style=\"float:right;height:50px;margin-left:5px;\" /></a>\r\n   <p style=\"margin:0;\">\r\n       <strong>Verpassen Sie keine Nachrichten aus der Region:</strong> Wir schicken Ihnen eine Übersicht per WhatsApp.\r\n       <a href=\"/whatsapp\">Melden Sie sich jetzt an!</a>\r\n   </p>\r\n</div>\r\n"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"Z_CAD-2__Z_MB-5\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die Strafverfolgungsstatistik der Justiz gibt Auskunft darüber, was aus den von der Polizei weitergereichten Fällen wurde. Die jüngsten Zahlen sind von 2016. Für dieses Jahr weist die NRW-Kriminalitätsstatistik eine Aufklärungsquote von 50,7 Prozent auf. <span>Von den 1,2 Millionen staatsanwaltschaftlich behandelten Fällen endeten aber nur 21,2 Prozent mit einer Anklage oder einem Strafbefehl. Mehr als die Hälfte aller Verfahren wurde eingestellt – davon wiederum etwa die Hälfte ohne jegliche Auflage. Diese Zahlen sind seit Jahren weitgehend konstant.</span></p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Reul hält die Aufklärungsquote dennoch für ein wichtiges Indiz: „Statistik kann nie perfekt sein“, sagte Reul unserer Redaktion, „aber die Polizeiliche Kriminalitätsstatistik ist die beste und objektivste, die wir haben.“ Sie genüge einem bundesweit verabredeten Vergleichsstandard und sei deshalb eine taugliche Diskussionsgrundlage – etwa für Vergleiche mit anderen Ländern oder früheren Jahren. Eine Verlaufsstatistik, die darstellt, welche von der Polizei als aufgeklärt an die Staatsanwaltschaft übergebenen Fälle auch angeklagt wurden, gibt es nach Angaben des NRW-Innenministeriums nicht.</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593\" data-widget-id=\"AR_10\"></div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https://rp-online.de/nrw/landespolitik/straftaten-experten-bezweifeln-herbert-reuls-rekord-aufklaerungsquote_aid-36908593\" data-widget-id=\"AR_10\"></div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block; \r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n            \r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"rp-online.de\";\r\n            var rpd_adunit2 = \"mobil_banner_6\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"content_ad_4\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /* \r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {    \r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n                 \r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_2d09f37c1afce912dc261e5279105ddf/w250_h140_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "400w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_ebaa9b5f583736ea6fde5b91bffa2c4d/w400_h224_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "600w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_7f89674d79af0272a45046c5d9c913f1/w600_h336_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "900w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_e4efa6d0c6cb8c0d5120ad5dcf771120/w900_h504_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "950w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_1f2a2a65a99199a38cd865dcdad156b3/w950_h532_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_6cdef3b1327231d26b3003f6e3e0393f/w1200_h672_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/3/2/4/1/8/4/3/3/tok_1ab75358bd8a6df2f36839f0717d1bd3/w1900_h1064_x1500_y988_DPA_bfunk_dpa_5F99F6004CD41F49-8b7a7e904204cba0.jpg"
+                        },
+                        "alt": "Eine Frau schaut sich eine Mauer",
+                        "href": "/digitales/internet/zac-nrw-staerkere-strafverfolgung-von-cyberkriminalitaet-in-nrw_aid-27088119",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Schwerpunkt Hass und Hetze"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Stärkere Strafverfolgung von Cyberkriminalität in NRW"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_519049e7c929fc7ca92085bfa8149881/w250_h140_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_6d25c79ea6cace5255e88b00acbd1130/w400_h224_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_1e51803f7662c8e0ce0cd7a7675a35af/w600_h336_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_f7cb1fda4ee7434c416d573cb53bd863/w900_h504_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_26c5f26c0f440a3fa2d8fffd74848d73/w950_h532_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_78dd080da4b271252afbf56e07a6dd07/w1200_h672_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/8/3/4/5/7/0/1/tok_6f25efbfb2743d11de7519d4081bb9da/w1900_h1064_x1500_y1040_DPA_bfunk_dpa_5F9C9A00CF2C90AA-2f3485f7241b7942.jpg"
+                        },
+                        "alt": "",
+                        "href": "/nrw/staedte/leverkusen/kriminalstatistik-2018-koeln-und-leverkusen-sind-sicherer-geworden_aid-36746059",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kriminalitätsstatistik 2018 für Leverkusen"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "„Die Kriminalität sinkt auf breiter Front“"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": {
+                          "250w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_0550df6972d9a5654f08aaf35b74548d/w250_h140_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "400w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_6105ad4c2ca530abfe391ae7c6ec845a/w400_h224_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "600w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_a5eb25cfb086ed0ad1085e98c5e0fcbb/w600_h336_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "900w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_2b018ad0dceab055aff9e50a30941e6c/w900_h504_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "950w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_087dbacf3f22f7b72bd01200754222a4/w950_h532_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "1200w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_5a9511ff5cf94b86caabbc1a31763d1a/w1200_h672_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                          "1900w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_abd708796a741fb7407996b5078648fd/w1900_h1064_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg"
+                        },
+                        "alt": "Ein Polizist in Uniform (Symbolfoto)",
+                        "href": "/nrw/landespolitik/die-aufklaerungsquote-taugt-nicht-zur-beurteilung-der-polizeiarbeit_aid-36913535",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Kommentar zur NRW-Polizei"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Aufklärung tut not"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"></div>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 23495991,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_98dc0d8174d97e75e0f888215ebe33e6/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "400w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_ec61167c6dfea3bab393ad107b0dfaf0/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "600w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_36723f1307a24b81c2c9d7a488e455a3/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "900w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_31c6645854f4bc3e09a81db1b2de5f28/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "950w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_9caf5ccf245b586f70161c5dcb270cd0/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_ba3344bc1ed273b6377952b480a6c27d/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/2/7/9/0/8/4/1/7/tok_e71794792d18b42751df024357d85591/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F999C00F2568B3F-2ae4cc71b145790a.jpg"
+                              },
+                              "alt": "Herbert Reul bei einer Pressekonferenz im",
+                              "href": "/nrw/landespolitik/nrw-innenminister-herbert-reul-will-polizeigesetz-nachbessern_aid-23495991",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Nach massiver Kritik"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW-Innenminister Reul will Polizeigesetz nachbessern"
+                              }
+                            },
+                            {
+                              "id": 36770147,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_1fdeb967e546020e9fbc070372ce2f39/w250_h187_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_16fa3409f2323578c7a9bf19d60ff526/w400_h300_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_781134b8f91be552260ea46b8228b6e8/w600_h450_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_76cebbc0d7fdd07cf07ecc26c10d4970/w900_h675_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_1b2b317c3698c886d9f86a504f36c485/w950_h712_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_ff4843370a943e6af2a2c16ce54f6fb0/w1200_h900_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/4/2/2/6/4/5/tok_e94d2e0dd7a13aea89959418a3aa8791/w1900_h1425_x1500_y1006_DPA_bfunk_dpa_5F9C7E001A5ABD5E-86ab80fd1c222707.jpg"
+                              },
+                              "alt": "",
+                              "href": "/nrw/panorama/missbrauchsfall-auf-campingplatz-in-luegde-nrw-innenminister-reul-bekraeftigt-vorwurf-des-behoerdenversagens_aid-36770147",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Missbrauch auf Campingplatz in Lügde"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW-Innenminister Reul bekräftigt Vorwurf des Behördenversagens"
+                              }
+                            },
+                            {
+                              "id": 36749815,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_4ee38aaef6a9f60f7cc893dcdd0fc8e1/w250_h187_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_f636ace010343efb6a18ae020e54a236/w400_h300_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_0085e87a007d359fbed11d3d5fb28e11/w600_h450_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_c26ab51926931d70964faf559694610b/w900_h675_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_b52276a9a9d2a5b45b5fae451e2ffe0b/w950_h712_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_7c3c57d7a59a463d7bad263b2cd96cd0/w1200_h900_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/3/6/0/4/9/1/tok_74a91dd7cb341feca483b357fb5c1ee8/w1900_h1425_x1475_y845_DPA_bfunk_dpa_5F9A5000BE73D55D-eac0956e79e97f28.jpg"
+                              },
+                              "alt": "Die Kriminalitätshäufigkeit im Kreis Heinsberg war",
+                              "href": "/nrw/staedte/kreis-heinsberg/polizeistatistik-2018-gesamtkriminalitaet-im-kreis-heinsberg-um-9-7-prozent-gesunken_aid-36749815",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Polizeistatistik im Kreis Heinsberg"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Weniger Kriminalität, mehr Aufklärung"
+                              }
+                            },
+                            {
+                              "id": 36866065,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_a3ad985ecdb3c8f918adfe4cdd836519/w250_h187_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_a37dfdee38bcce4e51177984855af697/w400_h300_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_2caf137c59a41b383f5150403d5db39e/w600_h450_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_8bdf2231e8512d38d04deafdd3b54c27/w900_h675_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_71df9a3d150537d8bfdb1c372a75a818/w950_h712_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_35a4a1219af3a1fdc1e6b311b080dae5/w1200_h900_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/7/1/0/7/9/1/tok_a4b5cd761530c42400e2b1caca97468a/w1900_h1425_x1508_y1142_DPA_bfunk_dpa_5F9CA600B02BA30C-f82c877f22ad695c.jpg"
+                              },
+                              "alt": "Ein Landarzt nimmt sein Stethoskop aus",
+                              "href": "/nrw/landespolitik/landarzt-quote-nrw-regierung-senkt-huerden-fuer-das-medizinstudium_aid-36866065",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Für mehr Landärzte"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW senkt Hürden für das Medizinstudium"
+                              }
+                            },
+                            {
+                              "id": 36869009,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_3f8030f2be5cc7e48564c5fd3d90ab99/w250_h187_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_5e0c89b94394954ffdf0dd2e78751816/w400_h300_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_9391f1a85a4af8f0b0138424f6ab9a56/w600_h450_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_a546f038aed5806ed1757aa70870e379/w900_h675_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_a004a8088d22aaed820d3036df77e639/w950_h712_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_a2963edae2a216125564545795499a2d/w1200_h900_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/7/2/3/8/6/7/tok_6a39be0a43934b288175b2239a442c56/w1900_h1425_x1500_y1033_DPA_bfunk_dpa_5F9B0800AA954F7C-509f65fc18beac79.jpg"
+                              },
+                              "alt": "Thomas Kutschaty, SPD-Oppositionsführer im Landtag.",
+                              "href": "/nrw/landespolitik/nrw-spd-oppositionsfuehrer-schreibt-darueber-was-eine-neue-spd-fuer-ein-besseres-und-gerechters-land-tun-muss_aid-36869009",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gastbeitrag von Thomas Kutschaty"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Gleichheit ist Glück"
+                              }
+                            },
+                            {
+                              "id": 36920959,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_3fbeb33e81c055ec37b0b6c0f840f79a/w250_h187_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_1e23b5eba119f2de727401c7bfad3069/w400_h300_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_8d25d66794130bed7a8412c239290cd7/w600_h450_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_947a53798e441ee71ff631014229f16a/w900_h675_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_886d80a3575185fd1481179a4ccb2fec/w950_h712_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_eaf89ec4832392fa807b1440c4e4a31e/w1200_h900_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/8/5/0/7/7/1/tok_2c6e64b198cc5fc7e56cbccafcae0bdf/w1900_h1425_x1095_y910_DPA_bfunk_dpa_5F9C9A007A5AABA4-594dfa74bbd26447.jpg"
+                              },
+                              "alt": "Kinder sitzen auf ihrem Gepäck während",
+                              "href": "/politik/deutschland/nrw-innenminister-herbert-reul-will-kindern-von-is-kaempfern-bei-rueckkehr-helfen_aid-36920959",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rückkehr nach Deutschland"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "NRW-Innenminister Reul will Kindern von IS-Kämpfern helfen"
+                              }
+                            },
+                            {
+                              "id": 36926613,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_5f53969ca6476dd02dad6a806ca9b49a/w250_h187_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "400w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_6a8d6ee0740f7f34edee75c5736d61bc/w400_h300_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "600w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_b27765f1457582abd97d81a738e69bd9/w600_h450_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "900w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_71165b2830b513de07e57e7c17ec4d3e/w900_h675_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "950w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_420b9f49dfc7d947e8cc75aa333ee4f6/w950_h712_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_a0f48c470e074e21d59fb1baf65fdf7b/w1200_h900_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/8/7/1/1/2/9/tok_de43df8b184af546ab21d6c1c5980000/w1900_h1425_x1796_y1347_IMG_E6642-a2a59f023e5a434a.JPG"
+                              },
+                              "alt": "",
+                              "href": "/nrw/staedte/neuss/schwertransport-in-neuss-oettinger-brauerei-wartet-auf-ihren-biertank_aid-36926613",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwertransport in Neuss"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Oettinger-Brauerei wartet auf ihren Biertank"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "id": 36913535,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_256f41233f25eb02329ca8ba0a04b936/w250_h187_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_c83ed59ec4260c9c42aa65c4f2475504/w400_h300_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_29995b83de9d59014701c16a226063a9/w600_h450_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_91b85b18e528302ec18955243abab946/w900_h675_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_db487fd36467e6ea5a16b08ac5576a61/w950_h712_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_b201fca2ea47216ef827bc830c7fb48d/w1200_h900_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/8/3/2/0/2/9/tok_0af999b05b903026bdb27a25aa24d24d/w1900_h1425_x1500_y998_20161121_bfunk_dpa_1492EA00282D4826-d01df080bf268315.jpg"
+                              },
+                              "alt": "Ein Polizist in Uniform (Symbolfoto)",
+                              "href": "/nrw/landespolitik/die-aufklaerungsquote-taugt-nicht-zur-beurteilung-der-polizeiarbeit_aid-36913535",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kommentar zur NRW-Polizei"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Aufklärung tut not"
+                              }
+                            },
+                            {
+                              "id": 36916375,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_211fac9cae1274e3b3932c30a60ff3dc/w250_h187_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_5a7e0843a68d71694f2c6a8596b6aaa1/w400_h300_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_afc6a1d432ed168581f1b2cf51cdea28/w600_h450_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_a44c2adc122e10908e123d0fbf05e6ba/w900_h675_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_f3b5eb2ebf7a9f1260c27d1878d9d8a4/w950_h712_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_39dd74c30f94925e8b8839e47f7ea008/w1200_h900_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/8/4/3/0/1/5/tok_82c31cd416da498257d59c598b3da1c4/w1900_h1425_x1572_y894_DPA_bfunk_dpa_5F9C7C005B994D63-0319d4f4a05145f2.jpg"
+                              },
+                              "alt": "Schüler arbeiten in einer Grundschule an",
+                              "href": "/politik/deutschland/einigung-beim-digitalpakt-eine-milliarde-euro-fuer-die-nrw-schulen_aid-36916375",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Einigung beim Digitalpakt"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Eine Milliarde für die NRW-Schulen"
+                              }
+                            },
+                            {
+                              "id": 36912807,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_ab81dd8d4a26281c9bc054ae5999a084/w250_h187_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_c03815750c5cfc6205eca68e99dc4594/w400_h300_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_90734c6c9f33e0f1e4fdcce93413ffb9/w600_h450_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_4b2f96451ccd8e4700b0156277a10e1e/w900_h675_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_8834ad3784bc4e4006c37d9a6dd09b63/w950_h712_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/8/2/8/6/8/5/tok_f3a5fb6d29bc71afd5793e3d9f667303/w1200_h867_x600_y433_RP_48793963_1083946435_RGB_190_1_1_23e2be2537cc27907ad78d453dbb23bc_1550668981_1083946435_7d7d22239f-e87745aa333423df.jpg"
+                              },
+                              "alt": "Im September 2018 hatten Braunkohle-Gegner eine",
+                              "href": "/nrw/landespolitik/rodungsmoratorium-fuer-hambacher-forst-bis-2020-21_aid-36912807",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Debatte über Kohlekompromiss"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Hambach: Rodungsstopp bis 2020"
+                              }
+                            },
+                            {
+                              "id": 36883975,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_34a74feb896793cfe69c6c0e6ec6ea8a/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_d84495490e6952e5359596ad488e55b8/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_f76824328ac62b3260c7d86179ea53eb/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_7dd32bfa1eaa24c81231909483fde2d5/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_cfcbc206ed295369626a63dd7a09e87e/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_518be7dadb95f96643ef9cab487fbcac/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/7/6/8/6/7/5/tok_4ba9c264b053e88bf0d531411bc17799/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9CA80051200B2B-00bd60ec251b941e.jpg"
+                              },
+                              "alt": "Laschet während der Rede im Landtag.",
+                              "href": "/nrw/landespolitik/hambacher-forst-armin-laschet-gibt-garantie-bis-2020-vorerst-keine-rodungen_aid-36883975",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Vorerst keine Rodung"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Laschet gibt Hambacher Forst Garantie bis 2020"
+                              }
+                            },
+                            {
+                              "id": 36873689,
+                              "type": "article",
+                              "src": [],
+                              "alt": "",
+                              "href": "/nrw/landespolitik/kolumne-thyssenkrupp-veralbert-seine-mitarbeiter_aid-36873689",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Kolumne: „Hier in NRW“"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Thyssen veralbert seine Mitarbeiter"
+                              }
+                            },
+                            {
+                              "id": 36869327,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_a49a1502e851bd15a4e45f07aea7e5bc/w250_h187_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_d94c7c6263d6bba9dcd0c0df82f82b49/w400_h300_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_a0327ab46b8a21b6f8cc3471d50d425b/w600_h450_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_89c5a600dc53888e98b5aee7b5698226/w900_h675_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_71226cd8dfb236965764b4d12c0feb62/w950_h712_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_11d9010989565153b87db2f3db4d112e/w1200_h900_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/7/2/4/5/7/1/tok_015e224b248c5a3c5b23cc3a19276869/w1900_h1425_x1500_y1000_DPA_bfunk_dpa_5F9C700050D61F4F-487edb3711c1893d.jpg"
+                              },
+                              "alt": "Dampf und Rauch steigen aus dem",
+                              "href": "/nrw/landespolitik/afd-will-an-braunkohle-verstromung-im-rheinischen-revier-festhalten_aid-36869327",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Debatte im NRW-Landtag"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "AfD will an Braunkohle-Verstromung im Rheinischen Revier festhalten"
+                              }
+                            },
+                            {
+                              "id": 36866309,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_596563537ed5b39af8e2345cc8ea0a50/w250_h187_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_a35c8933c68c29ad0bdff76ac64e05c5/w400_h300_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_a2e579c7ddcc3d73e0a46dc164116573/w600_h450_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_dd15d3821ce52b0fb409dd9f66a38d3e/w900_h675_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_919a891813fa890c9998a587b538ae00/w950_h712_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_16f62b69a92dc4db143ea89677a0f770/w1200_h900_x1594_y1063_57848813-90d5012e1f77888e.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/7/1/1/7/5/5/tok_7dca15dbd934718f7907940bd232b7c3/w1900_h1425_x1594_y1063_57848813-90d5012e1f77888e.jpg"
+                              },
+                              "alt": "Die NRW-Landesregierung will die Ärzteversorgung auf",
+                              "href": "/nrw/landespolitik/landarzt-quote-in-nrw-darum-ist-sie-die-richtige-entscheidung_aid-36866309",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Pläne der Landesregierung"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die Landarzt-Quote in NRW ist längst überfällig"
+                              }
+                            },
+                            {
+                              "id": 36821971,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_f6d48a7c16400a6cb853ec3d711a05cb/w250_h187_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_b9d4e0720f631cbf9eae929410f4bd96/w400_h300_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_ec2df89a893643423fa46dd1232eb609/w600_h450_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_1d82a70e466f8f181222b1e47abe8bd7/w900_h675_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_49a8af4629df2fc7db8dbc38fde0a6a8/w950_h712_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_4cc037774481862d8bd91e1340c66093/w1200_h900_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/5/7/0/6/6/1/tok_2b6dd68e8bac423c387ec70a90f1eb85/w1900_h1425_x1500_y1020_DPA_bfunk_dpa_5F9C7000764B598F-64a3398babd60e2f.jpg"
+                              },
+                              "alt": "Ein Tablet im Unterricht - das",
+                              "href": "/nrw/landespolitik/schulsystem-in-nrw-gruenen-chef-felix-banaszak-fordert-umdenken_aid-36821971",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gastbeitrag"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Das Schulsystem hat sich überlebt"
+                              }
+                            },
+                            {
+                              "id": 36804267,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_b21349c60a2aff0ffd90af7bf8cee620/w250_h187_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_8e668a38be7d5dec13bdeccacbe47ee7/w400_h300_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_715b5c3d8662d6968eba943391252214/w600_h450_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_54d0211329d42baf2c525f728851c9f5/w900_h675_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_ff3c50fa5f3533428d907d9d1921df1d/w950_h712_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_b49ad82dd647335de740483194fb0bd1/w1200_h900_x1131_y950_110204956-c1ee725a21d8880c.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/5/3/3/0/6/3/tok_6188acccd3cba5c5dd34139577dc9955/w1900_h1425_x1131_y950_110204956-c1ee725a21d8880c.jpg"
+                              },
+                              "alt": "Sven Wolf (SPD) mit Justizminister Peter",
+                              "href": "/nrw/landespolitik/wie-die-spd-gegen-nrw-justizminister-peter-biesenbach-arbeitet_aid-36804267",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "SPD und Justizminister Biesenbach"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Die fragwürdigen Attacken der SPD in NRW"
+                              }
+                            },
+                            {
+                              "id": 36803061,
+                              "type": "article",
+                              "src": {
+                                "250w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_68766685aaa70dd6b13e8fa85f1463b2/w250_h187_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "400w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_767ef47f9fcaffe38e82f66b9ea34483/w400_h300_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "600w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_8af770e4abfb7d523471a7ca78062e2f/w600_h450_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "900w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_39d24003cdc28bca0bee73a72d53d26c/w900_h675_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "950w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_8ba2921d070c676de56b221465be8407/w950_h712_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "1200w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_d46e47795e3e5c445ac62581deb3070c/w1200_h900_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg",
+                                "1900w": "https://rp-online.de/imgs/32/4/8/5/2/8/0/8/9/tok_b4749aa60c57e1db88a0cb71fdf1dba2/w1900_h1425_x1725_y1023_DPA_bfunk_dpa_5F9C92006C12B588-a8a351ec43278132.jpg"
+                              },
+                              "alt": "Mit Masern haben sich im vergangenen",
+                              "href": "/nrw/landespolitik/kitas-wehren-sich-gegen-impfgegner_aid-36803061",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Immer mehr Ansteckungen"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Jetzt wehren sich die Kitas gegen Impfgegner"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Schlagworte",
+                          "children": [
+                            {
+                              "component": "tags",
+                              "data": {
+                                "links": [
+                                  {
+                                    "href": "/thema/herbert-reul/",
+                                    "text": "Herbert Reul"
+                                  },
+                                  {
+                                    "href": "/thema/ruhr-universitaet-bochum/",
+                                    "text": "Ruhr-Universität Bochum"
+                                  },
+                                  {
+                                    "href": "/thema/bochum/",
+                                    "text": "Bochum"
+                                  }
+                                ]
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Straftaten: Experten bezweifeln Herbert Reuls Rekord-Aufklärungsquote"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 48814275,
+                      "url": "",
+                      "counturl": ""
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"Z_Footer__Z_Footer\"></div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": ""
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/nrw/staedte/dinslaken/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Solutions",
+              "href": "https://www.rp-digital-solutions.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "/digitales/rp-online-app/informationen/rp-online-app-alle-news-fuer-ihr-smartphone_aid-21961563",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Zeitungsarchiv",
+              "href": "/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "News to Use",
+              "href": "https://www.news-to-use.de/?utm_source=RPO&utm_medium=Navi&utm_campaign=news2use",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Aktion Zeitungspate",
+              "href": "/schulprojekte/zeitungspate/?utm_source=RPO&utm_medium=Navi&utm_campaign=zeitungspate",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "/nrw/panorama/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Städte",
+              "href": "/nrw/staedte/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": true,
+              "isAd": false,
+              "text": "Landespolitik",
+              "href": "/nrw/landespolitik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "/nrw/kultur/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Freizeit",
+              "href": "/nrw/freizeit/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Datenjournalismus",
+              "href": "/nrw/datenjournalismus/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

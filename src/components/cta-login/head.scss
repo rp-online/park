@@ -1,0 +1,23 @@
+.park-cta-login {
+  @include global-font-family-sans-serif();
+  @include global-sans-serif-font-size(2);
+
+  padding: rem(20px) rem(45px) rem(20px) rem(25px);
+  background-color: white;
+  color: black;
+
+  &__button {
+    margin-top: $global-spacing;
+  }
+
+  &__aside {
+    @include global-sans-serif-font-size(3);
+
+    margin-top: $global-spacing;
+
+    a {
+      color: inherit;
+      border-bottom: 2px solid $global-brand-color;
+    }
+  }
+}

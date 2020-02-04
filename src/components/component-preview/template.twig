@@ -1,0 +1,37 @@
+<div class="park-component-preview">
+  <div class="park-component-preview__buttons">
+  {% include 'components/button/template.twig' with {
+    "ghost": true,
+    "style": "switcher",
+    "class": "lock",
+    "text": "",
+    "data": {
+      "authenticate": ""
+    },
+    'config': config} only %}
+  {% include 'components/button/template.twig' with {
+    "ghost": true,
+    "style": "switcher",
+    "class": "mobile",
+    "text": "mobile an",
+    "data": {
+      "responsify": ""
+    },
+    'config': config} only %}
+  {% include 'components/button/template.twig' with {
+    "ghost": true,
+    "style": "switcher",
+    "class": "open-in-new",
+    "text": "In separatem Fenster öffnen",
+    "href": href,
+    "target": "_blank",
+    'config': config} only %}
+  </div>
+  {% include 'components/iframe/template.twig' with {
+    'src': src,
+    'width': width,
+    'height': height,
+    'title': title,
+    'name': name,
+    'config': config} only %}
+</div>

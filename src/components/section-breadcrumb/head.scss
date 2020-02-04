@@ -1,0 +1,122 @@
+.park-section-breadcrumb {
+  @extend %section-nav;
+
+  overflow-x: auto;
+  // hide the scrollbar
+  // https://stackoverflow.com/a/38994837
+  overflow: -moz-scrollbars-none;  // Firefox
+  -ms-overflow-style: none;  // IE 10+
+  padding: rem(4px) $global-spacing 0 $global-spacing;
+  white-space: nowrap;
+
+  ::-webkit-scrollbar {
+    display: none;  // Safari and Chrome
+  }
+
+  @include mq(desktop) {
+    width: 100%;
+  }
+
+  .park-portal-marker &,
+  .is-advertorial & {
+    position: relative;
+    background-color: $global-advertisement-color;
+
+    @include mq(mobile) {
+      padding-top: rem(20px);
+    }
+
+    @include mq(desktop) {
+      padding-right: rem(90px);
+    }
+
+    &::before {
+      @extend %sugardaddy-label;
+
+      @include global-sans-serif-font-size(3);
+
+      position: absolute;
+      right: 0;
+      display: block;
+      margin-top: rem(-20px);
+      margin-right: $global-spacing;
+      color: white;
+
+      @include mq(desktop) {
+        margin-top: 0;
+      }
+    }
+  }
+
+  &__wrapper {
+    position: relative;
+
+    @include mq(mobile) {
+      overflow-x: scroll;
+    }
+
+    @include mq(desktop) {
+      overflow: hidden;
+    }
+
+    width: 100%;
+  }
+
+  &__headline {
+    @include global-sans-serif-font-size(2);
+
+    display: inline;
+    color: white;
+    font-weight: $global-font-weight-sans-serif-regular;
+    line-height: rem(36px);
+
+    @include mq(desktop) {
+      line-height: rem(36px);
+    }
+  }
+
+  &__navigation {
+    display: inline;
+  }
+
+  &__item {
+    @extend %section-headline;
+
+    @include global-sans-serif-font-size(2);
+
+    line-height: rem(36px);
+
+    @include mq(desktop) {
+      line-height: rem(36px);
+    }
+
+    &:hover {
+      text-decoration: underline;
+    }
+
+    &::after {
+      top: rem(-3px);
+      bottom: rem(-4px);
+    }
+
+    &[aria-hidden="true"] {
+      @include visuallyhidden;
+    }
+  }
+
+  @include mq(desktop) {
+    &__item--desktophidden {
+      @include visuallyhidden;
+    }
+  }
+
+  &__link,
+  &__mark {
+    color: white;
+  }
+
+  &__link--sugardaddy,
+  &__mark--sugardaddy {
+    color: $global-advertisement-color;
+  }
+}

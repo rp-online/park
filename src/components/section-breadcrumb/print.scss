@@ -1,0 +1,43 @@
+.park-section-breadcrumb {
+  overflow: hidden;
+
+  &,
+  .park-portal-marker &,
+  .is-advertorial &,
+  &__item,
+  &__headline,
+  &__link,
+  &__mark {
+    background-color: transparent;
+    color: #000;
+
+    &::after {
+      display: none;
+    }
+  }
+
+  &__link {
+    &::after {
+      content: '\00a0\00a0/\00a0\00a0';
+      display: inline;
+      background-color: transparent;
+      font-size: inherit;
+      vertical-align: baseline;
+      transform: none;
+    }
+  }
+
+  &__headline {
+    display: none;
+  }
+
+  &__item {
+    padding-right: 0;
+
+    &:last-child {
+      .park-section-breadcrumb__link::after {
+        display: none;
+      }
+    }
+  }
+}

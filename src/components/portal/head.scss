@@ -1,0 +1,247 @@
+@keyframes park-portal-node-inserted {
+  from {
+    opacity: 0.99;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.park-portal {
+  display: block;
+  min-height: 1px;
+  text-align: center;
+
+  @include mq(mobile) {
+    width: 100%;
+  }
+
+  @include mq(desktop) {
+    display: inline-block;
+    margin: $global-spacing auto;
+    vertical-align: top;
+  }
+
+  &-- {
+    display: none !important;
+  }
+
+  &--free,
+  &--layer,
+  &--interstitial {
+    display: block;
+    width: auto;
+    height: auto;
+  }
+
+  @include mq(desktop) {
+    &--content,
+    &--medium-rectangle,
+    &--mobile-rectangle,
+    &--halfpage,
+    &--dynamic-sidebar {
+      width: 300px;
+    }
+
+    &--large-rectangle {
+      width: 120px;
+    }
+
+    &--skyscraper {
+      width: 120px;
+    }
+
+    &--wide-skyscraper {
+      width: 160px;
+    }
+
+    &--leaderboard,
+    &--superbanner {
+      width: 728px;
+    }
+
+    &--billboard {
+      width: 970px;
+    }
+
+    &--banner {
+      width: 468px;
+    }
+
+    &--mobile-leaderboard,
+    &--mobile-banner,
+    &--large-mobile-banner {
+      width: 320px;
+    }
+  }
+
+  &--billboard {
+    display: block;
+    margin: 0 auto $global-spacing auto;
+  }
+
+  &--mobile-leaderboard,
+  &--mobile-banner,
+  &--large-mobile-banner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  &--medium-rectangle {
+    @include mq(mobile) {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  &--mobile-leaderboard,
+  &--mobile-banner {
+    min-height: 50px;
+  }
+
+  &--banner {
+    min-height: 60px;
+  }
+
+  &--leaderboard,
+  &--superbanner {
+    min-height: 90px;
+  }
+
+  &--medium-rectangle,
+  &--mobile-rectangle,
+  &--billboard {
+    min-height: 250px;
+  }
+
+  &--large-rectangle {
+    min-height: 280px;
+  }
+
+  &--halfpage,
+  &--skyscraper,
+  &--wide-skyscraper,
+  &--dynamic-sidebar {
+    min-height: 600px;
+  }
+
+  &--free {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: auto !important;
+    text-align: center;
+
+    > * {
+      flex: 0 0 100%;
+    }
+
+    img,
+    iframe {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  }
+
+  * {
+    max-width: 100%;
+  }
+
+  &--lazy {
+    position: absolute;
+    display: block;
+    overflow: hidden;
+    width: 1px;
+    height: 1px;
+    opacity: 0;
+  }
+
+  &--is-loaded#{&}--is-loaded {
+    overflow: visible;
+    width: auto;
+  }
+
+  &--html {
+    display: block;
+    text-align: left;
+  }
+
+  iframe,
+  img {
+    animation-duration: 0.02s;
+    animation-name: park-portal-node-inserted;
+  }
+
+  &--sticky:not(xmp) {
+    $park-portal-sticky-background-gray: #eee;
+
+    position: relative;
+    padding: 0;
+    background-image: linear-gradient(-45deg, $park-portal-sticky-background-gray 5%, #fff 5%, #fff 45%, $park-portal-sticky-background-gray 45%, $park-portal-sticky-background-gray 55%, #fff 55%, #fff 95%, $park-portal-sticky-background-gray 95%);
+    background-size: 10px 10px;
+    background-repeat: repeat;
+
+    @supports (clip-path: polygon(-50% 0, 150% 0, 150% 100%, -50% 100%)) {
+      clip-path: polygon(-50% 0, 150% 0, 150% 100%, -50% 100%);
+    }
+  }
+
+  &__sticky-floater {
+    position: sticky;
+    z-index: 1;
+    top: calc(#{$header-navbar-height-mobile} + #{rem(14px)}) !important;
+    transition: top 300ms;
+
+    @include mq(desktop) {
+      top: calc(#{$header-navbar-height-desktop} + #{rem(14px)}) !important;
+    }
+
+    .with-offers & {
+      top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile} + #{rem(14px)}) !important;
+
+      @include mq(desktop) {
+        top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop} + #{rem(14px)}) !important;
+      }
+    }
+  }
+
+  &__sticky-floater-text {
+    position: sticky;
+    top: calc(#{$header-navbar-height-mobile} + #{rem(30px)}) !important;
+    height: 0;
+    transition: top 300ms;
+
+    @include mq(desktop) {
+      top: calc(#{$header-navbar-height-desktop} + #{rem(30px)}) !important;
+    }
+
+    .with-offers & {
+      top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile} + #{rem(30px)}) !important;
+
+      @include mq(desktop) {
+        top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop} + #{rem(30px)}) !important;
+      }
+    }
+
+    &::after {
+      @include global-sans-serif-font-size(3);
+
+      content: '\25BC\00A0\00A0Weiterlesen nach dieser Anzeige\00A0\00A0\00A0\25BC';
+      content: '\25BC\00A0\00A0' var(--park-portal--sticky-portal-text, 'Weiterlesen nach dieser Anzeige') '\00A0\00A0\00A0\25BC';
+      position: absolute;
+      display: block;
+      width: 100%;
+      height: 4em;
+      color: #666;
+      font-weight: $global-font-weight-sans-serif-bold;
+      line-height: 4em;
+      text-transform: uppercase;
+    }
+  }
+}

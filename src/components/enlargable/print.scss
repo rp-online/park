@@ -1,0 +1,16 @@
+a[href$=".jpg"],
+a[href$=".jpeg"],
+a[href$=".png"],
+a[href$=".gif"],
+a[href$=".svg"],
+a[href$=".webp"],
+a[href$=".JPG"],
+a[href$=".JPEG"],
+a[href$=".PNG"],
+a[href$=".GIF"],
+a[href$=".SVG"],
+a[href$=".WEBP"] {
+  &::after {
+    display: none;
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "main": {
+    "headline": "Jetzt 50% sparen und Qualitätsjournalismus unterstützen",
+    "text": "Jetzt ersten Monat kostenlos lesen.",
+    "image": {
+      "src": "https://leserservice.rp-online.de/var_rp/storage/images/stammdaten/c1erweiterungen/standard/39864-93-ger-DE/Standard_image_width_230.png"
+    },
+    "cta": {
+      "text": "zum Angebot",
+      "href": "https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=PW%20EPAB%203F1NO;56971"
+    }
+  },
+  "login": {
+    "text": "Bereits Abonnent?",
+    "cta": {
+      "text": "hier anmelden",
+      "href": "#void"
+    }
+  },
+  "welect": {
+    "text": "Sie möchten diesen Artikel kostenlos lesen?",
+    "cta": {
+      "text": "Jetzt Werbespot anschauen",
+      "href": "http://redirect.welect.de/checkout"
+    }
+  },
+  "subscribeWithGoogle": {
+    "display": true
+  }
+}

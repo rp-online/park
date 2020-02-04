@@ -1,0 +1,28 @@
+<figure role="group"
+        class="park-embed-iframe">
+  <span class="park-embed-iframe__wrapper">
+  {% include 'components/iframe/template.twig' with {
+    'src': src,
+    'width': width,
+    'height': height,
+    'title': title,
+    'name': name,
+    'config': config} %}
+  </span>
+  <figcaption class="park-embed-iframe__caption">
+    {{ caption }}
+    {% if source is defined and source.text is defined %}
+      {% if source.href is defined %}
+        {% set source = source|merge({
+          'classes': [
+            'park-embed-iframe__caption-source-link'
+          ],
+          'config': config
+        }) %}
+        <i class="park-embed-iframe__caption-source">Quelle: {% include 'components/link-helper/template.twig' with source only %}</i>
+      {% else %}
+        <i class="park-embed-iframe__caption-source">Quelle: {{ source.text }}</i>
+      {% endif %}
+    {% endif %}
+  </figcaption>
+</figure>

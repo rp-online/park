@@ -1,0 +1,60 @@
+{% set uuid = random() %}
+<section class="park-card-topic{% if isAd is defined and isAd %} park-card-topic--sugardaddy{% endif %}">
+  {% set content %}
+    <figure role="group"
+            id="park-card-topic__figure-{{ uuid }}"
+            class="park-card-topic__figure">
+      {% include 'components/image/template.twig' with {
+        'src': src,
+        'alt': alt,
+        'width': 300,
+        'height': 169,
+        'sizes': { 'mobile': '300px', 'desktop': '300px' },
+        'fit': 'cover',
+        'config': config} %}
+      <figcaption class="park-card-topic__caption">
+        <h5 class="park-card-topic__headline">{{ name }}</h5>
+      </figcaption>
+    </figure>
+  {% endset %}
+  {% include 'components/link-helper/template.twig' with {
+    href: href,
+    text: content,
+    config: config,
+  } only %}
+  <div class="park-card-topic__bottom">
+    <button class="park-card-topic__toggle"
+            aria-expanded="false"
+            aria-controls="park-card-topic__articles-{{ uuid }} park-card-topic__description-{{ uuid }}">{% include 'svg/chevron-down.svg' %}
+      Die neuesten
+      Beiträge dieses Themas zeigen
+    </button>
+    <div id="park-card-topic__description-{{ uuid }}"
+         class="park-card-topic__description">
+      <div class="park-card-topic__description-text">
+        <p><strong class="park-card-topic__article-count">{{ count }} Beiträge</strong></p>
+        {% include 'components/markdown/template.twig' with {
+          'text': description,
+          'config': config
+        } only %}
+      </div>
+      {% include 'components/button-subscribe/template.twig' with {
+        'itemType': 'topic',
+        'itemId': id,
+        'config': config} %}
+    </div>
+    <aside id="park-card-topic__articles-{{ uuid }}"
+           class="park-card-topic__articles"
+           aria-hidden="true">
+      {% if items is defined and items is iterable %}
+        {% include 'components/teaser-image-list/template.twig' with {
+          'items': items,
+          'config': config} %}
+      {% endif %}
+      {% include 'components/button/template.twig' with {
+        'href': href,
+        'text': 'Alle Beiträge',
+        'config': config} %}
+    </aside>
+  </div>
+</section>

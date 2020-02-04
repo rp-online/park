@@ -1,0 +1,51 @@
+.park-card-narrow {
+  @include card-status-styles;
+  @include global-sans-serif-font-size(2);
+
+  display: block;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  /* height: calc(100% - #{rem(3px)}); */
+  height: 53px;
+  margin: rem(1px) 0 rem(2px) 0;
+  background-color: #fff;
+  color: inherit;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+  font-weight: $global-font-weight-sans-serif-bold;
+
+  .park-image {
+    float: left;
+    flex: 0 0 rem(71px);
+    width: rem(71px);
+    height: rem(0.75 * 71px);
+    margin-right: rem(10px);
+  }
+
+  &__content {
+    display: inline-block;
+    width: 100%;
+    padding: rem(9px) rem(10px);
+  }
+
+  .park-image &__content {
+    width: calc(100% - #{rem(71px)});
+    padding-left: 0;
+  }
+
+  &__kicker {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: rem(2px);
+    color: $global-brand-color;
+    line-height: (20 / 16);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    &:empty {
+      display: none;
+    }
+  }
+}

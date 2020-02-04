@@ -1,0 +1,57 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Wetter in Nettetal"
+  },
+  "aside": "Wetter in Nettetal powered by wetter.de",
+  "items": [
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "Heute"
+      },
+      "temps": {
+        "day": "12",
+        "night": "8"
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_dunkel-sonne-wenig_regen.png",
+      "alt": "Symbolgrafik: wechselhaft mit leichten Regenschauern, wenig Sonne",
+      "href": "\/app\/wetter\/detail\/nettetal\/41334",
+      "caption": "Wechselhaft mit leichten Regenschauern, wenig Sonne",
+      "description": "Es ist wechselhaft mit leichten Regenschauern. Die Sonne scheint nur kurzzeitig."
+    },
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "Morgen"
+      },
+      "temps": {
+        "day": "14",
+        "night": "9"
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_klein-sonne.png",
+      "alt": "Symbolgrafik: sonnig und trocken mit vor\u00fcberziehenden Quellwolken",
+      "href": "\/app\/wetter\/detail\/nettetal\/41334",
+      "caption": "Sonnig und trocken mit vor\u00fcberziehenden Quellwolken",
+      "description": "Es ist sonnig, nur vor\u00fcbergehend gibt es Quellwolken oder es ziehen lockere Wolkenfelder durch. Es ist trocken."
+    },
+    {
+      "type": "weather",
+      "headline": {
+        "tag": "h2",
+        "text": "\u00dcbermorgen"
+      },
+      "temps": {
+        "day": "15",
+        "night": "9"
+      },
+      "src": "https:\/\/www.rp-online.de\/app\/wetter\/img\/icons_gross.v4\/wolke_hell-sonne.png",
+      "alt": "Symbolgrafik: \u00fcberwiegend heiter und trocken",
+      "href": "\/app\/wetter\/detail\/nettetal\/41334",
+      "caption": "\u00fcberwiegend heiter und trocken",
+      "description": "Es ist \u00fcberwiegend heiter, d.h. mehr Sonne als Wolken, und im Wesentlichen trocken."
+    }
+  ]
+}

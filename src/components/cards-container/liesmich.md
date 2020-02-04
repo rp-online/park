@@ -1,0 +1,1 @@
+Diese Komponente wird üblicherweise zusammen mit der [Card-Narrow](#card-narrow)-Komponente verwendet und wird entweder als Infobox genutzt, in der z.B. werbliche Themenwelten angeteasert werden, oder aber sie wird auf den Verteilerseiten, z.B. für die Städte genutzt.

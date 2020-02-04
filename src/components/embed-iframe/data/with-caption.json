@@ -1,0 +1,12 @@
+{
+  "src": "https://templates.park.works/iframe.html",
+  "width": 800,
+  "height": 600,
+  "title": "Demo IFrame",
+  "name": "demo",
+  "caption": "Gallia est omnis divisa in partes tres, quarum unam incolunt Belgae, aliam Aquitani, tertiam qui ipsorum lingua Celtae, nostra Galli appellantur",
+  "source": {
+    "text": "Julius Caesar",
+    "href": "#void"
+  }
+}

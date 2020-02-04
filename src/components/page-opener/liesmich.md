@@ -1,0 +1,1 @@
+Diese Komponente wird im Dossier anstelle des [Page-Headers](#page-header) verwendet und enthält ein Bild mit Bildunterschrift, eine Überschrift und einen Einleitungstext.

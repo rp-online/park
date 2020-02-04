@@ -1,0 +1,19 @@
+<a href="{{ href }}" class="park-video-list-item">
+  <div class="park-video-list-item__image">
+  {% include 'components/image/template.twig' with {
+  'src': src,
+  'alt': alt,
+  'width': 140,
+  'height': 78,
+  'sizes': { "mobile": "140px", "desktop": "140px" },
+  'config': config} %}
+  </div>
+  <div>
+  {% if headline is defined %}
+  <{{ headline.tag }} class="park-video-list-item__headline">
+    {{ headline.text }}
+  </{{ headline.tag }}>
+  {% endif %}
+
+</div>
+</a>

@@ -1,0 +1,2489 @@
+{
+  "title": "Michael Ende Romanfragment wurde jetzt vollendet",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "/assets",
+    "searchPage": "/suche/",
+    "bookmarksPage": "/sso/bookmarks",
+    "subscriptionsPage": "/sso/subscriptions",
+    "myNewsPage": "/sso/my-news",
+    "loginPage": "/sso/login",
+    "loginOverlay": false,
+    "settingsPage": "/sso/settings",
+    "validateEmailURL": "/sso/new_validation_email",
+    "title": "Michael Ende Romanfragment wurde jetzt vollendet",
+    "url": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1566213338",
+    "container_id": 36556589,
+    "beitrag_id": 47811441,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Ein über 20 Jahre altes Romanfragment von Michael Ende ist jetzt vollendet und ein phantastisches Abenteuer für Kinder geworden."
+      },
+      {
+        "name": "author",
+        "content": "Lothar Schröder"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "googlebot-news",
+        "content": "noindex"
+      },
+      {
+        "property": "og:title",
+        "content": "Neues Buch von Michael Ende: Ängstlicher Raubritter trifft mutigen Knappen"
+      },
+      {
+        "property": "og:type",
+        "content": "article"
+      },
+      {
+        "property": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "og:url",
+        "content": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589"
+      },
+      {
+        "property": "og:description",
+        "content": "Ein über 20 Jahre altes Romanfragment von Michael Ende ist jetzt vollendet und ein phantastisches Abenteuer für Kinder geworden."
+      },
+      {
+        "property": "og:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_e4613f8909bfda418420f6d409e6dd14/w1065_h630_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "Michael Ende Romanfragment wurde jetzt vollendet"
+      },
+      {
+        "name": "twitter:description",
+        "content": "Ein über 20 Jahre altes Romanfragment von Michael Ende ist jetzt vollendet und ein phantastisches Abenteuer für Kinder geworden."
+      },
+      {
+        "name": "twitter:url",
+        "content": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_e4613f8909bfda418420f6d409e6dd14/w1065_h630_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg"
+      }
+    ],
+    "display_video_kicker": "0",
+    "dataLayer": {
+      "ressort": "kultur",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "Artikel",
+      "analyticsUrl": "/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+      "author": "Lothar Schröder",
+      "date": "2019-02-05T17:49:00+0100",
+      "datePublished": "2019-02-05 17:49",
+      "dateModified": "2019-02-05 19:22",
+      "daysSincePublication": "+194 days",
+      "origin": "4",
+      "seo": "/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+      "rhoUrl": "//r.rp-online.de/images/pic.gif?m=rp&b=47811441&cstr=36556589&l=1251&tit=Michael+Ende+Romanfragment+wurde+jetzt+vollendet&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fkultur%2Fmichael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589&sep=%7C&tce=1&tid=64430&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "aid",
+      "primaryLevel": "kultur",
+      "secondaryLevel": "",
+      "contentGroup": "",
+      "interredBID": 47811441,
+      "interredCID": 36556589,
+      "title": "Ängstlicher Raubritter trifft mutigen Knappen",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": true,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Ängstlicher Raubritter trifft mutigen Knappen",
+        "body": "Hallo%2C%0D%0A%0D%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0D%0A%0D%0A---------------------------------------------%0D%0AÄngstlicher Raubritter trifft mutigen Knappen%0D%0A---------------------------------------------%0D%0A%0D%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0D%0A%0D%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0D%0A%0D%0A_____%0D%0A%0D%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0D%0A%0D%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0D%0A%0D%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 36556589,
+      "doctype": "article",
+      "contentid": "/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+      "channel": 64430,
+      "heading": "Ängstlicher Raubritter trifft mutigen Knappen",
+      "kicker": "Düsseldorf ",
+      "tag": "kultur",
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "/kultur/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Kunst",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Kunst",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589",
+        "sc": "yes"
+      }
+    },
+    "vgwort": "https://ssl-rp-online.met.vgwort.de/na/9c2787d0b1e145b4acd33bb556a0585e",
+    "tisoomi": {
+      "javascript": "!function(G){ function J(G,J){ return G|J }function a(G,J){ return G<<J }function A(G,J){ return G>>>J }function L(G,J){ return G^J }function Z(){ }function o(G){ return G.parentNode }function D(G,J){ return G.indexOf(J) }function b(G){ return G.length }function v(G,J){ return G.appendChild(J) }function F(G,J){ return G.getElementsByTagName(J) }function _(G,J){ return G.createElement(J) }function Y(J){ var a=function(J){ var a=J.data;if(null!=a&&\"object\"==typeof a){ var A=_(t,\"a\"),L=_(t,\"a\");if(A.href=J.origin,L.href=p,(G.location.hostname===A.hostname||A.hostname===L.hostname)&&\"j\"===a.t&&null!=a.d){ var Z=F(t,\"body\")[0],o=_(t,\"script\");o.type=\"text/javascript\",o.text=a.d,v(Z,o),G.setTimeout(function(){ j(o) },1e3) } } };G.addEventListener(\"message\",a,!1);var A=function(){ if(GG)return void G.removeEventListener(\"message\",a,!1);var L=[Q(2,2,LG),Q(3,3,aG),Q(1,1,LG)].join(\"\"),Z=n+Q(3,3,AG)+Q(1,1,aG)+W,o=\"\",D=b(L);o=b(S)<32?Q(31-D,31-D,aG)+L+\"z\"+S:S.slice(0,31-b(L))+L+\"z\"+S.slice(32);var F=J.join(p,w,o,Z),Y={ };Y.lazy=!1,Y.autoInsert=!1,Y.im=F,Y=FG.B(Y,this),F=Y.im;var z=_(t,\"iframe\");z.src=F+\"#\"+G.encodeURIComponent(G.location.origin),z.style.width=\"1px\",z.style.height=\"1px\",z.onload=function(){ z.style.display=\"none\",G.setTimeout(function(){ j(z) },1e3) },z.onerror=z.onload,v(t.body,z),G.setTimeout(function(){ J.cb.push(A) },500) };J.cb.push(A) }function z(J){ J.pID=\"H15VUbd\",J.X=[\"Sky\",\"Medium\",\"Sky2\",\"Super\",\"Layer\",\"Billboard\"],J.regexp=/H15VUbd\\([\"']([\\w\\s\\.-]+)[\"']\\)/i,J.w=function(G){ var a=J.regexp.exec(G);return a&&a[1] },J.arr=[],J.done=[],J.cb=[],J.srch=function(){ for(var G,a=0,A=t.scripts;a<b(A);a+=1)(G=J.w(A[a].innerHTML))&&J.j(G)&&J.k(G)&&(J.R(A[a]),J.a(G,A[a]),J.done.push(G));J.done=[] },J.j=function(G){ return G&&D(J.X,G)>=0 },J.k=function(G){ return G&&D(J.done,G)<0 },J.R=function(G){ if(G){ var a,A=o(G).childNodes,L=k,Z=k,v=k,F=k,_=J.w(G.innerHTML);for(a=0;a<b(A);a+=1)if(L=A[a],\"SCRIPT\"===L.nodeName&&J.w(L.innerHTML)===_){ v=a;break }if(v!==k)for(a=v+1;a<b(A);a+=1)if(L=A[a],\"SPAN\"===L.nodeName&&D(L.className,J.pID+\"_end\")+1){ F=a;break }if(v!==k&&F!==k)for(a=v+1;a<F;a+=1)L=A[a],Z=L.nodeType,Node.ELEMENT_NODE!==Z&&Node.CDATA_SECTION_NODE!==Z&&Node.COMMENT_NODE!==Z||J.arr.push(L) } },J.crS=function(G){ var a=i(G)?G:[G];if(!0===J.B({ }).ignore)for(var A=0;A<b(a);A+=1)J.a(a[A],t.body);else for(var L,Z,o,v=0,F=[],_=t.scripts;v<b(_)&&!((L=J.w(_[v].innerHTML))&&(Z=D(a,L)>-1,o=-1===D(F,L),Z&&o&&(F.push(L),J.R(_[v]),J.a(L,_[v]),b(a)===b(F))));v+=1); },J.W=[],J.K=function(G,a){ var A={ };A.p=G,A.f=a,J.W.push(A) },J.B=function(G,a,A){ J.W=J.W.sort(function(G,J){ return G.p>J.p?1:G.p<J.p?-1:0 });var L=i(A)?A:[A];L.unshift(G);var Z;for(Z=0;Z<b(J.W);Z+=1)G=J.W[Z].f.apply(a||J,L);return G },J.a=function(a,A){ if(A){ var L,D=_(t,\"div\"),Y=_(t,\"div\"),z=_(t,\"div\");J.arr&&(L=J.arr,G.setTimeout(function(){ for(var G=0;G<b(L);G++)void 0!==L[G].style?L[G].style.setProperty(\"display\",\"none\"):v(Y,L[G]) },100)),J.arr=[];var h=function(){ o(A).insertBefore(D,A.nextSibling),v(D,z) },l={ };switch(a){ case\"Sky\":l.st=\"Hcvoyp5agoR4\",l.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",l.sd=\"position:absolute;top:0px;left:1020px;max-width:300px;\",l.sm=\"\",l.im=u(\"1TiB4UMY3u0m58t1QEfM59\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4UMY3u0EfmHz\",\"\"),l.extra=\"\",l.ins=function(){ z.style.setProperty(\"position\",\"fixed\"),h() },l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z;break;case\"Medium\":l.st=\"NJ2lbf1nKKJv\",l.ss=\"cursor:pointer;max-width:300px;max-height:250px;\",l.sd=\"\",l.sm=\"\",l.im=u(\"1TiB4VLI43m31bIozEfMW8\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4VLI43mEf3Hw\",\"\"),l.extra=\"\",l.ins=\"\",l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z;break;case\"Sky2\":l.st=\"b7iBlYxlNNjU\",l.ss=\"cursor:pointer;max-width:800px;max-height:800px;\",l.sd=\"\",l.sm=\"\",l.im=u(\"1TiB4VMQ4UkTwx3fMEfMt3\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4VMQ4UkEfTHz\",\"\"),l.extra=\"\",l.ins=\"\",l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z;break;case\"Super\":l.st=\"tFkuYdAsEZVz\",l.ss=\"cursor:pointer;max-width:728px;max-height:90px;\",l.sd=\"margin:0 0 0 36px;max-width:970px;max-height:250px;position:relative;\",l.sm=\"\",l.im=u(\"1TiB4UKJ3sw2oenESEfMe6\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4UKJ3swEf2Hl\",\"\"),l.extra=\"\",l.ins=\"\",l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z;break;case\"Layer\":l.st=\"fu9eOP8hrNbe\",l.ss=\"cursor:pointer;max-width:1024px;max-height:1024px;\",l.sd=\"top:50%;position:relative;\",l.sm=\"\",l.im=u(\"1TiB4VME4V867FcbBEfMy3\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4VME4V8Ef6Hr\",\"\"),l.extra=\"\",l.ins=function(){ z.style.setProperty(\"position\",\"fixed\"),z.style.setProperty(\"z-index\",\"10000\"),z.style.setProperty(\"margin\",\"-300px 0 0 40px\"),h() },l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z;break;case\"Billboard\":l.st=\"JY7zngfjOnBC\",l.ss=\"cursor:pointer;max-width:975px;max-height:300px;\",l.sd=\"max-width:970px;max-height:250px;position:relative;\",l.sm=\"\",l.im=u(\"1TiB4UIO4IlhrQ9vEEfMw8\",\"\",\"\"),l.m=1,l.cl=e(\"1TiB4UIO4IlEfhHu\",\"\"),l.extra=\"\",l.ins=function(){ t.querySelector(\"main#park-main div.park-section-portal-top__content\");z.style.setProperty(\"pointer-events\",\"auto\"),h() },l.ifr=!1,l.fb=!1,l.ifrBlock=!1,l.mkStyleDyn=Z }if(b(Object.keys(l))>0){ l.mkStyleDyn&&l.mkStyleDyn(J.profile||{ });var M={ };if(void 0!==l.li&&(l.cl=O(l)),l=J.B(l,this,[a,M]),l.ignore)return;if(s(l.wp))l.wp(),J.callback();else{ var U=_(t,\"style\");U.type=\"text/css\",\"M\"===B&&l.m?l.ss+=l.sm:l.ss+=l.sd,U.innerHTML=\"#\"+l.st+\"{ \"+l.ss+\" }\",v(F(t,\"head\")[0],U),z.id=l.st;var d=_(t,\"img\");d.onload=E(function(){ l.bs&&(d.style.cssText+=\"width:\"+this.width+\"px;height:\"+this.height+\"px;max-width:\"+this.width+\"px;max-height:\"+this.height+\"px;\"),v(z,d),s(l.ins)?l.ins():h(),s(l.extra)&&l.extra(),s(l.onLoaded)&&l.onLoaded(d),J.callback() },g),d.onerror=function(){ d.style.setProperty(\"display\",\"none\"),\"function\"==typeof H&&H(a),J.callback() },d.onclick=function(G){ G.preventDefault(),G.stopPropagation();var J=N(G);I(l.cl(J.x,J.y)) },l.remove=function(){ j([D,z,U]) },d.src=l.im } } } },J.join=function(){ var G,J,a,A,L,Z,o,v,F,_=\"/\",Y=_+_,z=\":\",h=arguments,l=\"\",M=\"\",U=h[0],j=b(h);if(!U)return l;for(G=h[j-1],J=U.charAt(0)===_,a=G.slice(-1)===_,A=0===D(U,Y),L=0;L<j;L+=1)l+=h[L]+_;for(o=l.split(z+Y),2===b(o)&&(M=o[0]+z,l=o[1]),v=l.split(_),F=[],L=0;L<b(v);L+=1)(Z=v[L])&&F.push(Z);return F=F.join(_),b(M)>1||A?F=M+Y+F:J&&(F=_+F),a&&(F+=_),F },J.cbtimeout=k,J.cbiter=function(){ var a;if(b(J.cb)>m){ a=J.cb.shift();try{ a() }catch(G){ }J.cbtimeout=G.setTimeout(J.cbiter,1) } },J.callback=function(){ J.cbtimeout&&G.clearTimeout(J.cbtimeout),J.cbtimeout=G.setTimeout(J.cbiter,1500) } }function h(){ if(!c()&&(!G[YG]||_G&&G[YG]!=_G)){ var J=F(t,\"body\")[0],a=_(t,\"img\");X()&&v(J,a),a.src=\"https://www.thisdomainandnothingelse.com/\"+Date.now()+\"/postad.bmp\",a.onerror=function(){ M(),j(this) },a.onload=function(){ this.width<3&&(M(),j(this)) } } }function l(){ JG=f,G.setTimeout(function(){ JG=x },2e3) }function M(){ if(!JG&&G[YG]!==_G){ l(),G[YG]=_G,n=Q(9,9,aG+AG+LG);var J=_(t,\"script\"),a=F(t,\"body\")[0];/* cookie link to disable personalisation */\nJ.src=\"https://\"+\"www.tisoom\"+\"i-s\"+\"ervices.com/cookie\",J.onload=U,J.onerror=U,v(a,J) } }function U(){ var J=\"5\",a=P(\"_TStfc\");b(a)>12&&(a=a.substring(32)),\"\"!==a&&a.slice(-1)===J||(a=Date.now()%1e10+zG.floor(35*zG.random()).toString(36)+J,r(\"_TStfc\",a,2592e3,\"/\")),!G[\"us\"+\"erOp\"+\"tOut\"]&&G.ti_id?S=G.ti_id+a:(S=a,GG=f),q(),j(this),FG.srch() }function j(G){ (i(G)?G:[G]).forEach(function(G){ G&&o(G)&&o(G).removeChild(G) }) }function d(J){ function a(){ _=f,J() }function A(G,J){ return G&&J }function L(G,J,a,A){ a(\"\")?A(\"\"):o(G,J,a,A) }function Z(G){ return A(!_,G>m) }function o(J,a,A,o){ Z(J)&&G.setTimeout(L,a,J-1,a,A,o) }function b(){ return-1!==D([\"complete\",\"interactive\"],t.readyState) }function v(){ _||a() }function F(){ if(A(!_,t.body))try{ t.documentElement.doScroll(\"left\"),v() }catch(J){ G.setTimeout(F,m) } }var _=x;b()?G.setTimeout(v,m):t.addEventListener?t.addEventListener(\"DOMContentLoaded\",function(){ v() },x):t.attachEvent&&(t.documentElement.doScroll&&G===G.top&&F(),t.attachEvent(\"onreadystatechange\",function(){ b()&&v() })),G.addEventListener?G.addEventListener(\"load\",function(){ v() },x):G.attachEvent&&G.attachEvent(\"onload\",v),G.setTimeout(L,m,20,250,b,v) }function X(){ return/^((?!chrome).)*safari/i.test(navigator.userAgent) }function c(){ return/msie|trident|edge/i.test(navigator.userAgent) }function P(G){ for(var J=t.cookie.split(\";\"),a=\"\",A=0;A<b(J);A+=1){ var L=J[A].trim();0===D(L,G+\"=\")&&(a=L.replace(G+\"=\",\"\")) }return a }function r(G,J,a,A){ void 0===a&&(a=2592e3);for(var L=Date.now(),Z=t.domain,o=Z.split(\".\"),v=\"_gd\"+L,F=2;F<=b(o)&&-1===D(t.cookie,v+\"=\"+v);F+=1)Z=o.slice(-F).join(\".\"),t.cookie=v+\"=\"+v+\";domain=\"+Z+\";\";var _=new Date(0);t.cookie=v+\"=;expires=\"+_.toUTCString()+\";domain=\"+Z+\";\",_.setTime(L+1e3*a),t.cookie=G+\"=\"+J+\"; expires=\"+_.toUTCString()+\";\"+(Z?\"domain=\"+Z+\";\":\"\")+\"path=\"+(A||\"/\") }function q(){ var G=[\"Phone\",\"Pod\",\"Pad\",\"Android\",\"BlackBerry\",\"PlayBook\",\"Kindle\",\"Mobi\",\"Mini\"];B=\"D\";for(var J=0;J<b(G);J+=1)if(D(navigator.userAgent,G[J])>-1)return void(B=\"M\") }function N(G){ var J=G.target,a=J.getBoundingClientRect(),A=G.clientX-a.left,L=G.clientY-a.top;return A*=(J.naturalWidth||J.clientWidth)/a.width,L*=(J.naturalHeight||J.clientHeight)/a.height,{ x:zG.floor(A),y:zG.floor(L) } }function T(G,J,a){ if(\"number\"!=typeof G||\"number\"!=typeof J||!i(a))return-1;for(var A,L,Z,o,D,v=0;v<b(a);v+=1)if(A=a[v],L=A[0],Z=A[1],o=A[2],D=A[3],L<=G&&G<=o&&Z<=J&&J<=D)return v;return-1 }function Q(G,J,a){ for(var A=\"\",L=G+zG.floor(zG.random()*(J-G));L;)A+=a[zG.floor(zG.random()*b(a))],L-=1;return A }function i(G){ return Array.isArray?Array.isArray(G):\"[object Array]\"===Object.prototype.toString.call(G) }function s(G){ return\"function\"==typeof G }function K(){ return!1 }function H(G){ bG||(D(oG,G)>-1&&(DG+=1,vG[G]=1),(DG===b(oG)||K())&&ZG&&(bG=f,FG.a(ZG,t.body))) }function $(G,J,Z,o){ return function(){ var D=L(G,A(a(G,11),0));return G=J,J=Z,Z=o,(o=A(L(L(o,A(o,19)),L(D,A(D,8))),0))/zG.p32 } }function C(){ var G=new Uint32Array(1);return function(){ return crypto.getRandomValues(G),G[0]/zG.p32 } }function R(J){ var a=function(G){ var J=[G(),G()];return J=J.filter(function(G){ return\"number\"==typeof G&&G>=0&&G<=1 }),2===b(J)&&J[0]!==J[1] };if(s(J)&&a(J))return J;var A=\"Uint32Array\"in G,L=G.crypto||G.msCrypto,Z=L&&s(L.getRandomValues);if(A&&Z){ var o=C();if(a(o))return o }var D=Date.now();return $(541*D,1223*D,1987*D,2741*D) }function V(){ return function(G){ return G<0&&(G-=1),J(G,0) } }function I(J){ aG.slice(1);J&&G.location.assign(J) }function u(G,J,a){ return FG.join(p+w,J+S,a+n+G+W) }function y(G,J,a,A){ return FG.join(p+w,S,a+\"f\"+A,J+n+G+W) }function e(G,J){ return y.bind(k,G,J) }function E(J,a){ return function(){ G.setTimeout(J.bind(this),a) } }function O(G){ var J=G.cl;return function(a,A){ var L=G.li.coords,Z=J,D=function(){ var J=t.getElementById(G.st);o(o(J)).removeChild(o(J)) },v=G.li.func.bind(null);if(b(L)>0){ var F=T(a,A,L);if(F<0)return;if(F>-1&&F<b(L)&&\"function\"==typeof v)return v(F,Z,D) }D() } }var f=!0,x=!1,k=null,m=0,g=50,t=G.document,p=G.xH15VUbdx||\"//www.rp-online.de/\",w=\"image/public\",W=\".gif\",B=\"U\",n=\"\",S=\"\",GG=x,JG=x,aG=\"0123456789\",AG=\"BCDEFGHIJKLMNOPQRSTUVWXYZ\",LG=\"bcdefghijklmnoqrstuvxyz\",ZG=\"\",oG=[\"Sky\"],DG=m,bG=x,vG={ },FG={ },_G=\"KEYY85V\",YG=\"_tsqekhmddtz\",zG={ };zG.p32=524288*8192,zG.random=R(Math.random),zG.floor=V(),z(FG),function(G){ Y(G) }(FG),d(h),FG.t=\"20190819125239\" }(window);"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www-rpd.rp-online.de/kultur/michael-ende-romanfragment-wurde-jetzt-vollendet_aid-36556589"
+      },
+      "headline": "Michael Ende Romanfragment wurde jetzt vollendet",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_fa6378c8679f95ae1c535289e42dba9e/w950_h526_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2019-02-05T17:49:00+0100",
+      "dateModified": "2019-02-05T19:22:12+0100",
+      "author": {
+        "@type": "Person",
+        "name": "Lothar Schröder"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/tok_7a6a257176c4b541a3f9ce25419cacaa/w255_h60_x1017_y559_RP_ONLINE_Platzhalter_Grafik_Teaserbild-37dd4505491d9517.png",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Ein über 20 Jahre altes Romanfragment von Michael Ende ist jetzt vollendet und ein phantastisches Abenteuer für Kinder geworden.",
+      "isAccessibleForFree": "True",
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "RP ONLINE Basic",
+        "productID": "www-rpd.rp-online.de:basic"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/leaderboard_1",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                970,
+                110
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "key": "lb1",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "halfpagead",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/halfpagead_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "halfpagead",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_1",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_2",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle_3",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_3",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle_4",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_4",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle_5",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_5",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "rectangle_6",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/rectangle_6",
+            "size": [
+              [
+                300,
+                250
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "rectangle",
+              "rang": "6"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/footerad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36556589",
+          "pfad1": "kultur",
+          "pfad2": "stop",
+          "mode": "desktop",
+          "zone": "entertainment"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36556589",
+          "pfad1": "kultur",
+          "pfad2": "stop",
+          "oms": "entertainment",
+          "mode": "desktop"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "//ads.pubmatic.com/AdServer/js/pwt/158201/1438/pwt.js"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1",
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2",
+              "adformat": "mobilebanner",
+              "rang": "2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_3",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_3",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_4",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_4",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "4"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_5",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_5",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "5"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_6",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_6",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "6"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_7",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_7",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "7"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_8",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_8",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "rang": "8"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner_9",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/mobilebanner_9",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                50
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "mobilebanner",
+              "key": "inreco",
+              "rang": "9"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad_2",
+            "adUnitPath": "/1017380/dev.rp-online.de/entertainment/footerad_2",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "2"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36556589",
+          "pfad1": "kultur",
+          "pfad2": "stop",
+          "mode": "mobile",
+          "zone": "entertainment"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "36556589",
+          "pfad1": "kultur",
+          "pfad2": "stop",
+          "oms": "entertainment",
+          "mode": "mobile"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "//ads.pubmatic.com/AdServer/js/pwt/158201/1438/pwt.js"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "landingpage": "/info/adblocker/",
+      "welectWebBaseUrl": "https://www.welect.de",
+      "welectApiBaseUrl": "https://www.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator.welect.de/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "notifications": {
+      "showSubscriptionButtons": true
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    }
+  },
+  "notifications": {
+    "distribution": {
+      "onsite": true
+    },
+    "pushProvider": {
+      "name": "CleverPush",
+      "key": "Nt8wzkKHeBpy8Anez"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik2",
+        "href": "/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": true,
+        "text": "Kultur",
+        "href": "/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "https://www-rpd.rp-online.de/imgs/33/7/7/2/5/5/9/9/20190105_091202-d3f2f13129c23c1a.jpg",
+      "text": "",
+      "href": "https://www.fuerteventurazeitung.de/",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Michael Ende Romanfragment wurde jetzt vollendet"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "Kultur",
+                        "href": "https://www-rpd.rp-online.de/kultur/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Ängstlicher Raubritter trifft mutigen Knappen"
+                    },
+                    "id": 36556589,
+                    "kicker": {
+                      "text": "Neues Buch von Michael Ende"
+                    },
+                    "timestamp": 0,
+                    "contentLabel": [],
+                    "cover": {
+                      "src": {
+                        "250w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_84ca779ea389ba89b82e9942cd80b524/w250_h138_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                        "400w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_f21ac5934f1dce362cd18675153108ac/w400_h221_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                        "600w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_949e6bc30aac57c1a7a8ec1843e80e1d/w600_h332_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                        "900w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_de8255e90f53481dda8aed4a161e9e5f/w900_h498_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                        "950w": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_fa6378c8679f95ae1c535289e42dba9e/w950_h526_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg"
+                      },
+                      "src_zoom": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_55dea8223682fcb527c48e183fd5c7dc/w1065_h1600_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                      "src_fit": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_b97ca2fb29faf8536d8bab6394ae30ba/w350_h526_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg",
+                      "alt": "Michael Ende Romanfragment wurde jetzt vollendet",
+                      "caption": " Rodrigo Raubein und sein Knappe Knirps ",
+                      "source": {
+                        "text": "Thienemann/Kehn"
+                      },
+                      "link": {
+                        "type": "enlargable",
+                        "href": "https://www-rpd.rp-online.de/imgs/32/4/7/8/1/1/4/4/1/tok_55dea8223682fcb527c48e183fd5c7dc/w1065_h1600_x532_y800_Rodrigo_RaubeinRZ_3.Kap.-Ganze_Seite_preview-4fe4ae6d7bbdb54a.jpg"
+                      },
+                      "type": "image"
+                    },
+                    "dateline": "Düsseldorf",
+                    "intro": "Ein über 20 Jahre altes Romanfragment von Michael Ende ist jetzt vollendet und ein phantastisches Abenteuer für Kinder geworden.",
+                    "sign": "",
+                    "fragmentCount": 8,
+                    "authorsbox": {
+                      "text": "Von Lothar Schröder"
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "mobile-rectangle",
+                          "html": "<div id=\"mobilebanner_2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "medium-rectangle",
+                          "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script><div id=\"halfpagead\"></div><span class=\"H15VUbd_end\"></span>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "centeredAds": true,
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text_ohne_einzug\">Manche Geschichten wollen einfach keine Ruhe geben. Spuken so herum, verstecken sich manchmal oder dösen ein wenig vor sich hin, bis sie sich dann doch zu räkeln beginnen und glauben, dass es nun an der Zeit sei, endlich weiter- und vielleicht sogar zu Ende erzählt zu werden. Wie zum Beispiel diese Geschichte von Rodrigo Raubein und seinem Knappen Knirps. Über zwei Jahrzehnte existierten von ihrem Abenteuer bloß die ersten drei Kapitel, kaum mehr als ein längerer Anfang. Zu viel, um die Geschichte zu ignorieren, und zu wenig, um sich mit ihr schon begnügen zu können.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Zumal es sich dabei um das phantastische Vermächtnis eines der größten Jugendbuchautoren handelt: Michael Ende hat bis kurz vor seinem Tod 1995 an dieser Geschichte gearbeitet und die ersten Seiten damals mit der Schreibmaschine fein säuberlich abgetippt. Ein „Romanfragment“ nannte man es und veröffentlichte es postum 1998 in dem Sammelband „Der Niemandsgarten“. So, als sollten die drei Kapitel den Schlussstein setzen zu einem großen Werk, das mit „Momo“, „Die unendliche Geschichte“ oder auch „Jim Knopf und Lukas der Lokomotivführer“ in vierzig Sprachen übersetzt wurde und eine Gesamtauflage von über 30 Millionen Exemplaren erreichte.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Info"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "2019 ist das \nMichael-Ende Jahr"
+                                },
+                                "text": "<p class=\"info_text\"><strong>Das Buch</strong> Michael Ende / Wieland Freund: „Rodrigo Raubein und Knirps, sein Knappe“. Mit Bildern von Regina Kehn. Thienemann, 202 S., 17 Euro, ab sechs J.</p><p class=\"info_text\"><strong>Festjahr</strong> Im November wäre Michael Ende (1929-1995) 90 Jahre alt geworden. Aus diesem Anlass soll es diverse Neuerscheinungen geben.</p>"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Ihre Ruhe hat die Geschichte aber nicht gefunden. Sie rumorte so lange, bis Wieland Freund – Schriftsteller und Michael-Ende-Fan seit Jugendtagen – sich schreibend und phantasierend auf die Suche nach ihrem Fortgang machte. Jetzt liegt die ganze Geschichte vor, und dass es wahrscheinlich nicht das Abenteuer geworden ist, das Michael Ende damals vorgeschwebt haben könnte, liegt in der Natur der Dichtung. Dennoch ist es ein pfiffiges Buch geworden, witzig und phantastisch, nachdenklich und poetisch. Der Held ist (typisch Ende) ein Kind, das so heißt, wie es sich seine Eltern wünschen: Knirps. Der aber ist tapfer genug, der Welt die Stirn zu bieten und vor allem seinen Eltern auf und davonzulaufen. Die sind zwar Marionettenspieler, aber eigentlich spießig und sterbenslangweilig. Also türmt Knirps ausgerechnet im unheilvollen Bangewald und marschiert geradewegs zur Schauderburg, in der kein geringerer als Rodrigo Raubein haust. Der ist erstens – was alle Welt weiß – ein ziemlich schlimmer Raubritter, und zweitens – was niemand ahnt – ein ziemlich ängstlicher Mensch, der lieber seine Kakteen pflegt und zur Tarnung selbstgemachte Schädel und Knochen aus Gips um seine Burg als  Nachweis seiner Grausamkeit gestreut hat.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Mit der Ankunft von Knirps auf der Burg bricht der Text von Michael Ende ab und beginnt Wieland Freunds waghalsige Fortsetzung. Was passiert? Das Beste, was einer Geschichte passieren kann: Sie geht einfach abenteuerlich weiter. Und spätestens beim wunderschönen Wortungetüm der „kohlpechrabendusterern Nacht“ liest man sehr beruhigt weiter.</p>"
+                        }
+                      },
+                      {
+                        "component": "multi-portal",
+                        "data": {
+                          "type": "slider",
+                          "widthFractionDesktop": "3",
+                          "headline": {
+                            "tag": "span",
+                            "text": "#Slider 1/3Breite 1Anzeigen Autoplay"
+                          },
+                          "sliderItemWidthFraction": "1",
+                          "sliderAutoforward": true,
+                          "items": [
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_3\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_4\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle_2\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_5\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle_3\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_6\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle_4\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_7\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle_5\"></div>",
+                                "lazy": false
+                              }
+                            },
+                            {
+                              "type": "portal",
+                              "mobile": {
+                                "type": "free",
+                                "html": "<div id=\"mobilebanner_8\"></div>",
+                                "lazy": false
+                              },
+                              "desktop": {
+                                "type": "free",
+                                "html": "<div id=\"rectangle_6\"></div>",
+                                "lazy": false
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Es war gut, mit Wieland Freund einen waschechten Ende-Leser gefunden zu haben. Denn der legt nicht einfach los und zeigt, was er phantastisch so alles draufhat. Vielmehr hat er sich in aller Seelenruhe im Ende-Fragment umgeschaut und ist im Puppentheater-Wagen von Knirps Eltern fündig geworden. Denn dort  hängen an ihren Fäden Marionetten von Prinzessinnen und traurigen Königen, von Hexen, Zauberern, Drachen und Rittern. Was will man mehr? Also hat Wieland Freund sie zum Leben erweckt und in die Geschichte bugsiert.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Nicht vergessen sollte man noch den Papagei der Puppenspielerfamilie, der bemüht ist, seinem Namen Sokrates jede Menge Ehre zu machen. In einem alten Geschichtenbuch liest er nach, was noch so alles passieren und wie man Knirps vor großem Unheil bewahren könnte. Plötzlich findet sich der Leser im Michael-Ende-Universum wieder, das keinen Anfang und kein Ende kennt, das lauter kluge Fragen stellt und spaßeshalber auf Antworten verzichtet.</p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Wenn die Kleinen ganz groß und die Schwachen mächtig stark sind, wird die Welt auf den Kopf gestellt. Und das sind keine Lügengeschichten, sondern bloß andere Wahrheiten. Von nichts anderem hat Michael Ende immer erzählt, und von nichts anderem handelt auch das Märchen von Rodrigo Raubein und Knirps: Wie es nämlich ist, eine Marionette zu sein oder sich frei bewegen zu können. Und wie man erkennen kann, was man eigentlich will und ob man anderen oft nur etwas vormacht. Das hört sich immer banal an für den, der weiß, wo es langgeht. All jene aber, die das Grübeln über sich und die Welt noch nicht drangegeben haben, schenkt die Geschichte reichlich Nahrung. Und ganz am Ende – als aus dem blamablen Raubritter Rodrigo Raubein ein formidabler Puppenspieler geworden ist – gibt es noch ein paar Nachdenklichkeiten wie diese: „Aber es ist eben gar nicht so einfach, zu tun, was man will. Oft braucht man lange, um es herauszufinden, und manchmal braucht man dazu auch ein bisschen Glück.“</p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "html",
+                      "html": ""
+                    },
+                    "mobile": {
+                      "type": "html",
+                      "html": ""
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<!-- RPD Adserver Integration -->\r\n<div id=\"gpt_rpd_adslot_inreco\"></div>\r\n<style>\r\n#gpt_rpd_adslot_inreco{\r\n    display: block;\r\n    text-align: center;\r\n}\r\n</style>\r\n <script>\r\n    if(rpd_debug===undefined){\r\n        var rpd_debug=[];\r\n            rpd_debug.push(\"RPD Debug\");\r\n            rpd_debug.push(\"Seite: \" + window.location.href);\r\n            rpd_debug.push(\"Seitenbreite: \" + window.innerWidth);\r\n            rpd_debug.push(\"Useragent: \" + window.navigator.userAgent);\r\n    }\r\n    if(typeof this['rpd_debugs'] != 'function') {\r\n        function rpd_debugs(){\r\n            for (var i=0; i<rpd_debug.length;i++){\r\n                console.log(rpd_debug[i]);\r\n            }\r\n        }\r\n    }\r\n    (function() {\r\n        function init() {\r\n            if (typeof window.googletag === \"undefined\") {\r\n                googletag = window.googletag || {cmd: []};\r\n                    var script   = document.createElement(\"script\");\r\n                        script.type  = \"text/javascript\";\r\n                        script.async = true;\r\n                        script.src   = \"https://www.googletagservices.com/tag/js/gpt.js\";\r\n                        document.head.appendChild(script);\r\n                    rpd_debug.push(\"GPT nicht vorhanden gewesen\");\r\n            }else{ rpd_debug.push(\"GPT vorhanden\"); }\r\n\r\n            var gpt_rpd_adslot;\r\n            var rpd_adunit0 = \"1017380\";\r\n            var rpd_adunit1 = \"dev.rp-online.de\";\r\n            var rpd_adunit2 = \"contentad_inreco_1\"; //mobil adunit\r\n            var rpd_adunit2_desk = \"contentad_inreco_1\"; //desktop adunit\r\n            var rpd_div_id = 'gpt_rpd_adslot_inreco';\r\n            if (!document.querySelector(\".ob-smartfeed-joker\")) {\r\n                window.setTimeout(init, 100);\r\n                rpd_debug.push(\"warten auf Outbrain\");\r\n                return;\r\n            }\r\n            /*if(!document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                document.write('<div id='+rpd_div_id+'></div>');\r\n                rpd_debug.push(\"DIV nicht vorhanden, deswegen wird dieses per JS geschrieben.\");\r\n            }*/\r\n            /*\r\n            // Nur aktivieren, wenn über CSS nicht möglich\r\n            if(document.querySelector(\"#\"+rpd_div_id)){ //Auswahl der Breite\r\n                var maxslotbreite = document.querySelector(\"#\"+rpd_div_id).parentElement.offsetWidth;\r\n            }else{\r\n                var maxslotbreite = 300;\r\n            }\r\n            rpd_debug.push(\"Maximale Slotbreite: \"+maxslotbreite);\r\n            */\r\n            var adsize=[];\r\n            // maxslotbreite tauschen mit matchMedia wenn über CSS nicht möglich\r\n            //if (maxslotbreite >= 300) {\r\n            if (window.matchMedia(\"(min-width: 300px)\").matches) {\r\n                adsize.push([300,250]);\r\n                adsize.push([300,600]);\r\n                adsize.push([300,300]);\r\n                adsize.push([300,50]);\r\n                adsize.push([300,100]);\r\n                adsize.push([300,150]);\r\n            }\r\n            //if (maxslotbreite >= 320) {\r\n            if (window.matchMedia(\"(min-width: 320px)\").matches) {\r\n                adsize.push([320,50]);\r\n                adsize.push([320,100]);\r\n                adsize.push([320,150]);\r\n            }\r\n            //if (maxslotbreite >= 336) {\r\n            if (window.matchMedia(\"(min-width: 336px)\").matches) {\r\n                adsize.push([336,280]);\r\n            }\r\n            //if (maxslotbreite >= 468) {\r\n            if (window.matchMedia(\"(min-width: 468px)\").matches) {\r\n                adsize.push([468,60]);\r\n                rpd_adunit2 = rpd_adunit2_desk;\r\n            }\r\n            //if (maxslotbreite >= 540) {\r\n            if (window.matchMedia(\"(min-width: 540px)\").matches) {\r\n                adsize.push([540,300]);\r\n            }\r\n            //if (maxslotbreite >= 728) {\r\n            if (window.matchMedia(\"(min-width: 728px)\").matches) {\r\n                adsize.push([728,90]);\r\n            }\r\n            //if (maxslotbreite >= 800) {\r\n            if (window.matchMedia(\"(min-width: 800px)\").matches) {\r\n                adsize.push([800,250]);\r\n            }\r\n            //if (maxslotbreite >= 970) {\r\n            if (window.matchMedia(\"(min-width: 970px)\").matches) {\r\n                adsize.push([970,90]);\r\n                adsize.push([970,250]);\r\n            }\r\n            rpd_debug.push(\"Adunit: \"+ rpd_adunit0 + \"/\" + rpd_adunit1 + \"/\" + rpd_adunit2);\r\n            rpd_debug.push(\"Ad Sizes: \"+adsize);\r\n            googletag.cmd.push(function() {\r\n                gpt_rpd_adslot = googletag.defineSlot('/'+rpd_adunit0+'/'+rpd_adunit1+'/'+rpd_adunit2, adsize, rpd_div_id).setTargeting('adformat', 'contentad').setTargeting('key', 'inreco').setCollapseEmptyDiv(true, true).addService(googletag.pubads());\r\n\r\n                googletag.pubads().addEventListener('slotOnload', function(event) {\r\n                    var times = performance.now();\r\n                    var diftimes = Math.round(times)/1000;\r\n                    rpd_debug.push('Dauer SlotOnload '+ event.slot.getSlotElementId() + ' : ' + diftimes + ' sek.');\r\n                });\r\n                googletag.pubads().addEventListener('slotRenderEnded', function(event) {\r\n                    var time = performance.now();\r\n                    var diftime = Math.round(time)/1000;\r\n                    rpd_debug.push('Dauer slotRenderEnded '+ event.slot.getSlotElementId() + ' : ' + diftime + ' sek.');\r\n                });\r\n                googletag.enableServices();\r\n                googletag.display(rpd_div_id);\r\n            });\r\n        }\r\n        init();\r\n    })();\r\n    </script>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"mobilebanner_9\"></div>",
+                      "lazy": false
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "Michael Ende Romanfragment wurde jetzt vollendet"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "",
+                      "text": "Sehr geehrte Leserin, sehr geehrter Leser,<br><br>\r\nwir haben Ihnen die Kommentarrechte für Ihr Profil entzogen.<br>\r\nZu dieser Maßnahme sehen wir uns gezwungen, da Sie mehrfach und/oder in <br>\r\nerheblichem Maße gegen unsere Allgemeinen Geschäftsbedingungen verstoßen\r\nhaben.<br><br>\r\nViele Grüße<br>\r\nIhr RP ONLINE Team"
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"/sso/login\">melden Sie sich bitte an</a>."
+                    },
+                    "discussion": {
+                      "id": 47811441,
+                      "url": "/api/comments?beitrag_id=47811441",
+                      "counturl": "/api/comments?type=count&beitrag_id=47811441"
+                    },
+                    "terms": {
+                      "href": "/allgemeines/regeln-fuer-leserkommentare-auf-rp-online_aid-14359445"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht",
+                            "hint": ""
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"footerad\"></div>",
+                      "lazy": false
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"footerad_2\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"footerad_2\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com/rponline",
+          "href": "https://www.facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "/app/newsletter/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den täglichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https://rp-online.de/thema/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/advertorial/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Rheinbahn",
+          "href": "http://bit.ly/2F6zmT1",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https://vergleich.rp-online.de/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "/api/tree?output=html&currentNode=64430"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "/digitales/apps/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https://rp.kaufdown.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https://rp-online-dating.de/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "/nrw/staedte/dinslaken/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "/nrw/staedte/dormagen/",
+              "featured": false
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "/nrw/staedte/duesseldorf/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "/nrw/staedte/duisburg/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "/nrw/staedte/emmerich/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "/nrw/staedte/erkelenz/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "/nrw/staedte/erkrath/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "/nrw/staedte/geldern/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "/nrw/staedte/goch/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "/nrw/staedte/grevenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "/nrw/staedte/haan/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "/nrw/staedte/hilden/",
+              "featured": false
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "/nrw/staedte/hueckelhoven/",
+              "featured": false
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "/nrw/staedte/hueckeswagen/",
+              "featured": false
+            },
+            {
+              "text": "Hünxe",
+              "href": "/nrw/staedte/huenxe/",
+              "featured": false
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "/nrw/staedte/juechen/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "/nrw/staedte/kaarst/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "/nrw/staedte/kamp-lintfort/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "/nrw/staedte/kempen/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "/nrw/staedte/kevelaer/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "/nrw/staedte/kleve/",
+              "featured": false
+            },
+            {
+              "text": "Köln",
+              "href": "/nrw/staedte/koeln/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "/nrw/staedte/korschenbroich/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "/nrw/staedte/krefeld/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "/nrw/staedte/kreis-heinsberg/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "/nrw/staedte/langenfeld/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "/nrw/staedte/leichlingen/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "/nrw/staedte/leverkusen/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "/nrw/staedte/meerbusch/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "/nrw/staedte/mettmann/",
+              "featured": false
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "/nrw/staedte/moenchengladbach/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "/nrw/staedte/moers/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "/nrw/staedte/nettetal/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "/nrw/staedte/neukirchen-vluyn/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "/nrw/staedte/neuss/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "/nrw/staedte/radevormwald/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "/nrw/staedte/ratingen/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "/nrw/staedte/remscheid/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "/nrw/staedte/rheinberg/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "/nrw/staedte/rommerskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "/nrw/staedte/solingen/",
+              "featured": false
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "/nrw/staedte/toenisvorst/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "/nrw/staedte/viersen/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "/nrw/staedte/wassenberg/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "/nrw/staedte/wegberg/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "/nrw/staedte/wermelskirchen/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "/nrw/staedte/wesel/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "/nrw/staedte/willich/",
+              "featured": false
+            },
+            {
+              "text": "Wülfrath",
+              "href": "/nrw/staedte/wuelfrath/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "/nrw/staedte/xanten/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "/nrw/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik2",
+          "href": "/politik/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "/sport/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "/panorama/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": true,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "/kultur/",
+          "target": "_self",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Kunst",
+              "href": "/kultur/kunst/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Musik",
+              "href": "/kultur/musik/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Film",
+              "href": "/kultur/film/",
+              "target": "_self",
+              "children": []
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Buch",
+              "href": "/kultur/buch/",
+              "target": "_self",
+              "children": []
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "/wirtschaft/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "/digitales/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

@@ -1,0 +1,23 @@
+<section class="park-navigation-section">
+  {% if headline is defined %}
+  <{{ headline.tag }} class="park-navigation-section__headline">{{ headline.text }}</{{ headline.tag }}>
+{% endif %}
+<ul class="park-navigation-section__items">
+  {% for item in items %}
+    <li class="park-navigation-section__item">
+      {# Replacing spaces with non-breaking spaces to fix this Safari bug:
+      https://stackoverflow.com/questions/40742621/whitespace-no-wrap-prevents-flex-wrap-in-safari #}
+      {% set item = item|merge({
+        text: item.text|replace({
+          ' ': '&nbsp;',
+          '-': '&#8209;'
+        }),
+        classes: [
+          'park-navigation-section__item-link'
+        ]
+      }) %}
+      {% include 'components/link-helper/template.twig' with item only %}
+    </li>
+  {% endfor %}
+</ul>
+</section>

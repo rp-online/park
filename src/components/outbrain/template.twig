@@ -1,0 +1,30 @@
+<aside class="park-outbrain">
+  {% if config.disableAds is not defined or config.disableAds is same as(false) %}
+    <link rel="preconnect" href="https://widgets.outbrain.com">
+    <link rel="preload" href="https://widgets.outbrain.com/outbrain.js" as="script">
+    <script>
+      (function () {
+        if (!window.park.device.isMobile()) {
+          // When desktop
+          document.write('<xmp>');
+        }
+      })();
+    </script>
+    {% if mobile is defined %}
+      {{ mobile|raw }}
+    {% endif %}
+    </xmp>
+    <script>
+      (function () {
+        if (window.park.device.isMobile()) {
+          // When mobile
+          document.write('<xmp>');
+        }
+      })();
+    </script>
+    {% if desktop is defined %}
+      {{ desktop|raw }}
+    {% endif %}
+    </xmp>
+  {% endif %}
+</aside>

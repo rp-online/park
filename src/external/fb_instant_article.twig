@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="de" prefix="op: http://media.facebook.com/op#">
+<head>
+	<meta charset="utf-8" />
+	<meta property="op:markup_version" content="v1.0">
+	<link rel="canonical" href="{{ baseurl_canonical }}">
+	<meta property="fb:article_style" content="{{ fbia_article_style }}">
+  <meta property="fb:use_automatic_ad_placement" content="true">
+  {% if werbung_fbia_placement_id is not empty %}
+  <meta property="fb:op-recirculation-ads" content="placement_id={{ werbung_fbia_placement_id }}">
+  {% endif %}
+</head>
+<body>
+	<article>
+		<header>
+
+		{% if werbung_fbia_code is not empty %}
+			{{ werbung_fbia_code|raw }}
+		{% endif %}
+
+		{% if credittext %}
+			<address>{{ credittext }}</address>
+		{% endif %}
+
+			<h3 class="op-kicker">{{ dachzeile }}</h3>
+			<time class="op-published" date-time="{{ datum_fulliso }}">{{ datum_fulliso }}</time>
+			<time class="op-modified" date-time="{{ modified_fulliso }}">{{ modified_fulliso }}</time>
+			<h1>{{ titel }}</h1>
+      <p><strong>
+          {% if artikelmarkierung is not empty %}
+            {{ artikelmarkierung }} |
+          {% endif %}
+          {{ vorspann }}
+      </strong></p>
+		</header>
+    {% if gtm_id is defined and gtm_id != '' and gtm_htmlfile is defined and gtm_htmlfile != ''  %}
+      <figure class="op-tracker">
+        <iframe src="{{ gtm_htmlfile }}?gtm={{ gtm_id }}&platform=fbia{% for parameter,value in data_layer %}&{{ parameter }}={{ value|url_encode}}{% endfor %}"></iframe>
+      </figure>
+    {% endif %}
+		<figure class="op-tracker">
+			<iframe src="{{ analyticsUrl }}"></iframe>
+		</figure>
+	{% if coverHtml %}
+		{{ coverHtml|raw }}
+	{% endif %}
+
+  {% for paragraph in body %}
+      {{ paragraph.html|raw }}
+  {% endfor %}
+
+		<footer>
+	{% if quelle or meldung_agentur %}
+			<aside>
+				<p>({% if quelle %}{{ quelle }}{% else %}{{ meldung_agentur }}{% endif %})</p>
+			</aside>
+	{% endif %}
+
+			<small>
+        <a href="{{ siteurl }}/info/impressum/" target="_blank">Impressum</a> &middot;
+				<a href="{{ siteurl }}/info/datenschutz/" target="_blank">Datenschutz</a>
+			</small>
+		</footer>
+	</article>
+</body>
+</html>

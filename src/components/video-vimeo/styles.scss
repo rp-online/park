@@ -1,0 +1,8 @@
+.park-video-vimeo {
+  @media (max-width: 768px) {
+    iframe {
+      max-width: 400px;
+      height: auto;
+    }
+  }
+}

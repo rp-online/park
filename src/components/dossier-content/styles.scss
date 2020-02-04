@@ -1,0 +1,7 @@
+.park-dossier-content {
+  @include richtext;
+  @include global-sans-serif-font-size(2);
+
+  margin-top: $global-spacing;
+  background-color: $global-light-grey;
+}

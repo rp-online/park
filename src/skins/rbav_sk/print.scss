@@ -1,0 +1,13 @@
+/* stylelint-disable at-rule-empty-line-before */
+@import 'colors';
+@import 'dimensions';
+@import 'images';
+@import 'texts';
+@import 'typography';
+
+$global-color-text-black: #000;
+$global-brand-color: #000;
+
+@import '../../scss/print';
+@import '../../components/**/print.scss';
+/* stylelint-enable */

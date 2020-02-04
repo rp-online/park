@@ -1,0 +1,36 @@
+.park-teaser-bookmark-list {
+  &__figure {
+    padding: rem(100px) 0;
+    text-align: center;
+
+    > svg {
+      display: inline-block;
+      width: rem(150px);
+      height: rem(150px);
+      margin: $global-spacing;
+      fill: #ccc;
+    }
+  }
+
+  &__caption {
+    @include global-sans-serif-font-size(2);
+
+    &-headline {
+      @include global-sans-serif-font-size(1);
+
+      display: block;
+      margin: $global-spacing;
+      font-weight: $global-font-weight-sans-serif-regular;
+      line-height: (44 / 35);
+      letter-spacing: rem(0.9px);
+    }
+
+    > svg {
+      width: rem(18px);
+      height: rem(18px);
+      stroke-width: 2;
+      stroke: currentColor;
+      fill: transparent;
+    }
+  }
+}

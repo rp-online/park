@@ -1,0 +1,22 @@
+.park-section-quick-nav {
+  padding: 0 rem(10px) rem(4px) rem(10px);
+  background-color: $global-light-grey;
+
+  &__list {
+    display: block;
+    font-size: 0;
+    line-height: rem(34px);
+  }
+
+  &__item {
+    @include global-sans-serif-font-size(2);
+
+    display: inline-block;
+    margin: rem(5px);
+    line-height: rem(34px);
+
+    @include mq(desktop) {
+      line-height: rem(34px);
+    }
+  }
+}

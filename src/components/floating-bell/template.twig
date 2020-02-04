@@ -1,0 +1,22 @@
+{% if config.appMode is not defined or not config.appMode or (config.notifications is defined and config.notifications.distribution is defined and config.notifications.distribution.onsite is defined and config.notifications.distribution.onsite) %}
+  {% if config.notifications is defined and config.notifications.showFloatingBell is defined and config.notifications.showFloatingBell %}
+      <aside class="park-floating-bell">
+        {% include 'svg/bell.svg' %}
+        <ul class="park-floating-bell__menu"
+            role="group"
+            aria-label="Benachrichtigungsverwaltung"
+            tabindex="-1">
+          <li class="park-floating-bell__menuitem park-floating-bell__menuitem--settings"
+              role="menuitem">
+            <button class="park-floating-bell__button park-floating-bell__button--settings"
+                    aria-label="Benachrichtigungen anpassen oder deaktivieren">{% include 'svg/settings.svg' %}</button>
+          </li>
+          <li class="park-floating-bell__menuitem park-floating-bell__menuitem--hide"
+              role="menuitem">
+            <button class="park-floating-bell__button park-floating-bell__button--hide"
+                    aria-label="Nicht mehr anzeigen">{% include 'svg/cross-fat.svg' %}</button>
+          </li>
+        </ul>
+      </aside>
+    {% endif %}
+{% endif %}

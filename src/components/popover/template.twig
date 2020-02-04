@@ -1,0 +1,12 @@
+<aside class="park-popover"
+       style="--park-popover-background-color: {{ backgroundColor }}; background-color: {{ backgroundColor }}; color: {{ backgroundColor }};"
+       aria-live="polite">
+  {% set data = data|merge({'config': config}) %}
+  {% include 'components/' ~ component ~ '/template.twig' with data only %}
+  <div data-x-arrow></div>
+  {% if showCloseButton is defined and showCloseButton is same as(true)%}
+    <button class="park-popover__close">
+      {% include 'svg/cross-fat.svg' %}
+    </button>
+  {% endif %}
+</aside>

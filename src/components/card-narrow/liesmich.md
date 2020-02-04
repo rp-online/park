@@ -1,0 +1,1 @@
+Diese kartenartige Komponente wird in der Praxis nur im [Cards-Container](#cards-container) verwendet. Sie verweist auf Themenwelten oder Unterseiten und trägt den `"type": "narrow"`.

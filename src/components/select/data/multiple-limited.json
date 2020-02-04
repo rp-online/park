@@ -1,0 +1,262 @@
+{
+  "multiple": true,
+  "name": "city",
+  "label": "Ihre Stadt",
+  "placeholder": "Bitte wählen Sie eine Stadt",
+  "max": 2,
+  "hint": "Sie können maximal 5 Städte auswählen.",
+  "options": [
+    {
+      "label": "Alpen",
+      "value": "alpen"
+    },
+    {
+      "label": "Burscheid",
+      "value": "bedburg"
+    },
+    {
+      "label": "Dinslaken",
+      "value": "dinslaken"
+    },
+    {
+      "label": "Dormagen",
+      "value": "dormagen"
+    },
+    {
+      "label": "Düsseldorf",
+      "value": "duesseldorf"
+    },
+    {
+      "label": "Duisburg",
+      "value": "duisburg"
+    },
+    {
+      "label": "Emmerich",
+      "value": "emmerich"
+    },
+    {
+      "label": "Erkelenz",
+      "value": "erkelenz"
+    },
+    {
+      "label": "Erkrath",
+      "value": "erkrath"
+    },
+    {
+      "label": "Geldern",
+      "value": "geldern"
+    },
+    {
+      "label": "Goch",
+      "value": "goch"
+    },
+    {
+      "label": "Grefrath",
+      "value": "grefrath"
+    },
+    {
+      "label": "Grevenbroich",
+      "value": "grevenbroich"
+    },
+    {
+      "label": "Haan",
+      "value": "haan"
+    },
+    {
+      "label": "Hamminkeln",
+      "value": "hamminkeln"
+    },
+    {
+      "label": "Heiligenhaus",
+      "value": "heiligenhaus"
+    },
+    {
+      "label": "Hilden",
+      "value": "hilden"
+    },
+    {
+      "label": "Isselburg",
+      "value": "hueckelhoven"
+    },
+    {
+      "label": "Issum",
+      "value": "issum"
+    },
+    {
+      "label": "Kaarst",
+      "value": "juechen"
+    },
+    {
+      "label": "Kalkar",
+      "value": "kalkar"
+    },
+    {
+      "label": "Kempen",
+      "value": "kamp"
+    },
+    {
+      "label": "Kerken",
+      "value": "kerken"
+    },
+    {
+      "label": "Kevelaer",
+      "value": "kevelaer"
+    },
+    {
+      "label": "Kleve",
+      "value": "kleve"
+    },
+    {
+      "label": "Korschenbroich",
+      "value": "koeln"
+    },
+    {
+      "label": "Kranenburg",
+      "value": "kranenburg"
+    },
+    {
+      "label": "Krefeld",
+      "value": "krefeld"
+    },
+    {
+      "label": "Heinsberg",
+      "value": "heinsberg"
+    },
+    {
+      "label": "Langenfeld",
+      "value": "langenfeld"
+    },
+    {
+      "label": "Leichlingen",
+      "value": "leichlingen"
+    },
+    {
+      "label": "Leverkusen",
+      "value": "leverkusen"
+    },
+    {
+      "label": "Meerbusch",
+      "value": "meerbusch"
+    },
+    {
+      "label": "Mettmann",
+      "value": "mettmann"
+    },
+    {
+      "label": "Moers",
+      "value": "moenchengladbach"
+    },
+    {
+      "label": "Monheim",
+      "value": "monheim"
+    },
+    {
+      "label": "Nettetal",
+      "value": "nettetal"
+    },
+    {
+      "label": "Neuss",
+      "value": "neukirchen"
+    },
+    {
+      "label": "Niederkruechten",
+      "value": "niederkruechten"
+    },
+    {
+      "label": "Radevormwald",
+      "value": "radevormwald"
+    },
+    {
+      "label": "Ratingen",
+      "value": "ratingen"
+    },
+    {
+      "label": "Rees",
+      "value": "rees"
+    },
+    {
+      "label": "Remscheid",
+      "value": "remscheid"
+    },
+    {
+      "label": "Rheinberg",
+      "value": "rheinberg"
+    },
+    {
+      "label": "Rheurdt",
+      "value": "rheurdt"
+    },
+    {
+      "label": "Rommerskirchen",
+      "value": "rommerskirchen"
+    },
+    {
+      "label": "Schermbeck",
+      "value": "schermbeck"
+    },
+    {
+      "label": "Schwalmtal",
+      "value": "schwalmtal"
+    },
+    {
+      "label": "Solingen",
+      "value": "solingen"
+    },
+    {
+      "label": "Sonsbeck",
+      "value": "sonsbeck"
+    },
+    {
+      "label": "Straelen",
+      "value": "straelen"
+    },
+    {
+      "label": "Uedem",
+      "value": "toenisvorst"
+    },
+    {
+      "label": "Viersen",
+      "value": "viersen"
+    },
+    {
+      "label": "Voerde",
+      "value": "voerde"
+    },
+    {
+      "label": "Wachtendonk",
+      "value": "wachtendonk"
+    },
+    {
+      "label": "Wassenberg",
+      "value": "wassenberg"
+    },
+    {
+      "label": "Weeze",
+      "value": "weeze"
+    },
+    {
+      "label": "Wegberg",
+      "value": "wegberg"
+    },
+    {
+      "label": "Wermelskirchen",
+      "value": "wermelskirchen"
+    },
+    {
+      "label": "Wesel",
+      "value": "wesel"
+    },
+    {
+      "label": "Willich",
+      "value": "willich"
+    },
+    {
+      "label": "Wuelfrath",
+      "value": "wuelfrath"
+    },
+    {
+      "label": "Xanten",
+      "value": "xanten"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Diese Komponente ist eine Komponenten- und [Formular](#form)-Zusammenstellung, speziell für den Persönliche-Einstellungen-Bildschirm.

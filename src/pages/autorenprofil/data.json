@@ -1,0 +1,231 @@
+{
+  "title": "Autorenprofil",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für ein Autorenprofil"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/autorenprofil.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><script>googletag.cmd.push(function() { googletag.display('skyscraper'); });</script></div>"
+    }
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "section-breadcrumb",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Max Mustermann"
+              },
+              "navigation": [
+                {
+                  "text": "Autoren",
+                  "href": "#void"
+                }
+              ]
+            }
+          },
+          {
+            "component": "profile",
+            "data": {
+              "src": "./assets/images/person.jpg",
+              "name": {
+                "tag": "h2",
+                "text": "Max Mustermann"
+              },
+              "bio": "Max Mustermann (mamu) ist Social-Media-Redakteur bei RP ONLINE",
+              "longBio": "Er wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Seinen Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat er in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist er über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo er von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\r\n\r\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+              "contact": [
+                {
+                  "type": "facebook",
+                  "href": "https://www.facebook.com/maxmustermann",
+                  "text": "maxmustermann"
+                },
+                {
+                  "type": "twitter",
+                  "href": "https://twitter.com/maxmustermann",
+                  "text": "@maxmustermann"
+                },
+                {
+                  "type": "email",
+                  "href": "mailto:max.mustermann@rp-online.de",
+                  "text": "Kontakt"
+                },
+                {
+                  "type": "link",
+                  "href": "http://www.max-mustermann.de",
+                  "text": "Webseite"
+                }
+              ]
+            }
+          },
+          {
+            "component": "teaser-collection",
+            "data": {
+              "headline": {
+                "tag": "h3",
+                "text": "Artikel"
+              },
+              "items": [
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Endlich wieder der alte FC Bayern"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Lage der Liga"
+                  },
+                  "label": "Meinung",
+                  "dateline": "München",
+                  "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "video",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Nur noch geleaste Maschinen"
+                  },
+                  "dateline": "Berlin",
+                  "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Interview mit Bamf-Präsident Weise"
+                  },
+                  "dateline": "Düsseldorf",
+                  "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden.",
+                  "authors": "von Kristina Dunst"
+                },
+                {
+                  "id": 1,
+                  "type": "article",
+                  "href": "#void",
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Erst 30.000 Flüchtlinge haben einen Job"
+                  },
+                  "src": "./assets/images/261x196.jpg",
+                  "alt": "Eine süße Katze",
+                  "kicker": {
+                    "tag": "span",
+                    "text": "Interview mit Bamf-Präsident Weise"
+                  },
+                  "dateline": "Düsseldorf",
+                  "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration.",
+                  "authors": "von Kristina Dunst"
+                }
+              ]
+            }
+          },
+          {
+            "component": "page-footer",
+            "data": {
+              "children": [
+                {
+                  "component": "pager-previous-next",
+                  "data": {
+                    "previous": {
+                      "text": "zurück",
+                      "href": "#previous"
+                    },
+                    "next": {
+                      "text": "weiter",
+                      "href": "#next"
+                    },
+                    "pages": {
+                      "current": 2,
+                      "total": 4
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

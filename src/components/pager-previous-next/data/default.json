@@ -1,0 +1,10 @@
+{
+  "previous": {
+    "text": "zurück",
+    "href": "#previous"
+  },
+  "next": {
+    "text": "weiter",
+    "href": "#next"
+  }
+}

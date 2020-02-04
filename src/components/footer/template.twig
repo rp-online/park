@@ -1,0 +1,156 @@
+{% if (config.appMode is not defined or config.appMode is not same as('embedded'))
+  and (config.footer is not defined or config.footer is not same as(false))
+  and (config.output is not defined or config.output is not same as('webview')) %}
+  <footer
+    class="park-footer{% if (config.personalArea is defined and config.personalArea is same as(true)) or (compactMode is defined and compactMode is same as(true)) %} park-footer--is-compact{% endif %}">
+    <div class="park-footer__wrapper">
+      <div class="park-footer__top-links">
+        <ul class="park-footer__social park-footer__list">
+          {% for link in social.links %}
+            <li class="park-footer__item">
+              {% set link = link|merge({
+                classes: [
+                  'park-footer__link',
+                  'park-footer__icon',
+                  'park-footer__icon--' ~ link.icon
+                ]
+              }) %}
+              {% include 'components/link-helper/template.twig' with link only %}
+            </li>
+          {% endfor %}
+        </ul>
+        <ul class="park-footer__main-links">
+          {% for link in main.links %}
+            <li class="park-footer__item">
+              {% set link = link|merge({
+                classes: [
+                  'park-footer__link',
+                  'park-footer__link--main'
+                ]
+              }) %}
+              {% include 'components/link-helper/template.twig' with link only %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% if (config.personalArea is not defined or config.personalArea is same as(false)) and (compactMode is not defined or compactMode is same as(false)) %}
+        <div class="park-footer__middle">
+          <div class="park-footer__newsletter">
+            {%  if newsletter.showform == '1' %}
+              <{{ headlinesTag }} class="park-footer__headline">{{ newsletter.headline }}<{{ '/' ~ headlinesTag }}>
+              <div>{{ newsletter.body }}</div>
+              {% set children = [
+                {
+                  'component': 'input',
+                  'data': {
+                  'type': 'email',
+                  'name': newsletter.inputname,
+                  'label': 'Ihre E-Mail-Adresse',
+                  'labelHidden': true,
+                  'placeholder': newsletter.placeholder,
+                  'required': true
+                  }
+                },
+                {
+                  'component': 'input',
+                  'data': {
+                  'type': 'hidden',
+                  'name': 'list_ids',
+                  'value': newsletter.list,
+                  'labelHidden': true
+                  }
+                },
+                {
+                  'component': 'input',
+                  'data': {
+                  'type': 'hidden',
+                  'name': 'auto_subscribe',
+                  'value': newsletter.auto_subscribe,
+                  'labelHidden': true
+                  }
+                },
+              ] %}
+
+            {% if newsletter.auto_subscribe == 1 %}
+              {% set children = children|merge([
+                {
+                  'component': 'recaptcha',
+                  'data': {
+                  'name': 'captcha-response',
+                  'sitekey': '6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK',
+                  'type': 'invisible',
+                  'callback': 'onSubmit'
+                  }
+                }
+              ]) %}
+            {% endif %}
+
+              {% set form = {
+                'vertical': true,
+                'action': newsletter.action,
+                'method': 'post',
+                'submit': newsletter.button,
+                'children': children,
+                'config': config
+              } %}
+
+              {% include 'components/form/template.twig' with form only %}
+            {% else %}
+              {% if newsletter.action != '' %}
+                <{{ headlinesTag }} class="park-footer__headline">{{ newsletter.headline }}<{{ '/' ~ headlinesTag }}>
+                <div>{{ newsletter.body }}</div>
+                <div><a href="{{ newsletter.action }}">{{ newsletter.button }}</a></div>
+              {% endif %}
+            {% endif %}
+          </div>
+
+          {% if services.links %}
+          <div class="park-footer__services">
+            <{{ headlinesTag }} class="park-footer__headline">{{ services.headline }}<{{ '/' ~ headlinesTag }}>
+            <ul class="park-footer__list park-footer__list--two-columns">
+              {% for link in services.links %}
+                <li class="park-footer__item">
+                  {% set link = link|merge({
+                    classes: [
+                      'park-footer__link'
+                    ]
+                  }) %}
+                  {% include 'components/link-helper/template.twig' with link only %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+
+          {% if publisher.links %}
+          <div class="park-footer__publisher-links">
+            <{{ headlinesTag }} class="park-footer__headline">{{ publisher.headline }}<{{ '/' ~ headlinesTag }}>
+            <ul class="park-footer__list">
+              {% for link in publisher.links %}
+                <li class="park-footer__item">
+                  {% set link = link|merge({
+                    classes: [
+                      'park-footer__link'
+                    ]
+                  }) %}
+                  {% include 'components/link-helper/template.twig' with link only %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+          {% endif %}
+        </div>
+      {% endif %}
+      <aside class="park-footer__endnote">
+        {{ endnote|raw }}
+      {% if poweredBy is defined and poweredBy.href is defined %}
+        {% set poweredBy = poweredBy|merge({
+          'classes': ['park-footer__powered-by-link'],
+          'config': config
+        }) %}
+        <span class="park-footer__powered-by">. {% include 'components/link-helper/template.twig' with poweredBy only %}</span>
+      {% endif %}
+      </aside>
+    </div>
+  </footer>
+{% endif %}

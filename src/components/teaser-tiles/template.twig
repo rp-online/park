@@ -1,0 +1,28 @@
+<article class="park-teaser-tiles">
+  {% if headline is defined and headline is not null %}
+    <header class="park-teaser-tiles__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <ul class="park-teaser-tiles__list">
+    {% for item in items %}
+      {# The following injects the global config #}
+      {% set item = item|merge({'config': config}) %}
+      {% if config.advertorial is defined and config.advertorial is same as(true) %}
+        {% set item = item|merge({
+          'isAd': true
+        }) %}
+      {% endif %}
+      {% if item.type %}
+        <li class="park-teaser-tiles__listitem">
+          {% include 'components/card-' ~ item.type ~ '/template.twig' ignore missing with item only %}
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+  {% if aside is defined %}
+    <aside class="park-teaser-tiles__aside">{{ aside|raw }}</aside>
+  {% endif %}
+</article>

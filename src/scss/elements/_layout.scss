@@ -1,0 +1,6 @@
+.park-layout--fullwidth {
+  @include mq(desktop) {
+    max-width: none;
+    margin: 0 $global-spacing 0 $global-spacing;
+  }
+}

@@ -1,0 +1,34 @@
+.park-section-headline {
+  @include global-sans-serif-font-size(2);
+
+  display: block;
+  margin: $global-spacing;
+  padding: 0 0 0 rem(8px);
+  color: $global-color-text-black;
+  border-left: rem(4px) solid $global-brand-color;
+  font-weight: $global-font-weight-sans-serif-regular;
+  line-height: rem(20px);
+  letter-spacing: rem(0.9px);
+  text-align: left;
+  text-transform: uppercase;
+
+  @include mq(desktop) {
+    line-height: rem(20px);
+  }
+
+  &:empty {
+    display: none;
+  }
+
+  .park-portal-marker &,
+  .is-advertorial & {
+    border-left-color: $global-advertisement-color;
+  }
+
+  &__text {
+    display: inline;
+    color: inherit;
+    font: inherit;
+    vertical-align: baseline;
+  }
+}

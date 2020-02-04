@@ -1,0 +1,12 @@
+{
+  "name": "Facebook",
+  "src": "/static/embed/facebook5.jpg",
+  "children": [
+    {
+      "component": "embed-html",
+      "data": {
+        "html": "<div id=\"fb-root\"></div>\n<script async=\"1\" defer=\"1\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/de_DE/sdk.js#xfbml=1&amp;version=v5.0\"></script><div class=\"fb-post\" data-href=\"https://www.facebook.com/rp.duesseldorf/posts/2987955857885757\" data-width=\"552\"><blockquote cite=\"https://www.facebook.com/rp.duesseldorf/posts/2987955857885757\" class=\"fb-xfbml-parse-ignore\"><p>&quot;The Flow&quot; hat sich als Name für das neue Schwimmbad in Oberkassel als &quot;The Flop&quot; erwiesen. Jetzt wird ein Namenswettbewerb gestartet. Gute Ideen gerne in die Kommentare. Let it flow! 🏊‍♀️🏊‍♂️[RP+]</p>Gepostet von <a href=\"https://www.facebook.com/rp.duesseldorf/\">RP Düsseldorf</a> am&nbsp;<a href=\"https://www.facebook.com/rp.duesseldorf/posts/2987955857885757\">Donnerstag, 10. Oktober 2019</a></blockquote></div>"
+      }
+    }
+  ]
+}

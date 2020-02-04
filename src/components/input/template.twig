@@ -1,0 +1,105 @@
+<div class="park-input
+  {% if name is defined %}
+    park-input--{{ name }}
+  {% endif %}
+  {% if type is defined %}
+     park-input--{{ type }}
+  {% else %}
+     park-input--text
+  {% endif %}
+  {% if required is defined and required is same as(true) %}
+     park-input--required
+  {% endif %}
+  {% if labelHidden is defined and labelHidden is same as(true) %}
+    park-input--label-is-hidden
+  {% endif %}
+  {% if reversed is defined and reversed is same as(true) %}
+    park-input--reversed
+  {% endif %}
+  park-input-group
+  park-input-group--input"
+  {% if validationMessage is defined and validationMessage %}
+    data-validation-message="{{ validationMessage }}"
+  {% endif %}>
+  {% set uuid = random() %}
+  {% if id is not defined or not id %}
+    {% set id = 'park-input__input-' ~ uuid %}
+  {% endif %}
+  {% if type is not defined or type not in ['checkbox', 'radio', 'toggle', 'tag'] %}
+    <label id="park-input__label-{{ uuid }}"
+           for="{{ id }}"
+           tabindex="-1"
+           class="park-input__label{% if labelHidden is defined and labelHidden is same as(true) %} park-input__label--is-hidden{% endif %}">{{ label }}{% if required is defined and required is same as(true) %}
+        <abbr class="park-input__required" title="Dieses Eingabefeld ist erforderlich">*</abbr>
+      {% endif %}</label>
+  {% endif %}
+  <input id="{{ id }}"
+    {% if type is not defined or type not in ['checkbox', 'radio', 'toggle', 'tag'] %}
+      autocapitalize="words"
+    {% endif %}
+         class="park-input__input"
+    {% if name is defined %}
+      name="{{ name }}"
+    {% endif %}
+    {% if type is defined and type not in ['toggle', 'tag'] %}
+      type="{{ type }}"
+    {% elseif type is defined and type in ['toggle', 'tag'] %}
+      type="checkbox"
+    {% endif %}
+    {% if value is defined %}
+      value="{{ value }}"
+    {% endif %}
+    {% if placeholder is defined %}
+      placeholder="{{ placeholder }}"
+    {% endif %}
+    {% if pattern is defined %}
+      pattern="{{ pattern }}"
+    {% endif %}
+    {% if inputmode is defined %}
+      inputmode="{{ inputmode }}"
+    {% endif %}
+    {% if minlength is defined %}
+      minlength="{{ minlength }}"
+    {% endif %}
+    {% if maxlength is defined %}
+      maxlength="{{ maxlength }}"
+    {% endif %}
+    {% if autocomplete is defined %}
+      autocomplete="{{ autocomplete }}"
+    {% endif %}
+    {% if hint is defined and hint %}
+      aria-labelledby="park-input__label-{{ uuid }} park-input__hint-{{ uuid }}"
+    {% endif %}
+    {% if title is defined and title %}
+        title="{{ title }}"
+    {% endif %}
+    {% if checked is defined and checked is same as(true) %}
+      checked
+    {% endif %}
+    {% if required is defined and required is same as(true) %}
+      required
+    {% endif %}
+    {% if disabled is defined and disabled is same as(true) %}
+      disabled
+    {% endif %}
+    {% if readonly is defined and readonly is same as(true) %}
+      readonly
+    {% endif %}>
+  {% if type is defined and type == 'password' %}
+    <button class="park-input__password-toggle"
+            type="button"
+            aria-controls="park-input__input-{{ uuid }}">Passwort anzeigen
+    </button>
+  {% endif %}
+  {% if type is defined and type in ['checkbox', 'radio', 'toggle', 'tag'] %}
+    <label id="park-input__label-{{ uuid }}"
+           for="park-input__input-{{ uuid }}"
+           tabindex="-1"
+           class="park-input__label{% if labelHidden is defined and labelHidden is same as(true) %} park-input__label--is-hidden{% endif %}">{{ label|raw }}{% if required is defined and required is same as(true) %}
+        <abbr class="park-input__required" title="Dieses Eingabefeld ist erforderlich">*</abbr>
+      {% endif %}</label>
+  {% endif %}
+  {% if hint is defined and hint %}
+    <span id="park-input__hint-{{ uuid }}" tabindex="-1" class="park-input__hint">{{ hint|raw }}</span>
+  {% endif %}
+</div>

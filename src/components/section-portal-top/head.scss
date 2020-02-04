@@ -1,0 +1,23 @@
+.park-section-portal-top {
+  font-size: 0;
+  text-align: center;
+
+  > .park-portal {
+    /* Using real px units here as the silly ad will not be responsive */
+    margin: 0 auto $global-spacing auto;
+
+    &--is-loaded {
+      padding-top: 0;
+    }
+  }
+
+  &__content {
+    position: relative;
+    margin-bottom: $global-spacing;
+    text-align: left;
+
+    @include mq(desktop) {
+      margin-bottom: 0;
+    }
+  }
+}

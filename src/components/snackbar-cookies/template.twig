@@ -1,0 +1,30 @@
+<div class="park-snackbar-cookies">
+  {% include 'components/snackbar/template.twig' with {
+    'id': 'cookies',
+    'children': [
+      {
+        'component': 'button',
+        'data': {
+          'data': {
+            'close': 'true'
+          },
+          'text': button.text
+        }
+      },
+      {
+        'component': 'markdown',
+        'data': {
+          'text': text
+        }
+      },
+      {
+        'component': 'markdown',
+        'data': {
+        'text': '[' ~ link.text ~ '](' ~ link.href ~ ')'
+      }
+      },
+    ],
+    'closeButton': false,
+    'config': config
+  } only %}
+</div>

@@ -1,0 +1,5 @@
+{
+  "type": "toggle",
+  "name": "autoplay",
+  "label": "Autoplay"
+}

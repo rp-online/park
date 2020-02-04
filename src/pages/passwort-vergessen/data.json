@@ -1,0 +1,40 @@
+{
+  "title": "Passwort vergessen",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für Passwort Vergessen"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/passwort-vergessen.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "reset-password",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Passwort vergessen"
+              },
+              "text": "Wir schicken Ihnen gerne eine E-Mail zur Passwortänderung.",
+              "form": {
+                "action": "./notification.html",
+                "method": "post"
+              },
+              "loginURL": "#void"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

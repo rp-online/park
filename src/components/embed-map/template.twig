@@ -1,0 +1,22 @@
+<aside class="park-embed-map"
+       data-lat="{{ lat }}"
+       data-lng="{{ lng }}"
+       data-zoom="{{ zoom }}"
+  {% if traffic is defined and traffic is same as(true) %}
+       data-traffic
+  {% endif %}>
+  <link rel="preconnect" href="https://maps.googleapis.com">
+  <div class="park-embed-map__map">
+    <noscript>
+      <a class="park-embed-map__link"
+         href="https://www.google.de/maps/@{{ lat }},{{ lng }},{{ zoom }}z"
+         target="_blank"
+         rel="noopener noreferrer nofollow"><img
+          src="https://maps.googleapis.com/maps/api/staticmap?center={{ lat }},{{ lng }}&amp;zoom={{ zoom }}&amp;size=640x360&amp;scale=2&amp;maptype=roadmap{% if config.keys is defined and config.keys.googleMaps is defined %}&amp;key={{ config.keys.googleMaps }}{% endif %}"
+          width="640"
+          height="360"
+          alt="Kartenausschnitt"
+          class="park-embed-map__fallback"></a>
+    </noscript>
+  </div>
+</aside>

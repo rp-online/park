@@ -1,0 +1,12 @@
+{
+  "initialState": {
+    "headline": {
+      "tag": "h1",
+      "text": "Verkehrsmeldungen"
+    },
+    "items": []
+  },
+  "ajax": {
+    "url": "/assets/ajax/traffic/many.json"
+  }
+}

@@ -1,0 +1,15 @@
+.park-article-content {
+  @include nopagebreak;
+
+  a:not([class^="park"]) {
+    text-decoration: none;
+  }
+
+  * {
+    float: none;
+  }
+
+  .park-figure--is-link {
+    display: none !important;
+  }
+}

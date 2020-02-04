@@ -1,0 +1,42 @@
+<div class="park-article-content">
+{% if children is defined and children is iterable and children|length == 1 %}
+  {% set data = children[0].data|merge({'config': config}) %}
+  {% include 'components/' ~ children[0].component ~ '/template.twig' with data only %}
+{% else %}
+  {% set allowedFragmentComponents = [
+    'article-content-fragment',
+    'portal',
+    'multi-portal',
+    'slider'
+  ] %}
+  {% set allowedFragmentComponentsBuffer = {} %}
+  {% if children is defined and children is iterable %}
+    {% for child in children %}
+      {% if child.component in allowedFragmentComponents %}
+        {% set buffer %}
+          {% set data = child.data|merge({'config': config}) %}
+          {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+        {% endset %}
+        {% set allowedFragmentComponentsBuffer = allowedFragmentComponentsBuffer|merge({
+          ('%%%component' ~ loop.index ~ '%%%'): buffer
+        }) %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% set buffer %}{% if text is defined %}{{ text|raw }}{% endif %}{% if children is defined and children is iterable %}{% for child in children %}{% if child.component in allowedFragmentComponents %}%%%component{{ loop.index }}%%%{% endif %}{% endfor %}{% endif %}{% endset %}
+  {% set markdownBuffer %}
+    {% include 'components/markdown/template.twig' with {
+        'text': buffer,
+        'config': config} only %}
+  {% endset %}
+  {{ markdownBuffer|replace(allowedFragmentComponentsBuffer)|raw }}
+  {% if children is defined and children is iterable %}
+    {% for child in children %}
+      {% if child.component not in allowedFragmentComponents %}
+        {% set data = child.data|merge({'config': config}) %}
+        {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+</div>

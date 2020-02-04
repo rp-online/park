@@ -1,0 +1,6 @@
+{
+  "type": "toggle",
+  "name": "autoplay",
+  "label": "Autoplay",
+  "reversed": true
+}

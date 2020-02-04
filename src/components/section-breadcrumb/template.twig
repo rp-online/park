@@ -1,0 +1,38 @@
+<div class="park-section-breadcrumb">
+  <div class="park-section-breadcrumb__wrapper">
+    {% if navigation is defined %}
+      <ul class="park-section-breadcrumb__navigation">
+        {% for item in navigation %}
+          {% if item.isAd is not defined or item.isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+            {% set ariaHidden = item.isHidden ? 'true' : 'false' %}
+            {% set desktopHiddenClass = item.isDesktopHidden ? 'park-section-breadcrumb__item--desktophidden' : '' %}
+              {% if item.text is not empty %}
+                <li itemscope
+                    itemtype="http://data-vocabulary.org/Breadcrumb"
+                    class="park-section-breadcrumb__item {{ desktopHiddenClass }}"
+                    aria-hidden="{{ ariaHidden }}">
+                  {% set content %}
+                    <span itemprop="title">{{ item.text | raw }}</span>
+                  {% endset %}
+                  {% set link = {
+                    'href': item.href,
+                    'text': content,
+                    'target': item.target,
+                    'rel': item.rel,
+                    'classes': [
+                      'park-section-breadcrumb__link',
+                      item.isAd ? 'park-section-breadcrumb__link--sugardaddy' : ''
+                    ],
+                    'isAd': item.isAd,
+                    'config': config
+                  } %}
+                  {% include 'components/link-helper/template.twig' with link only %}
+                </li>
+              {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+    <{{ headline.tag }} class="park-section-breadcrumb__headline">{{ headline.text | raw }}</{{ headline.tag }}>
+  </div>
+</div>

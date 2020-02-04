@@ -1,0 +1,11 @@
+{
+  "type": "portal",
+  "mobile": {
+    "type": "free",
+    "html": "<img src=\"https://placehold.it/200x200\">"
+  },
+  "desktop": {
+    "type": "free",
+    "html": "<img src=\"https://placehold.it/200x200\">"
+  }
+}

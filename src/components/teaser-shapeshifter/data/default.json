@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Endlich wieder der alte FC Bayern"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+      "kicker": {
+        "tag": "span",
+        "text": "Lage der Liga"
+      },
+      "label": "Meinung",
+      "dateline": "München",
+      "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar."
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Nur noch geleaste Maschinen"
+      },
+      "dateline": "Berlin",
+      "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden."
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden."
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration."
+    }
+  ]
+}

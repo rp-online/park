@@ -1,0 +1,18 @@
+{% if timestamp is defined and timestamp > 0 %}
+  <time class="park-date"
+        data-timestamp="{{ timestamp }}"
+        itemprop="datePublished"
+        content="{{ timestamp|date('Y-m-d', 'Europe/Berlin') }}">{{ timestamp|date('j. F Y', 'Europe/Berlin')|replace({
+  'January': 'Januar',
+  'February': 'Februar',
+  'March': 'März',
+  'April': 'April',
+  'May': 'Mai',
+  'June': 'Juni',
+  'July': 'Juli',
+  'August': 'August',
+  'September': 'September',
+  'October': 'Oktober',
+  'November': 'November',
+  'December': 'Dezember'
+}) }} um {{ timestamp|date('H:i', 'Europe/Berlin') }} Uhr</time>{% endif %}

@@ -1,0 +1,1 @@
+Dies ist eine generische Komponente, die man z.B. in Dossiers, im Archiv oder in der Suche unterhalb des Hauptinhalts platzieren kann, und die ergänzende Texte enthält und/oder Paginierungselemente.

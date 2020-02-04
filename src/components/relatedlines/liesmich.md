@@ -1,0 +1,1 @@
+Die Relatedlines-Komponente wird innerhalb von [Teaser](#teaser)-Komponenten eingebunden, wenn weitere artverwandte und oder zusammenhängende Beiträge angetasert werden sollen.

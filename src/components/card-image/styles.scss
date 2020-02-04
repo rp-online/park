@@ -1,0 +1,112 @@
+.park-card-image {
+  @include card;
+
+  padding-top: rem(20px);
+
+  &[href]:not(.park-card-image--display) &__wrapper {
+    @extend %indicator-image;
+  }
+
+  &--display &__wrapper {
+    height: 100%;
+  }
+
+  &[target="_blank"]:not(.park-card-image--display) &__wrapper,
+  &[target="_blank"].park-card-image--display.park-card-image--no-caption &__wrapper {
+    @extend %indicator-external;
+  }
+
+  &[href$=".jpg"],
+  &[href$=".jpeg"],
+  &[href$=".png"],
+  &[href$=".gif"],
+  &[href$=".svg"],
+  &[href$=".webp"],
+  &[href$=".JPG"],
+  &[href$=".JPEG"],
+  &[href$=".PNG"],
+  &[href$=".GIF"],
+  &[href$=".SVG"],
+  &[href$=".WEBP"] {
+    &::after {
+      display: none;
+    }
+
+    &[target="_blank"]:not(.park-card-image--display) .park-card-image__wrapper,
+    &[target="_blank"].park-card-image--display.park-card-image--no-caption .park-card-image__wrapper,
+    &:not(.park-card-image--display) .park-card-image__wrapper,
+    &.park-card-image--display.park-card-image--no-caption .park-card-image__wrapper {
+      @extend %indicator-enlargable;
+    }
+  }
+
+  .is-advertorial a[target="_blank"][title="Anzeige"] &__wrapper::after {
+    display: none !important;
+  }
+
+  .park-image__sizer,
+  .park-image__image {
+    width: auto;
+    height: rem(124px);
+
+    @include mq(desktop) {
+      height: rem(173px);
+    }
+  }
+
+  .park-image__sizer ~ .park-image__image {
+    width: 100%;
+  }
+
+  &--display {
+    .park-image,
+    .park-image__sizer,
+    .park-image__image {
+      max-width: none;
+      height: 100%;
+
+      @include mq(desktop) {
+        height: 100%;
+      }
+    }
+  }
+
+  &--display &__headlines {
+    overflow: hidden;
+  }
+
+  &--display &__headline {
+    color: #fff;
+    font-size: rem(16px);
+    line-height: (21 / 16);
+
+    @include mq(desktop) {
+      font-size: rem(16px);
+    }
+  }
+
+  &--display.park-card-image--cramped &__headline {
+    font-size: rem(15px);
+
+    @include mq(desktop) {
+      font-size: rem(15px);
+    }
+  }
+
+  &--display &__figure {
+    padding-bottom: 0;
+  }
+
+  &--display &__caption {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: rem(80px);
+    padding-right: rem(30px);
+    padding-bottom: rem(4px);
+    background-image: linear-gradient(to bottom, transparent, rgba(34, 34, 34, 0.8));
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+  }
+}

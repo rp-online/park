@@ -1,0 +1,156 @@
+{
+  "title": "Videoseite",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für Videos"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/artikel.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "advertorial": true
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "section-breadcrumb",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Sechs Rezeptideen für die perfekte Liebesbotschaft"
+              },
+              "navigation": [
+                {
+                  "text": "Leute",
+                  "href": "#void"
+                }
+              ]
+            }
+          },
+          {
+            "component": "section-sidebar",
+            "data": {
+              "main": {
+                "component": "video-with-caption",
+                "data": {
+                  "id": 1,
+                  "headline": {
+                    "tag": "h2",
+                    "text": "Valentinstag: Sechs Rezeptideen für die perfekte Liebesbotschaft"
+                  },
+                  "timestamp": 1499074591,
+                  "text": "Der thailändische Blogger Got Peeraphat hatte offenbar keine Lust auf die typischen Blumen- und Schokoladengeschenke zum Valentinstag. Stattdessen präsentiert er in diesem Video sechs außergewöhnliche Food Life Hacks mit besonderer Botschaft. Liebe, geht eben doch durch den Magen.",
+                  "video": {
+                    "type": "youtube",
+                    "id": "eiKZMnJl6yc"
+                  },
+                  "back": {
+                    "href": "./artikel.html",
+                    "text": "zurück zum Artikel"
+                  }
+                }
+              },
+              "sidebar": {
+                "component": "video-list",
+                "data": {
+                  "headline": {
+                    "tag": "span",
+                    "text": "Nächstes Video"
+                  },
+                  "items": [
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "TV-Duell Kraft vs. Laschet: Was hilft gegen den Dauerstau auf NRWs Autobahnen?"
+                      },
+                      "href": "#void",
+                      "src": "./assets/images/140x78.jpg",
+                      "alt": "Schmusekatze"
+                    },
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Start beim Metro Marathon 2017 in Düsseldorf"
+                      },
+                      "href": "#void",
+                      "src": "./assets/images/140x78.jpg",
+                      "alt": "Schmusekatze"
+                    },
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Nach ICE-Unfall in Dortmund: Zug wird abtransportiert "
+                      },
+                      "href": "#void",
+                      "src": "./assets/images/140x78.jpg",
+                      "alt": "Schmusekatze"
+                    },
+                    {
+                      "headline": {
+                        "tag": "h2",
+                        "text": "Neuss: Tödlicher Motorradunfall – das ist die Unfallstrecke "
+                      },
+                      "href": "#void",
+                      "src": "./assets/images/140x78.jpg",
+                      "alt": "Schmusekatze"
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

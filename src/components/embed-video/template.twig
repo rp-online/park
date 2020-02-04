@@ -1,0 +1,30 @@
+<figure role="group"
+        class="park-embed-video">
+  {% if type is defined and type is not same as('youtube') %}
+    {% include 'components/video-' ~ type ~ '/template.twig' with {
+      'width': width,
+      'height': height,
+      'title': title,
+      'href': href,
+      'target': target,
+      'rel': rel,
+      'video' : video,
+      'inline' : true,
+      'type' : type,
+      'config': config} %}
+  {% else %}
+    {% include 'components/video/template.twig' with {
+      'width': width,
+      'height': height,
+      'title': title,
+      'href': href,
+      'target': target,
+      'rel': rel,
+      'config': config} %}
+  {% endif %}
+  {% if href is defined and href and title is defined and title %}
+    <figcaption class="park-embed-video__caption">
+      {% include 'svg/type-video.svg' %} <a href="{{ href }}">{{ title }}</a>
+    </figcaption>
+  {% endif %}
+</figure>

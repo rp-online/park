@@ -1,0 +1,84 @@
+.park-overlay {
+  @include global-sans-serif-font-size(2);
+
+  position: fixed;
+  z-index: 4;
+  top: 50%;
+  right: 0;
+  left: 0;
+  overflow: hidden;
+  width: 98%;
+  max-width: $global-container-width;
+  max-height: calc(100vh - #{rem(100px)});
+  margin: auto;
+  padding: rem(45px) $global-spacing $global-spacing $global-spacing;
+  background-color: currentColor;
+  color: $global-light-grey;
+  border: none;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  transform: translateY(-50%);
+  animation-name: park-fade-in !important;
+  animation-duration: 300ms !important;
+  transition: none !important;
+
+  & > * {
+    animation: none !important;
+    transition: none !important;
+  }
+
+  &[aria-hidden="true"] {
+    display: none;
+  }
+
+  &__scrollcontainer {
+    min-width: rem(10px);
+    max-height: calc(99vh - #{rem(60px)});
+    overflow: auto;
+    overflow-x: hidden;
+    /* stylelint-disable */
+    background: /* Shadow covers */
+      linear-gradient(to bottom, currentColor, rgba(255, 255, 255, 0)),
+      linear-gradient(to top, currentColor, rgba(255, 255, 255, 0)),
+        /* Shadows */
+      radial-gradient(farthest-side at 50% 0, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)),
+      radial-gradient(farthest-side at 50% 100%, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0)) 0 100%;
+    /* stylelint-enable */
+    background-repeat: no-repeat;
+    background-color: currentColor;
+    background-size: 100% 40px, 100% 40px, 100% 14px, 100% 14px;
+    background-position: center top, center bottom, center top, center bottom;
+    background-attachment: local, local, scroll, scroll;
+    border-radius: 1px; // Chromium fix for background-attachment: local
+
+    > * {
+      color: $global-color-text-black;
+    }
+
+    & > *:last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  &__close {
+    position: absolute;
+    top: rem(15px);
+    right: rem(10px);
+    padding: rem(5px);
+    background-color: transparent;
+    color: $global-color-text-black;
+    border: none;
+    font-size: 0;
+
+    &:focus,
+    &:hover {
+      color: $global-brand-color;
+      outline: none;
+    }
+
+    > svg {
+      width: rem(10px);
+      height: rem(10px);
+      fill: currentColor;
+    }
+  }
+}

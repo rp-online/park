@@ -1,0 +1,23 @@
+{% set content %}
+  <{{ headline.tag }} class="park-card-kalaydo__headline">
+  {% include 'components/image/template.twig' with {
+  'src': src,
+  'alt': alt,
+  'width': 300,
+  'height': 42,
+  'fit': 'contain',
+  'config': config} %}
+  {{ headline.text }}</{{ headline.tag }}>
+{% endset %}
+{% set link = {
+  'href': href,
+  'text': content,
+  'target': target,
+  'rel': rel,
+  'classes': [
+    'park-card-kalaydo'
+  ],
+  'isAd': isAd,
+  'config': config
+} %}
+{% include 'components/link-helper/template.twig' with link only %}

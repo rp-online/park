@@ -1,0 +1,50 @@
+.park-section {
+  @include clearfix;
+  @include has-advertorial-disclaimer;
+  @include global-sans-serif-font-size(2);
+
+  display: inline-block; // Prevents margin of children to extend beyond section borders
+  width: 100%;
+  background-color: #fff;
+  text-align: left;
+  pointer-events: auto;
+
+  @include mq(desktop) {
+    margin-bottom: $global-spacing;
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.17);
+  }
+
+  &--collapsible {
+    background-color: transparent;
+
+    @include mq(desktop) {
+      box-shadow: none;
+    }
+  }
+
+  &--narrow {
+    margin-left: auto;
+    margin-right: auto;
+
+    @include mq(desktop) {
+      max-width: rem(320px);
+    }
+  }
+
+  .park-portal-marker &,
+  .is-advertorial & {
+    /* stylelint-disable */
+    & ~ .park-section {
+      &::after {
+        display: none;
+      }
+    }
+    /* stylelint-enable */
+  }
+
+  > .park-notification:only-child {
+    border-top: none;
+    border-right: none;
+    border-left: none;
+  }
+}

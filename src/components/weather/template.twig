@@ -1,0 +1,38 @@
+<div
+  class="park-weather{% if personalized is defined and personalized is same as(true) %} park-weather--personalized{% else %} park-weather--is-interactive{% endif %}">
+  {% if personalized is defined and personalized is same as(true) %}
+    {% include 'components/button-settings/template.twig' with { 'config': config } only %}
+  {% endif %}
+    {% if initialState is defined %}
+      {% set initialState = initialState|merge({
+      'ajax': ajax,
+      'config': config
+      }) %}
+    {% else %}
+      {% set initialState = {
+      'ajax': ajax,
+      'config': config
+      } %}
+    {% endif %}
+    {% include 'components/widget/template.twig' with {
+    'type': 'weather',
+    'component': 'slider',
+    'initialState': initialState,
+    'config': config
+    } only %}
+</div>
+<!--[IF !IE]> -->
+<script>
+  (function () {
+    var elem = window.park.$('.park-weather').pop();
+
+    if (!elem.classList.contains('park-weather--personalized')) {
+      return;
+    }
+
+    if (window.park && window.park.weather && window.park.weather.isLoggedIn !== undefined && !window.park.weather.isLoggedIn()) {
+      elem.classList.add('park-weather--is-interactive');
+    }
+  })();
+</script>
+<!-- <![ENDIF]-->

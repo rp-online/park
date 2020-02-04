@@ -1,0 +1,61 @@
+{% if ampLogo is not defined %}
+  {% set ampLogo = '/static/amp/amp-logo.png' %}
+{% endif %}
+
+{% if ampPublisher is not defined %}
+  {% set ampPublisher = '/static/amp/publisher-logo.png' %}
+{% endif %}
+
+{% if arrowSVG is not defined %}
+    {% set arrowSVG  = '/static/amp/arrow-yellow.svg' %}
+{% endif %}
+
+{% if brandColor is not defined %}
+    {% set brandColor = '#FFC100' %}
+{% endif %}
+
+{% if kickerColor is not defined %}
+    {% set kickerColor = '#5A5F65' %}
+{% endif %}
+
+{% if link_imprint is not defined %}
+    {% set link_imprint = siteurl ~ '/info/impressum/' %}
+{% endif %}
+
+{% if link_tba is not defined %}
+    {% set link_tba = siteurl ~ '/info/datenschutz/' %}
+{% endif %}
+
+{% if logoWidth is not defined %}
+    {% set logoWidth = '230px' %}
+{% endif %}
+
+{% if partner_logo is not defined %}
+    {% set partner_logo = '/static/amp/partner_von_rp_online.svg' %}
+{% endif %}
+
+{% if partner_link is not defined %}
+  {% set partner_link = 'https://rp-online.de?utm_source=' ~ mandant ~ 'amp&utm_campaign=header&utm_medium=logo' %}
+{% endif %}
+
+{% if googleFont is not defined %}
+  {% set googleFont = 'https://fonts.googleapis.com/css?family=Merriweather|Source+Sans+Pro:400,600' %}
+{% endif %}
+
+{% if fontHead is not defined %}
+  {% set fontHead = "'Merriweather', serif" %}
+{% endif %}
+
+{% if fontText is not defined %}
+  {% set fontText = "'Source Sans Pro', Helvetica, Arial, sans-serif" %}
+{% endif %}
+
+{% if h1_font_weight is not defined %}
+  {% set h1_font_weight = '400' %}
+{% endif %}
+
+{% if h1_font_size is not defined %}
+  {% set h1_font_size  = '1.125rem' %}
+{% endif %}
+
+{% extends 'external/amp_template.twig' %}

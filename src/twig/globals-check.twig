@@ -1,0 +1,12 @@
+{% if config is not defined %}
+<p>Someone forgot to define a <code>config</code> object with <code>config.rootBase</code> and <code>config.assetsBase</code> properties.</p>
+<xmp>
+  {% endif %}
+  {% if config.rootBase is not defined %}
+  <p>Someone forgot to set <code>config.rootBase</code> property.</p>
+  <xmp>
+    {% endif %}
+  {% if config.assetsBase is not defined %}
+  <p>Someone forgot to set <code>config.assetsBase</code> property.</p>
+  <xmp>
+    {% endif %}

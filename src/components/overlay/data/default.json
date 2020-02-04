@@ -1,0 +1,20 @@
+{
+  "id": "welcome",
+  "children": [
+    {
+      "component": "notification",
+      "data": {
+        "headline": "Erfolgreich angemeldet",
+        "type": "success"
+      }
+    },
+    {
+      "component": "welcome",
+      "data": {
+        "previousURL": "#void",
+        "homeURL": "#void",
+        "personalAreaURL": "#void"
+      }
+    }
+  ]
+}

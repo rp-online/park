@@ -1,0 +1,29 @@
+.park-layout-helper {
+  &__horizontal {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    > * {
+      flex: 1 1 auto;
+      min-width: 1px;
+    }
+  }
+
+  &__vertical {
+    display: flex;
+    flex-direction: column;
+
+    > * {
+      flex: 1 1 auto;
+    }
+  }
+
+  &__center-within {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 1px;
+  }
+}

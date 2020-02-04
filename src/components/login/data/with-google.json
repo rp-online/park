@@ -1,0 +1,8 @@
+{
+  "action": "#void",
+  "passwordResetURL": "#void",
+  "registrationURL": "#void",
+  "fbLoginUrl": "#void",
+  "googleLoginURL": "#void",
+  "recaptchaSitekey": "6LcVlqwUAAAAANcpVjezNAluEhvDHKo5iVo02UfK"
+}

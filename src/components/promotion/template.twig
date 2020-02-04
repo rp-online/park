@@ -1,0 +1,18 @@
+<article class="park-promotion
+  {% if inPopover is defined %} park-promotion--in-popover {% endif %}"
+     style="background-image: linear-gradient(to top, rgba(0, 0, 0, 0) 130px, rgba(34, 34, 34, 0.8)), url({{ image }});"
+>
+  <div class="park-promotion__header">
+    {% if headline is defined %}
+      <h4 class="park-promotion__title">{{ headline.text|nl2br }}</h4>
+    {% endif %}
+  </div>
+  <div class="park-promotion__text">{{ text|nl2br }}</div>
+  <div class="park-promotion__footer">
+    {% include 'components/button/template.twig' with {
+      'href': '#',
+      'text': button.text,
+      'class': button.icon
+    } only %}
+  </div>
+</article>

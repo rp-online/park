@@ -1,0 +1,62 @@
+.park-card-column {
+  @include card;
+
+  color: $global-color-text-black;
+
+  &__wrapper {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    margin-bottom: 0;
+
+    &::before {
+      content: '';
+      display: block;
+      padding-top: 56.25%;
+    }
+  }
+
+  &__wrapper > .park-image,
+  &__headline {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+  }
+
+  &__headline,
+  &__caption {
+    margin: 0;
+    padding: $global-spacing rem(10px);
+  }
+
+  &__headline {
+    @include global-font-family-serif;
+    @include global-serif-font-size(1);
+
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
+    color: #fff;
+    font-weight: $global-font-weight-serif-regular;
+  }
+
+  &__caption {
+    @include global-sans-serif-font-size(2);
+  }
+
+  &__caption > .park-image {
+    float: right;
+    width: rem(81px);
+    height: rem(81px);
+    border: rem(3px) solid #fff;
+    border-radius: 50%;
+    transform: translateY(-$global-spacing) translateY(-50%);
+  }
+
+  &__author-name {
+    display: block;
+    margin-bottom: rem(5px);
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+}

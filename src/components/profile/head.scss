@@ -1,0 +1,118 @@
+.park-profile {
+  @include global-sans-serif-font-size(2);
+
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+
+  &__image {
+    position: relative;
+    z-index: 1;
+    display: block;
+    float: right;
+  }
+
+  .park-image {
+    overflow: hidden;
+    width: rem(150px);
+    height: rem(150px);
+    border-radius: 50%;
+
+    @include mq(desktop) {
+      width: rem(200px);
+      height: rem(200px);
+    }
+  }
+
+  .park-image + .park-button-subscribe {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+  }
+
+  &__image + &__text {
+    @include mq(desktop) {
+      margin-right: rem(215px);
+    }
+  }
+
+  &__name {
+    @include global-sans-serif-font-size(1);
+
+    display: block;
+    margin: $global-spacing 0;
+    font-weight: $global-font-weight-sans-serif-regular;
+  }
+
+  &__contact {
+    margin-bottom: $global-spacing;
+    line-height: 2;
+
+    &-item {
+      display: inline-block;
+      margin-right: $global-spacing;
+    }
+
+    &-link {
+      @include text-link;
+
+      position: relative;
+      margin-left: rem(26px);
+      white-space: nowrap;
+
+      > svg {
+        position: absolute;
+        bottom: 0;
+        left: rem(-26px);
+        color: #6f6f6f;
+        vertical-align: baseline;
+      }
+
+      &--twitter {
+        &::before,
+        &::after {
+          border-color: $global-color-twitter;
+        }
+
+        > svg {
+          color: $global-color-twitter;
+        }
+      }
+
+      &--facebook {
+        &::before,
+        &::after {
+          border-color: $global-color-facebook;
+        }
+
+        > svg {
+          color: $global-color-facebook;
+        }
+      }
+
+      &--google-plus {
+        &::before,
+        &::after {
+          border-color: $global-color-google-plus;
+        }
+
+        > svg {
+          color: $global-color-google-plus;
+        }
+      }
+
+      &--whatsapp {
+        > svg {
+          color: $global-color-whatsapp;
+        }
+      }
+    }
+  }
+
+  &__bio {
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__long-bio {
+    @include richtext;
+  }
+}

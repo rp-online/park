@@ -1,0 +1,22 @@
+{
+  "headline": "Weiterlesen ist kostenlos",
+  "text": "Wir möchten Sie nur gerne kennenlernen - Ihre E-Mail Adresse reicht. Registrieren Sie sich kostenlos, dann schalten wir diesen RP+ Artikel für Sie frei.",
+  "subline": "Die Registrierung beinhaltet den Erhalt von Werbemailings zu unseren Angeboten.*",
+  "cta": {
+    "text": "Jetzt Registrieren",
+    "href": "/sso/register?utm_source=rpo&utm_medium=paywall"
+  },
+  "login": {
+    "text": "Bereits registriert?",
+    "cta": {
+      "text": "Jetzt anmelden.",
+      "href": "/sso/login"
+    }
+  },
+  "vendors": {
+    "loginWithGoogle": "true"
+  },
+  "footer": {
+    "text" : "<p class='park-article-paywall__text park-article-paywall__legal' style='margin: 20px auto auto; max-width: 520px;'>* Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) persönlich informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an <a href='mailto:leserservice@rheinische-post.de'>leserservice@rheinische-post.de</a>). <br><br><strong>Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Zusatzfunktionen auf RP ONLINE vereinbart. Die Angabe einer gültigen E-Mail-Adresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen.</strong> Mit der Registrierung erkläre ich mich mit den <a href='/info/agb' target='_blank'>Teilnahmebedingungen</a> und der <a href='/info/datenschutz' target='_blank'>Datenschutzerklärung</a> einverstanden.</p>"
+  }
+}

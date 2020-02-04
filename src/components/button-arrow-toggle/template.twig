@@ -1,0 +1,8 @@
+<button type="button"
+        aria-controls="{{ controls }}"
+  {% if expanded is defined and expanded is same as(true) %}
+    aria-expanded="true"
+  {% else %}
+    aria-expanded="false"
+  {% endif %}
+        class="park-button-arrow-toggle">{% include 'svg/chevron-right.svg' %} {{ text }}</button>

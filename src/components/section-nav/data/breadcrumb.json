@@ -1,0 +1,39 @@
+{
+  "breadcrumb": [
+    {
+      "text": "Startseite",
+      "href": "#void"
+    },
+    {
+      "text": "Politik",
+      "href": "#void"
+    },
+    {
+      "text": "Deutschland",
+      "href": "#void"
+    },
+    {
+      "text": "NRW",
+      "href": "#void"
+    }
+  ],
+  "navigation": [
+    {
+      "text": "Städte",
+      "href": "#void"
+    },
+    {
+      "text": "Landespolitik",
+      "href": "#void"
+    },
+    {
+      "text": "Panorama",
+      "href": "#void"
+    },
+    {
+      "text": "Mercedes-Benz",
+      "href": "#void",
+      "isAd": true
+    }
+  ]
+}

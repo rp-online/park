@@ -1,0 +1,52 @@
+<nav class="park-calendar">
+  <ul class="park-calendar__date-fragments" title="Datumsauswahl">
+    <li class="park-calendar__date-fragment">
+      <ul class="park-calendar__option-list park-calendar__option-list--year" title="Jahr">
+        {% for option in years %}
+          <li class="park-calendar__option"
+            {% if option.active is defined and option.active is same as(true) %}
+            aria-current="date"
+            {% endif %} title="{{ option.text }}">
+            {% if option.href is defined and option.href %}
+              <a href="{{ option.href }}" class="park-calendar__link">{{ option.text }}</a>
+            {% else %}
+              <span class="park-calendar__disabled">{{ option.text }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="park-calendar__date-fragment">
+      <ul class="park-calendar__option-list park-calendar__option-list--month" title="Monat">
+        {% for option in months %}
+          <li class="park-calendar__option"
+            {% if option.active is defined and option.active is same as(true) %}
+            aria-current="date"
+            {% endif %} title="{{ option.text }}">
+            {% if option.href is defined and option.href %}
+              <a href="{{ option.href }}" class="park-calendar__link">{{ option.text }}</a>
+            {% else %}
+              <span class="park-calendar__disabled">{{ option.text }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="park-calendar__date-fragment">
+      <ul class="park-calendar__option-list park-calendar__option-list--day" title="Tag">
+        {% for option in days %}
+          <li class="park-calendar__option"
+            {% if option.active is defined and option.active is same as(true) %}
+              aria-current="date"
+            {% endif %} title="{{ option.text }}">
+            {% if option.href is defined and option.href %}
+              <a href="{{ option.href }}" class="park-calendar__link">{{ option.text }}</a>
+            {% else %}
+              <span class="park-calendar__disabled">{{ option.text }}</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>

@@ -1,0 +1,34 @@
+.park-weather {
+  position: relative;
+  overflow: hidden;
+
+  &--personalized {
+    background-color: $global-color-weather;
+    background-image: linear-gradient(#ccc, #ccc);
+    background-repeat: no-repeat;
+    background-size: 100% 1px;
+    background-position: center top;
+  }
+
+  &--is-interactive,
+  .js-disabled & {
+    background-image: none;
+    animation: none;
+  }
+
+  .park-button-settings {
+    @include button-settings-absolute;
+  }
+
+  .park-widget {
+    opacity: 0;
+    transition-property: opacity;
+    transition-duration: 300ms;
+
+    &--is-interactive,
+    .js-disabled & {
+      opacity: 1;
+      transition: none;
+    }
+  }
+}

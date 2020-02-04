@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,minimum-scale=1">
+  <meta name="robots" content="noindex">
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,900|Merriweather:400,700' rel='stylesheet' type='text/css'>
+  <style>
+
+  html {
+      box-sizing: border-box;
+  }
+  body {
+      background: transparent;
+      margin: 0;
+      overflow: scroll;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+      padding: 0;
+  }
+  div { position: relative; display: block; width:100%;     text-align: center; }
+  a img { width:100%; }
+
+  button.calltoaction {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.8);
+    border-radius: 4px;
+    text-indent: 5px;
+    bottom: 5px;
+    right: 5px;
+    font-weight: 900;
+    font-size: 14px;
+    border: none;
+    color: #fff;
+    padding: 7px 24px 7px 5px;
+    background-image: url('/static/amp/arrow-yellow.svg');
+    background-size: 18px 20.5px;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+</style>
+</head>
+<body>
+<div><a href="{{ url }}" target="_top">
+<img src="{{ img }}">
+<button class="calltoaction">{{ icon }}</button>
+  </a></div>
+</body>
+</html>

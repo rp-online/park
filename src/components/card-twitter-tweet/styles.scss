@@ -1,0 +1,43 @@
+.park-card-twitter-tweet {
+  @include card-status-styles;
+  @include global-sans-serif-font-size(2);
+
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: calc(100% - #{rem(3px)});
+  margin: rem(1px) 0 rem(2px) 0;
+  padding: rem(9px) rem(10px) rem(32px) rem(65px);
+  background-color: #fff;
+  background-position: rem(10px) rem(10px);
+  background-size: rem(50px) rem(50px);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+
+  * {
+    vertical-align: baseline;
+  }
+
+  &__header {
+    display: inline;
+  }
+
+  &__user-link,
+  &__hashtag,
+  &__mention,
+  &__url {
+    color: inherit;
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__tweet-link {
+    @include global-sans-serif-font-size(3);
+
+    color: inherit;
+  }
+
+  &__footer {
+    position: absolute;
+    bottom: rem(9px);
+    left: rem(65px);
+  }
+}

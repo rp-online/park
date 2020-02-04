@@ -1,0 +1,59 @@
+.park-embed-image {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 $global-spacing 0;
+
+  &__wrapper {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding-top: 100vw;
+    background-color: $global-embed-background-color;
+    background-size: cover;
+
+    @include mq(desktop) {
+      padding-top: rem(600px);
+    }
+  }
+
+  .park-image {
+    position: absolute;
+    top: rem(30px);
+    right: 0;
+    bottom: rem(30px);
+    left: 0;
+    clip: auto;
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    filter: drop-shadow(0 0 1px rgba(0, 0, 0, 0.5));
+
+    .js-disabled & {
+      clip: auto;
+    }
+
+    &:focus {
+      outline: none;
+      filter: drop-shadow(0 0 1px $global-brand-color);
+    }
+  }
+
+  img.park-image {
+    clip: auto;
+  }
+
+  &__caption {
+    @extend %figure-caption;
+  }
+
+  &__caption-source {
+    @extend %figure-source;
+
+    white-space: inherit;
+    text-align: inherit;
+  }
+
+  &__caption-source-link {
+    @include text-link;
+  }
+}

@@ -1,0 +1,17 @@
+File Index: <br/><br/>
+
+<!-- aktuelles Jahr -->
+<b>{{ currentYear }}</b><br/>
+  {% for months in range (currentMonth, 1) %}
+  <a href="list-export-{{ date(currentYear ~ '-' ~ months ~ '-01') |date('Y-m') }}">{{ date(currentYear ~ '-' ~ months ~ '-01') |date('F') }}<a> <br/>
+  {% endfor %}
+<br/>
+
+<!-- alles davor bis 2000 -->
+{% for years in range (currentYear-1, 2000) %}
+  <b>{{ years }}</b><br/>
+  {% for months in range (12, 1) %}
+      <a href="list-export-{{ date(years ~ '-' ~ months ~ '-01') |date('Y-m') }}"> {{ date(years ~ '-' ~ months ~ '-01') |date('F') }}</a><br/>
+  {% endfor %}
+  <br/>
+{% endfor %}

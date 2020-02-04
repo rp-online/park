@@ -1,0 +1,237 @@
+.park-image-comparison {
+  position: relative;
+  overflow: hidden;
+  background-color: #000;
+
+  .park-image {
+    display: block;
+    background-position: right center;
+    pointer-events: none;
+    animation-fill-mode: none;
+    transition: opacity 0.3s;
+    backface-visibility: hidden;
+    direction: inherit;
+  }
+
+  &--vertical {
+    .park-image {
+      background-position: center bottom;
+    }
+  }
+
+  &[data-label],
+  &__resizable[data-label] {
+    &::after {
+      content: attr(data-label);
+      position: absolute;
+      z-index: 1;
+      top: 50%;
+      padding: $global-spacing;
+      background-color: rgba(255, 255, 255, 0.1);
+      color: #fff;
+      transform: translateY(-50%);
+      opacity: 0;
+      transition: opacity 0.3s;
+      backface-visibility: hidden;
+    }
+  }
+
+  &--vertical {
+    &[data-label],
+    .park-image-comparison__resizable[data-label] {
+      &::after {
+        top: auto;
+        left: 50%;
+        transform: translateX(-50%);
+
+        .js-disabled & {
+          top: auto;
+          bottom: $global-spacing;
+          left: 50%;
+          transform: translateX(-50%);
+        }
+      }
+    }
+  }
+
+  &[data-label] {
+    &::after {
+      left: $global-spacing;
+    }
+  }
+
+  &--vertical {
+    &[data-label] {
+      &::after {
+        top: $global-spacing;
+        left: 50%;
+
+        .js-disabled & {
+          top: auto;
+          bottom: $global-spacing;
+          left: 50%;
+        }
+      }
+    }
+  }
+
+  &:hover {
+    &[data-label],
+    .park-image-comparison__resizable[data-label] {
+      .park-image {
+        opacity: 0.5;
+      }
+
+      &::after {
+        opacity: 1;
+      }
+    }
+  }
+
+  &__resizable[data-label] {
+    &::after {
+      right: $global-spacing;
+    }
+  }
+
+  &--vertical {
+    .park-image-comparison__resizable[data-label] {
+      &::after {
+        right: auto;
+        bottom: $global-spacing;
+
+        .js-disabled & {
+          top: $global-spacing;
+          bottom: auto;
+        }
+      }
+    }
+  }
+
+  &__resizable {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    min-width: 0;
+    max-width: 100%;
+    height: 100%;
+    min-height: 0;
+    max-height: 100%;
+    background-color: inherit;
+
+    &::before {
+      content: '';
+      position: absolute;
+      z-index: 1;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      width: rem(115px);
+      height: 100%;
+      padding: 0 rem(50px);
+      background-color: #fff;
+      background-clip: content-box;
+      font-size: 0;
+      cursor: move;
+      transform: translateX(-50%);
+    }
+
+    .park-image {
+      position: absolute;
+      top: 0;
+      right: 0;
+      height: 100%;
+    }
+
+    .js-disabled & {
+      overflow: hidden;
+      width: 10%;
+      resize: horizontal;
+      border-left: rem(2px) solid #fff;
+      direction: rtl;
+      text-align: right;
+
+      &::before {
+        top: auto;
+        width: 0;
+        height: 0;
+        margin: rem(2px);
+        padding: 0;
+        border-width: rem(10px);
+        border-style: solid;
+        border-color: transparent transparent #fff #fff;
+        transform: none;
+        pointer-events: none;
+      }
+
+      .park-image__fallback {
+        background-position: right;
+      }
+    }
+  }
+
+  &--vertical {
+    .park-image-comparison__resizable {
+      top: auto;
+      right: auto;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 50%;
+
+      &::before {
+        top: 0;
+        right: 0;
+        bottom: auto;
+        left: 0;
+        width: 100%;
+        height: rem(115px);
+        padding: rem(50px) 0;
+        transform: translateY(-50%);
+      }
+
+      .park-image {
+        top: auto;
+        right: auto;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: auto;
+      }
+
+      .js-disabled & {
+        top: 0;
+        bottom: auto;
+        width: 100%;
+        height: 10%;
+        resize: vertical;
+        border-left: none;
+        border-bottom: rem(2px) solid #fff;
+        direction: ltr;
+        text-align: left;
+
+        &::before {
+          top: auto;
+          right: 0;
+          bottom: 0;
+          left: auto;
+          width: 0;
+          height: 0;
+          padding: 0;
+          border-color: transparent #fff #fff transparent;
+          transform: none;
+        }
+
+        .park-image {
+          top: 0;
+          bottom: auto;
+        }
+
+        .park-image__fallback {
+          background-position: top;
+        }
+      }
+    }
+  }
+}

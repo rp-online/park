@@ -1,0 +1,2014 @@
+{
+  "title": "100 responsive Bilder",
+  "config": {},
+  "skyscraper": {},
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_743cc379c51a95461e94f1cd97b5bf0f/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c3de8e5ca9924bb7942eb86003d00144/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4393b92b043d239c2551f90739302a77/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_9e238fe7e24dfd8676d582ac48ef23e8/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_87b84af3bddcf24ba1040b574b277be6/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": true
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c929c1fa0f261994802fbd47168a0294/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c929c1fa0f261994802fbd47168a0294/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_416a6d771b3b6e807d8bede97a16928c/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cbcaca08109f3634a8d68d84b7117644/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1898ce23e6fca76b37d9f0de61bfd568/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6119f1f81b588c754664e58e74943a54/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_9d71c2a7cc420e4b057a13f9338b0187/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f03f97046411f8da700e32c1d31224d3/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e11c54f40039e80890534ac11a54a1d4/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_154a4dd3c56b0968e8ba3f1b04f7d7a3/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_51190bbc636bf3bb2f9a506062688e62/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_50b25aae51d154575e04502e9663bd53/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4fe236973d9a2706b7e8d9a479317cc0/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_babb1c05dfcdb37bf3419a5a93dd8855/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cfb2d153be82696656396ca01e5ad62b/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e87ee4f6b12b98a4e0bef6c87678bfeb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e87ee4f6b12b98a4e0bef6c87678bfeb/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f0b983d02ac18b7797d06d47c5928822/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_79a7aacc41c60547251b73fbc690c41a/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_79a7aacc41c60547251b73fbc690c41a/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0eee8bf04e8df05d95254b1e3125314a/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cb74000ab274fb9d0a9640f8fda094d3/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cb74000ab274fb9d0a9640f8fda094d3/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_daa961994754c892fe195b288936ec51/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_daa961994754c892fe195b288936ec51/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_daa961994754c892fe195b288936ec51/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ed0a734f823cec87d05cefdfac1bd7ee/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ed0a734f823cec87d05cefdfac1bd7ee/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ed0a734f823cec87d05cefdfac1bd7ee/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a0350b9adee2edb5de26803e57e6adde/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a0350b9adee2edb5de26803e57e6adde/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4dd636aba606bade6ead4a2c7c6324c9/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4dd636aba606bade6ead4a2c7c6324c9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_38f5e2bf842071aaf5a0ff244226365d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e4eb89d7a944db8aa689160176cc2ab6/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e4eb89d7a944db8aa689160176cc2ab6/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_be9a4c5045013d6923cfdd92018d2f01/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_be9a4c5045013d6923cfdd92018d2f01/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5511cd1c1c507350ee133196d75f4477/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b9bcb7518b7a44ae90ac96c69e90889e/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_05e8fc93b997286737e4ac2f06700c60/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_05e8fc93b997286737e4ac2f06700c60/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_05e8fc93b997286737e4ac2f06700c60/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_887fb2eb6ee1a51b6e14a7874448d809/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_887fb2eb6ee1a51b6e14a7874448d809/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7246edc076ba222f61ceb81dbb515684/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7246edc076ba222f61ceb81dbb515684/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_45aa66c2f3312fb151c1ab73cf7b6354/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_45aa66c2f3312fb151c1ab73cf7b6354/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cde33d2db5b87b0a184aa1bb676405b6/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cde33d2db5b87b0a184aa1bb676405b6/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cff4c4103c622fbae5f3b163fc9e7cae/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cff4c4103c622fbae5f3b163fc9e7cae/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1a020ccecc2770ba678a9318cbbc6ac1/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_916243f1b38eca7fcf93369794e44a21/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_72408893ded162f08e6e90ccad7b6b91/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_72408893ded162f08e6e90ccad7b6b91/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4cd5dfbdcaa34d4815b81035323dc37c/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c8fcaa3e152f74fb6b6abceaff2a553d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c8fcaa3e152f74fb6b6abceaff2a553d/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_12d1ab9d56e4fff442928cf0b7bd4587/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_12d1ab9d56e4fff442928cf0b7bd4587/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e8106e437adbeb898c32d8197f9dd5b9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e8106e437adbeb898c32d8197f9dd5b9/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1e957683adc3f6e9c5b8e94550b32582/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_35bdde1b4493971c2a2cad8669ce787b/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_35bdde1b4493971c2a2cad8669ce787b/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc96658ef013a7ccda992232b22518c5/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f9fb03671973e4e0a52a03b698f5ce51/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f9fb03671973e4e0a52a03b698f5ce51/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d6697669e8c91ada88e72ec532cc7fe0/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d6697669e8c91ada88e72ec532cc7fe0/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3e1df88600d51384b90520f9843cf690/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_41d756594ecba49c8e27ed73f972d292/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_41d756594ecba49c8e27ed73f972d292/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_41d756594ecba49c8e27ed73f972d292/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_645c20836067cb0c783a1ecd1a70d0a1/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_645c20836067cb0c783a1ecd1a70d0a1/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d2dc52ccf510c827c8a8ad5c44cdbf01/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d3a63c87ef49bd3323301c87dfb4b6ff/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d3a63c87ef49bd3323301c87dfb4b6ff/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6bf6b4cc402a060294b62c59786797e5/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f4585445e51cff2d23fd80b526a5ea58/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f4585445e51cff2d23fd80b526a5ea58/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_47a87724cee44837df92defb312c73a8/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_47a87724cee44837df92defb312c73a8/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_47a87724cee44837df92defb312c73a8/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a745190c02081ac90f5519dabe8ed07b/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a745190c02081ac90f5519dabe8ed07b/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_185417c9c398997ef085e6b77cba71d8/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_185417c9c398997ef085e6b77cba71d8/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f50cc953c607040d9031fa487c10517f/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_042d147cb5a088b177210103cd390e61/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_042d147cb5a088b177210103cd390e61/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d94d407e063c1a78b642b0a48798515d/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_2079374d1ed02e5fe05e01c5b39cfd1d/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_2079374d1ed02e5fe05e01c5b39cfd1d/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8d0c59dfc88629c64e8e2881630310d1/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8d0c59dfc88629c64e8e2881630310d1/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7bcef991bdf83125250d20b359a71548/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7bcef991bdf83125250d20b359a71548/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7bcef991bdf83125250d20b359a71548/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f0dcb3ab6eb90060e28fb99778d2536b/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f0dcb3ab6eb90060e28fb99778d2536b/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_02cfe95546386e7ffc83ee1d2ce40380/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_02cfe95546386e7ffc83ee1d2ce40380/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_02cfe95546386e7ffc83ee1d2ce40380/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fdca45209daec1eb78e6cf5685e67548/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_bfc7d98cbded2f18d252de90cf6f85a6/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_bfc7d98cbded2f18d252de90cf6f85a6/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_bfc7d98cbded2f18d252de90cf6f85a6/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_542c52a9fc2a01f6874bf75f153a4081/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_542c52a9fc2a01f6874bf75f153a4081/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_542c52a9fc2a01f6874bf75f153a4081/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_87c98e29e23a5e9fa5ff251b81b54f42/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5bdbd7e48ca7ceb043a851abeae51acb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b518b582ca3a4ab226171a3fcf9d6702/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_17b473fb4d73db9c7b534ffb3fee94f4/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_407cc0fc3638a9aee085183c77972ac1/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_407cc0fc3638a9aee085183c77972ac1/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_47e8a2b6ae3388d31d6e44e0a0b3c011/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_85fd6fe0e2005eb5dee0e7a38a6ee6af/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_85fd6fe0e2005eb5dee0e7a38a6ee6af/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_92b4752fcbde76af20329ea0e914e328/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_179ead1b7768fff7c0698d9967837b3b/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_179ead1b7768fff7c0698d9967837b3b/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_179ead1b7768fff7c0698d9967837b3b/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_77ce023714f276f21ac45bbddf3403c5/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e216cea0d7008e681b064d74ba5b77fb/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e216cea0d7008e681b064d74ba5b77fb/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e216cea0d7008e681b064d74ba5b77fb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_571ee474684d6d7ac540c7a359d6fcc2/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_bcb7af4851ae1f197ca11283d3464ebc/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6037874c417183f80b8e7e12613aa6d5/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6037874c417183f80b8e7e12613aa6d5/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fbd6a3bc93925d6f5dee3e0ed568a5f2/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fbd6a3bc93925d6f5dee3e0ed568a5f2/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b28419fa41c144eceeaabfc8119c1f33/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b28419fa41c144eceeaabfc8119c1f33/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b28419fa41c144eceeaabfc8119c1f33/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_59fd3ad56766ee811f5fb00a9590e9d6/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_59fd3ad56766ee811f5fb00a9590e9d6/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4e924c0119ef1db052951bee5f5a6463/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4da9ebc6004a7b75c2fe24eb97d9306f/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4da9ebc6004a7b75c2fe24eb97d9306f/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4da9ebc6004a7b75c2fe24eb97d9306f/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_158c1e92461d5d58843a5b21fd2cb1ed/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_158c1e92461d5d58843a5b21fd2cb1ed/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_158c1e92461d5d58843a5b21fd2cb1ed/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_158c1e92461d5d58843a5b21fd2cb1ed/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b4ce242db91e41fa7dac00b7b4c3f5ad/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7562f4d035f6d843bb4303c975dc1ce7/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7562f4d035f6d843bb4303c975dc1ce7/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7562f4d035f6d843bb4303c975dc1ce7/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c2b69b6f44d0812e0616e698d0940022/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3fe7ea918d187dc3d35b4ae8d653e49d/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0c0693e0a81420b752a3e851bc1f7024/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0c0693e0a81420b752a3e851bc1f7024/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a02974848459b702df04183ec4d5e3d6/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a02974848459b702df04183ec4d5e3d6/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f363c9b385f6f8f021b0ed42a70b78c0/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f363c9b385f6f8f021b0ed42a70b78c0/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_06a035785d25d8f3e5f0c4d4452bbb6d/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_06a035785d25d8f3e5f0c4d4452bbb6d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_47d51323da8e3dc6e141e5818c72e5e4/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_68d428f0c848580ee857be06a4fb1ec5/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_399d81ba91780c30b9ba063d12b50653/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_399d81ba91780c30b9ba063d12b50653/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_399d81ba91780c30b9ba063d12b50653/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f85c68d5b7d02aa700161b19734e855d/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f85c68d5b7d02aa700161b19734e855d/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_45a548db04ce198594d2ff8d88ee36c5/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_20b3d8340dae44480f36715d1727a34a/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_20b3d8340dae44480f36715d1727a34a/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c88401b36892212b561b1b103406851e/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d71d66facd52100f96052e8bccac7202/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d71d66facd52100f96052e8bccac7202/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_741616078f80e882c57ae1a9d8113ef7/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_68c5a158bea79c7b3dae42f1fd45e9db/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_68c5a158bea79c7b3dae42f1fd45e9db/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d3ce363d7545a74a19a3b7f8e7b1df55/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d3ce363d7545a74a19a3b7f8e7b1df55/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d8275e652a2dda5468dfbcb568ad4f72/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_9721cb4dfb136d834ca88c147b170c6c/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_589495b6eab4ec672c756297993515aa/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_589495b6eab4ec672c756297993515aa/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_589495b6eab4ec672c756297993515aa/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fd8537e268c55715905ff5b64b7046bd/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fd8537e268c55715905ff5b64b7046bd/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c965619bb6957affee73d9206e2cd3c/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c989d9da5d023a19f610f8352b6ff9fa/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_28f9e3465cab4b765c4d32da1107806b/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_28f9e3465cab4b765c4d32da1107806b/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d4d25f7d79a0d4aa4d3cc6036d66ac9c/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ce019ec011a78b1cd29b50f13826af13/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ce019ec011a78b1cd29b50f13826af13/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ce019ec011a78b1cd29b50f13826af13/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_43f38c734d2921406235441356dd84f9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_79cc6a08ea400e89c42f8c829c548c1c/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_105a7f34825fe5b6609e96dbe9105577/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e704c618f63f47086000e9b5681e8df2/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e704c618f63f47086000e9b5681e8df2/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e704c618f63f47086000e9b5681e8df2/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_dfb0847322f3ff53799a7734400128dd/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_13cc57a62269322320ee400123ed7246/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95934694c7e7d0c887b81fe1adab1654/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95934694c7e7d0c887b81fe1adab1654/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95934694c7e7d0c887b81fe1adab1654/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_56e1db7ab834b83b8d376eefd4090908/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_56e1db7ab834b83b8d376eefd4090908/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_56e1db7ab834b83b8d376eefd4090908/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_abd74b184290b1b78347544e09b2555e/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a958c605ba0024b27b8fae565b97de3b/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a958c605ba0024b27b8fae565b97de3b/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_06002f72cde89d2c9910cbb9727da105/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_06002f72cde89d2c9910cbb9727da105/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_32f6dd720ad73f5a240b68057103deb6/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_32f6dd720ad73f5a240b68057103deb6/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_431d52a2abe1cba67f4cddc534e56976/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_431d52a2abe1cba67f4cddc534e56976/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_00fcfcbedceec2bd62b01127a69a1992/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_00fcfcbedceec2bd62b01127a69a1992/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_00fcfcbedceec2bd62b01127a69a1992/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e2ddc87ba3bc76be493b1782c0698041/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1aecc6b7bc6b8ded7ec924f865f30dfb/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1aecc6b7bc6b8ded7ec924f865f30dfb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ae6186c2b1d561699e0d6b4de38c2b34/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c760f779147bb00ec308516e8bfda7d/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c760f779147bb00ec308516e8bfda7d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1af30bb885d69ef32f2d9eccfecfb17c/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1af30bb885d69ef32f2d9eccfecfb17c/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b3a1d7135b8c81eadc3ffbe81ab71f11/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_89aa38df8717c40793069da709bee58a/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cda6ae582e809513743b440b8e40153b/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cda6ae582e809513743b440b8e40153b/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cda6ae582e809513743b440b8e40153b/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b1fee7002b49a27db3159980f2ab5769/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6b4c149108995770a6e3159d141250bf/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6b6d36571cadc7b0e62694b0a84edf71/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6b6d36571cadc7b0e62694b0a84edf71/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_34f862194610a513ea50aa3f4eff9573/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_34f862194610a513ea50aa3f4eff9573/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5bf4cfcdeb08e4997148b407aedad760/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5bf4cfcdeb08e4997148b407aedad760/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_dff3f89bb85678377a8fdb5ab92071e4/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_33342917f68a69d021c58e1a47645bb6/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_33342917f68a69d021c58e1a47645bb6/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6254362c9558cd469f959833834de876/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3b0d3b352cbf1f0106112614a1020379/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3b0d3b352cbf1f0106112614a1020379/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3b0d3b352cbf1f0106112614a1020379/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ce4f2a039932a9653b24503a055bbe98/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ce4f2a039932a9653b24503a055bbe98/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_40e92a0f1a81b86148cb9e50f5b6f368/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_40e92a0f1a81b86148cb9e50f5b6f368/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_9a99ef1ba537fd96dc4cee119d31bcfa/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a3f84d7daa2412bc4c18d3a73d3e7fb6/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a3f84d7daa2412bc4c18d3a73d3e7fb6/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a3f84d7daa2412bc4c18d3a73d3e7fb6/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_15ec2073366a190bf982c896685ec314/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a9b6bb9130f4391f9d035581e029fdcf/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a9b6bb9130f4391f9d035581e029fdcf/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c15d6c7133ce8402e24e474edffc74f/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f0c722b60fc1b24e69aa6a1a39f09edc/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f0c722b60fc1b24e69aa6a1a39f09edc/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_590582236c34df7c5c0a65e8889784c0/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_590582236c34df7c5c0a65e8889784c0/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_590582236c34df7c5c0a65e8889784c0/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_edb0e6c86ffedb8bede87b3651f3baaf/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_edb0e6c86ffedb8bede87b3651f3baaf/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_428660b21254139ebf78e6dd55e75742/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_da73321c74c457dd3bbb5bf255f90fdf/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_da73321c74c457dd3bbb5bf255f90fdf/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10e09d15d1debd1b664affcde63f34f4/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10e09d15d1debd1b664affcde63f34f4/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10e09d15d1debd1b664affcde63f34f4/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4762722dcf0d4e7da0fc3a943e91dfc7/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4762722dcf0d4e7da0fc3a943e91dfc7/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4762722dcf0d4e7da0fc3a943e91dfc7/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4762722dcf0d4e7da0fc3a943e91dfc7/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c82b98d9c85192761185909fc66f38bb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5a06d029bb8c202f3b80a7ba6a780607/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5a06d029bb8c202f3b80a7ba6a780607/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_5a06d029bb8c202f3b80a7ba6a780607/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c2d63ad867ab67106b5d85738f38258/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c2d63ad867ab67106b5d85738f38258/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c2d63ad867ab67106b5d85738f38258/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_1c274f072fcabd6de9223766108927f5/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6d93d8f2d8197568129c66a5b85d40f3/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6d93d8f2d8197568129c66a5b85d40f3/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cd1309e6d671d8642b425aabb5888983/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cd1309e6d671d8642b425aabb5888983/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cd1309e6d671d8642b425aabb5888983/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_cd1309e6d671d8642b425aabb5888983/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c03803bf5c960ebca15c383755b1a02e/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8198b86fba6e17689a06e4a65d09c25c/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8198b86fba6e17689a06e4a65d09c25c/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8198b86fba6e17689a06e4a65d09c25c/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_014b30f069d9f2a124c9893b6cf025c1/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_014b30f069d9f2a124c9893b6cf025c1/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_014b30f069d9f2a124c9893b6cf025c1/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_014b30f069d9f2a124c9893b6cf025c1/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_014b30f069d9f2a124c9893b6cf025c1/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_bfb8a755fb9fdd09c4f57ec27b440071/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_429452f598fe108970dc4e24388e477b/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_429452f598fe108970dc4e24388e477b/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d5f50b8b81a51cc6a9dc3b06cf9809f5/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d5f50b8b81a51cc6a9dc3b06cf9809f5/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d5f50b8b81a51cc6a9dc3b06cf9809f5/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d5f50b8b81a51cc6a9dc3b06cf9809f5/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d5f50b8b81a51cc6a9dc3b06cf9809f5/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_08c7fbf36f792f381ff27cecf160d36f/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3ae93b36416a4f9502a3df8b91a51512/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3ae93b36416a4f9502a3df8b91a51512/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_3ae93b36416a4f9502a3df8b91a51512/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_90ef515b978d19c6838860e47ee617e7/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_31e08f492cfd22c865eb4a0be45d3a57/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_31e08f492cfd22c865eb4a0be45d3a57/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_eed83739e8b6814680345555dbdeea29/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_eed83739e8b6814680345555dbdeea29/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0d90227f1a551b8f45d2c39144e8c475/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0d90227f1a551b8f45d2c39144e8c475/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0d90227f1a551b8f45d2c39144e8c475/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0d90227f1a551b8f45d2c39144e8c475/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fd5a84918b051a12dd327e1b5bb1b4af/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fd5a84918b051a12dd327e1b5bb1b4af/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b0a51d5e0c007be8f1253a9573a53706/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b0a51d5e0c007be8f1253a9573a53706/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b0a51d5e0c007be8f1253a9573a53706/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_c989dca68568095cc37eb5ecbb18b55a/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_26a55e439af997f4383ed9c3e14217d4/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_26a55e439af997f4383ed9c3e14217d4/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_26a55e439af997f4383ed9c3e14217d4/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_26a55e439af997f4383ed9c3e14217d4/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_95742d28a7540c323ca7516354462177/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_64efcb1d25877279b557efecfd73ac08/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_589ec253372e4d29f6968210ed230f9b/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_db5cbaed6bf1da598e291291ad6ed6ff/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_db5cbaed6bf1da598e291291ad6ed6ff/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_db5cbaed6bf1da598e291291ad6ed6ff/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_db5cbaed6bf1da598e291291ad6ed6ff/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_db5cbaed6bf1da598e291291ad6ed6ff/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_740fbd85540e9b2d566f094a99829bbe/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_740fbd85540e9b2d566f094a99829bbe/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_740fbd85540e9b2d566f094a99829bbe/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_740fbd85540e9b2d566f094a99829bbe/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_740fbd85540e9b2d566f094a99829bbe/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d9b410803283a9317cf8e9f0401c9685/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d9b410803283a9317cf8e9f0401c9685/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d9b410803283a9317cf8e9f0401c9685/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_37f8401b484b37acc9592a120aa454e9/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_37f8401b484b37acc9592a120aa454e9/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_37f8401b484b37acc9592a120aa454e9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a6ef73b4af91999239236ac520726e08/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a6ef73b4af91999239236ac520726e08/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a6ef73b4af91999239236ac520726e08/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e101a73682cc30a41be6639fda69c624/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e101a73682cc30a41be6639fda69c624/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e101a73682cc30a41be6639fda69c624/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6c2fcfc14b591c2a9d59226de86cd5fd/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6c2fcfc14b591c2a9d59226de86cd5fd/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6c2fcfc14b591c2a9d59226de86cd5fd/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6c2fcfc14b591c2a9d59226de86cd5fd/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0cdf368f8acfb0438a27b6ca72300f45/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0cdf368f8acfb0438a27b6ca72300f45/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c90bbd640b2e3cf48ff1dc43715c6c9/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c90bbd640b2e3cf48ff1dc43715c6c9/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c90bbd640b2e3cf48ff1dc43715c6c9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c90bbd640b2e3cf48ff1dc43715c6c9/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8c90bbd640b2e3cf48ff1dc43715c6c9/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_40740f2cb459cb23afdfe70e2b908cf9/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_40740f2cb459cb23afdfe70e2b908cf9/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_40740f2cb459cb23afdfe70e2b908cf9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_beaa0f5dff58a7055387e62f633818e3/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_beaa0f5dff58a7055387e62f633818e3/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ece3fd2d0881cdf78722a1b24ce917cb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ece3fd2d0881cdf78722a1b24ce917cb/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ece3fd2d0881cdf78722a1b24ce917cb/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ece3fd2d0881cdf78722a1b24ce917cb/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_ece3fd2d0881cdf78722a1b24ce917cb/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7fd2089affb67430b68d50c56919d5b2/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7fd2089affb67430b68d50c56919d5b2/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7fd2089affb67430b68d50c56919d5b2/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7fd2089affb67430b68d50c56919d5b2/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6f7efc22946954e05ad4682d2ae3918f/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6f7efc22946954e05ad4682d2ae3918f/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0771dfc4a5c80a48662cf15c50d6fe85/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0771dfc4a5c80a48662cf15c50d6fe85/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0771dfc4a5c80a48662cf15c50d6fe85/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_dd65542d6c6e18f3ece48dee5db5dc82/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4b6257d378f76cabbd7cad85486a2885/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f6bda08636c1908128b87a6aa1a18afb/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f6bda08636c1908128b87a6aa1a18afb/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f6bda08636c1908128b87a6aa1a18afb/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f6bda08636c1908128b87a6aa1a18afb/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_23eb062e27925dab6afe667755b70c24/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_23eb062e27925dab6afe667755b70c24/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_af3a72e17d7ae48e774ee6939e9eca99/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_af3a72e17d7ae48e774ee6939e9eca99/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_af3a72e17d7ae48e774ee6939e9eca99/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_af3a72e17d7ae48e774ee6939e9eca99/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8b74651d6fee988ccded54194a5b1f3f/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8b74651d6fee988ccded54194a5b1f3f/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8b74651d6fee988ccded54194a5b1f3f/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8b74651d6fee988ccded54194a5b1f3f/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e0296f39eeef3823ddf92ca7157f663f/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f37be0466d46a426cc725a64bc5f4653/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f37be0466d46a426cc725a64bc5f4653/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f37be0466d46a426cc725a64bc5f4653/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_f37be0466d46a426cc725a64bc5f4653/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0a60aa7dd9e07e6aeaec4267fe80a5b9/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0a60aa7dd9e07e6aeaec4267fe80a5b9/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0a60aa7dd9e07e6aeaec4267fe80a5b9/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0a60aa7dd9e07e6aeaec4267fe80a5b9/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6054b63e7b6fae3bfa67f8fa35ce6fda/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_6054b63e7b6fae3bfa67f8fa35ce6fda/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_fc3485ff1a2ef903aca2290ea5e119d4/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2e1daa2ff886aa92e99e4983b5b3c7d/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_45939a19342d85f56097bd2ed896859d/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_45939a19342d85f56097bd2ed896859d/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_10b9c410ba28cd1b0dfe628de761ae75/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_404adba535b4fbe9e016f5cddbcb8b1d/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_d153dc7c7857e12d6090ab7ed7866281/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_a2470a51848044a338771352a0ba23ba/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8f8b0904d1f561df8dd9bd32af677b54/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8f8b0904d1f561df8dd9bd32af677b54/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8f8b0904d1f561df8dd9bd32af677b54/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8f8b0904d1f561df8dd9bd32af677b54/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_8f8b0904d1f561df8dd9bd32af677b54/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e137e3a67d85758a08cb32f82bb33018/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e137e3a67d85758a08cb32f82bb33018/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_e137e3a67d85758a08cb32f82bb33018/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b81af6a6e06affa7e9e3ecb2259d58ee/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b81af6a6e06affa7e9e3ecb2259d58ee/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b81af6a6e06affa7e9e3ecb2259d58ee/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b81af6a6e06affa7e9e3ecb2259d58ee/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_0466e65a29552ede5303176f92f41a62/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_954c6501e34ac0402b456a70f78d4c30/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_954c6501e34ac0402b456a70f78d4c30/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_954c6501e34ac0402b456a70f78d4c30/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b1b2f406e99d3162475dfbf7b6178161/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b1b2f406e99d3162475dfbf7b6178161/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b1b2f406e99d3162475dfbf7b6178161/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_b1b2f406e99d3162475dfbf7b6178161/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_975d1eac27cf6f0085586ab88af14233/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_975d1eac27cf6f0085586ab88af14233/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_975d1eac27cf6f0085586ab88af14233/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c4d588964e042ce1ce9f96d2863e7cb/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c4d588964e042ce1ce9f96d2863e7cb/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c4d588964e042ce1ce9f96d2863e7cb/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_4c4d588964e042ce1ce9f96d2863e7cb/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_71f59444a03a0b92f599edcfec443129/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_71f59444a03a0b92f599edcfec443129/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7d58244551f4e5fd0f76f0689e143dce/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          },
+          {
+            "component": "image",
+            "data": {
+              "src": {
+                "400w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7d58244551f4e5fd0f76f0689e143dce/w400_h225_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7ffd3912979015d84f7b8bd6a582a171/w600_h337_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "900w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7ffd3912979015d84f7b8bd6a582a171/w900_h506_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1200w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7ffd3912979015d84f7b8bd6a582a171/w1200_h675_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg",
+                "1600w": "/imgs/32/3/8/8/2/3/9/2/3/tok_7ffd3912979015d84f7b8bd6a582a171/w1600_h900_x1500_y1000_DPA_bfunk_dpa_5F9A640085621869-3d2d3839b7386e60.jpg"
+              },
+              "sizes": {
+                "mobile": "100vw",
+                "desktop": "950px"
+              },
+              "alt": "Blick aus dem Hochhaus über den Düsseldorfer Medienhafen in Richtung Rheinturm und Altstadt, bei Sonnenuntergang",
+              "width": 900,
+              "height": 506,
+              "lazy": false
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

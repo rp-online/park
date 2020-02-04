@@ -1,0 +1,42 @@
+.park-quick-nav-item {
+  @include global-sans-serif-font-size(2);
+
+  display: inline-block;
+  color: $global-color-text-black;
+  line-height: rem(34px);
+  vertical-align: middle;
+  text-decoration: none;
+
+  @include mq(desktop) {
+    line-height: rem(34px);
+  }
+
+  &--has-icon {
+    @include zero-font-size;
+
+    background-image: none;
+    color: transparent;
+    font-size: 0;
+    opacity: 0.75;
+    filter: grayscale(1);
+    transition-property: filter, opacity;
+    transition-duration: 0.6s;
+
+    &:focus,
+    &:hover {
+      background-image: none;
+      opacity: 1;
+      filter: grayscale(0);
+      transition-duration: 0.15s;
+    }
+  }
+
+  &__icon {
+    width: rem(34px);
+    height: rem(34px);
+  }
+
+  &__text {
+    @include text-link;
+  }
+}

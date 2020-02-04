@@ -1,0 +1,20 @@
+{% set content %}
+  <{{ headline.tag }} class="park-card-traffic__headline">
+    {% if headline.badge is defined and headline.badge %}<i class="park-card-traffic__badge" data-badge="{{ headline.badge }}">{{ headline.badge }}</i>{% endif %}
+    <time class="park-card-traffic__time">{{ headline.time }}h</time>
+    {{ headline.text }}
+  </{{ headline.tag }}>
+  <p class="park-card-traffic__text">{{ text }}</p>
+{% endset %}
+{% set link = {
+  'href': href,
+  'text': content,
+  'target': target,
+  'rel': rel,
+  'classes': [
+    'park-card-traffic'
+  ],
+  'isAd': isAd,
+  'config': config
+} %}
+{% include 'components/link-helper/template.twig' with link only %}

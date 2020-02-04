@@ -1,0 +1,240 @@
+.park-section-nav {
+  @extend %section-nav;
+
+  position: relative;
+  z-index: 1;
+  padding: rem(10px) $global-spacing rem(6px) $global-spacing;
+
+  @include mq(mobile) {
+    overflow: hidden;
+    width: 100%;
+    padding: 0;
+    text-overflow: ellipsis;
+
+    .park-portal-marker &,
+    .is-advertorial & {
+      padding-top: rem(20px);
+    }
+  }
+
+  .park-portal-marker &,
+  .is-advertorial & {
+    position: relative;
+    background-color: $global-advertisement-color;
+
+    @include mq(desktop) {
+      padding-right: rem(90px);
+    }
+
+    &::before {
+      @extend %sugardaddy-label;
+
+      @include global-sans-serif-font-size(2);
+
+      display: block;
+      float: right;
+      margin-top: rem(-20px);
+      margin-right: $global-spacing;
+      color: white;
+
+      @include mq(desktop) {
+        position: absolute;
+        right: 0;
+        margin-top: 0;
+      }
+    }
+  }
+
+  .is-advertorial .park-section ~ .park-section & {
+    padding-right: $global-spacing;
+
+    &::before {
+      display: none;
+    }
+  }
+
+  &__wrapper {
+    display: inline;
+
+    @include mq(mobile) {
+      position: relative;
+      display: block;
+      padding: rem(4px) $global-spacing;
+      padding-bottom: 0;
+    }
+  }
+
+  &__breadcrumb {
+    display: inline;
+
+    &--is-hidden {
+      @include visuallyhidden;
+    }
+  }
+
+  &__headline,
+  &__breadcrumb-item {
+    @extend %section-headline;
+
+    &::after {
+      top: rem(-8px);
+      bottom: rem(-9px);
+
+      @include mq(mobile) {
+        top: rem(-4px);
+        bottom: rem(-4px);
+      }
+    }
+
+    &:last-child {
+      &::after {
+        display: none;
+      }
+    }
+  }
+
+  &__headline:nth-last-child(2),
+  &__breadcrumb:nth-last-child(2) &__breadcrumb-item {
+    &:last-child {
+      &::after {
+        display: block;
+      }
+    }
+  }
+
+  &__headline {
+    &::after {
+      @include mq(mobile) {
+        display: none;
+      }
+    }
+  }
+
+  @include mq(desktop) {
+    &__breadcrumb-item--desktophidden {
+      @include visuallyhidden;
+    }
+  }
+
+  &__breadcrumb:not(&__breadcrumb--is-hidden) + &__headline {
+    &::before {
+      content: '';
+      position: absolute;
+      top: rem(-8px);
+      bottom: rem(-9px);
+      left: rem(-16px);
+      width: rem(2px);
+      background-color: white;
+      transform: rotate(22.5deg);
+
+      @include mq(mobile) {
+        top: rem(-4px);
+        bottom: rem(-4px);
+      }
+    }
+  }
+
+  &__breadcrumb-link,
+  &__headline-link {
+    @include text-link(white);
+
+    &,
+    > * {
+      font-weight: inherit;
+    }
+  }
+
+  &__toggle {
+    display: none;
+
+    @include mq(mobile) {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      display: block;
+      width: rem(50px);
+      height: rem(50px);
+      background-color: transparent;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='10' fill='%23fff'%3E%3Cpolygon points='0,2 10,2 5,8'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: center center;
+      background-size: rem(10px) rem(10px);
+      border: none;
+      font-size: 0;
+      transform: rotate(-90deg);
+      backface-visibility: hidden;
+      transition: transform 300ms;
+
+      &[aria-expanded="true"] {
+        transform: rotate(0deg);
+      }
+    }
+  }
+
+  &__navigation {
+    display: inline;
+
+    @include mq(mobile) {
+      display: block;
+      padding: rem(10px);
+      background-color: $global-light-grey;
+      font-size: 0;
+      line-height: rem(34px);
+
+      // Adjusting the collapse animation for the small height of the element
+      &[aria-hidden="true"] {
+        &,
+        & > * {
+          animation-delay: -500ms;
+        }
+      }
+    }
+
+    @include mq(desktop) {
+      &[aria-hidden] {
+        display: none;
+      }
+    }
+  }
+
+  &__item {
+    @include global-sans-serif-font-size(2);
+
+    display: inline-block;
+    padding-right: $global-spacing;
+
+    @include mq(mobile) {
+      display: inline-block;
+      margin: rem(5px);
+      vertical-align: top;
+      animation: none !important;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+
+  &__link,
+  &__mark {
+    @include text-link(white);
+    @include global-sans-serif-font-size(2);
+
+    color: white;
+
+    .is-advertorial &,
+    .park-portal-marker & {
+      color: white;
+    }
+
+    @include mq(mobile) {
+      &,
+      .is-advertorial &,
+      .park-portal-marker & {
+        @include text-link;
+
+        color: $global-color-text-black;
+      }
+    }
+  }
+}

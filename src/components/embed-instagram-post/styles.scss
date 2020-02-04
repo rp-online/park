@@ -1,0 +1,36 @@
+.park-embed-instagram-post {
+  @extend %embed;
+
+  blockquote {
+    display: inline;
+    border-left: 10px solid #ccc;
+    font-weight: $global-font-weight-sans-serif-bold;
+    quotes: '\201C''\201D''\2018''\2019';
+
+    &::before {
+      margin-right: 0.25em;
+      color: #ccc;
+      content: open-quote;
+      font-size: 4em;
+      line-height: 0.1em;
+      vertical-align: -0.4em;
+    }
+
+    a {
+      vertical-align: baseline;
+    }
+
+    > p {
+      font-weight: $global-font-weight-sans-serif-regular;
+    }
+  }
+
+  > * {
+    margin: 0 auto;
+  }
+
+  iframe {
+    margin: auto !important;
+    background-color: #fff;
+  }
+}

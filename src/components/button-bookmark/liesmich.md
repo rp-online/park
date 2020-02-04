@@ -1,0 +1,1 @@
+Diese Komponente stellt den Lesezeichen-Knopf für Artikel in den Übersichtsseiten dar. Weil die Übersichtsseiten durch die vielen Knöpfe aber viel zu überladen wären, blendet sich der Knopf nur ein, wenn er für längere Zeit im zentralen Teil des Viewports zum Stehen kommt. 

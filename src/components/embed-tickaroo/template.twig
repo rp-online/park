@@ -1,0 +1,53 @@
+<div class="park-embed-tickaroo">
+{% set uuid = random() %}
+<div id="ticker-container">
+    <button id="ticker-update-link" onclick="return window.theticker.updateWithPendingItems();" style="display: none">aktualisieren</button>
+	<div id="ticker">
+        {{ body|raw }}
+    </div>
+    <script>
+        (function(e,t,n,r,i,s,o){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date;
+        s=t.createElement(n),o=t.getElementsByTagName(n)[0];s.async=1;s.src=r;o.parentNode.insertBefore(s,o)}
+        )(window,document,"script",'//widgets.tickaroo.com/embedjs/v1.js?client_id={{ clientId }}',"_tik");
+        _tik(function() {
+        window.theticker = Tickaroo.embedTicker({
+            container: document.getElementById('ticker'),
+            id: "{{ blogId }}",
+            limit: {{ limit }},
+            handleRefresh: 'notify',
+            showEventMeta: true,
+            showEventSharing: {{ showEventSharing ? 'true' : 'false' }},
+            coalesceRepeatedMeta: {{ coalesceRepeatedMeta ? 'true' : 'false' }},
+            reverseEvents: {{ reverseEvents ? 'true' : 'false' }},
+            style: '{{ useTileFormat ? 'imagegrid' : '' }}',
+            trackingCallback: function(id, reason, type, foundContent) {
+                switch (type) {
+                    default:
+                        break;
+                    case 'refresh':
+                        if(foundContent > 0){
+                            document.getElementById('ticker-update-link').className = 'park-button';
+                            document.getElementById('ticker-update-link').style.display = 'inline-block';
+                        }
+                        break;
+                    case 'update-pending':
+                        document.getElementById('ticker-update-link').style.display = 'none';
+                        break;
+                }
+
+                switch (reason) {
+                default:
+                  break;
+
+                case 'more':
+                case 'user':
+                  window.park.eventHub.trigger(document, 'park.embed-tickaroo:pageview', {
+                    elem: document.getElementById('ticker'),
+                  });
+                  break;
+              }
+            }
+            });
+        });
+    </script>
+    </div>

@@ -1,0 +1,66 @@
+{
+  "src": "https://static.kalaydo.de/kalaydo/bundles/fbd31d7/image/kalaydo/homepage/startpage_mainstage-compr.jpg",
+  "items": [
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Informatikerin/Informatiker"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/ec/57/73b7-c394-4492-8f05-bfa4c7e400c6/nrw_5235870214019512564.png",
+      "alt": "Information und Technik Nordrhein-Westfalen",
+      "href": "#void"
+    },
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Sachbearbeiter (m/w) Fakturierung"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/4e/55/826b-03c8-4ccd-8edd-7c7481a39296/logo_6984026494507743057.png",
+      "alt": "Düsseldorf Airport GmbH",
+      "href": "#void"
+    },
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Servicemitarbeiter im Außendienst (m/w)"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images/2017/04/29/06/a025ba2e/large_image_0.jpg?lastModified=1495605168000",
+      "alt": "Conworx Technology GmbH",
+      "href": "#void"
+    },
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Informatikerin/Informatiker"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/ec/57/73b7-c394-4492-8f05-bfa4c7e400c6/nrw_5235870214019512564.png",
+      "alt": "Information und Technik Nordrhein-Westfalen",
+      "href": "#void"
+    },
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Sachbearbeiter (m/w) Fakturierung"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images_org_logo/4e/55/826b-03c8-4ccd-8edd-7c7481a39296/logo_6984026494507743057.png",
+      "alt": "Düsseldorf Airport GmbH",
+      "href": "#void"
+    },
+    {
+      "type": "kalaydo",
+      "headline": {
+        "tag": "h2",
+        "text": "Servicemitarbeiter im Außendienst (m/w)"
+      },
+      "src": "https://bilder.kalaydo.de/kalaydo/images/2017/04/29/06/a025ba2e/large_image_0.jpg?lastModified=1495605168000",
+      "alt": "Conworx Technology GmbH",
+      "href": "#void"
+    }
+
+  ]
+}

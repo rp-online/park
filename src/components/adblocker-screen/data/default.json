@@ -1,0 +1,48 @@
+{
+  "intro": {
+    "image": {
+      "src": "./assets/skins/rp-online/images/adblocker-journalist.png",
+      "alt": "Zeichnung eines Journalisten mit Schreibutensilien über einen Tisch gebeugt",
+      "width": 415,
+      "height": 273
+    },
+    "headline": "Guter Journalismus kostet Geld",
+    "text": "RP ONLINE wird vor allem durch Werbung finanziert. Mit den Einnahmen bezahlen wir unsere Redaktion, unsere Texte, Fotos und Videos. Ad-Blocker verhindern, dass Werbeanzeigen ausgespielt werden. Helfen Sie uns, unser Angebot aufrecht zu erhalten!"
+  },
+  "offer": {
+    "image": {
+      "src": "./assets/skins/rp-online/images/adblocker-offer.png",
+      "alt": "Gezeichneter Laptop mit einer Sprechblase mit unserem Angebot daran"
+    },
+    "headline": "Sie wollen RP ONLINE unbegrenzt und ohne Werbung lesen?",
+    "text": "Dann testen Sie unser Digital Paket für einen Monat kostenlos.",
+    "cta": {
+      "text": "jetzt testen",
+      "href": "#offer"
+    }
+  },
+  "disableAdblocker": {
+    "image": {
+      "src": "./assets/skins/rp-online/images/adblocker-turn-off.png",
+      "alt": "Gezeichneter Laptop mit durchgestrichenem Adblock-Symbol"
+    },
+    "headline": "Bitte schalten Sie Ihren Adblocker für RP ONLINE aus.",
+    "text": "1. Neben der Adresszeile auf das Adblocker-Symbol klicken\n2. Das Häkchen bei \"Auf dieser Seite aktiviert\" wegklicken bzw. für unser Seite deaktivieren und die Seite neu laden.",
+    "cta": {
+      "class": "reload",
+      "text": "Seite neu laden",
+      "data": {
+        "reload": ""
+      }
+    }
+  },
+  "welect": {
+    "headline": "Sie möchten Ihren Adblocker aktiviert lassen?",
+    "text": "Dann schauen Sie ausgewählte Werbespots und surfen Sie einen Tag lang ohne Werbung weiter",
+    "cta": {
+      "class": "video",
+      "text": "Werbespot ansehen",
+      "href": "#welect"
+    }
+  }
+}

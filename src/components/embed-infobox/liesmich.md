@@ -1,0 +1,1 @@
+In dieser Komponente können Randnotizen zu einem Artikel untergebracht werden. Sie kommt eigentlich nur im Artikel-Körper ([article](#article)) vor.

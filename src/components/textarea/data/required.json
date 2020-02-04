@@ -1,0 +1,6 @@
+{
+  "name": "message",
+  "label": "Nachricht",
+  "placeholder": "Ihre Nachricht",
+  "required": true
+}

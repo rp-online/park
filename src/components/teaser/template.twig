@@ -1,0 +1,84 @@
+{% if isAd is not defined or isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+  {% set headlineLevel = false %}
+  {% if isAd is defined and isAd is same as(true) %}
+    {% set headlineTag = 'span' %}
+    {% if 'h' in headline.tag %}
+      {% set headlineLevel = headline.tag|replace({'h': ''}) %}
+    {% endif %}
+  {% else %}
+    {% set headlineTag = headline.tag %}
+  {% endif %}
+  <article class="park-teaser {% if isAd is defined and isAd is same as(true) %}park-teaser--sugardaddy{% endif %}">
+    {% set content %}
+      {% if src is defined %}
+        <div class="park-teaser__image{% if type is defined %} park-teaser__image--{{ type }}{% endif %}">
+          {% if src is defined %}
+            {% if type is same as('video') %}
+              {% set height = 147 %}
+            {% else %}
+              {% set height = 196 %}
+            {% endif %}
+            {% include 'components/image/template.twig' with {
+              'src': src,
+              'alt': alt,
+              'width': 261,
+              'height': height,
+              'fit': 'cover',
+              'sizes': { 'mobile': '100px', 'desktop': '260px' },
+              'config': config} %}
+          {% endif %}
+        </div>
+      {% endif %}
+      <div class="park-teaser__body">
+        <header>
+          <{{ headlineTag }}
+          {% if headlineLevel %}
+            role="heading" aria-level="{{ headlineLevel }}"
+          {% endif %}
+          class="park-teaser__headlines">
+          {% if kicker is defined and kicker.text is defined and kicker.text %}
+            <span class="park-teaser__kicker">
+              {% include 'components/content-label/template.twig' with {
+                'contentLabel': contentLabel,
+                'config': config
+              } only %}
+              {{ kicker.text | raw }}
+            </span>
+          {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}
+            <span class="park-teaser__headline">{{ headline.text }}</span>
+          {% endif %}
+        </{{ headlineTag }}>
+        </header>
+        <p class="park-teaser__intro">
+          {% if label is defined and label %}<em class="park-article__label">{{ label }}</em>{% endif %}
+          {% if source is defined and source and config.source and config.source is same as(true) %}<em class="park-article__dateline">{{ source }}</em>{% endif %}
+          {% if dateline is defined and dateline %}<em
+            class="park-teaser__dateline">{{ dateline }}</em>{% endif %}{{ intro }}
+          {% if authors is defined and authors %}<em class="park-teaser__authors">{{ authors }}</em>{% endif %}
+        </p>
+      </div>
+    {% endset %}
+    {% set link = {
+      'href': href,
+      'text': content,
+      'target': target,
+      'rel': rel,
+      'classes': [
+        'park-teaser__link'
+      ],
+      'isAd': isAd,
+      'config': config
+    } %}
+    {% include 'components/link-helper/template.twig' with link only %}
+    <aside>
+      {% if related is defined %}
+        {% include 'components/relatedlines/template.twig' with {'items': related, 'config': config} only %}
+      {% endif %}
+    </aside>
+    {% if (isAd is not defined or isAd is same as(false)) and not target %}
+      <footer class="park-teaser__user-actions">
+        {% include 'components/button-bookmark/template.twig' with {'id': id, 'config': config} only %}
+      </footer>
+    {% endif %}
+  </article>
+{% endif %}

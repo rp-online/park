@@ -1,0 +1,30 @@
+{
+  "href": "#void",
+  "src": "./assets/images/opener.jpg",
+  "backgroundColor": "rgba(25,36,86,1)",
+  "kicker": {
+    "tag": "h1",
+    "text": "Schwere Gewitter möglich"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+  },
+  "dateline": "Düsseldorf",
+  "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt.",
+  "authors": "von Henning Bulka",
+  "related": [
+    {
+      "type": "article",
+      "href": "#void",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "#void",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

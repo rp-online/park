@@ -1,0 +1,1 @@
+Diese Komponente rendert eine Sammlung Links in "Tags" bzw. "Chips" Form.

@@ -1,0 +1,30 @@
+{
+  "href": "./artikel.html",
+  "src": "https://thumbs.dreamstime.com/z/hintergrund-muster-gewundenes-schwarzweiss-muster-runde-zentrierte-halbtonillustration-quadrat-form-geometrie-mitte-concep-98081434.jpg",
+  "backgroundColor": "rgba(0,0,0,1);",
+  "kicker": {
+    "tag": "h1",
+    "text": "Lange Texte möglich"
+  },
+  "headline": {
+    "tag": "h2",
+    "text": "Textlänge bedroht die Grafik"
+  },
+  "dateline": "Düsseldorf",
+  "intro": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet",
+  "authors": "von Kristina Dunst",
+  "related": [
+    {
+      "type": "article",
+      "href": "./artikel.html",
+      "kicker": "Fortuna Düsseldorf",
+      "headline": "Akpoguma fehlt, Hoffman ist fit"
+    },
+    {
+      "type": "image",
+      "href": "./bilderstrecke.html",
+      "kicker": "Porträt",
+      "headline": "Kevin Akpoguma: Mega-Trainer aus Hoffenheim"
+    }
+  ]
+}

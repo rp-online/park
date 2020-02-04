@@ -1,0 +1,1972 @@
+{
+  "title": "Autoren auf RP ONLINE - G",
+  "globals": {
+    "rootBase": "",
+    "assetsBase": "\/assets",
+    "searchPage": "\/suche\/",
+    "subscriptionsPage": "\/sso\/subscriptions",
+    "myNewsPage": "\/sso\/my-news",
+    "loginPage": "\/sso\/login",
+    "loginOverlay": false,
+    "settingsPage": "\/sso\/settings",
+    "validateEmailURL": "\/sso\/new_validation_email",
+    "title": "Autoren auf RP ONLINE - G",
+    "url": "https:\/\/www-rpd.rp-online.de\/autor\/",
+    "client": "rp-online",
+    "paywallType": "celeraone"
+  },
+  "config": {
+    "version": "1564555798",
+    "container_id": 6841941,
+    "beitrag_id": 7730187,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Die neuesten Nachrichten, Bilder und Videos aus Politik, Wirtschaft, Sport, Kultur, Gesellschaft, Auto, Digitale Welt sowie D\u00fcsseldorf und ganz NRW. Autoren auf RP ONLINE - G"
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "\/",
+      "subressort": "",
+      "dossier": "",
+      "contentType": "",
+      "analyticsUrl": "https:\/\/www-rpd.rp-online.de\/autor\/",
+      "author": "RP ONLINE",
+      "date": "",
+      "datePublished": "",
+      "dateModified": "",
+      "daysSincePublication": "",
+      "origin": "",
+      "seo": "\/autor\/",
+      "rhoUrl": "\/\/r.rp-online.de\/images\/pic.gif?m=rp&b=7730187&cstr=6841941&l=&tit=Autoren+auf+RP+ONLINE&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fautor%2F&sep=%7C&tce=1&tid=50327&tn=Startseite&tp=50327&tpn=Startseite&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'",
+      "siteShorthand": "rp",
+      "contentTypeShorthand": "",
+      "primaryLevel": "\/",
+      "secondaryLevel": "",
+      "contentGroup": "",
+      "interredBID": 7730187,
+      "interredCID": 6841941,
+      "title": "Autoren auf RP ONLINE",
+      "contentLabel": []
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyCHp5itTFt3vjxkdrH5mpkgnXSChniz55k"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "socialbuttons": {
+      "email": {
+        "subject": "Interessanter RP-Artikel: Autoren auf RP ONLINE",
+        "body": "Hallo%2C%0A%0Aich%20bin%20der%20Meinung%2C%20folgender%20Artikel%20k%C3%B6nnte%20Sie%20interessieren%3A%0A%0A---------------------------------------------%0AAutoren auf RP ONLINE%0A---------------------------------------------%0A%0ADen%20kompletten%20Artikel%20finden%20Sie%20hier%3A%0A%0A{{ url }}%3Futm_source%3Dmail%26utm_medium%3Dreferral%26utm_campaign%3Dshare%0A%0A_____%0A%0ADieser%20Artikel%20wurde%20Ihnen%20vom%20Absender%20aus%20dem%20Nachrichtenangebot%20RP%20ONLINE%20weitergeleitet.%0A%0AImpressum%3A%20https%3A%2F%2Frp-online.de%2Finfo%2Fimpressum%2F%0A%0A"
+      }
+    },
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/call.js",
+      "deviceUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/device.js",
+      "offerApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/api\/store\/RP\/offers",
+      "cmsJsonApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/settings\/notification.json",
+      "cmsJsonOfferApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/offerdata\/offer.json",
+      "cmsJsonAlertsApiUrl": "\/\/www-rpd.rp-online.de\/api\/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "subscribewithgoogle": "true",
+      "cms_id": 6841941,
+      "doctype": "section",
+      "contentid": "\/autor\/",
+      "channel": 50327
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app:\/\/com.rheinischepost.wrapper\/http\/rp-online.de\/autor\/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https:\/\/www-rpd.rp-online.de\/autor\/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application\/rss+xml",
+        "title": "RSS Feed",
+        "href": "\/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Vermischtes",
+        "sv": "i2",
+        "co": "https:\/\/www-rpd.rp-online.de\/autor\/",
+        "sc": "yes"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Vermischtes",
+        "sv": "mo",
+        "co": "https:\/\/www-rpd.rp-online.de\/autor\/",
+        "sc": "yes"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "provider": "gpt",
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "leaderboard",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/leaderboard_1",
+            "size": [
+              [
+                970,
+                250
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                940,
+                120
+              ],
+              [
+                768,
+                90
+              ],
+              [
+                805,
+                110
+              ],
+              [
+                970,
+                110
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "leaderboard",
+              "key": "lb1",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "skyscraper",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/skyscraper_1",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                300,
+                1050
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "skyscraper",
+              "rang": "1"
+            },
+            "type": "skyscraper"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                970,
+                250
+              ],
+              [
+                800,
+                250
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                728,
+                90
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                970,
+                90
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                540,
+                300
+              ],
+              [
+                980,
+                300
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "",
+          "pfad1": "autor",
+          "pfad2": "stop",
+          "mode": "desktop",
+          "zone": "nationalnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "",
+          "pfad1": "autor",
+          "pfad2": "stop",
+          "oms": "nationalnews",
+          "mode": "desktop"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "\/\/ads.pubmatic.com\/AdServer\/js\/pwt\/158201\/1438\/pwt.js"
+        }
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": false,
+            "adSlotName": "mobilebanner",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/mobilebanner_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                300,
+                150
+              ],
+              [
+                300,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                300,
+                600
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos1",
+              "adformat": "mobilebanner",
+              "rang": "1"
+            },
+            "type": "billboard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/outofpage_1",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "outofpage",
+              "rang": "1"
+            },
+            "type": "outofpage"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "footerad",
+            "adUnitPath": "\/1017380\/dev.rp-online.de\/nationalnews\/footerad_1",
+            "size": [
+              [
+                300,
+                250
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                300,
+                600
+              ],
+              [
+                320,
+                75
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "adformat": "footerad",
+              "rang": "1"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "",
+          "pfad1": "autor",
+          "pfad2": "stop",
+          "mode": "mobile",
+          "zone": "nationalnews"
+        },
+        "keyValues": {
+          "pagetype": "rpdtest",
+          "btid": "2",
+          "nielsen": "1",
+          "bundesland": "NRW",
+          "type": "",
+          "pfad1": "autor",
+          "pfad2": "stop",
+          "oms": "nationalnews",
+          "mode": "mobile"
+        },
+        "headerBidder": {
+          "provider": "pubmatic",
+          "id": "\/\/ads.pubmatic.com\/AdServer\/js\/pwt\/158201\/1438\/pwt.js"
+        }
+      },
+      "reloadFrequency": "3"
+    },
+    "preload": [],
+    "adblocker": {
+      "landingpage": "\/info\/adblocker\/",
+      "welectWebBaseUrl": "https:\/\/www.welect.de",
+      "welectApiBaseUrl": "https:\/\/www.welect.de\/api\/v1",
+      "welectIntegratorBaseUrl": "https:\/\/integrator.welect.de\/integrator",
+      "welectProductId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+      "welectIntegrationId": "rpo-jkJ8A122"
+    },
+    "notifications": {
+      "showFloatingBell": true,
+      "showSubscriptionButtons": true
+    },
+    "personalisationDisabled": false,
+    "output": "components"
+  },
+  "skyscraper": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"skyscraper\"><\/div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"><\/div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"><\/div>",
+      "lazy": false
+    }
+  },
+  "notifications": {
+    "distribution": {
+      "onsite": true
+    },
+    "pushProvider": {
+      "name": "CleverPush",
+      "key": "Nt8wzkKHeBpy8Anez"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "\/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "\/nrw\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik2",
+        "href": "\/politik\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "\/sport\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "\/panorama\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "\/kultur\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "\/wirtschaft\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "\/digitales\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "\/leben\/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "\/sso\/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "\/sso\/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "\/sso\/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https:\/\/leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "\/suche\/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem erm\u00f6glichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie k\u00f6nnen auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erkl\u00e4ren Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerkl\u00e4rung.",
+          "link": {
+            "href": "https:\/\/rp-online.de\/info\/datenschutz\/",
+            "text": "zur Datenschutzerkl\u00e4rung",
+            "target": "_blank",
+            "rel": [
+              ""
+            ]
+          }
+        }
+      }
+    ],
+    "salesCta": {
+      "icon": "\/imgs\/33\/7\/7\/2\/5\/5\/9\/9\/20190105_091202-d3f2f13129c23c1a.jpg",
+      "text": "",
+      "href": "https:\/\/www.fuerteventurazeitung.de\/",
+      "target": "_blank",
+      "rel": [
+        "nofollow"
+      ]
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"mobilebanner\"><\/div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"leaderboard\"><\/div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "G"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Autoren",
+                        "href": "\/autor\/"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "page-header",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Autoren auf RP ONLINE \"G\""
+                    },
+                    "children": [
+                      {
+                        "component": "tab-links",
+                        "data": {
+                          "links": [
+                            {
+                              "text": "A",
+                              "href": "\/autor\/index-a\/",
+                              "active": false
+                            },
+                            {
+                              "text": "B",
+                              "href": "\/autor\/index-b\/",
+                              "active": false
+                            },
+                            {
+                              "text": "C",
+                              "href": "\/autor\/index-c\/",
+                              "active": false
+                            },
+                            {
+                              "text": "D",
+                              "href": "\/autor\/index-d\/",
+                              "active": false
+                            },
+                            {
+                              "text": "E",
+                              "href": "\/autor\/index-e\/",
+                              "active": false
+                            },
+                            {
+                              "text": "F",
+                              "href": "\/autor\/index-f\/",
+                              "active": false
+                            },
+                            {
+                              "text": "G",
+                              "href": "\/autor\/index-g\/",
+                              "active": true
+                            },
+                            {
+                              "text": "H",
+                              "href": "\/autor\/index-h\/",
+                              "active": false
+                            },
+                            {
+                              "text": "I",
+                              "href": "\/autor\/index-i\/",
+                              "active": false
+                            },
+                            {
+                              "text": "J",
+                              "href": "\/autor\/index-j\/",
+                              "active": false
+                            },
+                            {
+                              "text": "K",
+                              "href": "\/autor\/index-k\/",
+                              "active": false
+                            },
+                            {
+                              "text": "L",
+                              "href": "\/autor\/index-l\/",
+                              "active": false
+                            },
+                            {
+                              "text": "M",
+                              "href": "\/autor\/index-m\/",
+                              "active": false
+                            },
+                            {
+                              "text": "N",
+                              "href": "\/autor\/index-n\/",
+                              "active": false
+                            },
+                            {
+                              "text": "O",
+                              "href": "\/autor\/index-o\/",
+                              "active": false
+                            },
+                            {
+                              "text": "P",
+                              "href": "\/autor\/index-p\/",
+                              "active": false
+                            },
+                            {
+                              "text": "R",
+                              "href": "\/autor\/index-r\/",
+                              "active": false
+                            },
+                            {
+                              "text": "S",
+                              "href": "\/autor\/index-s\/",
+                              "active": false
+                            },
+                            {
+                              "text": "T",
+                              "href": "\/autor\/index-t\/",
+                              "active": false
+                            },
+                            {
+                              "text": "U",
+                              "href": "\/autor\/index-u\/",
+                              "active": false
+                            },
+                            {
+                              "text": "V",
+                              "href": "\/autor\/index-v\/",
+                              "active": false
+                            },
+                            {
+                              "text": "W",
+                              "href": "\/autor\/index-w\/",
+                              "active": false
+                            },
+                            {
+                              "text": "Z",
+                              "href": "\/autor\/index-z\/",
+                              "active": false
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "cards-container",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "author",
+                              "isAd": false,
+                              "id": "H503005",
+                              "src": "",
+                              "name": "Ralf Geraedts",
+                              "position": "",
+                              "href": "\/autor\/ralf-geraedts-dts\/",
+                              "count": 2,
+                              "description": "",
+                              "items": [
+                                {
+                                  "id": 35876909,
+                                  "href": "\/__path__\/3\/5\/8\/7\/6\/agnu-haan-zieht-erfolgreiche-bilanz-aus-2018_aid-35876909.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Natursch\u00fctzer brauchen aktive Helfer"
+                                  },
+                                  "intro": "Die Arbeitsgemeinschaft Natur und Umwelt \u2013 kurz AGNU \u2013 Haan leistete 2018 rund 1100 Arbeitsstunden f\u00fcr Flora und Fauna in der Gartenstadt. F\u00fcr 2019 haben die Ehrenamtler wieder viel vor.",
+                                  "authors": "Von Ralf Geraedts",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_defa4104501db6ca01d5dd0c9d9299ec\/w250_h140_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "400w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_7e5fc7671b468e184784bca94852a2d5\/w400_h225_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "600w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_b00a1dacc0cf9297c3c2eee3ef90f916\/w600_h337_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "900w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_55385d44d1685edbc555781784c689ef\/w900_h506_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "950w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_a23cb108cb2a9a342fed8cfce2c432be\/w950_h534_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "1200w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_29af1dd5395df925272ea1c79b2a9066\/w1200_h675_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg",
+                                    "1900w": "\/imgs\/32\/4\/6\/6\/8\/1\/5\/9\/1\/tok_a5e2d197b49bd4866de9a5b9c316ab26\/w1900_h1068_x1208_y679_Nistkasten-S__xfffd_uberung-8d67d17dc5fe5b0f.jpg"
+                                  },
+                                  "alt": "Die Landschaftsw\u00e4chter Hans-Joachim Friebe (auf der",
+                                  "source": "",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Haan"
+                                  }
+                                },
+                                {
+                                  "id": 35873183,
+                                  "href": "\/__path__\/3\/5\/8\/7\/3\/feuerwehreinsatz-nachbarsberg-in-haan_aid-35873183.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Feuerwehr l\u00f6scht Brand in Elektroverteilung"
+                                  },
+                                  "intro": "Aufmerksame Nachbarn haben Donnerstagabend und Freitagnacht in Haan die Feuerwehr alarmiert, weil sie Flammen gesehen hatten, die aus Geb\u00e4uden schlugen. Das schnelle Eingreifen der Feuerwehr verhinderte Schlimmeres.",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_359504a0b8384e272084d7b5690fd710\/w250_h140_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "400w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_79971b5c7ea264b1b7d2bf3c78d846fd\/w400_h225_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "600w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_9f74e5dad71500a1edddae90d09ae69e\/w600_h337_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "900w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_7e593e46adb1d65642c9513352066cdd\/w900_h506_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "950w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_77602b27dbc5a463bf2142511c117b06\/w950_h534_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "1200w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_15cd8d35949b2406de77cbd2e16f61bc\/w1200_h675_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg",
+                                    "1900w": "\/imgs\/32\/4\/6\/6\/6\/6\/7\/8\/5\/tok_e208fa4bd7f1d433fb85e1aed3073c28\/w1900_h1068_x2016_y1162_Feuerwehr_Haan_Standard-25bef5a961d785d1.jpg"
+                                  },
+                                  "alt": "",
+                                  "source": "",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Haan"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "author",
+                              "isAd": false,
+                              "id": "H503166",
+                              "src": "",
+                              "name": "Stefan Gilsbach",
+                              "position": "",
+                              "href": "\/autor\/stefan-gilsbach-s-g\/",
+                              "count": 0,
+                              "description": "",
+                              "items": []
+                            },
+                            {
+                              "type": "author",
+                              "isAd": false,
+                              "id": "H503391",
+                              "src": {},
+                              "name": "Wolfram Goertz",
+                              "position": "",
+                              "href": "\/autor\/wolfram-goertz-wg\/",
+                              "count": 3,
+                              "description": "Wolfram Goertz ist Kulturredakteur bei der \"Rheinischen Post\". ",
+                              "items": [
+                                {
+                                  "id": 36500803,
+                                  "href": "\/__path__\/3\/6\/5\/0\/0\/kompositionen-von-max-reger-auf-cd_aid-36500803.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Kalorienbomben\nvon Max Reger"
+                                  },
+                                  "intro": "Klassik Der Komponist Max Reger (1873 bis 1916) hat\u00a0es \u0096 und daf\u00fcr gibt es gute Gr\u00fcnde \u0096 nie in den Fokus der allgemeinen Wahrnehmung durch die Musikfreunde gebracht. Seine Musik klingt bisweilen, als habe ein Maulwurf im Untergrund der Harmonielehre gebuddelt.",
+                                  "authors": "Von Wolfram Goertz",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_3b32b30140f374fbc52fccfb2af6ffd2\/w250_h140_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg",
+                                    "400w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_b242c84ae3ca05bbf37835c9cc22c523\/w400_h225_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg",
+                                    "600w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_75be55bc608714d9c01f91612d5b57c9\/w600_h337_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg",
+                                    "900w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_935fe4535bd55c2f94975bebbf4c6b98\/w900_h506_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg",
+                                    "950w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_566cd70f709651a8f1c25634a2295a72\/w950_h534_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg",
+                                    "1200w": "\/imgs\/32\/4\/7\/6\/3\/8\/2\/5\/5\/tok_520ec48fd2be46b5e17d6c3e45d24e3f\/w1200_h675_x600_y541_RP_46892575_1008614827_RGB_190_1_1_81f9fb00232be218844618070304bb80_1548769315_1008614827_ef5f7889d6-fdf9e94aa44d2467.jpg"
+                                  },
+                                  "alt": "Das Cover der neuen CD mit",
+                                  "source": "D\u00fcsseldorf",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Neue CD mit klassischer Sp\u00e4tromantik"
+                                  }
+                                },
+                                {
+                                  "id": 36500501,
+                                  "href": "\/__path__\/3\/6\/5\/0\/0\/dieter-bohlen-wird-65-dsds-juror-denkt-noch-nicht-an-ruhestand_aid-36500501.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Dieter sitzt auf hei\u00dfen Bohlen"
+                                  },
+                                  "intro": "Dieter Bohlen wird am Donnerstag 65 Jahre alt, doch an Ruhestand ist beim \u201ePop-Titan\u201c und Berufs-Chauvinisten nicht zu denken. Im Fernsehen ist er allgegenw\u00e4rtig.",
+                                  "authors": "Von Wolfram Goertz",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_7fa3f6cb61c644d99a3d6f6c8672f1ea\/w250_h140_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "400w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_1c0c9395012fed1f897387c818d922dc\/w400_h225_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "600w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_784068c52c0ad5d3d47074860f0334f5\/w600_h337_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "900w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_44cde0c4789bfb9e131d1bdaad2e8041\/w900_h506_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "950w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_000d6fab239c3fc29d12d4a88fc9e50d\/w950_h534_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "1200w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_1a4430e9e5f5ef62c87661aedac5dfe5\/w1200_h675_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg",
+                                    "1900w": "\/imgs\/32\/4\/7\/6\/3\/6\/5\/5\/9\/tok_ea81c6f3949b891e21f17eac2f411048\/w1900_h1068_x1642_y875_DPA_bfunk_dpa_5F9C76004148511C-e7c090f9e5b1d5f7.jpg"
+                                  },
+                                  "alt": "K\u00fcchentauglich: Dieter Bohlen ist das neue",
+                                  "source": "T\u00f6tensen",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "\u201ePop-Titan\u201c wird 65 Jahre alt"
+                                  }
+                                },
+                                {
+                                  "id": 35298869,
+                                  "href": "\/__path__\/3\/5\/2\/9\/8\/weihnachtsgeschichte-der-rheinischen-post-der-nothelfer-aus-kervenbroich_aid-35298869.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Der Nothelfer aus Kervenbroich"
+                                  },
+                                  "intro": "Wie einer Pfarrgemeinde am Niederrhein kurz vor Weihnachten der Weihrauch ausging. Eine Weihnachtsgeschichte von Wolfram Goertz.",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/4\/8\/5\/2\/6\/5\/5\/tok_d421e81ea0895e730fec355304bde0ac\/w250_h140_x393_y199_Weihrauch-631d03608443ffa4.jpg",
+                                    "400w": "\/imgs\/32\/4\/4\/8\/5\/2\/6\/5\/5\/tok_f406821010dbd15832556a535e225a4e\/w400_h225_x393_y199_Weihrauch-631d03608443ffa4.jpg",
+                                    "600w": "\/imgs\/32\/4\/4\/8\/5\/2\/6\/5\/5\/tok_3ddd5d0114060170e1f9fbbb378baefa\/w600_h337_x393_y199_Weihrauch-631d03608443ffa4.jpg"
+                                  },
+                                  "alt": "",
+                                  "source": "G\u00fcldern",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Weihnachtsgeschichte der Rheinischen Post"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "author",
+                              "isAd": false,
+                              "id": "H502766",
+                              "src": "",
+                              "name": "Matthias Grass",
+                              "position": "",
+                              "href": "\/autor\/matthias-grass-mgr\/",
+                              "count": 5,
+                              "description": "",
+                              "items": [
+                                {
+                                  "id": 35884241,
+                                  "href": "\/__path__\/3\/5\/8\/8\/4\/kleve-bauhaus-im-westen-vom-museum-kurhaus-kleve_aid-35884241.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Bauhaus aus dem Kurhaus"
+                                  },
+                                  "intro": "20 Positionen aus der Keramik-Sammlung der Freunde des Museums werden f\u00fcr die Ausstellung \u201eWechselwirkungen\u201c nach D\u00fcsseldorf ausgeliehen. Am 14. Juli er\u00f6ffnet dann das Kurhaus seine Bauhaus-Keramik-Ausstellung",
+                                  "authors": "Von Matthias Grass",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_1802ed0f4f7de6ca49c0b8dacc58a25d\/w250_h140_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "400w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_209459422689fd219dc869d39dd54353\/w400_h225_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "600w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_658b0f37246a4a0f17a63c774dda1f42\/w600_h337_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "900w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_d0d2603552abcfd791c9610e40b676d2\/w900_h506_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "950w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_afb6d7f7aab65936d659d74c59f062d8\/w950_h534_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "1200w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_6054db536854ff18b8cff55e3282bbf4\/w1200_h675_x1542_y917_IMG_5948-5b9dfc540acba182.jpg",
+                                    "1900w": "\/imgs\/32\/4\/6\/7\/1\/1\/7\/0\/5\/tok_f4c19e3a30d34d21b71828897ad2e8a6\/w1900_h1068_x1542_y917_IMG_5948-5b9dfc540acba182.jpg"
+                                  },
+                                  "alt": "Eva Stricker-Zeisel schuf das Service, zu",
+                                  "source": "Kleve",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Museum Kurhaus Kleve"
+                                  }
+                                },
+                                {
+                                  "id": 35881867,
+                                  "href": "\/__path__\/3\/5\/8\/8\/1\/ministerin-pfeiffer-poensgen-schloss-moyland-soll-sich-auf-museum-konzentrieren_aid-35881867.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Ministerin: Moyland soll sich auf Museum konzentrieren"
+                                  },
+                                  "intro": "Schloss Moyland sucht eine neue Chefetage: Die k\u00fcnstlerische Direktorin Bettina Paust verlie\u00df das Schloss und leitet nun das Kulturb\u00fcro Wuppertal. Die Stelle des Verwaltungsdirektors wurde jetzt ein zweites Mal ausgeschrieben, nachdem in der ersten Ausschreibungsrunde kein Bewerber gefunden werden konnte.",
+                                  "authors": "Von Matthias Grass",
+                                  "source": "Kreis Kleve ",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Museum Schloss Moyland"
+                                  }
+                                },
+                                {
+                                  "id": 35879535,
+                                  "href": "\/__path__\/3\/5\/8\/7\/9\/museum-schloss-moyland-kuenstlerische-leitung-bald-besetzen_aid-35879535.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "\u201eMoyland muss den Schalter umlegen\u201c"
+                                  },
+                                  "intro": "NRW-Kultusministerin Ministerin Pfeiffer-Poensgen w\u00fcnscht sich einen \u201epositiven Drive\u201c \u00a0f\u00fcr das Museum. Sie hofft auf eine Besetzung der Chef-Stellen und das\u00a0 Durchschlagen des Knotens der Konstruktionsfehler in der Satzung.",
+                                  "authors": "Von Matthias Grass",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_800efcabf83eeb43262a5f38777787e0\/w250_h140_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg",
+                                    "400w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_c11fcf1e260d1ffddb3b22bf3ad7fbf5\/w400_h225_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg",
+                                    "600w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_bc16fd84965c8475604079e054e121ab\/w600_h337_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg",
+                                    "900w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_54b18f5395522c92dd4dec13bd5bfab0\/w900_h506_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg",
+                                    "950w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_0df70245cc8b5c78e27bcc954ce398fb\/w950_h534_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg",
+                                    "1200w": "\/imgs\/32\/4\/6\/6\/9\/3\/5\/5\/1\/tok_a30a03a53485a4f14a908bbff26f9d43\/w1200_h675_x600_y365_RP_46580979_1003377669_RGB_190_1_1_bef8099284fd0f1f82c0f90cd946c03e_1548425806_1003377669_9304d6f7f3-97e483ad919979a0.jpg"
+                                  },
+                                  "alt": "Das Museum Schloss Moyland ist auch",
+                                  "source": "Bedburg-Hau ",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "L\u00f6sung f\u00fcr Moyland gesucht"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "author",
+                              "isAd": false,
+                              "id": "H501859",
+                              "src": {},
+                              "name": "Barbara Mia Grofe",
+                              "position": "",
+                              "href": "\/autor\/barbara-mia-grofe-grof\/",
+                              "count": 3,
+                              "description": "Barbara Grofe (grof) ist Chefin vom Dienst in der Zentralredaktion.",
+                              "items": [
+                                {
+                                  "id": 36562707,
+                                  "href": "\/__path__\/3\/6\/5\/6\/2\/so-halten-sich-senioren-fit_aid-36562707.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "So halten sich Senioren fit"
+                                  },
+                                  "intro": "Wer regelm\u00e4\u00dfig seine Physis und seinen Geist trainiert, verbessert nachweislich seine Gesundheit im Alter.",
+                                  "authors": "Von Barbara Grofe und Marvin Wibbeke",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/7\/8\/2\/7\/2\/6\/1\/tok_bd3caad48125eb8a8101adb24d318085\/w250_h294_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                                    "400w": "\/imgs\/32\/4\/7\/8\/2\/7\/2\/6\/1\/tok_3af6635da101f67978a18dd31c8dafd4\/w400_h471_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                                    "600w": "\/imgs\/32\/4\/7\/8\/2\/7\/2\/6\/1\/tok_a49c34ef6beff4d0690b4ecb829aeee2\/w600_h706_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                                    "900w": "\/imgs\/32\/4\/7\/8\/2\/7\/2\/6\/1\/tok_a31c9820f03759e92137caf9d5a529e1\/w900_h1059_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg",
+                                    "950w": "\/imgs\/32\/4\/7\/8\/2\/7\/2\/6\/1\/tok_2b3260154491fa55e644125b8372b779\/w950_h1118_x467_y876_RP_46978733_1026529133_RGB_190_1_1_346c60daa88a83d020e2e5ad21248918_1549030876_1026529133_9452a71baf-74a47596ad908f40.jpg"
+                                  },
+                                  "alt": "H\u00fcrol \u00d6zben leitet eine Sportgruppe f\u00fcr",
+                                  "source": "D\u00fcsseldorf",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Unsere Serie"
+                                  }
+                                },
+                                {
+                                  "id": 36505981,
+                                  "href": "\/__path__\/3\/6\/5\/0\/5\/tatort-so-war-der-neue-tatort-mit-maria-furtwaengler_aid-36505981.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Zwei \u00fcbergro\u00dfe Egos in G\u00f6ttingen"
+                                  },
+                                  "intro": "Am Sonntag ermittelte Charlotte Lindholm im NDR-\u201eTatort\u201c mit ihrer neuen Partnerin Anais Schmitz. Das Zusammentreffen dieses so ungleichen neuen Ermittler-Duos ist spannend. Unsere Kurzkritik.",
+                                  "authors": "Von Barbara Grofe",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_e9ec3fc77da1362e342e51dea9e15cde\/w250_h140_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "400w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_a88275915424640c018d0653e7b4aeb3\/w400_h225_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "600w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_dfa00d81f338ad2e284013a4b9301818\/w600_h337_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "900w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_47c4f33668d04251563af7d661cd4bc4\/w900_h506_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "950w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_111d8fb4e582c7e3e286a69e64d56b43\/w950_h534_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "1200w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_a51db5f9d7f59cb8d27f3c7374ca0938\/w1200_h675_x958_y242_kasumba3-0e643d528b9d8d42.jpg",
+                                    "1900w": "\/imgs\/32\/4\/7\/6\/5\/9\/0\/4\/1\/tok_adb374ad3b0caabfe8d501e8465f991d\/w1900_h1068_x958_y242_kasumba3-0e643d528b9d8d42.jpg"
+                                  },
+                                  "alt": "Ermittelten in \u201eDas verschwundene Kind\u201c erstmals",
+                                  "source": "G\u00f6ttingen",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "\u201eTatort\u201c-Nachlese"
+                                  }
+                                },
+                                {
+                                  "id": 35508643,
+                                  "href": "\/__path__\/3\/5\/5\/0\/8\/serie-endlich-fit-gesund-werden-und-abnehmen-warum-fitness-im-kopf-anfaengt_aid-35508643.html",
+                                  "type": "article",
+                                  "headline": {
+                                    "tag": "span",
+                                    "text": "Warum Fitness eine Haltung ist"
+                                  },
+                                  "intro": "Wer fitter und ges\u00fcnder werden will, kann klein anfangen und sich im Alltag umerziehen: Treppe statt Aufzug, Wasser statt Cola, Spazierg\u00e4nge statt Dauer-Couchen. Warum ein ges\u00fcnderes Leben mit der Haltung beginnt und wie Sie fitter werden, erz\u00e4hlt unsere neue Serie.",
+                                  "authors": "Von Barbara Grofe",
+                                  "src": {
+                                    "250w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_8a273bd3be6f80f57be24accbcfc704f\/w250_h140_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg",
+                                    "400w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_8586f801b5908c8054a68266dcd285fa\/w400_h225_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg",
+                                    "600w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_b7dbb256484344bbeaec11fc41fc8734\/w600_h337_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg",
+                                    "900w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_2623e0974691dbb0743a88b1c64aba21\/w900_h506_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg",
+                                    "950w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_f637485c978e77557524db62c696915d\/w950_h534_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg",
+                                    "1200w": "\/imgs\/32\/4\/5\/5\/1\/7\/7\/8\/9\/tok_5beccf766ebd0de454ee3f6863de4b8e\/w1200_h675_x600_y490_RP_45273833_971360527_RGB_190_1_1_4382256b3db49ffdfbdbe1a043d29293_1546778524_971360527_f86258009e-2d86e565825d6504.jpg"
+                                  },
+                                  "alt": "Wer immer die Treppe nimmt und",
+                                  "source": "D\u00fcsseldorf",
+                                  "kicker": {
+                                    "tag": "span",
+                                    "text": "Serie \u201eEndlich fit!\u201c"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"footerad\"><\/div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"footerad\"><\/div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "\/info\/impressum\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kontakt",
+          "href": "https:\/\/rp-online.de\/info\/kontakt\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https:\/\/rp-online.de\/info\/datenschutz\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "AGB",
+          "href": "https:\/\/rp-online.de\/info\/agb\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "www.facebook.com\/rponline",
+          "href": "https:\/\/www.facebook.com\/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https:\/\/twitter.com\/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "\/app\/newsletter\/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den t\u00e4glichen Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": "1"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Archiv",
+          "href": "https:\/\/rp-online.de\/archiv\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Themen",
+          "href": "https:\/\/rp-online.de\/thema\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https:\/\/spiele.rp-online.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RP Apps",
+          "href": "https:\/\/rp-online.de\/digitales\/rp-online-app\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Newsletter",
+          "href": "https:\/\/rp-online.de\/app\/newsletter\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https:\/\/rp-online.de\/app\/feed\/",
+          "target": "",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Tonight",
+          "href": "https:\/\/www.tonight.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Prisma",
+          "href": "https:\/\/www.prisma.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Sistrix",
+          "href": "https:\/\/www.sistrix.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Digitale Prospekte",
+          "href": "https:\/\/www.weekli.de\/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https:\/\/rp-online.de\/advertorial\/schwarzwald-baden-wuerttemberg\/?csref=footer",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Vergleichstests",
+          "href": "https:\/\/vergleich.rp-online.de\/",
+          "target": "_blank",
+          "rel": [
+            "nofollow"
+          ]
+        },
+        {
+          "text": "Kalaydo",
+          "href": "https:\/\/www.kalaydo.de\/?Bundesland=Nordrhein-Westfalen#utm_source=Verlage&utm_medium=Dachleiste&utm_content=D_Kalaydo_rp&utm_campaign=Dachleiste_rp",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Pressemeldungen",
+          "href": "https:\/\/rp-online.de\/advertorial\/presseportal\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https:\/\/www.rheinischepostmediengruppe.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Karriere",
+          "href": "https:\/\/karriere.rheinischepostmediengruppe.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https:\/\/www.rheinischepostmediengruppe.de\/Kundenservice",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http:\/\/rp-media.de\/",
+          "target": "_blank",
+          "rel": [
+            ""
+          ]
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "\/api\/tree?output=html&currentNode=50327"
+      },
+      "header": [
+        {
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https:\/\/leserservice.rp-online.de?utm_source=RPO&utm_medium=Navi&utm_campaign=Abo_Service",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "ePaper\/App",
+              "href": "https:\/\/rp-online.de\/app\/epaper\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https:\/\/leserservice.rp-online.de\/Anzeigen",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Forum",
+              "href": "https:\/\/www.rp-forum.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https:\/\/rp-online.de\/info\/kontakt\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "\/digitales\/apps\/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone_aid-9220693",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https:\/\/rp-online.de\/app\/newsletter\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Podcast h\u00f6ren",
+              "href": "https:\/\/rp-online.de\/digitales\/podcasts\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Benachrichtigungen",
+              "href": "#pushnotifications",
+              "target": "_self",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https:\/\/trauer.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Tonight",
+              "href": "https:\/\/www.tonight.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https:\/\/rp-online.de\/app\/schlagzeilen\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https:\/\/www.weekli.de\/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank",
+              "rel": [
+                "nofollow"
+              ]
+            },
+            {
+              "text": "Spiele",
+              "href": "https:\/\/spiele.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https:\/\/www.rp-digital-services.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https:\/\/www.kalaydo.de\/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "FuPa",
+              "href": "https:\/\/www.fupa.net\/niederrhein",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Shop",
+              "href": "https:\/\/shop.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https:\/\/rp-expertenzeit.de\/aktuelle-events\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https:\/\/www.droste-reisen.de\/rpo\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https:\/\/premiumcard.rp-online.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https:\/\/rp-lesertour.de\/aktuelle-lesertouren\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Texthelden",
+              "href": "https:\/\/texthelden.rp-online.de",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https:\/\/rp-online.de\/app\/zeitungsarchiv\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https:\/\/rp-online.de\/app\/zeitungsarchiv\/",
+              "target": "",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP-Kaufdown",
+              "href": "https:\/\/rp.kaufdown.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            },
+            {
+              "text": "RP Online Dating",
+              "href": "https:\/\/rp-online-dating.de\/",
+              "target": "_blank",
+              "rel": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "\/nrw\/staedte\/dinslaken\/",
+              "featured": false
+            },
+            {
+              "text": "Dormagen",
+              "href": "\/nrw\/staedte\/dormagen\/",
+              "featured": false
+            },
+            {
+              "text": "D\u00fcsseldorf",
+              "href": "\/nrw\/staedte\/duesseldorf\/",
+              "featured": false
+            },
+            {
+              "text": "Duisburg",
+              "href": "\/nrw\/staedte\/duisburg\/",
+              "featured": false
+            },
+            {
+              "text": "Emmerich",
+              "href": "\/nrw\/staedte\/emmerich\/",
+              "featured": false
+            },
+            {
+              "text": "Erkelenz",
+              "href": "\/nrw\/staedte\/erkelenz\/",
+              "featured": false
+            },
+            {
+              "text": "Erkrath",
+              "href": "\/nrw\/staedte\/erkrath\/",
+              "featured": false
+            },
+            {
+              "text": "Geldern",
+              "href": "\/nrw\/staedte\/geldern\/",
+              "featured": false
+            },
+            {
+              "text": "Goch",
+              "href": "\/nrw\/staedte\/goch\/",
+              "featured": false
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "\/nrw\/staedte\/grevenbroich\/",
+              "featured": false
+            },
+            {
+              "text": "Haan",
+              "href": "\/nrw\/staedte\/haan\/",
+              "featured": false
+            },
+            {
+              "text": "Hilden",
+              "href": "\/nrw\/staedte\/hilden\/",
+              "featured": false
+            },
+            {
+              "text": "H\u00fcckelhoven",
+              "href": "\/nrw\/staedte\/hueckelhoven\/",
+              "featured": false
+            },
+            {
+              "text": "H\u00fcckeswagen",
+              "href": "\/nrw\/staedte\/hueckeswagen\/",
+              "featured": false
+            },
+            {
+              "text": "H\u00fcnxe",
+              "href": "\/nrw\/staedte\/huenxe\/",
+              "featured": false
+            },
+            {
+              "text": "J\u00fcchen\n ",
+              "href": "\/nrw\/staedte\/juechen\/",
+              "featured": false
+            },
+            {
+              "text": "Kaarst",
+              "href": "\/nrw\/staedte\/kaarst\/",
+              "featured": false
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "\/nrw\/staedte\/kamp-lintfort\/",
+              "featured": false
+            },
+            {
+              "text": "Kempen",
+              "href": "\/nrw\/staedte\/kempen\/",
+              "featured": false
+            },
+            {
+              "text": "Kevelaer",
+              "href": "\/nrw\/staedte\/kevelaer\/",
+              "featured": false
+            },
+            {
+              "text": "Kleve",
+              "href": "\/nrw\/staedte\/kleve\/",
+              "featured": false
+            },
+            {
+              "text": "K\u00f6ln",
+              "href": "\/nrw\/staedte\/koeln\/",
+              "featured": false
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "\/nrw\/staedte\/korschenbroich\/",
+              "featured": false
+            },
+            {
+              "text": "Krefeld",
+              "href": "\/nrw\/staedte\/krefeld\/",
+              "featured": false
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "\/nrw\/staedte\/kreis-heinsberg\/",
+              "featured": false
+            },
+            {
+              "text": "Langenfeld",
+              "href": "\/nrw\/staedte\/langenfeld\/",
+              "featured": false
+            },
+            {
+              "text": "Leichlingen",
+              "href": "\/nrw\/staedte\/leichlingen\/",
+              "featured": false
+            },
+            {
+              "text": "Leverkusen",
+              "href": "\/nrw\/staedte\/leverkusen\/",
+              "featured": false
+            },
+            {
+              "text": "Meerbusch",
+              "href": "\/nrw\/staedte\/meerbusch\/",
+              "featured": false
+            },
+            {
+              "text": "Mettmann",
+              "href": "\/nrw\/staedte\/mettmann\/",
+              "featured": false
+            },
+            {
+              "text": "M\u00f6nchengladbach",
+              "href": "\/nrw\/staedte\/moenchengladbach\/",
+              "featured": false
+            },
+            {
+              "text": "Moers",
+              "href": "\/nrw\/staedte\/moers\/",
+              "featured": false
+            },
+            {
+              "text": "Nettetal",
+              "href": "\/nrw\/staedte\/nettetal\/",
+              "featured": false
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "\/nrw\/staedte\/neukirchen-vluyn\/",
+              "featured": false
+            },
+            {
+              "text": "Neuss",
+              "href": "\/nrw\/staedte\/neuss\/",
+              "featured": false
+            },
+            {
+              "text": "Radevormwald",
+              "href": "\/nrw\/staedte\/radevormwald\/",
+              "featured": false
+            },
+            {
+              "text": "Ratingen",
+              "href": "\/nrw\/staedte\/ratingen\/",
+              "featured": false
+            },
+            {
+              "text": "Remscheid",
+              "href": "\/nrw\/staedte\/remscheid\/",
+              "featured": false
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "\/nrw\/staedte\/rhein-kreis\/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "\/nrw\/staedte\/rheinberg\/",
+              "featured": false
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "\/nrw\/staedte\/rommerskirchen\/",
+              "featured": false
+            },
+            {
+              "text": "Solingen",
+              "href": "\/nrw\/staedte\/solingen\/",
+              "featured": false
+            },
+            {
+              "text": "T\u00f6nisvorst",
+              "href": "\/nrw\/staedte\/toenisvorst\/",
+              "featured": false
+            },
+            {
+              "text": "Viersen",
+              "href": "\/nrw\/staedte\/viersen\/",
+              "featured": false
+            },
+            {
+              "text": "Wassenberg",
+              "href": "\/nrw\/staedte\/wassenberg\/",
+              "featured": false
+            },
+            {
+              "text": "Wegberg",
+              "href": "\/nrw\/staedte\/wegberg\/",
+              "featured": false
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "\/nrw\/staedte\/wermelskirchen\/",
+              "featured": false
+            },
+            {
+              "text": "Wesel",
+              "href": "\/nrw\/staedte\/wesel\/",
+              "featured": false
+            },
+            {
+              "text": "Willich",
+              "href": "\/nrw\/staedte\/willich\/",
+              "featured": false
+            },
+            {
+              "text": "W\u00fclfrath",
+              "href": "\/nrw\/staedte\/wuelfrath\/",
+              "featured": false
+            },
+            {
+              "text": "Xanten",
+              "href": "\/nrw\/staedte\/xanten\/",
+              "featured": false
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "\/nrw\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik2",
+          "href": "\/politik\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "\/sport\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "\/panorama\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": true,
+          "text": "Kultur",
+          "href": "\/kultur\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "\/wirtschaft\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "\/digitales\/",
+          "target": "_self"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "\/leben\/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten",
+    "poweredBy": {
+      "text": "Content Management by InterRed",
+      "href": "https:\/\/www.interred.de\/",
+      "target": "_blank",
+      "rel": [
+        ""
+      ]
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{% if config.ads is defined and config.ads.provider is defined and config.ads.provider is same as('gpt') %}
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+{% if config.ads is defined and config.ads.mobile is defined and config.ads.mobile.headerBidder is defined %}
+  {% if config.ads.mobile.headerBidder.pubmatic is defined %}
+    <link rel="preload" href="{{ config.ads.mobile.headerBidder.pubmatic }}" as="script">
+  {% endif %}
+  {% if config.ads.mobile.headerBidder.amazon is defined %}
+    <link rel="preload" href="https://c.amazon-adsystem.com/aax2/apstag.js" as="script">
+  {% endif %}
+{% endif %}
+{% if config.ads is defined and config.ads.desktop is defined and config.ads.desktop.headerBidder is defined %}
+  {% if config.ads.desktop.headerBidder.pubmatic is defined %}
+    <link rel="preload" href="{{ config.ads.desktop.headerBidder.pubmatic }}" as="script">
+  {% endif %}
+  {% if config.ads.desktop.headerBidder.amazon is defined %}
+    <link rel="preload" href="https://c.amazon-adsystem.com/aax2/apstag.js" as="script">
+  {% endif %}
+{% endif %}
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin>
+<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net">
+<link rel="dns-prefetch" href="https://ads.pubmatic.com">
+<link rel="preconnect" href="https://ads.pubmatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://c.amazon-adsystem.com">
+<link rel="preconnect" href="https://c.amazon-adsystem.com" crossorigin>
+<script>
+  window.park.headerBidder.loadAndInit();
+</script>
+{% else %}
+  {% if config.appMode is not defined or config.appMode is same as(false) %}
+    {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_rp-online/metaTag.min.js' %}
+  {% else %}
+    {% set stroeerMetatagURL = 'https://cdn.stroeerdigitalgroup.de/metatag/live/OMS_rp-online-app/metaTag.min.js' %}
+  {% endif %}
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net" crossorigin>
+<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net">
+<link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+<script src="{{ stroeerMetatagURL }}"
+        async
+        onload="window.park.stroeer.init()"></script>
+{% endif %}

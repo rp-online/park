@@ -1,0 +1,27 @@
+.park-vector-map {
+  svg {
+    width: auto;
+    max-width: 50vw;
+    height: auto;
+    margin: 0 auto;
+    fill: none;
+
+    @media (min-aspect-ratio: 1/1) {
+      max-height: 75vh;
+    }
+
+    a {
+      cursor: pointer;
+
+      &,
+      &:visited {
+        fill: none;
+      }
+
+      &:focus,
+      &:hover {
+        fill: $global-brand-color;
+      }
+    }
+  }
+}

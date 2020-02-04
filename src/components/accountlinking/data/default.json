@@ -1,0 +1,14 @@
+{
+  "headline": { "tag": "h1", "text": "Verhaltensbasierte Werbung" },
+  "action": "?setOptOut=true",
+  "status": false,
+  "children": [
+    {
+      "component": "html",
+      "data": {
+        "html": "Status: Aktiv<br><br> Sie können Ihre Einwilligung zur Verhaltensbasierte Werbung jederzeit widerrufen. Klicken Sie hierzu bitte einfach auf folgenden Link:"
+      }
+    }
+  ]
+}
+

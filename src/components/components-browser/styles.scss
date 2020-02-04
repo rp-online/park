@@ -1,0 +1,78 @@
+.park-components-browser {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 100vh;
+
+  &__navigation {
+    display: block !important;
+    flex: 0 0 rem(350px);
+    width: rem(350px);
+  }
+
+  &__content {
+    position: relative;
+    flex: 0 0 calc(100% - #{rem(350px)});
+    width: calc(100% - #{rem(350px)});
+    height: 100%;
+  }
+
+  &__intro {
+    @include richtext;
+
+    overflow-x: hidden;
+    overflow-y: scroll;
+    height: 100%;
+    padding: $global-spacing;
+
+    > * {
+      max-width: rem(800px);
+    }
+
+    > h1 {
+      font-size: rem(28px);
+    }
+
+    > h2 {
+      font-size: rem(22px);
+    }
+
+    > h3 {
+      font-size: rem(18px);
+    }
+  }
+
+  &__components {
+    width: 100%;
+    height: 100%;
+
+    .js-disabled & {
+      scroll-behavior: smooth;
+    }
+  }
+
+  &__component {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    display: none;
+    height: 100%;
+    background-color: #fff;
+
+    &--is-current,
+    .js-disabled & {
+      display: block;
+      animation: park-fade-in 600ms;
+    }
+  }
+
+  .park-navigation,
+  .park-navigation__panel {
+    position: static !important;
+    height: 100%;
+    transform: none !important;
+    filter: none !important;
+  }
+}

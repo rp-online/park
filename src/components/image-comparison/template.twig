@@ -1,0 +1,31 @@
+<div class="park-image-comparison
+  {% if vertical is defined and vertical is same as(true) %}
+    park-image-comparison--vertical
+  {% endif %}"
+  {% if overlay is defined and overlay is same as(true) %}
+  data-label="{{ a.alt }}"
+  {% endif %}>
+  {% set image_a = {
+  'src': a.src,
+  'alt': a.alt,
+  'width': width,
+  'height': height,
+  'fit': 'cover',
+  'config': config
+  } %}
+  {% include 'components/image/template.twig' with image_a only %}
+  <div class="park-image-comparison__resizable"
+    {% if overlay is defined and overlay is same as(true) %}
+    data-label="{{ b.alt }}"
+    {% endif %}>
+    {% set image_b = {
+    'src': b.src,
+    'alt': b.alt,
+    'width': width,
+    'height': height,
+    'fit': 'cover',
+    'config': config
+    } %}
+    {% include 'components/image/template.twig' with image_b only %}
+  </div>
+</div>

@@ -1,0 +1,131 @@
+.park-navigation-item {
+  position: relative;
+  line-height: 1.3;
+
+  &__submenu--has-featured & {
+    display: none;
+
+    .js-disabled & {
+      display: block;
+    }
+  }
+
+  &__submenu--has-featured &--is-featured {
+    display: block;
+  }
+
+  &--sugardaddy {
+    color: $global-advertisement-color;
+  }
+
+  &__link {
+    position: relative;
+    display: block;
+    padding: rem(4px) rem(50px) rem(4px) rem(19px);
+    color: inherit;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    font-weight: $global-font-weight-sans-serif-regular;
+    line-height: rem(32px);
+
+    &[data-href] {
+      .js-disabled & {
+        display: none;
+      }
+    }
+
+    &:focus,
+    &:active,
+    &--is-current {
+      background-color: $global-brand-color;
+      color: #000;
+      font-weight: $global-font-weight-sans-serif-bold;
+    }
+  }
+
+  &--sugardaddy &__link:focus,
+  &--sugardaddy &__link:active,
+  &--sugardaddy &__link--is-current {
+    background-color: $global-advertisement-color;
+  }
+
+  &__toggle {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: rem(50px);
+    height: rem(40px);
+    background-color: transparent;
+    border: none;
+    font-size: 0;
+    transform: rotateX(0deg);
+    transition-property: color, transform;
+    transition-duration: 0.3s;
+    backface-visibility: visible;
+
+    > svg {
+      width: rem(14px);
+      height: rem(14px);
+    }
+
+    &[aria-expanded="true"] {
+      transform: rotateX(-180deg);
+    }
+  }
+
+  &__submenu {
+    overflow: hidden;
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.1);
+    box-shadow: inset 0 5px 10px -5px rgba(0, 0, 0, 0.1);
+    animation-name: park-slide-down !important;
+    animation-duration: 2s;
+    animation-delay: -2s;
+    animation-fill-mode: both;
+
+    &[aria-hidden="true"] {
+      animation-name: park-slide-up !important;
+      animation-duration: 0ms !important;
+
+      // Adjusting the collapse animation for the small height of the element
+      &,
+      & > * {
+        animation-delay: -500ms;
+      }
+
+      .js-disabled & {
+        &,
+        > * {
+          max-width: none;
+          max-height: none;
+          opacity: 1;
+          animation: none;
+        }
+      }
+    }
+
+    .unlock-aria-hidden-animations & {
+      animation-delay: 0ms;
+    }
+
+    [aria-hidden="true"] &:not(#{&}__submenu) {
+      animation: none !important;
+    }
+  }
+
+  &__resultcount {
+    @include visuallyhidden;
+
+    text-align: center;
+  }
+
+  &__toggle,
+  &__resultcount,
+  .park-input {
+    padding-bottom: 0;
+
+    .js-disabled & {
+      display: none;
+    }
+  }
+}

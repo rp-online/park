@@ -1,0 +1,63 @@
+{
+
+  "headline": "Jetzt weiterlesen mit :premium:",
+  "text": "Herausragender Qualitätsjornalismus mit dem besonderen Etwas.",
+  "subline": "Die Registrierung beinhaltet den Erhalt von Werbemailings zu unseren Angeboten.*",
+  "cta": {
+    "text": "Jetzt registrieren",
+    "href": "https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=PW%20EPAB%203F1NO;56971"
+  },
+  "offers": [{
+      "id": "offer_9759_ER-RP-EPPR-PP",
+      "selected": "true",
+      "name": "RP+ Digital Paket Plus",
+      "text": "Zusätzliche Informationen zu Angebot Nr. 1 von RP ONLINE, das günstiger ist als Nr. 2",
+      "price": "0,99 €",
+      "priceinfo": "im ersten Monat",
+      "priceextension": "danach monatlich 4,99 €",
+      "cta": {
+        "text": "30 Tage gratis testen",
+        "href": "#callToAction1"
+      }
+  },{
+      "id": "offer_9759_ER-RP-EPPR-PP",
+      "name": "RP+ und digitale Zeitung",
+      "text": "Weitere Details zu den Vorzügen von Angebot Nr.2 im Vergleich zu Angebot Nr.1",
+      "price": "14,99 €",
+      "priceinfo": "monatlich",
+      "cta": {
+        "text": "jetzt bestellen",
+        "href": "https://www.rp-online.de/services/rp-osc/abo-shop.htm?digital=PW%20EPAB%203F1NO;56971"
+      }
+  }],
+  "login": {
+    "text": "Bereits Abonnent?",
+    "cta": {
+      "text": "hier anmelden",
+      "href": "#void"
+    }
+  },
+  "vendors": {
+    "subscribeWithGoogle": "true",
+    "loginWithGoogle": "true"
+  },
+  "footer": {
+    "text" : "* Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) persönlich informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an leserservice@rheinische-post.de)."
+  },
+  "welect": {
+    "available": {
+      "text": "Sie möchten diesen Artikel kostenlos lesen?",
+      "cta": {
+        "text": "Dann schauen Sie nur einen Werbespot",
+        "href":"http://redirect.welect.de/checkout"
+      }
+    },
+    "unavailable": {
+      "text": "Sie möchten diesen Artikel kostenlos lesen?",
+      "cta": {
+        "text": "Jetzt Werbespot anschauen",
+        "href": "http://redirect.welect.de/checkout"
+      }
+    }
+  }
+}

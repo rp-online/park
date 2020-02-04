@@ -1,0 +1,47 @@
+.park-contact {
+  padding: $global-spacing;
+  color: $global-color-text-black;
+
+  &#{&} {
+    box-shadow: none;
+  }
+
+  @include mq(desktop) {
+    display: flex !important;
+  }
+
+  &#{&} {
+    box-shadow: none;
+  }
+
+  &__address {
+    @include richtext;
+    @include global-sans-serif-font-size(2);
+
+    flex: 1 1 auto;
+    margin-bottom: $global-spacing;
+
+    @include mq(desktop) {
+      margin-bottom: 0;
+    }
+  }
+
+  &__links {
+    @include mq(desktop) {
+      margin-left: $global-spacing;
+    }
+  }
+
+  &__link {
+    flex: 0 1 auto;
+    margin-bottom: $global-spacing;
+
+    .park-button {
+      width: 100%;
+    }
+  }
+
+  .park-portal {
+    margin-top: 0;
+  }
+}

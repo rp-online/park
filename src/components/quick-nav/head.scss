@@ -1,0 +1,109 @@
+.park-quick-nav {
+  position: relative;
+  display: block;
+  padding: 1px 0;
+  background-color: $global-light-grey;
+  font-size: 0;
+
+  @include mq(desktop) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .park-section-headline {
+    display: block;
+    flex: 0 0 100%;
+    margin-bottom: 0;
+
+    @include mq(desktop) {
+      flex-basis: auto;
+      margin-bottom: $global-spacing;
+    }
+  }
+
+  &__navs {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow: hidden;
+    width: 100%;
+    height: rem(44px);
+    padding: 0 rem(10px);
+
+    @include mq(desktop) {
+      width: auto;
+      padding: rem(5px) $global-spacing;
+
+      .user-is-authenticated & {
+        padding-right: 0;
+      }
+    }
+  }
+
+  .park-button-settings {
+    @include button-settings-absolute;
+
+    @include mq(desktop) {
+      position: static;
+      flex: 0 0 rem(34px);
+    }
+  }
+
+  &__cities,
+  &__sportsclubs {
+    display: flex;
+    flex: 1 1 auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    overflow: hidden;
+    height: rem(34px);
+
+    &:empty {
+      display: none;
+    }
+  }
+
+  &__cities {
+    flex-basis: 60%;
+    justify-content: flex-start;
+  }
+
+  &__sportsclubs {
+    flex-basis: 40%;
+    justify-content: flex-end;
+  }
+
+  &__item {
+    display: inline-block;
+    flex: 0 0 auto;
+    margin: 0 rem(5px);
+    line-height: rem(34px);
+    opacity: 0;
+
+    @include mq(desktop) {
+      line-height: rem(34px);
+    }
+
+    .js-disabled & {
+      opacity: 1;
+    }
+  }
+
+  &__sportsclubs &__item {
+    margin: 0 rem(2px);
+  }
+
+  &--is-done &__item {
+    opacity: 1;
+    animation-name: park-fade-in;
+    animation-duration: 600ms;
+
+    .js-disabled & {
+      animation: none;
+    }
+  }
+}

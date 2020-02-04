@@ -1,0 +1,12 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Neuer Validierungslink"
+  },
+  "text": "Bitte geben Sie Ihren Benutzername oder Ihre E-Mail ein.",
+  "form": {
+    "action": "#void",
+    "method": "post"
+  },
+  "loginURL": "#void"
+}

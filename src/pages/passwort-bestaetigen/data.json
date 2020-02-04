@@ -1,0 +1,40 @@
+{
+  "title": "Passwort bestätigen",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für Passwort Bestätigen"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/passwort-bestaetigen.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "enter-password",
+            "data": {
+              "headline": {
+                "tag": "h1",
+                "text": "Profil bearbeiten"
+              },
+              "text": "Um auf persönliche Daten zugreifen zu können, wird Ihr Passwort benötigt.",
+              "form": {
+                "action": "#void",
+                "method": "post"
+              },
+              "passwordResetURL": "#void"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

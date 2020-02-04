@@ -1,0 +1,1 @@
+Diese Komponente ist eine Hilfskomponente, die die Werbeabteilung oder externe Seitenbauer nutzen können, um generische Layouts auf Elemente anzuwenden.

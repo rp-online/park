@@ -1,0 +1,866 @@
+{
+  "title": "Artikelseite WZ",
+  "config": {
+    "client": "wz",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für einen Artikel von der WZ"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/artikel-gz.html"
+      }
+    ],
+    "ads": {
+      "area": "aktuelles",
+      "zone": "homepage"
+    },
+    "iam_data": {
+      "mobile": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      },
+      "desktop": {
+        "st": "rponl",
+        "cp": "Thema-Nachrichten",
+        "sv": "i2",
+        "co": "www.rp-online.de/nrw/staedte/duesseldorf/video/2015-0727/centertv/1.5266725-vorbereitungen-fuer-feuerwerk"
+      }
+    },
+    "dataLayer": {
+      "mobile": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ],
+      "desktop": [
+        {
+          "ressort": "nrw",
+          "subressort": "staedte",
+          "dossier": "leichlingen",
+          "contentType": "Artikel",
+          "analyticsUrl": "/nrw/staedte/leichlingen/wir-haben-um-unser-leben-gefuerchtet-aid-1.7005851",
+          "author": "Sebastian Fuhrmann",
+          "date": "2017-08-11",
+          "origin": "4"
+        }
+      ]
+    },
+    "vgwort": "http://rp-online.met.vgwort.de/na/b46514c398394c3f808f6533a998b785",
+    "cre": {
+      "trackingApiUrl": "https://www.rp-online.de/cre-1.0/tracking/call.js",
+      "offerApiUrl": "https://www.rp-online.de/cre-1.0/api/store/RP/offers",
+      "oscJsonApiUrl": "https://www.rp-online.de/paywall/osc/settings/notification.json",
+      "oscJsonOfferApiUrl": "https://www.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsOfferApiUrl": "./assets/ajax/offer/default.json",
+      "site": "RP-Online",
+      "serviceid": "rpo",
+      "origin": "web",
+      "cms_id": "1.7223902",
+      "contentid": "%2FStartseite%2FNRW%2FRegio-Karneval%2FStaedtetag-fordert-finanzielle-Hilfe-fuer-Karnevalszuege-1.7223902",
+      "channel": "2.1769",
+      "subchannel": "2.3576",
+      "doctype": "article",
+      "kicker": "Gestiegene Kosten wegen Sicherheitsauflagen",
+      "heading": "Staedtetag fordert finanzielle Hilfe fuer Karnevalszuege",
+      "entitlementid": "digital_web",
+      "registrationBarrierDisabled": false
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<img src=\"https://placehold.it/120x600\">"
+    }
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Rheinkirmes"
+                    },
+                    "navigation": [
+                      {
+                        "text": "Rheinkirmes",
+                        "href": "#void"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+                    },
+                    "kicker": {
+                      "tag": "span",
+                      "text": "Schwere Gewitter möglich"
+                    },
+                    "timestamp": 1504881271,
+                    "comments": {
+                      "url": "/assets/ajax/comments/default.json"
+                    },
+                    "cover": {
+                      "type": "image",
+                      "src": "./assets/images/950x534.jpg",
+                      "width": 950,
+                      "height": 526,
+                      "alt": "Das Kirmes-Riesenrad",
+                      "caption": "Das sind die Fahrgeschäfte und Attraktionen",
+                      "source": {
+                        "text": "Martin Gerten",
+                        "href": "#void"
+                      },
+                      "link": {
+                        "type": "image",
+                        "text": "17 Bilder",
+                        "href": "./bilderstrecke.html"
+                      }
+                    },
+                    "label": "Exklusiv",
+                    "dateline": "Düsseldorf",
+                    "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt. In diesem Falle könnte die Rheinkirmes für den Abend schließen müssen.",
+                    "authors": "von Kristina Dunst",
+                    "authorsbox": {
+                      "text": "vong 1 Cat Cookie",
+                      "authors": [
+                        {
+                          "src": "./assets/images/person.jpg",
+                          "name": "Cat Cookie",
+                          "position": "Katzen Ressort",
+                          "bio": "Cat war in seinem früheren Leben einmal Florist, bis er vor ein paar Jahren arbeitslos wurde. Wir von der Rheinischen Post gaben ihm ein neues Zuhause. Und eine lustige Kolumne über Katzen.",
+                          "links": {
+                            "profile": "./autorenprofil.html",
+                            "column": "./"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "article": {
+                        "desktop": {
+                          "type": "medium-rectangle",
+                          "html": "<img src=\"https://placehold.it/300x250\">"
+                        }
+                      }
+                    },
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "Es scheint so, als hätte Düsseldorf in diesem Jahr einfach Pech mit dem Wetter bei Großveranstaltungen. Erst musste im Februar der Rosenmontagszug wegen einer Sturmwarnung abgesagt werden, jetzt ist die Rheinkirmes von einem Unwetter bedroht. Der Deutsche Wetterdienst (DWD) hat am Mittwochvormittag zwei amtliche Warnungen für das Düsseldorfer Stadtgebiet herausgegeben, die sich beide auf die Rheinkirmes auswirken."
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "Zum einen wird für den Zeitraum von 11 bis 19 Uhr vor starker Hitze und Temperaturen über 33 Grad gewarnt. Die Kirmes wird trotzdem wie geplant öffnen, auch wenn die Verantwortlichen sich ein milderes Klima gewünscht hätten. Kirmessprecher Wolfgang Osinski sagte auf Anfrage unserer Redaktion: \"33 Grad sind sicher kein ideales Kirmeswetter.\""
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "Die Kirmes-Verantwortlichen haben angekündigt, die Wetterlage im Laufe des Tages weiter zu beobachten. Das Sicherheitskonzept für die Rheinkirmes sieht vor, dass ab einer bestimmten Warnstufe des DWD die Kirmes aus Sicherheitsgründen geschlossen werden muss. Besonders hohe Windstärken können sich gefährlich auf die vielen Fahrgeschäfte unter freiem Himmel auswirken."
+                        }
+                      },
+                      {
+                        "component": "slider",
+                        "data": {
+                          "items": [
+                            {
+                              "type": "image",
+                              "src": "./assets/images/300x225.jpg",
+                              "alt": "Süße Katze",
+                              "href": "#void",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Rheinkirmes 2016"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Neue Show \"Die Kirmeskönige\""
+                              }
+                            },
+                            {
+                              "type": "image",
+                              "src": "./assets/images/300x225.jpg",
+                              "alt": "Süße Katze",
+                              "href": "#void",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Nationalmannschaft"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                              }
+                            },
+                            {
+                              "type": "image",
+                              "src": "./assets/images/300x225.jpg",
+                              "alt": "Süße Katze",
+                              "href": "#void",
+                              "kicker": {
+                                "tag": "h2",
+                                "text": "Nationalmannschaft"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Von diesen Menschen nahmen wir 2016 Abschied"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "Die Kirmes-Verantwortlichen haben angekündigt, die Wetterlage im Laufe des Tages weiter zu beobachten. Das Sicherheitskonzept für die Rheinkirmes sieht vor, dass ab einer bestimmten Warnstufe des DWD die Kirmes aus Sicherheitsgründen geschlossen werden muss. Besonders hohe Windstärken können sich gefährlich auf die vielen Fahrgeschäfte unter freiem Himmel auswirken."
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "\"Nach aktuellem Stand wird die Kirmes ganz normal um 14 Uhr öffnen. Natürlich behalten wir die Wetterlage im Auge und werden gegebenenfalls im Laufe des Tages Maßnahmen ankündigen\", so Kirmessprecher Wolfgang Osinski. Das Sicherheitskonzept sieht verschiedene Reaktionen bis hin zu einer Räumung des Geländes vor."
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Mehr aus dem Web"
+                    },
+                    "aside": "Content Anzeigen empfohlen von <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 51.67\"><defs><style>.cls-1{fill:none}.cls-2{fill:currentColor}.cls-3{clip-path:url(#clip-path)}</style><clipPath id=\"clip-path\"><path class=\"cls-1\" d=\"M-.17 1.51h254.61v47.82H-.17z\"/></clipPath></defs><path class=\"cls-2\" d=\"M50.12 19.75a3.06 3.06 0 0 1 1-2.57 4.52 4.52 0 0 1 2.88-.79 7.19 7.19 0 0 1 2.09.28q1 .29 1.27.41v16.67q0 4.31 2 6.56t6.21 2.25q4.18 0 6.21-2.25t2-6.56v-14a3.05 3.05 0 0 1 1-2.57 4.4 4.4 0 0 1 2.78-.79 7.44 7.44 0 0 1 2.16.28q1 .29 1.26.41v18.25a14.53 14.53 0 0 1-1.1 5.79 11.9 11.9 0 0 1-3.17 4.34 14 14 0 0 1-4.91 2.69 21.88 21.88 0 0 1-12.54 0 13.64 13.64 0 0 1-4.88-2.69 12.31 12.31 0 0 1-3.17-4.34 14.14 14.14 0 0 1-1.14-5.79V19.75zM86.73 10.76a3.06 3.06 0 0 1 1-2.57 4.42 4.42 0 0 1 2.79-.79 7.6 7.6 0 0 1 2.12.28q1 .28 1.3.41v8.3h9.19a4.08 4.08 0 0 1 2.94.86 3.38 3.38 0 0 1 .86 2.5 6 6 0 0 1-.32 2 11.93 11.93 0 0 1-.51 1.3H94v14.12a6.94 6.94 0 0 0 .44 2.69 4.2 4.2 0 0 0 1.23 1.68 4.68 4.68 0 0 0 1.84.89 9.29 9.29 0 0 0 2.19.25 10 10 0 0 0 3.42-.57 9.55 9.55 0 0 0 2.23-1.11l2.91 4.81q-.51.38-1.43 1a13.28 13.28 0 0 1-2.25 1.08 20.24 20.24 0 0 1-3 .85 17.55 17.55 0 0 1-3.61.35q-5.57 0-8.43-2.88a10.29 10.29 0 0 1-2.85-7.57V10.76zM111.25 4.87a3.07 3.07 0 0 1 1-2.53 4.41 4.41 0 0 1 2.85-.82 7.25 7.25 0 0 1 2.09.28c.63.19 1.05.33 1.27.41v18.17a12.87 12.87 0 0 1 4.37-3.45 13.85 13.85 0 0 1 6.4-1.42 16.44 16.44 0 0 1 6.43 1.24 15.36 15.36 0 0 1 5.13 3.48 16.26 16.26 0 0 1 3.42 5.32 17.9 17.9 0 0 1 1.24 6.75 17.62 17.62 0 0 1-1.27 6.7 15.55 15.55 0 0 1-3.55 5.32 16.62 16.62 0 0 1-5.42 3.48 18.22 18.22 0 0 1-6.87 1.27 20 20 0 0 1-6.87-1.14 14.61 14.61 0 0 1-5.42-3.42 15.56 15.56 0 0 1-3.55-5.7 23.13 23.13 0 0 1-1.27-8V4.87zm17 37.69a9.76 9.76 0 0 0 4-.79 9.54 9.54 0 0 0 3.1-2.15 9.34 9.34 0 0 0 2-3.23 11.57 11.57 0 0 0 .7-4.08 11.84 11.84 0 0 0-.7-4.12 9.31 9.31 0 0 0-2-3.26 9.58 9.58 0 0 0-3.1-2.15 9.78 9.78 0 0 0-4-.79 9.92 9.92 0 0 0-4 .79 9 9 0 0 0-3.07 2.19 10.37 10.37 0 0 0-2 3.29 11.24 11.24 0 0 0-.73 4.06 11.59 11.59 0 0 0 .73 4.18 9.11 9.11 0 0 0 5.13 5.32 10.09 10.09 0 0 0 4 .76M149.69 27.73q0-5.83 3.58-9t9.91-3.2a16.2 16.2 0 0 1 6.49 1.11 3.6 3.6 0 0 1 2.5 3.39 4 4 0 0 1-.6 2.09 4.23 4.23 0 0 1-1 1.27 17.25 17.25 0 0 0-2.66-1 13.52 13.52 0 0 0-3.61-.44q-7.41 0-7.41 7.86v18.38h-7.22V27.73zM203.41 48.07c-.42.08-1.09.18-2 .28s-2 .21-3.2.32-2.6.2-4.12.28-3.1.13-4.75.13a31.46 31.46 0 0 1-8.08-.85 13.82 13.82 0 0 1-4.94-2.28 7.32 7.32 0 0 1-2.47-3.3 11.34 11.34 0 0 1-.66-3.83 12.11 12.11 0 0 1 .79-4.56 7.53 7.53 0 0 1 2.6-3.29 12.61 12.61 0 0 1 4.72-2 32.25 32.25 0 0 1 7.09-.67c1.6 0 3.13.05 4.56.16s2.51.2 3.23.29a8.19 8.19 0 0 0-.73-3.67 5.69 5.69 0 0 0-2-2.28 8.19 8.19 0 0 0-3-1.14 22.52 22.52 0 0 0-3.93-.32 16.77 16.77 0 0 0-5.8.83 11.65 11.65 0 0 0-2.88 1.39 7.74 7.74 0 0 1-1-1.2 3.49 3.49 0 0 1-.67-2.15 3.56 3.56 0 0 1 .47-1.74 4.13 4.13 0 0 1 1.68-1.52 11 11 0 0 1 3.23-1 28.57 28.57 0 0 1 5.13-.38 29.67 29.67 0 0 1 6.81.73 15 15 0 0 1 5.29 2.31 10.66 10.66 0 0 1 3.45 4.18 14.49 14.49 0 0 1 1.18 6.21v19.07zM196.25 34q-.63-.13-2.37-.38a39.91 39.91 0 0 0-5.23-.25q-4.31 0-6.27 1.3a4.54 4.54 0 0 0-2 4.08 5.21 5.21 0 0 0 .41 2.09 3.7 3.7 0 0 0 1.43 1.61 7.76 7.76 0 0 0 2.76 1 22.59 22.59 0 0 0 4.34.35 37.74 37.74 0 0 0 4.68-.2q1.71-.22 2.28-.35V34z\"/><g class=\"cls-3\"><path class=\"cls-2\" d=\"M213.48 2.14a4.21 4.21 0 0 1 3.1 1.27 4.22 4.22 0 0 1 1.27 3.1 4.22 4.22 0 0 1-1.27 3.1 4.44 4.44 0 0 1-6.21 0 4.22 4.22 0 0 1-1.26-3.1 4.32 4.32 0 0 1 4.37-4.37m-3.61 17.61a3.05 3.05 0 0 1 1-2.57 4.53 4.53 0 0 1 2.85-.79 7.25 7.25 0 0 1 2.09.28c.63.19 1.06.33 1.27.41v31.1h-7.22V19.75zM223.55 29a13.21 13.21 0 0 1 1.17-5.67 12.31 12.31 0 0 1 3.28-4.24 14.31 14.31 0 0 1 4.88-2.66 19.85 19.85 0 0 1 6.17-.92 20.16 20.16 0 0 1 6.21.92 14.29 14.29 0 0 1 4.91 2.66 12 12 0 0 1 3.2 4.24 13.54 13.54 0 0 1 1.09 5.67v19.19h-7.22V30.84q0-4.31-2.09-6.55T239 22q-4.12 0-6.17 2.25t-2.06 6.55v17.39h-7.22V29z\"/></g><path class=\"cls-2\" d=\"M44.42 17.41a22.18 22.18 0 0 0-4.91-7.25 22.9 22.9 0 0 0-7.35-4.81A23.74 23.74 0 0 0 23 3.6a23.76 23.76 0 0 0-9.15 1.74 22.89 22.89 0 0 0-7.35 4.81 22.16 22.16 0 0 0-4.9 7.26 23 23 0 0 0-1.77 9.05 23 23 0 0 0 1.77 9.07 22.14 22.14 0 0 0 4.91 7.25 22.84 22.84 0 0 0 7.35 4.81A23.74 23.74 0 0 0 23 49.33a23.72 23.72 0 0 0 9.15-1.74 22.85 22.85 0 0 0 7.35-4.81 22.16 22.16 0 0 0 4.91-7.25 23 23 0 0 0 1.77-9.06 23 23 0 0 0-1.77-9.06M9.18 24.79c2.58-.85 6-1.94 6-1.94 7.54-2.4 8.55-5.23 8.55-5.23s1.59 2.83 7.06 4.71c0 0 3 1 5.83 2 .14.28.29.56.41.86a14.45 14.45 0 0 1 1 3.68h-3.85v-.07A5.26 5.26 0 0 0 33 27.08a5.41 5.41 0 0 0-1.75-1.14 5.91 5.91 0 0 0-4.35 0 5.45 5.45 0 0 0-1.75 1.14A5.28 5.28 0 0 0 24 28.8a4.84 4.84 0 0 0-.22.64h-1.5a5.33 5.33 0 0 0-1.39-2.37 5.42 5.42 0 0 0-1.75-1.14 5.92 5.92 0 0 0-4.36 0A5.43 5.43 0 0 0 13 27.08a5.28 5.28 0 0 0-1.17 1.72v.07H8a14.39 14.39 0 0 1 1-3.68c.06-.14.13-.26.19-.4M32.33 31a3.26 3.26 0 0 1-.25 1.28 3.16 3.16 0 0 1-.69 1 3.25 3.25 0 0 1-1 .68 3.51 3.51 0 0 1-2.59 0 3.25 3.25 0 0 1-1-.68 3.18 3.18 0 0 1-.69-1 3.41 3.41 0 0 1 0-2.56 3.16 3.16 0 0 1 .69-1 3.25 3.25 0 0 1 1-.68 3.51 3.51 0 0 1 2.59 0 3.25 3.25 0 0 1 1 .68 3.14 3.14 0 0 1 .69 1 3.27 3.27 0 0 1 .25 1.28m-12.09 0a3.26 3.26 0 0 1-.24 1.24 3.14 3.14 0 0 1-.7 1 3.22 3.22 0 0 1-1 .68 3.5 3.5 0 0 1-2.58 0 3.24 3.24 0 0 1-1-.68 3.16 3.16 0 0 1-.69-1 3.39 3.39 0 0 1 0-2.56 3.14 3.14 0 0 1 .69-1 3.24 3.24 0 0 1 1-.68 3.5 3.5 0 0 1 2.58 0 3.21 3.21 0 0 1 1 .68 3.13 3.13 0 0 1 .7 1 3.27 3.27 0 0 1 .24 1.32m13.58 10.81A14.94 14.94 0 0 1 29 45a15.55 15.55 0 0 1-6 1.14A15.55 15.55 0 0 1 17 45a15 15 0 0 1-4.81-3.15A14.48 14.48 0 0 1 9 37.06a15 15 0 0 1-1.16-5.72h3.64a5.38 5.38 0 0 0 .41 1.77A5.26 5.26 0 0 0 13 34.84 5.43 5.43 0 0 0 14.79 36a5.91 5.91 0 0 0 4.36 0 5.42 5.42 0 0 0 1.75-1.14 5.33 5.33 0 0 0 1.54-3.12h1.16a5.32 5.32 0 0 0 1.54 3.12A5.44 5.44 0 0 0 26.88 36a5.91 5.91 0 0 0 4.35 0A5.41 5.41 0 0 0 33 34.84a5.24 5.24 0 0 0 1.17-1.73 5.4 5.4 0 0 0 .41-1.77h3.62a15 15 0 0 1-1.2 5.72 14.5 14.5 0 0 1-3.22 4.75\"/></svg>",
+                    "items": [
+                      {
+                        "type": "article",
+                        "isAd": true,
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Babbel"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Ein Engländer spricht 16 Sprachen fließen - hier seine Methode"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "isAd": true,
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "behandeln.de"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Hausmittel gegen Fußpilz im Wirkungscheck. Mehr erfahren."
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "isAd": true,
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Intel"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "KMU Aufgepasst: Sind Sie bereit Ihre Geschäftsabläufe zu beschleunigen?"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Das könnte Sie auch interessieren"
+                    },
+                    "items": [
+                      {
+                        "type": "article",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Häuser in Seelage"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Weiterer Abriss illegaler Häuser steht bevor"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Südring in Düsseldorf"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Schwerer Unfall – Hubschrauber sucht nach Fahrer"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": "./assets/images/300x170.jpg",
+                        "alt": "Süße Katze",
+                        "href": "#void",
+                        "kicker": {
+                          "tag": "h2",
+                          "text": "Vermummt moderieren"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "Ägyptisches Staatsfernsehen zwingt Moderatoren…"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "data": {
+                      "headline": {
+                        "tag": "h1",
+                        "text": "Mehr zu Bundestagswahl 2017: Sigmar Gabriel (SPD) tritt gegen Merkel an"
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Insider Wissen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "\"Germany's next Topmodel\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Zicken-Aus, raus die Mas"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geiselnahme im Stadtteil Rumeln"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwere Gewitter möglich"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wahl in den Niederlanden"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "So reagieren AfD und Front National auf die Niederlage"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "DEL"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Kölner Haie suspendieren Nationalspieler Hager"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Ärger über Absage"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Düsseldorfer Kirmes will Füchschen nicht zurück"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "U-Auschuss zur Kölner Silvesternacht"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Ralf Jäger verspielt seine Glaubwürdigkeit"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unfall auf der A5 in Hessen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Feuerwehr zeigt Blockierer von Rettungsgasse an"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Tanzshow \"Let's Dance\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Das sind die neuen Promis auf dem Tanzparkett"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Insider Wissen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "\"Germany's next Topmodel\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Zicken-Aus, raus die Mas"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geiselnahme im Stadtteil Rumeln"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwere Gewitter möglich"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wahl in den Niederlanden"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "So reagieren AfD und Front National auf die Niederlage"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "DEL"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Kölner Haie suspendieren Nationalspieler Hager"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Ärger über Absage"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Düsseldorfer Kirmes will Füchschen nicht zurück"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "U-Auschuss zur Kölner Silvesternacht"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Ralf Jäger verspielt seine Glaubwürdigkeit"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unfall auf der A5 in Hessen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Feuerwehr zeigt Blockierer von Rettungsgasse an"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Tanzshow \"Let's Dance\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Das sind die neuen Promis auf dem Tanzparkett"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Schlagworte",
+                          "items": [
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Insider Wissen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "10 Dinge, die Düsseldorfer Studenten nicht sagen"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "\"Germany's next Topmodel\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Zicken-Aus, raus die Mas"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Geiselnahme im Stadtteil Rumeln"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Viele Unklarheiten nach Sparkassenraub in Duisburg"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Schwere Gewitter möglich"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Unwetter bedrohte Düsseldorfer Rheinkirmes"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wahl in den Niederlanden"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "So reagieren AfD und Front National auf die Niederlage"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "DEL"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Kölner Haie suspendieren Nationalspieler Hager"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Ärger über Absage"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Düsseldorfer Kirmes will Füchschen nicht zurück"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "U-Auschuss zur Kölner Silvesternacht"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Ralf Jäger verspielt seine Glaubwürdigkeit"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Unfall auf der A5 in Hessen"
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Feuerwehr zeigt Blockierer von Rettungsgasse an"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            },
+                            {
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Tanzshow \"Let's Dance\""
+                              },
+                              "headline": {
+                                "tag": "h2",
+                                "text": "Das sind die neuen Promis auf dem Tanzparkett"
+                              },
+                              "href": "./artikel.html",
+                              "src": "./assets/images/142x108.jpg",
+                              "alt": "Süßes Kätzchen"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    "ad": {
+                      "mobile": {
+                        "type": "medium-rectangle",
+                        "html": "<div id=\"traffective-ad-mobile_pos3\" style=\"display: none;\" class=\"mobile_pos3\"></div>"
+                      },
+                      "desktop": {
+                        "type": "skyscraper",
+                        "html": "<div id=\"traffective-ad-Skyscraper\" style=\"display: none;\" class=\"Skyscraper\"></div>"
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+                    },
+                    "success": {
+                      "headline": "Vielen Dank für Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": ""
+                    },
+                    "closed": {
+                      "headline": "Das Kommentarforum zu diesem Artikel ist geschlossen.",
+                      "text": ""
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+                    },
+                    "terms": {
+                      "href": "#void"
+                    },
+                    "form": {
+                      "vertical": true,
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht"
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich über weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    },
+                    "discussion": {
+                      "url": "/assets/ajax/comments/default.json?",
+                      "counturl": "/assets/ajax/comments/count.json?"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "ad": {}
+      }
+    }
+  ]
+}

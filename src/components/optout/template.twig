@@ -1,0 +1,35 @@
+<section class="park-optout">
+    {% set html = '<p class="park-optout__paragraph">' ~ text ~ '</p>' %}
+    {% if status is defined and status is same as(false) %}
+
+    {% set form = {
+    'notification': notification,
+    'vertical': true,
+    'action': action,
+    'method': 'post',
+    'headline': headline,
+    'children': children,
+    'submit': 'Einwilligung widerrufen',
+    'config': config
+  } %}
+        {% include 'components/form/template.twig' with form only %}
+    {% else %}
+      <form  class="park-form park-form--vertical">
+
+        {% if headline is defined %}
+            {% set headline = headline|merge({'config': config}) %}
+            {% include 'components/form-headline/template.twig' with headline only %}
+        {% endif %}
+        {% if children is defined %}
+            {% for child in children %}
+                {% set data = child.data|merge({'config': config}) %}
+                {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+            {% endfor %}
+        {% endif %}
+      </form>
+
+    {% endif %}
+
+
+  </aside>
+</section>

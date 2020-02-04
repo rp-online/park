@@ -1,0 +1,24 @@
+{% if name is not defined or not name %}
+  {% set uuid = random() %}
+  {% set name = 'park-iframe__iframe-' ~ uuid %}
+{% endif %}
+<div
+  class="park-iframe{% if keepAspectratio is defined and keepAspectratio is same as(true) %} park-iframe--keeps-aspectratio{% endif %}"
+  {% if keepAspectratio is defined and keepAspectratio is same as(true) %}style="padding-top: {{ (height|default(150) / width|default(300) * 100) }}%"{% endif %}>
+  <div class="park-iframe__iframe">
+    <noscript>
+      <iframe src="{{ src }}"
+              width="{{ width }}"
+              height="{{ height }}"
+              frameborder="0"
+              name="{{ name }}"
+              title="{{ title }}"
+        {% if sandbox is defined and sandbox %}
+          sandbox="{{ sandbox }}"
+        {% endif %}
+        {% if origin is defined and origin %}
+        data-origin="{{ origin }}"
+        {% endif %}></iframe>
+    </noscript>
+  </div>
+</div>

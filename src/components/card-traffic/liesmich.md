@@ -1,0 +1,1 @@
+Diese kartenartige Komponente wird in der Praxis nur im [Tab-Container](#tab-container) verwendet. Sie zeigt Verkehrsmeldungen und trägt den `"type": "narrow"`.

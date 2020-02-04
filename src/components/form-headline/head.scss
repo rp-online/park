@@ -1,0 +1,7 @@
+.park-form-headline {
+  @include global-sans-serif-font-size(1);
+
+  display: block;
+  margin-bottom: $global-spacing;
+  font-weight: $global-font-weight-sans-serif-regular;
+}

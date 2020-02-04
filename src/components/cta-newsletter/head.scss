@@ -1,0 +1,100 @@
+.park-cta-newsletter {
+  @include global-font-family-sans-serif();
+  @include global-sans-serif-font-size(2);
+
+  position: relative;
+  background-color: $global-light-grey;
+
+  &__header {
+    padding: $global-spacing  ($global-spacing * 2.5) ($global-spacing / 2) $global-spacing;
+
+    * {
+      vertical-align: baseline;
+    }
+
+    &-headline {
+      display: block;
+      margin-bottom: $global-spacing;
+      font-weight: $global-font-weight-sans-serif-bold;
+      text-transform: uppercase;
+    }
+
+    &-text {
+      b,
+      strong {
+        font-weight: $global-font-weight-sans-serif-bold;
+      }
+    }
+
+    &__close {
+      @include small-close-button;
+
+      position: absolute;
+      top: $global-spacing;
+      right: $global-spacing;
+      color: black;
+    }
+  }
+
+  .park-form--vertical {
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    .park-input {
+      margin-right: $global-spacing;
+
+      &--email {
+        flex-basis: 100%;
+        order: 2;
+
+        @include mq('desktop') {
+          flex-basis: 0;
+          flex-grow: 1;
+          max-width: rem(500px);
+        }
+      }
+    }
+
+    .park-select {
+      width: 100%;
+      order: 1;
+
+      @include mq('desktop') {
+        width: 50%;
+        max-width: rem(200px);
+        margin-right: $global-spacing;
+      }
+    }
+
+    .park-button[type="submit"] {
+      width: 100%;
+      order: 4;
+
+      @include mq('desktop') {
+        width: auto;
+      }
+    }
+
+    .park-form-instructions {
+      @include global-sans-serif-font-size(3);
+
+      width: 100%;
+
+      p:first-of-type {
+        margin-top: 0;
+      }
+
+      order: 3;
+
+      @include mq('desktop') {
+        order: 5;
+      }
+    }
+  }
+
+  &__unsubscribe-text {
+    padding-left: $global-spacing;
+    padding-bottom: $global-spacing;
+    font-size: rem(12px);
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "type": "topic",
+  "id": "2347",
+  "isAd": false,
+  "src": "./assets/images/opener.jpg",
+  "name": "Rheinkirmes",
+  "href": "#void",
+  "count": 48,
+  "description": "Höher, schneller, weiter - die Top-Attraktionen der deutschen Schausteller-Szene lockten auch dieses Jahr wieder mehrere Millionen Besucher zur Rheinkirmes. Die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der bekanntesten Volksfeste in Deutschland. Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk,das am Freitag, 19. Juli 2019, über dem Rhein erstrahlen wird. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus.",
+  "items": [
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "USA nach der Wahl"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+      },
+      "href": "#void",
+      "target": "_blank",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": true,
+      "kicker": {
+        "tag": "span",
+        "text": "Fortuna-Boss Schäfer im Interview"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "\"Bei Akpoguma werden wir kreativ sein\""
+      },
+      "href": "https://google.com",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Zugunglück von Bad Aibling"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "./assets/images/142x108.jpg",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "src": "",
+      "alt": "Schmusekatze"
+    },
+    {
+      "id": 1,
+      "isAd": false,
+      "kicker": {
+        "tag": "span",
+        "text": "Borussia-Sportdirektor"
+      },
+      "headline": {
+        "tag": "h2",
+        "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+      },
+      "href": "#void",
+      "alt": "Schmusekatze"
+    }
+  ]
+}

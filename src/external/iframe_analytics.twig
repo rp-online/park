@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+	<title></title>
+	<meta name="robots" content="noindex,nofollow,noarchive,noodp" />
+	<script src="https://script.ioam.de/iam.js"></script>
+	</head>
+	<body>
+	<script>
+	var iam_data = {
+		"st":"{{ st }}",
+		"cp":"{{ cp }}",
+		"sv":"ke",
+		"co":"{{ co }}"
+	}
+	iom.c(iam_data,1);
+	</script>
+  {% if gtm_id is not defined %}
+	<!-- Google Analytics -->
+	<script>	
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');		
+		ga('create', 'UA-2696235-13', 'auto');
+		ga('create', 'UA-2696235-49', 'auto', 'overall');	
+		ga('set', 'referrer', 'http://m.facebook.com');
+		ga('set', 'dimension10', 'facebookinstantarticle');
+		ga('send', {
+		  hitType: 'pageview',
+			page: "{{ gapage }}"
+		});
+		ga('overall.set', 'referrer', 'http://m.facebook.com');
+        ga('overall.set', 'dimension10', 'facebookinstantarticle');
+		ga('overall.send', {
+		  hitType: 'pageview',
+			page: "{{ gapage }}"
+		});	
+	</script>
+  {% endif %}
+
+  {% if vgwurl != '' %}
+	<img src="{{ vgwurl }}" width="1" height="1" alt="" />
+	{% endif %}	
+	
+	</body>
+</html>	

@@ -1,0 +1,64 @@
+.park-settings {
+  display: block;
+  padding: $global-spacing;
+  background-color: $global-light-grey;
+  font-size: 0;
+
+  &.park-form--vertical {
+    display: block;
+  }
+
+  &__section {
+    display: block;
+    padding-right: $global-spacing;
+
+    &--traffic,
+    &--weather {
+      @include mq(desktop) {
+        display: inline-block;
+        width: 50%;
+        vertical-align: top;
+      }
+    }
+  }
+
+  &__instructions {
+    @include global-sans-serif-font-size(2);
+
+    margin-bottom: rem(4px);
+  }
+
+  &__card-weather {
+    margin-bottom: $global-spacing;
+  }
+
+  .park-section-headline {
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .park-tab-container {
+    background-color: transparent;
+    border-top: none;
+
+    .park-tab-container__item { // stylelint-disable-line max-nesting-depth
+      @include mq(desktop) {
+        width: 100%;
+        height: auto;
+        margin-left: 0;
+        margin-right: 0;
+      }
+    }
+  }
+
+  .park-tab-container__tabs,
+  .park-tab-container__panel {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .park-card-traffic {
+    box-shadow: 1px 1px 1px 0 rgba(0, 0, 0, 0.17);
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "search-tipp",
+  "href": "#void",
+  "headline": {
+    "tag": "h2",
+    "text": "ePaper"
+  },
+  "kicker": {
+    "tag": "span",
+    "text": "RP Services"
+  }
+}

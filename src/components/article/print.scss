@@ -1,0 +1,35 @@
+.park-article {
+  overflow: visible;
+
+  &__meta,
+  &__commentscount,
+  &__kicker,
+  &__headline,
+  &__intro,
+  &__label,
+  &__sign {
+    color: #000;
+  }
+
+  &__meta {
+    order: 2;
+  }
+
+  &__headline {
+    font-size: rem(26px);
+    line-height: (38 / 26);
+  }
+
+  &__cover {
+    width: auto;
+    margin-left: $global-spacing;
+    margin-right: $global-spacing;
+  }
+
+  & ~ * {
+    &,
+    * {
+      display: none;
+    }
+  }
+}

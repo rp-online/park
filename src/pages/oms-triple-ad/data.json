@@ -1,0 +1,1842 @@
+{
+  "title": "W\u00f6lfe jagen Rotk\u00e4ppchen ",
+  "globals": {
+    "rootBase": "https:\/\/www-rpd.rp-online.de",
+    "assetsBase": "https:\/\/www-rpd.rp-online.de\/assets",
+    "title": "W\u00f6lfe jagen Rotk\u00e4ppchen ",
+    "url": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1510750909",
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Rotk\u00e4ppchen und ihre Gro\u00dfmutter sind in heller Aufregung. Ihr Erzfeind - der Wolf - ist zur\u00fcck in NRW. Die Regierung hat vorsorglich veranlasst, dass"
+      },
+      {
+        "name": "author",
+        "content": "Sarah Biere"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "keywords",
+        "content": "Rotk\u00e4ppchen"
+      },
+      {
+        "name": "news_keywords",
+        "content": "Rotk\u00e4ppchen"
+      },
+      {
+        "name": "og:title",
+        "content": "Alles M\u00e4rchen: W\u00f6lfe haben die Jagd auf Rotk\u00e4ppchen er\u00f6ffnet"
+      },
+      {
+        "name": "og:type",
+        "content": "website"
+      },
+      {
+        "name": "og:site_name",
+        "content": "RP ONLINE"
+      },
+      {
+        "name": "og:url",
+        "content": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      {
+        "name": "og:description",
+        "content": "Rotk\u00e4ppchen und ihre Gro\u00dfmutter sind in heller Aufregung. Ihr Erzfeind - der Wolf - ist zur\u00fcck in NRW. Die Regierung hat vorsorglich veranlasst, dass"
+      },
+      {
+        "name": "og:image",
+        "content": "https:\/\/www-rpd.rp-online.dehttps:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/7\/0\/3\/tok_bdf1c432c7f66ef9a73d23d9fceb9a85\/w1200_h630_x1275_y579_Piech11237407747-cd825dc5a2ac7823.jpg"
+      },
+      {
+        "name": "twitter:site",
+        "content": "@rponline"
+      },
+      {
+        "name": "twitter:site:id",
+        "content": "15427879"
+      },
+      {
+        "name": "twitter:card",
+        "content": "summary_large_image"
+      },
+      {
+        "name": "twitter:title",
+        "content": "W\u00f6lfe jagen Rotk\u00e4ppchen "
+      },
+      {
+        "name": "twitter:description",
+        "content": "Rotk\u00e4ppchen und ihre Gro\u00dfmutter sind in heller Aufregung. Ihr Erzfeind - der Wolf - ist zur\u00fcck in NRW. Die Regierung hat vorsorglich veranlasst, dass"
+      },
+      {
+        "name": "twitter:url",
+        "content": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      {
+        "name": "twitter:image",
+        "content": "https:\/\/www-rpd.rp-online.dehttps:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/7\/0\/3\/tok_bdf1c432c7f66ef9a73d23d9fceb9a85\/w1200_h630_x1275_y579_Piech11237407747-cd825dc5a2ac7823.jpg"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "nrw",
+      "subressort": "",
+      "dossier": null,
+      "contentType": "Artikel",
+      "analyticsUrl": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563",
+      "author": "Sarah Biere",
+      "date": "2018-03-13",
+      "origin": "4",
+      "seo": "\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563",
+      "rho_url": "\/\/r.rp-online.de\/images\/pic.gif?m=rp&b=7742703&cstr=6856563&l=&tit=W%F6lfe+jagen+Rotk%E4ppchen&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fnrw%2Fwoelfe-jagen-rotkaeppchen_aid-6856563&sep=%7C&tce=1&tid=50953&tn=50327&tp=50327&tpn=50327&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5"
+    },
+    "advertorial": false,
+    "appMode": false,
+    "cre": {
+      "trackingApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/call.js",
+      "deviceUrl": "\/\/www-rpd.rp-online.de\/cre-1.0\/tracking\/device.js",
+      "offerApiUrl": "\/\/www-rpd.rp-online.de\/cre-1.0https:\/\/www-rpd.rp-online.de\/api\/store\/RP\/offers",
+      "cmsJsonApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/settings\/notification.json",
+      "cmsJsonOfferApiUrl": "\/\/www-rpd.rp-online.de\/paywall\/osc\/offerdata\/offer.json",
+      "cmsJsonAlertsApiUrl": "\/\/www-rpd.rp-online.dehttps:\/\/www-rpd.rp-online.de\/api\/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 6856563,
+      "doctype": "article",
+      "contentid": "\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563",
+      "channel": 50953,
+      "heading": "W\u00f6lfe haben die Jagd auf Rotk\u00e4ppchen er\u00f6ffnet",
+      "kicker": "Dunkelwald",
+      "tag": "nrw"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app:\/\/com.rheinischepost.wrapper\/http\/rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      {
+        "rel": "canonical",
+        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      {
+        "rel": "alternate",
+        "type": "application\/rss+xml",
+        "title": "RSS Feed",
+        "href": "\/nrw\/feed.rss"
+      },
+      {
+        "rel": "standout",
+        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "Red-Akt-Lok",
+        "sv": "i2",
+        "co": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "Red-Akt-Lok",
+        "sv": "mo",
+        "co": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      }
+    },
+    "ads": {
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "\/\/\/localnews",
+            "size": [
+              [
+                120,
+                600
+              ],
+              [
+                160,
+                600
+              ],
+              [
+                200,
+                600
+              ],
+              [
+                300,
+                601
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "",
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "6844096",
+            "adUnitPath": "\/1017380\/RPO_unter_Headline_540x90",
+            "size": [
+              [
+                540,
+                90
+              ],
+              "fluid",
+              [
+                468,
+                60
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "6850184",
+            "adUnitPath": "\/1017380\/RPO_unter-Headline_540x90",
+            "size": [
+              [
+                540,
+                90
+              ],
+              "fluid",
+              [
+                468,
+                60
+              ],
+              [
+                336,
+                280
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "rectangle2",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "",
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "btid": "260",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6856563",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop",
+          "sitetyp": "parklayout"
+        },
+        "keyValues": {
+          "btid": "260",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6856563",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "desktop",
+          "sitetyp": "parklayout"
+        },
+        "zone": "localnews"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "interstitial",
+            "adUnitPath": "\/\/\/localnews",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "interstitial"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "[[]]",
+            "collapse": 1,
+            "lazyload": false,
+            "targeting": {
+              "key": ""
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "[[]]",
+            "collapse": true,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "6844096",
+            "adUnitPath": "\/1017380\/RPO_Mobile_Artikel_Unterbrecher",
+            "size": [
+              [
+                414,
+                200
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                375,
+                200
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                568,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                468,
+                90
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile3",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "[[]]",
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos3"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "6850155",
+            "adUnitPath": "\/1017380\/RPO_Mobile_Artikel_Unterbrecher",
+            "size": [
+              [
+                414,
+                200
+              ],
+              [
+                320,
+                50
+              ],
+              [
+                320,
+                100
+              ],
+              [
+                300,
+                250
+              ],
+              [
+                375,
+                200
+              ],
+              [
+                468,
+                60
+              ],
+              [
+                568,
+                100
+              ],
+              [
+                300,
+                50
+              ],
+              [
+                320,
+                150
+              ],
+              [
+                468,
+                90
+              ],
+              [
+                300,
+                100
+              ]
+            ],
+            "collapse": true,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile4",
+            "adUnitPath": "\/\/\/localnews",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": true,
+            "targeting": [],
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "btid": "260",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6856563",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile",
+          "sitetyp": "parklayout"
+        },
+        "keyValues": {
+          "btid": "260",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "artikel",
+          "cid": "6856563",
+          "pfad1": "nrw",
+          "pfad2": "stop",
+          "oms": "localnews",
+          "mode": "mobile",
+          "sitetyp": "parklayout"
+        },
+        "zone": "localnews"
+      },
+      "reloadFrequency": "5"
+    },
+    "jsonLd": {
+      "@context": "http:\/\/schema.org",
+      "@type": "NewsArticle",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563"
+      },
+      "headline": "W\u00f6lfe jagen Rotk\u00e4ppchen ",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https:\/\/www-rpd.rp-online.dehttps:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/7\/5\/1\/tok_e5efd9e10bf7621447ea3d9fbd50b511\/w950_h526_x1500_y1097_Piech11237407747-cd825dc5a2ac7823.jpg",
+        "height": 526,
+        "width": 950
+      },
+      "datePublished": "2018-03-13 13:34",
+      "dateModified": "2018-04-13 13:14:45",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Biere"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "RP ONLINE",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https:\/\/www-rpd.rp-online.dehttps:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/3\/5\/2\/0\/7\/tok_bf1dd9648f3c496b207e5a3dd82acbee\/w255_h60_x1452_y1136_RP-Logo-Facebook-0e82487bd1bd505f.jpg",
+          "width": "255",
+          "height": "60"
+        }
+      },
+      "description": "Rotk\u00e4ppchen und ihre Gro\u00dfmutter sind in heller Aufregung. Ihr Erzfeind - der Wolf - ist zur\u00fcck in NRW. Die Regierung hat vorsorglich veranlasst, dass Rotk\u00e4ppchen ins Zeugenschutzprogramm aufgenommen wurde. "
+    }
+  },
+  "skyscraper": {
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"><\/div>"
+    }
+  },
+  "outofpage": {
+    "mobile": {
+      "type": "interstitial",
+      "html": "<div id=\"interstitial\"><\/div>"
+    }
+  },
+  "header": {
+    "globals": [],
+    "logo": {
+      "tag": "b",
+      "text": "Rheinische Post Online",
+      "href": "\/"
+    },
+    "quicklinks": [
+      {
+        "isActive": true,
+        "text": "NRW",
+        "href": "\/nrw\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "\/politik\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "\/panorama\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "\/wirtschaft\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "\/sport\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "\/kultur\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Reisen",
+        "href": "\/reisen\/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "\/digital\/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "\/sso\/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "\/sso\/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "\/sso\/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https:\/\/leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "\/sso\/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "\/suche\/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Cookies helfen uns bei der Bereitstellung unserer Dienste. Durch die Nutzung unseres Angebots erkl\u00e4ren Sie sich damit einverstanden, dass wir Cookies setzen.",
+          "link": {
+            "href": "\/info\/datenschutz\/",
+            "text": "Mehr Informationen"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-rectangle",
+            "html": "<script>document.write('<img src=\"https:\/\/placehold.it\/320x50\">')<\/script>"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "desktop": {
+            "type": "superbanner",
+            "html": "<div id=\"banner\"><\/div>"
+          },
+          "mobile": {
+            "type": "mobile-rectangle",
+            "html": "<div id=\"topmobile\"><\/div>"
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-breadcrumb",
+                  "data": {
+                    "headline": {
+                      "tag": "h1",
+                      "text": "W\u00f6lfe jagen Rotk\u00e4ppchen "
+                    },
+                    "navigation": [
+                      {
+                        "text": "Startseite",
+                        "href": "https:\/\/www-rpd.rp-online.de\/",
+                        "target": "_self",
+                        "isHidden": true,
+                        "level": 0
+                      },
+                      {
+                        "text": "NRW",
+                        "href": "https:\/\/www-rpd.rp-online.de\/nrw\/",
+                        "target": "_self",
+                        "isHidden": false,
+                        "level": 1
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "article",
+                  "data": {
+                    "headline": {
+                      "tag": "h2",
+                      "text": "W\u00f6lfe haben die Jagd auf Rotk\u00e4ppchen er\u00f6ffnet"
+                    },
+                    "id": 6856563,
+                    "kicker": {
+                      "text": "Alles M\u00e4rchen"
+                    },
+                    "timestamp": "1523618040",
+                    "cover": {
+                      "type": "image",
+                      "width": 950,
+                      "height": 526,
+                      "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/7\/5\/1\/tok_e5efd9e10bf7621447ea3d9fbd50b511\/w950_h526_x1500_y1097_Piech11237407747-cd825dc5a2ac7823.jpg",
+                      "alt": "W\u00f6lfe jagen Rotk\u00e4ppchen ",
+                      "source": {
+                        "text": "RP"
+                      },
+                      "caption": "Rotk\u00e4ppchen und der b\u00f6se Wolf\n",
+                      "link": {
+                        "type": "image",
+                        "text": "4 Bilder",
+                        "href": "\/sandkasten\/tester8\/der-wolf-erobert-nrw-zurueck-rotkaeppchen-in-angst_bid-6856611"
+                      }
+                    },
+                    "dateline": "Dunkelwald",
+                    "intro": "Rotk\u00e4ppchen und ihre Gro\u00dfmutter sind in heller Aufregung. Ihr Erzfeind - der Wolf - ist zur\u00fcck in NRW. Die Regierung hat vorsorglich veranlasst, dass Rotk\u00e4ppchen ins Zeugenschutzprogramm aufgenommen wurde. ",
+                    "sign": "",
+                    "authorsbox": {
+                      "text": "Von Sarah Biere",
+                      "authors": [
+                        {
+                          "name": "Tobias Jochheim",
+                          "position": "",
+                          "bio": "Tobias Jochheim (tojo) ist Journalist bei der Digitalen Sonntagszeitung der Rheinischen Post. ",
+                          "links": {
+                            "profile": "\/autor\/tobias-jochheim-tojo\/"
+                          }
+                        },
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/4\/2\/0\/7\/9\/logo_duesseldorf-f51369dff39cec6e.jpg",
+                          "name": "NoID NoID!",
+                          "position": "NoID NoID",
+                          "bio": "kurz",
+                          "links": {
+                            "profile": "\/autor\/noid-noid\/"
+                          }
+                        },
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/4\/1\/5\/8\/6\/20151220_074353-58ba6d52cd169e53.jpg",
+                          "name": "Vera K\u00e4mper",
+                          "position": "Chefin von Dienst bei RP Online",
+                          "bio": "Chefin vom Dienst bei RP Online. Sie testet leidenschaftlich gern neue Redaktionssysteme.",
+                          "links": {
+                            "profile": "\/autor\/vera-kaemper-vek\/"
+                          }
+                        },
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/4\/2\/5\/9\/2\/Baer11237350466-008ecc951921face.jpg",
+                          "name": "Kevin Mustermann",
+                          "position": "Musterautor",
+                          "bio": "Es ist ein lang erwiesener Fakt, dass ein Leser vom Text abgelenkt wird, wenn er sich ein Layout ansieht. ",
+                          "links": {
+                            "profile": "\/autor\/kevin-mustermann-kemu\/"
+                          }
+                        },
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/4\/2\/1\/0\/2\/Ihme-249fdb138bd36944.jpg",
+                          "name": "Laura Ihme",
+                          "position": "Journalistensch\u00fclerin",
+                          "bio": "Laura Ihme (lai) ist Redakteurin in der Lokalredaktion D\u00fcsseldorf mit dem Schwerpunkt Kommunalpolitik. ",
+                          "links": {
+                            "profile": "\/autor\/laura-ihme-lai\/"
+                          }
+                        },
+                        {
+                          "src": "https:\/\/www-rpd.rp-online.de\/imgs\/33\/7\/7\/4\/1\/7\/0\/5\/Broe-972d012dbb4e7b03.jpg",
+                          "name": "Michael Br\u00f6cker",
+                          "position": "Chefredakteur der Rheinischen Post",
+                          "bio": "Michael Br\u00f6cker (br\u00f6) ist Chefredakteur der Rheinischen Post. ",
+                          "links": {
+                            "profile": "\/autor\/michael-broecker-broe\/"
+                          }
+                        }
+                      ]
+                    },
+                    "ads": {
+                      "author": [],
+                      "article": {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"topmobile2\"><\/div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"rectangle\"><\/div>",
+                          "lazy": false
+                        }
+                      }
+                    },
+                    "children": [
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Seit einigen Monaten beobachten Naturforscher, dass sich wieder vermehrt Wolfsrudel in NRW ansiedeln. Wohingegen der NABU diese Entwicklung begr\u00fc\u00dft, sind die Bewohner der M\u00e4rchenwelt in heller Aufregung. Meister Fuchs und Herr Hase haben bereits Asylantr\u00e4ge in Holland gestellt. Rottk\u00e4ppchen und ihre Gro\u00dfmutter wurden ins Zeugenschutzprogramm aufgenommen. Das junge M\u00e4dchen und den Wolf verbindet eine tiefe Feindschaft.<\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">\u201eIch habe Angst, dass der Wolf zur\u00fcckgekommen ist, um sich an mir zu r\u00e4chen\u201c, best\u00e4tigt Rotk\u00e4ppchen. Immerhin seit sie es damals gewesen, die dem Wolf einen Zentner Wackersteine in den Bauch gen\u00e4ht hatte. \u201eBesonders um Gro\u00dfmutter mache ich mir Sorgen. Mit ihren 99 Jahren vertr\u00e4gt sie die Aufregung nicht mehr so gut\u201c, erg\u00e4nzt Rotk\u00e4ppchen.<\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-video",
+                              "data": {
+                                "type": "youtube",
+                                "id": "4GnnAAU9_b0",
+                                "title": "MiezWohnung gesucht Folge 18 | Tierheim Moers: Diese Tiere suchen ein neues Zuhause",
+                                "href": "\/sandkasten\/tester13\/tiere-in-moers-suchen-ein-zuhause_vid-6856745"
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "portal",
+                        "data": {
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"6844096\"><\/div><script>googletag.cmd.push(function() { googletag.display(\"6844096\"); })<\/script>",
+                            "lazy": true
+                          },
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"6844096\"><\/div><script>googletag.cmd.push(function() { googletag.display(\"6844096\"); })<\/script>",
+                            "lazy": true
+                          }
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Die W\u00f6lfe hingegen verweisen auf ihre wei\u00dfe Weste.  Bislang sei noch kein M\u00e4rchenbewohner zu Schaden gekommen. \u201eWir jagen Schafe und Ziegen, aber keine M\u00e4rchenfiguren\u201c, sagt Oberwolf Bruder Grimm. Er und seine W\u00f6lfe f\u00fchlen sich diskriminiert. Die schlechte Darstellung des Wolfes in den meisten M\u00e4rchenb\u00fcchern habe seiner Meinung nach ma\u00dfgeblich dazu gef\u00fchrt, dass der Wolf an sich einen ganz schlechten Stand in der Gesellschaft habe. \u201eDiese Vorurteile sind v\u00f6llig antiquiert und geradezu mittelalterlich\u201c, schimpft Grimm. <\/p>"
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "children": [
+                            {
+                              "component": "embed-infobox",
+                              "data": {
+                                "kicker": {
+                                  "tag": "span",
+                                  "text": "Info"
+                                },
+                                "headline": {
+                                  "tag": "b",
+                                  "text": "Wer hat Angst vorm b\u00f6sen Wolf?"
+                                },
+                                "body": {
+                                  "tag": "span",
+                                  "text": "Rotk\u00e4ppchen f\u00fcrchtet sich. Vor einigen Jahren entkam sie dem Wolf nur knapp. Aktuell leidet sie unter einer Knieverletzung und kann daher nicht mehr so schnell rennen. Auch ihr Picknick-Korb ist auf der Flucht eher hinderlich. Unser Tipp: Wirf ihn weg!"
+                                },
+                                "bilddaten": {
+                                  "tag": "span",
+                                  "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/7\/0\/3\/Hendricks-7ba5b5bb526513c4.jpg",
+                                  "width": "407",
+                                  "height": "210",
+                                  "alt": "",
+                                  "caption": "Rotk\u00e4ppchen h\u00e4lt Ausschau nach dem Wolf.",
+                                  "source": {
+                                    "fotocredit": "RP",
+                                    "agentur": "RP",
+                                    "fotograf": "{\"honorable\":0,\"tabledata\":[],\"credittext\":\"\"}"
+                                  }
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "component": "article-content",
+                        "data": {
+                          "text": "<p class=\"text\">Trotz dieser w\u00f6lfischen Versicherungen bleibt die Stimmung in der M\u00e4rchenbev\u00f6lkerung angespannt. Bundeskanzlerin Angela Merkel versicherte: \u201eWir werden die Wolfspopulation in NRW eng im Auge behalten. Sollten sich die W\u00f6lfe daneben benehmen, fliegen sie sofort raus und werden nach Ostdeutschland verwiesen.\u201c Andrea Nahles h\u00e4lt diese strikte Abschiebepolitik f\u00fcr v\u00f6llig \u00fcberzogen. Man sollte stattdessen den Dialog mit den W\u00f6lfen suchen. \u201eIch habe dazu eigentlich nur eines zu sagen: Rotk\u00e4ppchen - \u00c4TSCHI B\u00c4TSCHI.\u201c<\/p>"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "outbrain",
+                  "data": {
+                    "desktop": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563\" data-widget-id=\"AR_10\"><\/div>",
+                    "mobile": "<div class=\"OUTBRAIN\" data-ob-template=\"DE_RPOnline.de\" data-src=\"https:\/\/www-rpd.rp-online.de\/nrw\/woelfe-jagen-rotkaeppchen_aid-6856563\" data-widget-id=\"AR_10\"><\/div>"
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "<div id=\"6850155\"><\/div><script>googletag.cmd.push(function() { googletag.display(\"6850155\"); })<\/script>",
+                      "lazy": true
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "<div id=\"6850155\"><\/div><script>googletag.cmd.push(function() { googletag.display(\"6850155\"); })<\/script>",
+                      "lazy": true
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-tiles",
+                  "data": {
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mehr von RP ONLINE"
+                    },
+                    "items": [
+                      {
+                        "type": "image",
+                        "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/7\/0\/9\/tok_c42e3cb82118d6329d8f9e859e521889\/w306_h175_x450_y270_d62139ec5f4647c587f5a43b67c9d420-de4f1a8f339a4db2.jpg",
+                        "alt": "",
+                        "href": "\/nrw\/staedte\/duesseldorf\/das-ist-emmanuel-iyoha_bid-6843952",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Bilder\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Das ist Emmanuel Iyoha\n"
+                        }
+                      },
+                      {
+                        "type": "article",
+                        "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/7\/4\/6\/tok_09cea055e99b4d1e98ab0d593e93cd7d\/w306_h175_x1144_y856_Grasfla__x308_che-a22c1d66ed669e9a.JPG",
+                        "alt": "Grasflaeche",
+                        "href": "\/sandkasten\/tester8\/flughafen-duesseldorf-beantragt-mehr-starts_aid-6843991",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Nachbarn bekr\u00e4ftigen Widerstand 2"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Flughafen D\u00fcsseldorf beantragt mehr Starts\n"
+                        }
+                      },
+                      {
+                        "type": "image",
+                        "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/5\/6\/1\/tok_16fd5d8190cdd10c699e4c9ded6b3be9\/w306_h175_x638_y154_3220183012-e918501eb3703248.jpg",
+                        "alt": "",
+                        "href": "\/nrw\/staedte\/duesseldorf\/ein-tag-am-duesseldorfer-flughafen_bid-6843799",
+                        "kicker": {
+                          "tag": "span",
+                          "text": "Fotos\n"
+                        },
+                        "headline": {
+                          "tag": "span",
+                          "text": "(CA)Ein Tag am D\u00fcsseldorfer Flughafen\n"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "tab-container",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile4\"><\/div><script>if (window.SDG) {window.SDG.Publisher.registerSlot(\"topmobile4\", document.getElementById(\"topmobile4\")).load();}<\/script>",
+                        "lazy": true
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<div id=\"rectangle2\"><\/div><script>if (window.SDG) {window.SDG.Publisher.registerSlot(\"rectangle2\", document.getElementById(\"rectangle2\")).load();}<\/script>",
+                        "lazy": true
+                      }
+                    },
+                    "data": {
+                      "headline": {
+                        "tag": "h2",
+                        "prefix": "Mehr zu ",
+                        "text": "W\u00f6lfe jagen Rotk\u00e4ppchen "
+                      },
+                      "type": "teaser-image-list-item",
+                      "blocks": [
+                        {
+                          "title": "Zum Thema",
+                          "items": [
+                            {
+                              "id": 6843762,
+                              "type": "video",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/5\/2\/5\/tok_b6ddcd2672d723526d39e9d1073d43de\/w100_h56_x640_y360_4238487531-578ad4e723f5b28f.jpg",
+                              "alt": "",
+                              "href": "\/nrw\/staedte\/duesseldorf\/fortunas-niederlage-ist-kein-beinbruch_vid-6843762",
+                              "kicker": {
+                                "tag": "span",
+                                "text": ""
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)\u201eFortunas Niederlage ist kein Beinbruch\u201c"
+                              }
+                            },
+                            {
+                              "id": 6844539,
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/6\/2\/2\/7\/tok_4e552a253e44c39fed5707e36a7431ad\/w100_h75_x410_y230_max-schrems-noyb-sammelklagen-datenschutz-facebook-bild3-1779abab72176c50.jpeg",
+                              "alt": "",
+                              "href": "\/politik\/das-geht-dich-nichts-an-schufa-facebook-google_aid-6844539",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Max Schrems\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Das geht dich nichts an, Schufa-Facebook-Google\n\n"
+                              }
+                            },
+                            {
+                              "id": 6843457,
+                              "type": "info",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/2\/4\/6\/tok_7268229042496065cb9b79f7c5b757c5\/w100_h75_x1796_y1347_Dscn0464-8a80d5b2efe79c83.jpg",
+                              "alt": "",
+                              "href": "\/digital\/advertorial\/seo-titel-der-infostrecke_iid-6843457",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Informationen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Teasertitel: \"F\u00fcr Deutschland ein R\u00fcckschlag\" - Pressestimmen zum Jamaika-Aus\n"
+                              }
+                            },
+                            {
+                              "id": 6844217,
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/9\/3\/5\/tok_c02a3ed50c00c05a1a35e87633957117\/w100_h75_x1795_y1197_2306810537-afd2f895d8ab14b2.jpg",
+                              "alt": "",
+                              "href": "\/nrw\/staedte\/duesseldorf\/Rheinkirmes\/rheinkirmes-2017-in-duesseldorf-kritik-am-auftritt-der-toten-haeusern_aid-6844217",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Rheinkirmes 2017 in D\u00fcsseldorf\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Es gibt Kritik am Auftritt der Toten Hosen\n"
+                              }
+                            },
+                            {
+                              "id": 6844073,
+                              "type": "article",
+                              "href": "\/nrw\/staedte\/duesseldorf\/hundm-lehrt-die-konkurrenz-das-fuerchten_aid-6844073",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Mit g\u00fcnstigen Preisen zum Erfolg\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)H&M lehrt die Konkurrenz das F\u00fcrchten\n"
+                              }
+                            },
+                            {
+                              "id": 6844078,
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/8\/2\/0\/tok_c02a3ed50c00c05a1a35e87633957117\/w100_h75_x1795_y1197_2306810537-afd2f895d8ab14b2.jpg",
+                              "alt": "Zum Jahreswechsel 2016\/2017 war die Polizei",
+                              "href": "\/nrw\/staedte\/duesseldorf\/bessere-luft-weniger-gaeste-ohne-polizei_aid-6844078",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Silvester in der D\u00fcsseldorfer Altstadt\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Weniger G\u00e4ste, bessere Luft und viel Polizei\n"
+                              }
+                            },
+                            {
+                              "id": 6844069,
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/8\/1\/1\/tok_84bd094e88fb01ef909ece307dcb8bfd\/w100_h75_x320_y175_3838734461-a76e4ef32ddb2fd7.jpg",
+                              "alt": "v",
+                              "href": "\/nrw\/staedte\/duesseldorf\/die-irren-eisbader-rund-um-die-welt_aid-6844069",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Neujahrsschwimmen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "(CA)Die irren Eisbader rund um die Welt\n"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "title": "Aus dem Ressort",
+                          "items": [
+                            {
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/1\/6\/8\/0\/tok_adc3a9fef6153d86c6dd3a274c8f4b8d\/w100_h75_x1024_y768_A7160039-e223695e2a6426f8.JPG",
+                              "alt": "",
+                              "href": "\/nrw\/artikel-mit-infobox-und-bild-und-mit-zwei-infoboxen_aid-6855377",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Test\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Artikel mit Infobox und Bild und mit zwei Infoboxen\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/7\/1\/3\/1\/tok_38495b36ae248c39065b32c1f0da4a2e\/w100_h75_x1152_y864_Dscn0323-bb9d7f078574a4f5.jpg",
+                              "alt": "",
+                              "href": "\/nrw\/staedte\/duesseldorf\/utas-artikel-ueber-obertilliach_aid-6848096",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Osttirol"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Utas Artikel \u00fcber Obertilliach\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/staedte\/duesseldorf\/laengere-promenade-ist-fuer-die-duesseldorfer-gesetzt_aid-6857072",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Promenade\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "L\u00e4ngere Promenade ist f\u00fcr die D\u00fcsseldorfer gesetzt\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/staedte\/neuss\/strasser-aus-dem-krankenhaus-entlassen_aid-6854946",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Lautern-Trainer geht es besser\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Strasser aus dem Krankenhaus entlassen\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/3\/5\/1\/2\/5\/tok_25be07a579f85580361e9dc57acff98b\/w100_h75_x103_y78_logo_duesseldorf-f51369dff39cec6e.jpg",
+                              "alt": "",
+                              "href": "\/nrw\/panorama\/papst-franziskus-verbietet-zigarettenverkauf-im-vatikan-ab-2018_aid-6842980",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Verbot ab 2018 mit Bilderstrecke\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Papst verbietet Zigarettenverkauf im Vatikan\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "src": "https:\/\/www-rpd.rp-online.de\/imgs\/32\/7\/7\/4\/2\/2\/4\/9\/tok_13d3e6926a4b11928764aa1ad91af2c3\/w100_h75_x150_y124_Kricke-422487caa3aa2224.jpg",
+                              "alt": "",
+                              "href": "\/nrw\/staedte\/duesseldorf\/das-ist-ein-doubletten-testartikel_aid-6855989",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Gibt`s mich doppelt? \n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Das ist ein Doubletten-Testartikel\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/fb-embeds-fuer-ia_aid-6855515",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Wir testen\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "FB Embeds f\u00fcr IA\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/boris-becker-video-im-artikel_aid-6855506",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "test\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Boris-Becker Video im Artikel\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/video-teaserbild-test_aid-6855450",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "test\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Video-Teaserbild Test\n"
+                              }
+                            },
+                            {
+                              "type": "article",
+                              "href": "\/nrw\/test-textbreaker_aid-6855400",
+                              "kicker": {
+                                "tag": "span",
+                                "text": "Textbreaker\n"
+                              },
+                              "headline": {
+                                "tag": "span",
+                                "text": "Test Textbreaker\n"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "comments",
+                  "data": {
+                    "disabled": false,
+                    "headline": {
+                      "tag": "h2",
+                      "text": ""
+                    },
+                    "seoheadline": {
+                      "tag": "h2",
+                      "text": "W\u00f6lfe jagen Rotk\u00e4ppchen "
+                    },
+                    "success": {
+                      "headline": "Vielen Dank f\u00fcr Ihren Beitrag!",
+                      "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem gro\u00dfen Kommentaraufkommen zu l\u00e4ngeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr f\u00fcr Sie da."
+                    },
+                    "error": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Bitte versuchen Sie es erneut."
+                    },
+                    "closed": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Das Kommentarforum zu diesem Artikel ist geschlossen."
+                    },
+                    "suspended": {
+                      "headline": "Es ist ein Fehler aufgetreten!",
+                      "text": "Ihr Benutzer ist f\u00fcr neue Kommentare gesperrt."
+                    },
+                    "unauthorized": {
+                      "headline": "",
+                      "text": "Um einen neuen Kommentar zu erstellen, <a href=\"\/sso\/login\">melden Sie sich bitte an<\/a>."
+                    },
+                    "discussion": {
+                      "id": 7742703,
+                      "url": "https:\/\/www-rpd.rp-online.de\/api\/comments?beitrag_id=7742703",
+                      "counturl": "https:\/\/www-rpd.rp-online.de\/api\/comments?type=count&beitrag_id=7742703"
+                    },
+                    "terms": {
+                      "href": "\/digital\/kommentareausgeblendet\/regeln-fuer-leserkommentare-auf-rp-online_aid-6856130"
+                    },
+                    "form": {
+                      "vertical": "#void",
+                      "action": "#void",
+                      "method": "post",
+                      "submit": "Absenden",
+                      "events": {
+                        "onsubmit": "console.info('Comment-form triggered submit, but got prevented'); e.preventDefault()"
+                      },
+                      "children": [
+                        {
+                          "component": "textarea",
+                          "data": {
+                            "name": "message",
+                            "label": "Nachricht"
+                          }
+                        },
+                        {
+                          "component": "input",
+                          "data": {
+                            "type": "checkbox",
+                            "name": "notify_me",
+                            "label": "Mich \u00fcber weitere Kommentare per E-Mail benachrichtigen"
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "portal",
+                  "data": {
+                    "desktop": {
+                      "type": "free",
+                      "html": "   <script>\r\n    googletag.cmd.push(function() {\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-0').addService(googletag.pubads());\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-1').addService(googletag.pubads());\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-2').addService(googletag.pubads());\r\n        googletag.pubads().enableSingleRequest();\r\n        googletag.pubads().collapseEmptyDivs();\r\n        googletag.enableServices();\r\n    });\r\n    </script>\r\n <div style=\"display: flex;flex-direction: row;display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-orient: horizontal;-webkit-box-direction: normal;-webkit-flex-direction: row;-ms-flex-direction: row;flex-direction: row;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-pack: center;-webkit-justify-content: center;-ms-flex-pack: center;justify-content: center;backgorund:#fff\">\r\n\r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-0'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-0'); });</script>\r\n        </div>\r\n\r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-1'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-1'); });</script>\r\n        </div>\r\n    \r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-2'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-2'); });</script>\r\n        </div>\r\n    </div>",
+                      "lazy": false
+                    },
+                    "mobile": {
+                      "type": "free",
+                      "html": "   <script>\r\n    googletag.cmd.push(function() {\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-0').addService(googletag.pubads());\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-1').addService(googletag.pubads());\r\n        googletag.defineSlot('/1017380/TESTING', [318, 280], 'div-gpt-ad-1515162982463-2').addService(googletag.pubads());\r\n        googletag.pubads().enableSingleRequest();\r\n        googletag.pubads().collapseEmptyDivs();\r\n        googletag.enableServices();\r\n    });\r\n    </script>\r\n <div style=\"display: flex;flex-direction: row;display: -webkit-box;display: -webkit-flex;display: -ms-flexbox;display: flex;-webkit-box-orient: horizontal;-webkit-box-direction: normal;-webkit-flex-direction: row;-ms-flex-direction: row;flex-direction: row;-webkit-flex-wrap: wrap;-ms-flex-wrap: wrap;flex-wrap: wrap;-webkit-box-pack: center;-webkit-justify-content: center;-ms-flex-pack: center;justify-content: center;backgorund:#fff\">\r\n\r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-0'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-0'); });</script>\r\n        </div>\r\n\r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-1'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-1'); });</script>\r\n        </div>\r\n    \r\n        <div style=\"float: left;\" id='div-gpt-ad-1515162982463-2'>\r\n            <script> googletag.cmd.push(function() { googletag.display('div-gpt-ad-1515162982463-2'); });</script>\r\n        </div>\r\n    </div>",
+                      "lazy": false
+                    }
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "zur Startseite",
+                      "href": "\/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https:\/\/www.rp-online.de\/info\/kontakt?site=rp"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "http:\/\/#void"
+        },
+        {
+          "text": "AGB",
+          "href": "http:\/\/#void"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com\/rponline",
+          "href": "https:\/\/facebook.com\/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https:\/\/twitter.com\/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "\/app\/newsletter\/",
+      "headline": "Die Stimme des Westens",
+      "body": "Bestellen Sie hier den t\u00e4glichen Newsletter aus der Chefredaktion.",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen"
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Handy Tarife",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Strom Rechner",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Gas Rechner",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Mercedes Benz",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Pausenspiel",
+          "href": "",
+          "target": ""
+        },
+        {
+          "text": "RP Apps",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Themen",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Sitemap",
+          "href": "#void",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "#void",
+          "target": ""
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": []
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https:\/\/www-rpd.rp-online.de\/api\/tree?output=navigation&currentNode=50953"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo\/Service",
+              "href": "https:\/\/leserservice.rp-online.de\/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Abo_Service"
+            },
+            {
+              "text": "RP ePaper",
+              "href": "http:\/\/www.rp-online.de\/digitales\/rp-epaper-app\/?utm_source=rponline&utm_medium=EpaperLinkHP&utm_campaign=EpaperLinkHP_A"
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "http:\/\/leserservice.rp-online.de\/Anzeigen"
+            },
+            {
+              "text": "RP Trauer",
+              "href": "https:\/\/trauer.rp-online.de\/"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt zur Redaktion",
+              "href": "https:\/\/www.rp-online.de\/info\/kontakt\/"
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "http:\/\/www.rp-online.de\/digitales\/apps\/rheinische-post-per-whatsapp-lesen-nachrichten-aus-nrw-aufs-smartphone-aid-1.5107028"
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "http:\/\/www.rp-online.de\/app\/newsletter\/"
+            },
+            {
+              "text": "Podcast abonnieren",
+              "href": "http:\/\/www.rp-online.de\/digitales\/podcasts\/"
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "Schlagzeilen",
+              "href": "http:\/\/www.rp-online.de\/app\/schlagzeilen\/"
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https:\/\/www.weekli.de\/"
+            },
+            {
+              "text": "Spiele",
+              "href": "http:\/\/spiele.rp-online.de\/"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "http:\/\/www.rp-digital-services.de\/"
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#stadtauswahl",
+          "text": "St\u00e4dte",
+          "href": "\/nrw\/staedte",
+          "children": [
+            {
+              "text": "Duesseldorf",
+              "href": "\/nrw\/staedte\/duesseldorf\/",
+              "featured": true,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "\/nrw\/staedte\/duisburg\/",
+              "featured": true,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Neuss",
+              "href": "\/nrw\/staedte\/neuss\/",
+              "featured": true,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "M\u00f6nchengladbach",
+              "href": "\/nrw\/staedte\/moenchengladbach\/",
+              "featured": true,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Kamp-Lintford",
+              "href": "\/nrw\/staedte\/kamp-lintford\/",
+              "featured": false,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#kamp-lintford"
+            },
+            {
+              "text": "Viersen",
+              "href": "\/nrw\/staedte\/viersen\/",
+              "featured": false,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Krefeld",
+              "href": "\/nrw\/staedte\/krefeld\/",
+              "featured": false,
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#krefeld"
+            }
+          ],
+          "search": {
+            "label": "St\u00e4dtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": true,
+          "isAd": false,
+          "text": "NRW",
+          "href": "\/nrw\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#nrw",
+          "children": [
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "St\u00e4dte",
+              "href": "\/nrw\/staedte\/",
+              "target": "_self",
+              "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#stadtauswahl",
+              "children": [
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "D\u00fcsseldorf",
+                  "href": "\/nrw\/staedte\/duesseldorf\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#duesseldorf",
+                  "children": [
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Stadtteile",
+                      "href": "\/nrw\/staedte\/duesseldorf\/stadtteile\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Blaulicht",
+                      "href": "\/nrw\/staedte\/duesseldorf\/blaulicht\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Karneval",
+                      "href": "\/nrw\/staedte\/duesseldorf\/karneval\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Kultur",
+                      "href": "\/nrw\/staedte\/duesseldorf\/kultur\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Freizeit",
+                      "href": "\/nrw\/staedte\/duesseldorf\/freizeit\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Sch\u00fctzen",
+                      "href": "\/nrw\/staedte\/duesseldorf\/schuetzen\/",
+                      "target": "_self"
+                    },
+                    {
+                      "isCurrent": false,
+                      "isAd": false,
+                      "text": "Lokalsport",
+                      "href": "\/nrw\/staedte\/duesseldorf\/lokalsport\/",
+                      "target": "_self"
+                    }
+                  ]
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Duisburg",
+                  "href": "\/nrw\/staedte\/duisburg\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#duisburg"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Neuss",
+                  "href": "\/nrw\/staedte\/neuss\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#neuss"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "M\u00f6nchengladbach",
+                  "href": "\/nrw\/staedte\/moenchengladbach\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#moenchengladbach"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Kamp-Lintford",
+                  "href": "\/nrw\/staedte\/kamp-lintford\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#kamp-lintford"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": false,
+                  "text": "Viersen",
+                  "href": "\/nrw\/staedte\/viersen\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#viersen"
+                },
+                {
+                  "isCurrent": false,
+                  "isAd": true,
+                  "text": "Krefeld",
+                  "href": "\/nrw\/staedte\/krefeld\/",
+                  "target": "_self",
+                  "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.cities.svg#krefeld"
+                }
+              ]
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "2019",
+              "href": "\/nrw\/2019\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Politik",
+              "href": "\/nrw\/landespolitik\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Panorama",
+              "href": "\/nrw\/panorama\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Kultur",
+              "href": "\/nrw\/kultur\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": false,
+              "text": "Hochschulen",
+              "href": "\/nrw\/hochschulen\/",
+              "target": "_self"
+            },
+            {
+              "isCurrent": false,
+              "isAd": true,
+              "text": "Mercedes-Benz",
+              "href": "\/nrw\/mercedes-benz\/",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "\/politik\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "\/panorama\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "\/wirtschaft\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "\/sport\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "\/kultur\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Reisen",
+          "href": "\/reisen\/",
+          "target": "_self",
+          "icon": "https:\/\/www-rpd.rp-online.de\/assets\/images\/sprite.navigation.svg#reisen"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "\/digital\/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "\u00a9 RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

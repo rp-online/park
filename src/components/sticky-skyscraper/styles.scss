@@ -1,0 +1,17 @@
+.park-sticky-skyscraper {
+  position: fixed !important;
+  top: calc(#{$header-navbar-height-mobile} + #{rem(14px)}) !important;
+  transition: top 300ms;
+
+  @include mq(desktop) {
+    top: calc(#{$header-navbar-height-desktop} + #{rem(14px)}) !important;
+  }
+
+  .with-offers & {
+    top: calc(#{$header-navbar-height-mobile} + #{$header-offer-height-mobile} + #{rem(14px)}) !important;
+
+    @include mq(desktop) {
+      top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop} + #{rem(14px)}) !important;
+    }
+  }
+}

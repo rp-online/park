@@ -1,0 +1,16 @@
+{% include 'components/overlay/template.twig' with {
+  id: 'login',
+  children: [
+    {
+      component: 'iframe',
+      data: {
+        src: 'https://templates.park.works/iframe.html',
+        width: 800,
+        height: 600,
+        title: 'Login IFrame',
+        name: 'demo'
+      }
+    }
+  ],
+  startOpened: true,
+} only %}

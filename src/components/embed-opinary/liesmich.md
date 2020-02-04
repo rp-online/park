@@ -1,0 +1,3 @@
+Diese Komponente bettet ein Opinary-Modul in einem entsprechenden Rahmen ein. Sie muss mit der URL des darzustellenden Opinary-Polls und der Opinary-Kunden-ID des Verlags ausgestattet werden und kümmert sich dann um den Rest. Zum Einsatz kommt sie ausschließlich im Artikel-Körper ([article](#article)).
+
+Die Komponente schmeisst ein Event mit dem Namen `park.embed-opinary:pageview` immer dann, wenn der Benutzer eine Stimme abgibt oder wenn zu einer weiteren Seite vorgeblättert wird. 

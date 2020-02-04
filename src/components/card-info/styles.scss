@@ -1,0 +1,17 @@
+.park-card-info {
+  @include card;
+
+  padding-top: rem(20px);
+
+  &__wrapper {
+    @extend %indicator-info;
+  }
+
+  a[target="_blank"] &__wrapper {
+    @extend %indicator-external;
+  }
+
+  .is-advertorial a[target="_blank"][title="Anzeige"] &__wrapper::after {
+    display: none;
+  }
+}

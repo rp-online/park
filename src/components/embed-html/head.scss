@@ -1,0 +1,39 @@
+.park-embed-html {
+  @extend %embed;
+
+  @include richtext;
+
+  // GERAGA-213 Embed-Videos fehlten
+  > div[itemprop="video"] {
+    width: 100%;
+    float: none;
+  }
+
+  * {
+    max-width: 100%;
+  }
+
+  > * {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+  }
+
+  > *[class^="pb"],
+  > .playbuzz,
+  > .opinary-widget-embed,
+  > .park-video {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  > iframe {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    min-width: inherit !important;
+  }
+
+  > iframe[src^="https://www.youtube.com/embed"] {
+    max-height: 56.25vw;
+  }
+}

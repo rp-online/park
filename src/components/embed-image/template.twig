@@ -1,0 +1,44 @@
+{% set uuid = random() %}
+<figure role="group" class="park-embed-image">
+  {% if link is defined and link.href is defined and link.type is same as('enlargable') %}
+  <a href="{{ link.href }}"
+     target="_blank"
+     rel="noopener noreferrer nofollow"
+     title="Vergrößerte Ansicht"
+     aria-describedby="park-embed-image__caption-{{ uuid }}"
+     class="park-embed-image__link">
+    {% endif %}
+    <span class="park-embed-image__wrapper">
+  {% include 'components/image/template.twig' with {
+    'src': src,
+    'alt': alt,
+    'width': '100%',
+    'height': '100%',
+    'sizes': { 'mobile': '100vw', 'desktop': '800px' },
+    'fit': 'contain',
+    'config': config} %}
+  </span>
+    {% if link is defined and link.href is defined and link.type is same as('enlargable') %}
+  </a>
+  {% endif %}
+  <figcaption id="park-embed-image__caption-{{ uuid }}"
+              class="park-embed-image__caption">
+    {% if caption is defined and caption %}
+      {% set caption = caption|trim %}
+      {{ caption }}{% if caption and caption|last not in ['.', '!', '?'] %}.{% endif %}
+    {% endif %}
+    {% if source is defined and source.text is not empty %}
+      {% if source.href is defined %}
+        {% set source = source|merge({
+          'classes': [
+            'park-embed-image__caption-source-link'
+          ],
+          'config': config
+        }) %}
+        <i class="park-embed-image__caption-source">Foto: {% include 'components/link-helper/template.twig' with source only %}</i>
+      {% else %}
+        <i class="park-embed-image__caption-source">Foto: {{ source.text }}</i>
+      {% endif %}
+    {% endif %}
+  </figcaption>
+</figure>

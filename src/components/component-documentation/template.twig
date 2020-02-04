@@ -1,0 +1,145 @@
+<section class="park-component-documentation">
+  {% include 'components/page-headline/template.twig' with {
+    'tag': 'h2',
+    'text': name,
+    'config': config} only %}
+  <div class="park-component-documentation__wrapper">
+    <div class="park-component-documentation__description">
+      <div class="park-component-documentation__content">
+        {% if readme is defined and readme %}
+          {% include 'components/markdown/template.twig' with {
+            'text': readme,
+            'config': config} only %}
+        {% endif %}
+      </div>
+      <aside>
+        {% include 'components/section-headline/template.twig' with {
+          'tag': 'h4',
+          'text': 'Komponenten, die die ' ~ name ~ '-Komponente verwenden',
+          'config': config} only %}
+        {% if components is defined and components %}
+          {% include 'components/tags/template.twig' with {
+            'links': components,
+            'config': config} only %}
+        {% else %}
+          <p>Keine</p>
+        {% endif %}
+        {% include 'components/section-headline/template.twig' with {
+          'tag': 'h4',
+          'text': 'Seiten, die die ' ~ name ~ '-Komponente verwenden',
+          'config': config} only %}
+        {% if pages is defined and pages %}
+          {% include 'components/tags/template.twig' with {
+            'links': pages,
+            'config': config} only %}
+        {% else %}
+          <p>Keine</p>
+        {% endif %}
+      </aside>
+      {% include 'components/section-headline/template.twig' with {
+        'tag': 'h3',
+        'text': 'Quelldateien',
+        'config': config} only %}
+      {% if sourcecodes.template is defined and sourcecodes.template %}
+        <details class="park-component-documentation__details">
+          <summary class="park-component-documentation__summary"><code>template.twig</code></summary>
+          <div class="park-component-documentation__details-content">
+            {% include 'components/sourcecode/template.twig' with {
+              'language': 'twig',
+              'code': sourcecodes.template,
+              'config': config} only %}
+          </div>
+        </details>
+      {% endif %}
+      {% if sourcecodes.styles is defined and sourcecodes.styles %}
+        <details class="park-component-documentation__details">
+          <summary class="park-component-documentation__summary"><code>styles.scss</code></summary>
+          <div class="park-component-documentation__details-content">
+            {% include 'components/sourcecode/template.twig' with {
+              'language': 'scss',
+              'code': sourcecodes.styles,
+              'config': config} only %}
+          </div>
+        </details>
+      {% endif %}
+      {% if sourcecodes.head is defined and sourcecodes.head %}
+        <details class="park-component-documentation__details">
+          <summary class="park-component-documentation__summary"><code>head.js</code></summary>
+          <div class="park-component-documentation__details-content">
+            {% include 'components/sourcecode/template.twig' with {
+              'language': 'javascript',
+              'code': sourcecodes.head,
+              'config': config} only %}
+          </div>
+        </details>
+      {% endif %}
+      {% if sourcecodes.scripts is defined and sourcecodes.scripts %}
+        <details class="park-component-documentation__details">
+          <summary class="park-component-documentation__summary"><code>scripts.js</code></summary>
+          <div class="park-component-documentation__details-content">
+            {% include 'components/sourcecode/template.twig' with {
+              'language': 'javascript',
+              'code': sourcecodes.scripts,
+              'config': config} only %}
+          </div>
+        </details>
+      {% endif %}
+      </aside>
+    </div>
+    <aside class="park-component-documentation__variants">
+      {% include 'components/section-headline/template.twig' with {
+        'tag': 'h3',
+        'text': 'Varianten',
+        'config': config} only %}
+      {% if sourcecodes.template is defined and sourcecodes.template and variants is defined and variants is iterable %}
+        {% set firstFound = false %}
+        {% for variant in variants %}
+          {% if variant.name is same as('default') %}
+            <details
+              class="park-component-documentation__details"{% if firstFound is same as(false) %}{% set firstFound = true %} open{% endif %}>
+              <summary class="park-component-documentation__summary">{{ variant.name }}</summary>
+              <div class="park-component-documentation__details-content">
+                {% include 'components/component-preview/template.twig' with {
+                  'src': variant.preview,
+                  'width': 1280,
+                  'height': 800,
+                  'title': variant.name,
+                  'name': name ~ '-' ~ variant.name,
+                  'href': './components/' ~ name ~ '.html',
+                  'config': config} only %}
+                {% include 'components/sourcecode/template.twig' with {
+                  'language': 'json',
+                  'code': variant.data,
+                  'config': config} only %}
+              </div>
+            </details>
+          {% endif %}
+        {% endfor %}
+        {% for variant in variants %}
+          {% if variant.name is not same as('default') %}
+            <details
+              class="park-component-documentation__details"{% if firstFound is same as(false) %}{% set firstFound = true %} open{% endif %}>
+              <summary class="park-component-documentation__summary">{{ variant.name }}</summary>
+              <div class="park-component-documentation__details-content">
+                {% include 'components/component-preview/template.twig' with {
+                  'src': variant.preview,
+                  'width': 1280,
+                  'height': 0,
+                  'title': variant.name,
+                  'name': name ~ '-' ~ variant.name,
+                  'href': './components/' ~ name ~ '-' ~ variant.name ~ '.html',
+                  'config': config} only %}
+                {% include 'components/sourcecode/template.twig' with {
+                  'language': 'json',
+                  'code': variant.data,
+                  'config': config} only %}
+              </div>
+            </details>
+          {% endif %}
+        {% endfor %}
+      {% else %}
+        <p>Hierbei handelt es sich um eine Helper-Komponente, die nicht gerendert werden kann.</p>
+      {% endif %}
+    </aside>
+  </div>
+</section>

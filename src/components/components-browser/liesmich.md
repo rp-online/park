@@ -1,0 +1,1 @@
+Diese Komponente stellt den Komponenten-Browser aus der Dokumentation dar.

@@ -1,0 +1,26 @@
+{
+  "href": "#settings",
+  "text": "Anmelden",
+  "items": [
+    {
+      "href": "#void",
+      "text": "Meine Merkliste"
+    },
+    {
+      "href": "#void",
+      "text": "Einstellungen"
+    },
+    {
+      "href": "#void",
+      "text": "Meine Daten"
+    }
+  ],
+  "login": {
+    "href": "javascript:window.park.user.login()",
+    "text": "Anmelden"
+  },
+  "logout": {
+    "href": "javascript:window.park.user.logout()",
+    "text": "Abmelden"
+  }
+}

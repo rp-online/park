@@ -1,0 +1,44 @@
+{
+  "title": "Neues Passwort Vergeben",
+  "config": {
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Dies ist eine Beispielseite für Neues Passwort Vergeben"
+      },
+      {
+        "name": "canonical",
+        "content": "https://templates.park.works/neues-passwort-vergeben.html"
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "narrow": true,
+        "children": [
+          {
+            "component": "widget",
+            "data": {
+              "type": "new-password",
+              "component": "new-password",
+              "initialState": {
+                "headline": {
+                  "tag": "h1",
+                  "text": "Passwortänderung"
+                },
+                "text": "Bitte geben Sie Ihr neues Passwort ein.",
+                "form": {
+                  "action": "#void",
+                  "method": "post",
+                  "username": ""
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

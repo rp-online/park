@@ -1,0 +1,37 @@
+{
+  "headline": {
+    "tag": "h2",
+    "text": "Direkt zu"
+  },
+  "cities": [
+    {
+      "href": "#duesseldorf",
+      "text": "Düsseldorf"
+    },
+    {
+      "href": "#neuss",
+      "text": "Neuss"
+    },
+    {
+      "href": "#moenchengladbach",
+      "text": "Mönchengladbach"
+    },
+    {
+      "href": "#allcities",
+      "text": "Alle Städte"
+    }
+  ],
+  "sportsclubs": [
+    {
+      "icon": "./assets/images/sprite.sportsclubs.svg#fortuna-duesseldorf",
+      "href": "#fortuna-duesseldorf",
+      "text": "Fortuna Düsseldorf"
+    },
+    {
+      "icon": "./assets/images/sprite.sportsclubs.svg#borussia-dortmund",
+      "href": "#borussia-dortmund",
+      "text": "Borussia Dortmund"
+    }
+  ],
+  "settingsURL": "#void"
+}

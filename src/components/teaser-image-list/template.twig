@@ -1,0 +1,26 @@
+<article class="park-teaser-image-list">
+  {% if headline is defined %}
+    <header class="park-teaser-image-list__header">
+      {# The following injects the global config #}
+      {% set headline = headline|merge({'config': config}) %}
+      {% include 'components/section-headline/template.twig' with headline only %}
+    </header>
+  {% endif %}
+  <{% if isNumeric %}ol{% else %}ul{% endif %} class="park-teaser-image-list__list">
+    {% for item in items %}
+      <li class="park-teaser-image-list__item">
+        {# The following injects the global config #}
+        {% set item = item|merge({
+        'config': config,
+        'isNumeric': isNumeric
+        }) %}
+        {% if config.advertorial is defined and config.advertorial is same as(true) %}
+          {% set item = item|merge({
+            'isAd': true
+          }) %}
+        {% endif %}
+        {% include 'components/teaser-image-list-item/template.twig' with item only %}
+      </li>
+    {% endfor %}
+  </{% if isNumeric %}ol{% else %}ul{% endif %}>
+</article>

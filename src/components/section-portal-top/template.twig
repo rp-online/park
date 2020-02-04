@@ -1,0 +1,15 @@
+<section class="park-section-portal-top">
+  {# The following injects the global config #}
+  {% set ad = ad|merge({'config': config}) %}
+  {% if ad.type is same as('portal') %}
+    {% include 'components/portal/template.twig' with ad only %}
+  {% elseif ad.type is same as('multi-portal') %}
+    {% include 'components/multi-portal/template.twig' with ad.data only %}
+  {% endif %}
+  <div class="park-section-portal-top__content">
+    {% for child in children %}
+      {% set data = child.data|merge({'config': config}) %}
+      {% include 'components/' ~ child.component ~ '/template.twig' with data only %}
+    {% endfor %}
+  </div>
+</section>

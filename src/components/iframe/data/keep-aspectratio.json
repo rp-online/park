@@ -1,0 +1,8 @@
+{
+  "src": "https://templates.park.works/iframe.html",
+  "width": 800,
+  "height": 600,
+  "title": "Demo IFrame",
+  "name": "demo",
+  "keepAspectratio": true
+}

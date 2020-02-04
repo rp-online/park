@@ -1,0 +1,32 @@
+/* stylelint-disable at-rule-empty-line-before */
+@import 'tools/functions';
+
+@import 'settings/base';
+@import 'settings/breakpoints';
+
+/* Go from the top down, start with the largest first */
+$json: '';
+$json: $json + '{ ';
+$json: $json + '"brandColor": "#{$global-brand-color}",';
+$json: $json + '"containerWidth": "#{strip-unit(unrem($global-container-width))}",';
+$json: $json + '"globalSpacing": "#{strip-unit(unrem($global-spacing))}",';
+$json: $json + '"mediaqueries": { ';
+$json: $json + '"handheld": "handheld"';
+
+@each $name, $value in $global-mq-breakpoints {
+  $json: $json + ', ';
+  $json: $json + '"#{$name}": "#{$value}"';
+}
+
+$json: $json + ' }';
+$json: $json + ' }';
+
+html {
+  &::before {
+    content: $json;
+    display: none;
+    width: unrem($global-container-width);
+    color: $global-brand-color;
+  }
+}
+/* stylelint-enable */

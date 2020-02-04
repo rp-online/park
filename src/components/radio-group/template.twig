@@ -1,0 +1,33 @@
+{% set uuid = random() %}
+<div class="park-radio-group
+    {% if name is defined %}
+    park-radio-group--{{ name }}
+    {% endif %}
+    {% if labelHidden is defined and labelHidden is same as(true) %}
+    park-radio-group--label-is-hidden
+    {% endif %}"
+     role="radiogroup"
+     aria-labelledby="park-radio-group__legend-{{ uuid }}">
+  <span id="park-radio-group__legend-{{ uuid }}"
+        class="park-radio-group__legend">{{ label }}</span>
+  <div class="park-radio-group__wrapper">
+    {% if options is defined %}
+      {% for option in options %}
+        {% if value is defined and value is same as(option.value) %}
+          {% set checked = true %}
+        {% else %}
+          {% set checked = false %}
+        {% endif %}
+        {% include 'components/input/template.twig' with {
+        'type': 'radio',
+        'name': name,
+        'autocomplete': autocomplete,
+        'label': option.label,
+        'value': option.value,
+        'checked': checked,
+        'config': config
+        } only %}
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>
