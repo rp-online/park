@@ -14,6 +14,7 @@ const plugins = require('gulp-load-plugins')({
     'run-sequence',
     'webpack',
     'workbox-build',
+    'gulp-critical-css',
   ],
   postRequireTransforms: {
     browserSync(browserSync) {
@@ -26,7 +27,6 @@ const plugins = require('gulp-load-plugins')({
 });
 
 const sassGlob = require('./src/libs/custom-gulp-sass-glob');
-const postcssStripDownCriticalCSS = require('./src/libs/custom-postcss-plugins/strip-down-critical-css');
 const webpackConfig = require('./webpack.config.js');
 const browser = require('./src/scripts/browser.js');
 const components = require('./src/scripts/components.js');
@@ -87,6 +87,7 @@ const PATHS = {
         'src/js/foot/polyfills/*.js',
         'src/js/foot/_cre-client.js',
         'src/js/iframe-resizer/iframe-resizer.js',
+        'src/js/iframe-reloader/iframe-reloader.js',
         'src/js/foot/*.js',
         'src/js/foot/shared/*.js',
         'src/js/*.js',
@@ -116,8 +117,20 @@ const PATHS = {
       src: 'src/js/adblock-detection/adsbygoogle.js',
       dest: 'adsbygoogle.js',
     },
+    slots: {
+      src: 'src/js/advertisement/*.js',
+      dest: 'slots.js',
+    },
+    marketing: {
+      src: 'src/js/marketing/*.js',
+      dest: 'marketing.js',
+    },
     widgets: {
       src: 'src/widgets/**/*.js',
+    },
+    cp: {
+      src: 'src/skins/*/cp.js',
+      dest: 'cp.js',
     },
   },
   json: {
@@ -222,7 +235,16 @@ gulp.task('profiler', (done) => {
 });
 
 gulp.task('scss:exports', () => gulp.src(PATHS.scss.exports.src)
-  .pipe(plugins.sass().on('error', plugins.sass.logError))
+  .pipe(plugins.sass({ outputStyle: 'compressed' }).on('error', plugins.sass.logError))
+  .pipe(gulp.dest(PATHS.scss.exports.dest))
+);
+
+gulp.task('scss:critical', () => gulp.src(PATHS.scss.head.src)
+  .pipe(sassGlob())
+  .pipe(plugins.sass({
+    outputStyle: 'compressed',
+  }).on('error', plugins.sass.logError))
+  .pipe(plugins.criticalCss())
   .pipe(gulp.dest(PATHS.scss.exports.dest))
 );
 
@@ -232,10 +254,6 @@ gulp.task('scss:head', () => gulp.src(PATHS.scss.head.src)
   .pipe(plugins.sass({
     outputStyle: 'compressed',
   }).on('error', plugins.sass.logError))
-  .pipe(plugins.postcss([
-    postcssStripDownCriticalCSS(),
-    plugins.cssMqpacker(),
-  ]))
   .pipe(plugins.sourcemaps.write('.'))
   .pipe(gulp.dest(PATHS.scss.head.dest))
 );
@@ -270,6 +288,7 @@ gulp.task('scss:print', () => gulp.src(PATHS.scss.print.src)
 
 gulp.task('scss', done => gulpMultiProcess([
   'scss:exports',
+  'scss:critical',
   'scss:head',
   'scss:main',
   'scss:print',
@@ -305,6 +324,9 @@ gulp.task('skins', () => {
       'src/skins/*/*.ico',
       'src/skins/*/*.xml',
       'src/skins/*/*.js',
+      '!src/skins/*/cp.js',
+      '!src/skins/*/consent-layer.js',
+      '!src/skins/*/consent-page.js',
       'src/skins/*/images/*',
     ])
       .pipe(plugins.rename((path) => {
@@ -313,6 +335,36 @@ gulp.task('skins', () => {
         path.dirname = dirFragments.pop();
       }))
       .pipe(gulp.dest('dist/assets/skins/'))
+  );
+
+  streams.push(
+    gulp.src(['src/skins/*/cp.js'])
+      .pipe(plugins.sourcemaps.init())
+      .pipe(plugins.babel({
+        presets: ['env'],
+      }))
+      .pipe(plugins.rename((path) => {
+        const dirFragments = path.dirname.replace(/\\/g, '/').split('/skins/');
+
+        path.dirname = dirFragments.pop();
+      }))
+      .pipe(plugins.terser())
+      .pipe(plugins.sourcemaps.write('.'))
+      .pipe(gulp.dest('dist/assets/skins/'))
+  );
+
+  streams.push(
+    gulp.src(['src/skins/*/consent-layer.js', 'src/skins/*/consent-page.js'])
+      .pipe(plugins.babel({
+        presets: ['env'],
+      }))
+      .pipe(plugins.rename((path) => {
+        const dirFragments = path.dirname.replace(/\\/g, '/').split('/skins/');
+
+        path.dirname = dirFragments.pop();
+      }))
+      .pipe(plugins.terser())
+      .pipe(gulp.dest('src/assets/skins/'))
   );
 
   return plugins.mergeStream(...streams);
@@ -350,14 +402,15 @@ gulp.task('transpile', () => {
     'widgets',
     'noopServiceworker',
     'personalArea',
+    'cp',
   ].indexOf(key) === -1).map(key =>
     gulp.src(PATHS.js[key].src)
       .pipe(plugins.sourcemaps.init())
       .pipe(plugins.babel({
         presets: ['env'],
       }))
-      .pipe(plugins.concatUtil(PATHS.js[key].dest), {newLine: ';'})
-      .pipe(plugins.uglify({compress: {drop_debugger: false}}))
+      .pipe(plugins.concatUtil(PATHS.js[key].dest), { newLine: ';' })
+      .pipe(plugins.uglify({ compress: { drop_debugger: false } }))
       .pipe(plugins.sourcemaps.write('.'))
       .pipe(gulp.dest('dist/assets'))
   );
@@ -373,7 +426,7 @@ gulp.task('transpile', () => {
       }))
       .pipe(plugins.concatUtil.header('(function() { if (!window.park.mainLoaded) {\nwindow.park.mainLoaded = true;\n'))
       .pipe(plugins.concatUtil.footer('\n}\n}).apply(window, []);\n'))
-      .pipe(plugins.uglify({compress: {drop_debugger: false}}))
+      .pipe(plugins.uglify({ compress: { drop_debugger: false } }))
       .pipe(plugins.sourcemaps.write('.'))
       .pipe(gulp.dest('dist/assets'))
   );
@@ -423,6 +476,30 @@ gulp.task('transpile', () => {
   return merged;
 });
 
+gulp.task('inlineassets', () => {
+  const streams = [];
+  streams.push(
+    gulp.src('./dist/assets/head.js')
+      .pipe(gulp.dest('./src/assets'))
+  );
+
+  streams.push(
+    gulp.src(['src/skins/*/consent-layer.js', 'src/skins/*/consent-page.js'])
+      .pipe(plugins.babel({
+        presets: ['env'],
+      }))
+      .pipe(plugins.rename((path) => {
+        const dirFragments = path.dirname.replace(/\\/g, '/').split('/skins/');
+
+        path.dirname = dirFragments.pop();
+      }))
+      .pipe(plugins.terser())
+      .pipe(gulp.dest('src/assets/skins/'))
+  );
+
+  return plugins.mergeStream(...streams);
+});
+
 gulp.task('serviceworker', () =>
   gulp.src('./src/js/serviceworker/*.js')
     .pipe(plugins.rename({
@@ -464,7 +541,7 @@ gulp.task('ajax', () =>
 );
 
 gulp.task('compress:css', () => {
-  gulp.src('./dist/assets/**/*.css')
+  gulp.src(['./dist/assets/**/*.css', '!./dist/assets/**/*.critical.css'])
     .pipe(plugins.gzip())
     .pipe(gulp.dest('./dist/assets'));
 });
@@ -783,19 +860,23 @@ gulp.task('templates', done => plugins.runSequence(
 gulp.task('css', done => plugins.runSequence(
   ['scss'],
   ['compress:css'],
+  ['del:non-critical-css'],
   done));
 gulp.task('js', done => plugins.runSequence(
   ['transpile'],
+  ['inlineassets'],
   ['compress:js'],
   done));
 
-gulp.task('clean', () => plugins.del(['dist']));
+gulp.task('clean', () => plugins.del(['dist', 'src/assets', 'src/critical']));
 gulp.task('del:compressed-html', () => plugins.del(['dist/*.html.gz']));
+gulp.task('del:non-critical-css', () => plugins.del(['src/critical/skins/*/head.css']));
 
 gulp.task('corebuild', done => plugins.runSequence(
   ['lint'],
   ['scss'],
   ['transpile'],
+  ['inlineassets'],
   ['serviceworker', 'iframeresizer', 'adblockdetection', 'fonts', 'images'],
   ['compress:css', 'compress:js'],
   ['skins', 'manifests', 'widgets'],

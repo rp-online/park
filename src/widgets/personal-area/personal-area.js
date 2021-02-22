@@ -49,7 +49,7 @@
           });
           return result;
         }).then(updateLocalPreferences)
-        .catch(console.error.bind(console));
+        .catch(window.park.console.error.bind(console));
 
 
       e.preventDefault();

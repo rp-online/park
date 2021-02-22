@@ -4,6 +4,28 @@
   position: relative;
   display: block;
 
+  &--is-numeric {
+    counter-increment: park-teaser-list-counter;
+    position: relative;
+    padding-left: rem(60px);
+
+    &::before { // stylelint-disable-line max-nesting-depth
+      content: counter(park-teaser-list-counter);
+      position: absolute;
+      left: $global-spacing;
+      width: 32px;
+      color: $global-brand-color;
+      font-size: rem(29px);
+      font-weight: $global-font-weight-sans-serif-bold;
+      text-align: left;
+
+      .park-portal-marker &,
+      .is-advertorial & {
+        color: $global-advertisement-color;
+      }
+    }
+  }
+
   &__link {
     display: block;
     padding: $global-spacing/2 $global-spacing;

@@ -42,6 +42,10 @@
       icon.parentNode.removeChild(icon);
     }
 
+    if (typeof data.text === 'string') {
+      data.text = data.text.replace(/&amp;/g, '&');
+    }
+
     text.textContent = data.text;
 
     fragment.appendChild(elem);

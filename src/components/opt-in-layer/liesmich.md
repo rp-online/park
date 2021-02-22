@@ -1,0 +1,1 @@
+Diese Komponente ist eine Komponenten- und [Formular](#form)-Zusammenstellung, speziell für den Bildschirm fürs Setzten eines neuen OptIns und ClientTitle nach dem Versuch eines Logins.

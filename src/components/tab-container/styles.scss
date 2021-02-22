@@ -11,6 +11,18 @@
     background-color: $global-light-grey;
   }
 
+  &--card-topic {
+    .park-tab-container__items {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+
+    .park-tab-container__item {
+      margin-left: rem(-15px);
+      padding: 0 $global-spacing $global-spacing $global-spacing;
+    }
+  }
+
   &__tabs {
     padding: 0 $global-spacing;
     font-size: 0;
@@ -155,7 +167,6 @@
     }
 
     .park-tab-container--card-narrow & {
-      height: rem(52px);
       vertical-align: middle;
     }
   }
@@ -164,6 +175,28 @@
     @include mq(desktop) {
       margin-left: rem(-15px);
       margin-right: rem(-15px);
+    }
+  }
+
+  &--30percent {
+    @include mq(desktop) {
+      width: 30%;
+      float: left;
+
+      a.park-tab-container__tab-link {
+        font-size: smaller;
+      }
+    }
+  }
+
+  &--minus30percent {
+    @include mq(desktop) {
+      width: 60%;
+      float: left;
+
+      a.park-tab-container__tab-link {
+        font-size: smaller;
+      }
     }
   }
 }

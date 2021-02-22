@@ -1,0 +1,33 @@
+{
+  "title": "Datenschutz",
+  "children": [
+    {
+      "component": "section",
+      "data": {
+        "children": [
+          {
+            "component": "widget",
+            "data": {
+              "type": "opt-in-layer",
+              "component": "opt-in-layer",
+              "initialState": {
+                "headline": {
+                  "tag": "h1",
+                  "text": "Liebe Leserin, lieber Leser"
+                },
+                "text": "unser Ziel ist es, Ihnen das beste Kundenerlebnis zu bieten. Dies gilt auch für die digitale Welt. Um dieses Versprechen einhalten zu können, verbessern wir stetig unseren digitalen Service.<br><br>Dabei ist uns aufgefallen, dass Sie als Nutzer von ga.de unseren aktualisierten Teilnahmebedingungen und der aktualisierten Datenschutzerklärung noch nicht zugestimmt haben.<br><br>Ohne diese Zustimmung dürfen wir Ihre Daten nicht weiterverarbeiten und können damit unseren verbesserten Service für Sie nicht mehr anbieten.</br><br>Daher bitten wir Sie, jetzt unseren Teilnahmebedingungen und der Datenschutzerklärung zuzustimmen, um sich das bestmögliche digitale Leseerlebnis zu sichern.",
+                "privacyURL": "/info/datenschutz",
+                "termsURL": "/info/agb",
+                "legalNote": "Ich bin einverstanden, dass mich der Verlag General-Anzeiger Bonn GmbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und GA-Shop-Artikel) persönlich informiert und kann dies jederzeit widerrufen (per E-Mail:  <a href=\"mailto:verlag@ga.de\">verlag@ga.de</a>). Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Features auf GA Online (z.B. Personalisierung der Seite) vereinbart. Die Angabe einer gültigen E-Mailadresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen. Mit der Registrierung erkläre ich mich mit den <a href=\"https://ga.de/regbedingungen/\">Teilnahmebedingungen</a> und der <a href=\"/info/datenschutz\">Datenschutzerklärung</a> einverstanden.",
+                "advantages": {
+                  "src": "/assets/images/registrieren-grafik.jpg",
+                  "text": "Genießen Sie alle Vorteile Ihres persönlichen Westdeutsche Zeitung Profils.\n\n* Teilnehmen an Diskussionen\n* Personalisiertes Profil\n* Eigene Ressorts\n* Personalisiertes Wetter\n* Personalisierte Stauinfos'"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

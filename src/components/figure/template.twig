@@ -45,7 +45,7 @@
       {% else %}
         {{ content|raw }}
       {% endif %}
-      <figcaption class="park-figure__caption-wrapper">
+      <figcaption class="park-figure__caption-wrapper {% if caption is defined and caption %}park-figure__caption-gradient{% endif %}">
           <span
             id="park-figure__caption-{{ uuid }}"
             class="park-figure__caption{% if link is defined and link.type is defined %} park-figure__caption--{{ link.type }}{% endif %}">
@@ -59,7 +59,7 @@
           {% endif %}
             {% if caption is defined and caption %}
               {% set caption = caption|trim %}
-              {{ caption | raw }}{% if caption and caption|last not in ['.', '!', '?'] %}.{% endif %}
+              {{ caption | raw }}
             {% endif %}
             {% if source is defined and source.text is not empty %}
               {% if source.href is defined %}

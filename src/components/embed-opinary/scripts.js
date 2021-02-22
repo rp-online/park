@@ -5,7 +5,7 @@
     const pollId = e.pollId;
     const elem = document.querySelector(`[data-poll="${pollId}"]`);
 
-    console.log('Tracking Opinary Page View!');
+    window.park.console.log('Tracking Opinary Page View!');
 
     if (window.park.eventHub) {
       window.park.eventHub.trigger(document, 'park.embed-opinary:pageview', {
@@ -15,24 +15,29 @@
   }
 
   window.addEventListener('OpinaryReady', () => {
-    console.log('OpinaryReady');
+    window.park.console.log('OpinaryReady');
 
     window.Opinary.on('opinary.impression', (e) => {
       const pollId = e.pollId;
       const elem = document.querySelector(`[data-poll="${pollId}"]`);
 
+      if (!elem) {
+        console.log(`Could not find Opinary Element with PollId "${pollId}".`);
+        return;
+      }
+
       if (!viewedElems.has(elem)) {
-        console.log('Registered an Opinary Initial View!');
+        window.park.console.log('Registered an Opinary Initial View!');
         viewedElems.add(elem);
         return;
       }
 
-      console.log('Registered an Opinary Repeated View!');
+      window.park.console.log('Registered an Opinary Repeated View!');
 
       trackPageview(e);
     });
     window.Opinary.on('opinary.vote', (e) => {
-      console.log('Registered an Opinary Vote!');
+      window.park.console.log('Registered an Opinary Vote!');
 
       trackPageview(e);
     });

@@ -1,6 +1,7 @@
 $park-opener__kicker-color: $global-brand-color !default;
 
 .park-opener {
+  critical: this;
   position: relative;
   display: block;
   overflow: hidden;
@@ -9,9 +10,11 @@ $park-opener__kicker-color: $global-brand-color !default;
   background-color: #000;
 
   @include mq(desktop) {
+    critical: this;
     height: auto;
 
     &::before {
+      critical: this;
       content: '';
       display: block;
       float: left;
@@ -21,21 +24,25 @@ $park-opener__kicker-color: $global-brand-color !default;
     }
 
     &--no-image::before {
+      critical: this;
       display: none;
     }
 
     &--wide::before {
+      critical: this;
       padding-top: 30%;
     }
   }
 
   &__image-wrapper {
+    critical: this;
     position: relative;
     z-index: 1;
     width: 100%;
     height: auto;
 
     &::before {
+      critical: this;
       content: '';
       position: relative;
       z-index: 1;
@@ -46,6 +53,7 @@ $park-opener__kicker-color: $global-brand-color !default;
     }
 
     @include mq(desktop) {
+      critical: this;
       position: absolute !important;
       top: 0;
       left: 0;
@@ -53,6 +61,7 @@ $park-opener__kicker-color: $global-brand-color !default;
       height: 100%;
 
       &::before {
+        critical: this;
         position: absolute;
         top: 0;
         right: 0;
@@ -69,6 +78,7 @@ $park-opener__kicker-color: $global-brand-color !default;
   }
 
   .park-image {
+    critical: this;
     position: absolute;
     top: 0;
     right: 0;
@@ -80,6 +90,7 @@ $park-opener__kicker-color: $global-brand-color !default;
   }
 
   &__text-wrapper {
+    critical: this;
     position: relative;
     bottom: -1px;
     padding: $global-spacing 0 1px 0;
@@ -102,10 +113,12 @@ $park-opener__kicker-color: $global-brand-color !default;
     }
 
     @include mq(desktop) {
+      critical: this;
       padding: $global-spacing 0;
       background-color: transparent;
 
       .park-opener__image-wrapper + & {
+        critical: this;
         position: static;
         width: 50%;
         height: 100%;

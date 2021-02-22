@@ -21,6 +21,7 @@
     {%  set rel = ['noopener'] %}
   {% endif %}
 {% endif %}<a
+  {% if itemprop is defined and itemprop %} itemprop="{{ itemprop }}"{% endif %}
   {% if href is defined %} href="{% if 'mailto:' in href %}{% include 'components/obfuscator/template.twig' with {
     'text': href,
     'config': config
@@ -57,12 +58,4 @@
     {% for attribute, value in attributes %} {{ attribute }}="{{ value|escape('html') }}"{% endfor %}
   {% endif %}
   {% if classes is defined and classes is iterable %} class="{{ classes|join(' ')|escape('html') }}"{% endif %}
-  {% if isAd is defined and isAd is same as(true) %}
-  {% else %}
-      {% if config is defined and config.taboolaMarkup is defined and config.taboolaMarkup is same as(true) %}
-        data-tb-region-item
-      {% endif %}
-  {% endif %}
-
-
 >{% if text is defined %}{{ text|raw }}{% endif %}</a>

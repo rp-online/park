@@ -1,0 +1,63 @@
+<section class="park-register-password"
+  {% if (oauth_redirect_uri is defined and oauth_redirect_uri is not same as(false)) %}
+    data-oauth="{{oauth_redirect_uri|escape('html')}}"
+  {%  endif %}
+>
+
+  {%  set html = '<p class="park-new-password__paragraph">' ~ text ~ '</p>' %}
+  {% include 'components/form/template.twig' with {
+    'notification': notification,
+    'vertical': true,
+    'action': action,
+    'method': 'post',
+    'headline': headline,
+    'submit': 'Jetzt lesen',
+    'children': [
+      {
+        'component': 'html',
+        'data': {
+          'html': html
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'type': 'hidden',
+          'name': 'hash',
+          'value': form.hash
+         }
+      },
+      {
+        'component': 'input',
+        'data': {
+        'type': 'hidden',
+        'name': 'username',
+        'value': form.username
+      }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'name': 'user_placeholder',
+          'value': form.username,
+          'autocomplete': 'nickname',
+          'label': 'Benutzername',
+          'disabled': true
+        }
+      },
+      {
+        'component': 'input',
+        'data': {
+          'type': 'password',
+          'name': 'password',
+          'autocomplete': 'password',
+          'label': 'Passwort',
+          'required': true,
+          'pattern': '.{5,}',
+          'hint': 'Das Passwort muss mindestens 5 Zeichen enthalten'
+        }
+      }
+    ],
+    'config': config
+  } only %}
+</section>

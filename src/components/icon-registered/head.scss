@@ -1,9 +1,11 @@
 $global-image-icon-registered: $global-image-icon-paid !default;
 $global-image-icon-registered-light: $global-image-icon-paid-light !default;
+$global-width-icon-registered: $global-width-icon-premium !default;
 
 .park-icon-registered {
   @extend %icon-premium;
 
+  width: rem($global-width-icon-registered);
   background-image: url($global-image-icon-registered);
   filter: saturate(0);
 

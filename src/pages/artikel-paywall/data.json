@@ -152,6 +152,7 @@
                     "label": "Exklusiv",
                     "dateline": "Düsseldorf",
                     "intro": "Der Deutsche Wetterdienst hat zwei Warnungen für das Stadtgebiet Düsseldorf ausgesprochen. Zum einen wird vor starker Hitze um die Mittagszeit gewarnt, zum anderen sind für Mittwochabend schwere Gewitter vorausgesagt. In diesem Falle könnte die Rheinkirmes für den Abend schließen müssen.",
+                    "fragmentCount": 8,
                     "authors": [
                       {
                         "src": "./assets/images/person.jpg",

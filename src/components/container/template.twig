@@ -1,10 +1,12 @@
 <div class="park-container"
-  {% if linkpulseGroup is defined and linkpulseGroup %}
-  data-linkpulse-group="{{ linkpulseGroup }}"
-  {% endif %}
-  {% if taboolaNewsroomGroup is defined and taboolaNewsroomGroup %}
-  {% set config = config|merge({'taboolaMarkup': true}) %}
-  data-tb-region="{{ taboolaNewsroomGroup }}"
+  {% if data is defined and data is iterable %}
+    {% for attribute, value in data %}
+      {% if value is iterable %}
+        data-{{ attribute }}="{{ value|json_encode()|escape('html') }}"
+      {% else %}
+        data-{{ attribute }}="{{ value|escape('html') }}"
+      {% endif %}
+    {% endfor %}
   {% endif %}>
   {% if children is defined and children is iterable %}
     {% for child in children %}

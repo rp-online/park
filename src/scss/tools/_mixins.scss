@@ -16,20 +16,20 @@
 
 @mixin global-serif-font-size($prio) {
   @if $prio == 1 {
-    font-size: rem(18px);
-    line-height: (26 / 18);
+    font-size: rem(19px);
+    line-height: (26 / 19);
 
     @include mq(desktop) {
       font-size: rem(26px);
       line-height: (38 / 26);
     }
   } @else if $prio == 2 {
-    font-size: rem(14px);
-    line-height: (21 / 14);
+    font-size: rem(16px);
+    line-height: (21 / 16);
 
     @include mq(desktop) {
-      font-size: rem(16px);
-      line-height: (24 / 16);
+      font-size: rem(17px);
+      line-height: (24 / 18);
     }
   } @else {
     font-size: rem(11px);
@@ -47,16 +47,16 @@
       line-height: (38 / 29);
     }
   } @else if $prio == 2 {
-    font-size: rem(16px);
-    line-height: (21 / 16);
+    font-size: rem(18px);
+    line-height: (24 / 18);
 
     @include mq(desktop) {
-      font-size: rem(18px);
+      font-size: rem(19px);
       line-height: (24 / 18);
     }
   } @else {
-    font-size: rem(13px);
-    line-height: (18 / 13);
+    font-size: rem(15px);
+    line-height: (18 / 15);
   }
 }
 
@@ -259,8 +259,8 @@
 
   &__headline {
     font-size: rem(29px);
-    line-height: (38 / 29);
     margin-bottom: rem(4px);
+    line-height: (38 / 29);
   }
 
   &__subheadline {
@@ -703,7 +703,7 @@
     }
   }
 
-  a, em:not(.park-icon-paid), i, strong, b, code, span, u, abbr, acronym, cite, code, dfn, kbd, samp, var {
+  a, em:not(.park-icon-paid):not(.park-icon-registered), i, strong, b, code, span, u, abbr, acronym, cite, code, dfn, kbd, samp, var {
     vertical-align: baseline !important;
   }
 

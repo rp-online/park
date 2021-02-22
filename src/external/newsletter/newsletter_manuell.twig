@@ -28,6 +28,35 @@
 .ExternalClass div {
     line-height: 100%;
   }
+
+  .zwischentitel {
+    font-weight: 600;
+    margin-top: 1.375rem;
+    margin-bottom: 1.375rem;
+    page-break-inside: avoid;
+  }
+
+  .zweiptgroesser {
+    font-size: 20px;
+  }
+
+  .image-wrapper {
+    margin: 20px 0;
+    text-align: center;
+  }
+
+  .image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .caption {
+    font-size: .8125rem;
+    font-weight: 400;
+    line-height: 1.61538;
+    display: block;
+    margin-top: 5px;
+  }
 }
 @media all and (max-width: 500px) {
   .hidden-xs {
@@ -156,7 +185,7 @@
                   <td style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top;" valign="top">
                     <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;" width="100%">
                       {# Nur bei Total Lokal #}
-                      {% if 'lokalnewsletter' in newsletter_type %}
+                      {% if 'lokalnewsletter' in newsletter_type and title is empty %}
                       <tr>
                         <td class="h2__container" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; background-color: #FFBE00; padding: 8px 20px;" valign="top" bgcolor="#FFBE00">
                           <h2 style="font-family: 'Source Sans Pro', sans-serif; line-height: 1.2; margin: 0; font-size: 21px; font-weight: 600; color: #ffffff; letter-spacing: 1px; text-transform: uppercase;">
@@ -164,6 +193,14 @@
                           </h2>
                         </td>
                       </tr>
+                      {% elseif title is not empty %}
+                        <tr>
+                          <td class="h2__container" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; background-color: #FFBE00; padding: 8px 20px;" valign="top" bgcolor="#FFBE00">
+                            <h2 style="font-family: 'Source Sans Pro', sans-serif; line-height: 1.2; margin: 0; font-size: 21px; font-weight: 600; color: #ffffff; letter-spacing: 1px; text-transform: uppercase;">
+                              {{ titel }}
+                            </h2>
+                          </td>
+                        </tr>
                       {% endif %}
                       <tr>
                         <td class="header__wrapper" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; background-color: #7b4905; background-image: url('{% if headergrafik %}{{ headergrafik['src'] }}{% endif %}'); background-position: center center; background-repeat: no-repeat; background-size: cover;" valign="top" bgcolor="#7b4905" background="url('{% if headergrafik %}{{ headergrafik['src'] }}{% endif %}')">
@@ -184,14 +221,14 @@
                                     Stimme <br />des Westens
                                   {% elseif newsletter_type == 'gruenderzeit' %}
                                     Update
-                                  {% elseif 'lokalnewsletter' in newsletter_type %}
+                                  {% elseif 'lokalnewsletter' in newsletter_type and description is empty %}
                                      Total Lokal
                                   {% else %}
                                     {{ description }}
                                   {% endif %}
                                 </h1>
                               </td>
-                              {% if autor_teaserbild %}
+                              {% if autor_teaserbild and autor_position == 'image_top' %}
                               <td class="header__author align-right" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; width: 150px; vertical-align: bottom; text-align: right;" width="150" valign="bottom" align="right">
                                 <img src="{{ autor_teaserbild['src'] }}" alt="{% if autor_fullname %}{{ autor_fullname }}{% endif %}" width="137" height="147" class="header__author__image" style="border: none; -ms-interpolation-mode: bicubic; height: auto; float: right; display: block; max-width: 150px;">
                               </td>
@@ -228,22 +265,34 @@
                           </p>
                           {% if autor_fullname %}
                           <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
-                            {{ autor_fullname }}
-                          </p>
+                              {{ autor_fullname }}
+                            </p>
+                          {% endif %}
+
+                          {% if autor_teaserbild and autor_position == 'image_bottom' %}
+                            <img src="{{ autor_teaserbild['src'] }}" alt="{% if autor_fullname %}{{ autor_fullname }}{% endif %}" class="footer__author__image" style="border: none; -ms-interpolation-mode: bicubic; display: block; margin: 15px 0 15px 0; height: 90px; width: 90px; background-color: #496A80; border-radius: 50%;">
                           {% endif %}
 
                           {% if root_treenode_data.replyto_address and root_treenode_data.replyto_name %}
                           <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
                               <a href="mailto:{{root_treenode_data.replyto_address}}" class="underlined" target="_blank" style="color: #2F2F2F; text-decoration: underline;">{{root_treenode_data.replyto_name}}</a>
                           </p>
-                            {% endif %}
-                          {% if newsletter_type == 'manuell' %}
-                          <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
-
-                            <br>
-                            P.S.: Wenn Ihnen dieser Newsletter gef&auml;llt, <a href="mailto:?subject=Ich empfehle Dir/Ihnen die %22Stimme des Westens%22&body=Der Newsletter aus der RP-Chefredaktion, %22Stimme des Westens%22, bietet Ihnen am frühen Morgen einen Kurz-Überblick über die wichtigsten Themen von rp-online.de. Pointiert. Persönlich. Prägnant. Direkt vom Chefredakteur.  %0D%0A%0D%0AHier können Sie den Newsletter kostenlos bestellen. %0D%0Ahttps://www.rp-online.de/app/newsletter/" class="underlined" target="_blank" style="color: #2F2F2F; text-decoration: underline;">empfehlen Sie die "Stimme des Westens" weiter!</a>
-                          </p>
                           {% endif %}
+
+                          {% if ps_zeile %}
+                            <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
+
+                              <br>
+                              {{ ps_zeile|raw }}
+                            </p>
+                          {% elseif newsletter_type == 'manuell' %}
+                            <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
+
+                              <br>
+                              P.S.: Wenn Ihnen dieser Newsletter gef&auml;llt, <a href="mailto:?subject=Ich empfehle Dir/Ihnen die %22Stimme des Westens%22&body=Der Newsletter aus der RP-Chefredaktion, %22Stimme des Westens%22, bietet Ihnen am frühen Morgen einen Kurz-Überblick über die wichtigsten Themen von rp-online.de. Pointiert. Persönlich. Prägnant. Direkt vom Chefredakteur.  %0D%0A%0D%0AHier können Sie den Newsletter kostenlos bestellen. %0D%0Ahttps://www.rp-online.de/app/newsletter/" class="underlined" target="_blank" style="color: #2F2F2F; text-decoration: underline;">empfehlen Sie die "Stimme des Westens" weiter!</a>
+                            </p>
+                          {% endif %}
+
                           <p class="align-right" style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px; text-align: right;">
                             <br>
                             <a href="{{ homepage_url }}" target="_blank" style="color: #2F2F2F; text-decoration: none;">
@@ -298,11 +347,13 @@
               </table>
               {% endif %}
 
-              <br />
-              {{ teaser_1|raw }}
-              <br />
+              {% if teaser_1 %}
+                <br />
+                {{ teaser_1|raw }}
+              {% endif %}
 
               {% for key,gruppe in nl_gruppen %}
+                <br />
                 <table border="0" cellpadding="0" cellspacing="0" class="main" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background: #ffffff; width: 100%;" width="100%">
                   <tr>
                     <td class="h2__container" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; background-color: #FFBE00; padding: 8px 20px;" valign="top" bgcolor="#FFBE00">
@@ -360,32 +411,34 @@
                     </td>
                   </tr>
         {% endif %}
-                  <tr>
-                    <td class="wrapper pb0" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; box-sizing: border-box; padding: 25px 35px; padding-bottom: 0;" valign="top">
-                      <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
-                        <img src="{{ server_url }}/static/newsletter/logos.png" width="574" height="27" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: auto;">
-                      </p>
-                    </td>
-                  </tr>
-                  <tr>
-                    <td class="align-center" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; text-align: center;" valign="top" align="center">
-                      <p class="small" style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-weight: normal; margin: 0; margin-bottom: 15px; font-size: 12px;">
-                          Um sich von dem Newsletter abzumelden, <a href="https://rp-online.de/app/newsletter/unsubscribe.php?email=[email]&list_id=[%list-name]&mailing_id=[%mailid]" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">klicken Sie bitte hier.</a><br>
-                          <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">Rheinische Post Verlagsgesellschaft mbH</a> | <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">Z&uuml;lpicher Stra&szlig;e 10</a> | <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">40196 D&uuml;sseldorf</a><br>
-                          <a href="https://rp-online.de/info/impressum/" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">Impressum</a> | <a href="https://rp-online.de/info/datenschutz/" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">Datenschutz</a>
-                      </p>
-                    </td>
-                  </tr>
+
       {% endif %}
                 </table>
-
-                <br>
   {% endfor %}
+              <table border="0" cellpadding="0" cellspacing="0" class="main" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background: #ffffff; width: 100%;" width="100%">
+                <tr>
+                  <td class="wrapper pb0" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; box-sizing: border-box; padding: 25px 35px; padding-bottom: 0;" valign="top">
+                    <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
+                      <img src="{{ server_url }}/static/newsletter/logos.png" width="574" height="27" style="border: none; -ms-interpolation-mode: bicubic; max-width: 100%; height: auto;">
+                    </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="align-center" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; text-align: center;" valign="top" align="center">
+                    <p class="small" style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-weight: normal; margin: 0; margin-bottom: 15px; font-size: 12px;">
+                      Um sich von dem Newsletter abzumelden, <a href="https://rp-online.de/app/newsletter/unsubscribe.php?email=[email]&list_id=[%list-name]&mailing_id=[%mailid]" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">klicken Sie bitte hier.</a><br>
+                      <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">Rheinische Post Verlagsgesellschaft mbH</a> | <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">Z&uuml;lpicher Stra&szlig;e 10</a> | <a href="" class="footer__address" style="font-size: 12px; border: 0; color: #2F2F2F; text-decoration: none;">40196 D&uuml;sseldorf</a><br>
+                      <a href="https://rp-online.de/info/impressum/" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">Impressum</a> | <a href="https://rp-online.de/info/datenschutz/" target="_blank" class="underlined" style="color: #2F2F2F; font-size: 12px; text-decoration: underline; border: 0;">Datenschutz</a>
+                    </p>
+                  </td>
+                </tr>
+              </table>
               <!-- END CONTENT AREA -->
 
             </td>
           </tr>
         </table>
+        <br />
 
         <!--[if gte mso 9]>
           </td></tr></table>

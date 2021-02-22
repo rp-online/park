@@ -1,0 +1,18 @@
+{
+  "name": "Tickaroo",
+  "src": "/static/embed/tickaroo.jpg",
+  "children": [
+    {
+      "component": "embed-tickaroo",
+      "data": {
+        "clientId": "552f67b9e4b0a3fd8487c728",
+        "blogId": "5a0d9a322a250b69e719455e",
+        "body": "<strong>Inital rendered content</strong>",
+        "limit": 20,
+        "showEventSharing": true,
+        "coalesceRepeatedMeta": false,
+        "reverseEvents": false
+      }
+    }
+  ]
+}

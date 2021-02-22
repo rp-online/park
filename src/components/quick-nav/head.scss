@@ -1,4 +1,5 @@
 .park-quick-nav {
+  critical: this;
   position: relative;
   display: block;
   padding: 1px 0;
@@ -24,6 +25,7 @@
   }
 
   &__navs {
+    critical: this;
     display: flex;
     flex: 1 1 auto;
     flex-direction: row;

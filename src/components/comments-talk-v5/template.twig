@@ -1,0 +1,95 @@
+{% if config.appMode is not defined or config.appMode is not same as('embedded')
+  and (config.noComments is not defined or config.noComments is not same as(true)) %}
+  <aside id="park-comments"
+         class="park-comments talk-v5"
+         data-comments-url="{{ discussion.url|escape('html') }}"
+         data-comments-counturl="{{ discussion.counturl|escape('html') }}"
+         data-comments-authorisation="{{ discussion.authorisation|escape('html') }}">
+    <header class="park-comments__commentscount"></header>
+    {% if disabled != true %}
+      <article class="park-comments-form">
+      <div class="park-comments-form__wrapper park-comments-form__default">
+      <p class="park-comments-form__headline ">Ihre Meinung zum Thema ist gefragt</p>
+      {% if headline.text %}
+        <{{ headline.tag }} class="park-comments-form__paragraph">
+        {{ headline.text|raw }}
+        </{{ headline.tag }}>
+      {% else %}
+        <p class="park-comments-form__paragraph park-comments-form__inline"> Schreiben Sie jetzt Ihre Meinung zu: </p>
+        <{{ seoheadline.tag }} aria-hidden="true" class="park-comments-form__paragraph park-comments-form__inline">
+        {{ seoheadline.text|raw }}
+        </{{ seoheadline.tag }}>
+      {% endif %}
+
+      <p class="park-comments-form__paragraph">
+        <a href="{{ terms.href }}" target="_blank">Beachten Sie dabei bitte unsere Regeln für Leserkommentare</a></p>
+      </div>
+      <div class="park-comments-form__wrapper park-comments-form__closed" aria-hidden="true">
+        <p class="park-comments-form__headline "> {{ closed.headline|raw }}</p>
+        <p class="park-comments-form__paragraph "> {{ closed.text|raw }} </p>
+      </div>
+      <div class="park-comments-form__wrapper park-comments-form__suspended" aria-hidden="true">
+        <p class="park-comments-form__headline "> {{ suspended.headline|raw }}</p>
+        <p class="park-comments-form__paragraph "> {{ suspended.text|raw }} </p>
+      </div>
+      <div class="park-comments-form__wrapper park-comments-form__unauthorized" aria-hidden="true">
+        <p class="park-comments-form__headline "> {{ unauthorized.headline|raw }}</p>
+        <p class="park-comments-form__paragraph "> {{ unauthorized.text|raw }} </p>
+      </div>
+      <div class="park-comments-form__wrapper park-comments-form__noAbo" aria-hidden="true">
+        <p class="park-comments-form__headline "> {{ noAbo.headline|raw }}</p>
+        <p class="park-comments-form__paragraph "> {{ noAbo.text|raw }} </p>
+      </div>
+      {% include 'components/loading-spinner/template.twig' %}
+      </article>
+    {% else %}
+      <article class="park-comments-form park-comments-form--disabled">
+        <div class="park-comments-form__wrapper park-comments-form__closed">
+          <p class="park-comments-form__paragraph "> {{ closed.text }} </p>
+        </div>
+      </article>
+    {% endif %}
+    <div class="park-comments__wrapper" aria-hidden="true">
+      {% include 'components/select/template.twig' with {
+        'config': config,
+        'name': 'sorting',
+        'label': 'Sortierung',
+        'labelHidden': true,
+        'value': 'date+',
+        'options': [
+          {
+            'label': 'Älteste zuerst',
+            'value': 'date+'
+          },
+          {
+            'label': 'Neueste zuerst',
+            'value': 'date-'
+          }
+        ]
+      } only %}
+      <ul id="park-comments" class="park-comments__comments"></ul>
+      <hr class="park-comments__ruler">
+      {% include 'components/button/template.twig' with {
+        'config': config,
+        'type': 'button',
+        'text': 'Weitere Kommentare laden',
+        'loader': true
+      } only %}
+    </div>
+    <template>
+      <li class="park-comments__comment">
+        <blockquote class="park-comments__comment-text"></blockquote>
+        <footer class="park-comments__comment-metadata">
+          <cite class="park-comments__comment-user"></cite>
+          <a href="#void" class="park-comments__comment-link">
+            <time class="park-comments__comment-time"></time>
+          </a>
+        </footer>
+      </li>
+    </template>
+    <div id="coral_thread" class="hide"
+     data-coral-story-id="{{ asset_id }}"
+     data-coral-story-url="{{ asset_url }}"
+     data-coral-root-url="{{ talk_url }}"></div>
+  </aside>
+{% endif %}

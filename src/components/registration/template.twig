@@ -79,6 +79,7 @@
               'value': email,
               'label': 'E-Mail-Adresse',
               'required': true,
+              'pattern': regEx.email,
               'validationMessage': email_message
           }
       },
@@ -90,6 +91,7 @@
               'autocomplete': 'nickname',
               'label': 'Benutzername',
               'required': true,
+              'pattern': regEx.login,
               'hint': 'Dieser Name ist öffentlich einsehbar, wenn Sie Artikel kommentieren.',
               'validationMessage': username_message
           }
@@ -103,9 +105,10 @@
               'value': password,
               'label': 'Passwort',
               'required': true,
-              'pattern': '.{5,}',
-              'title': 'Mindestens 5 Zeichen',
-              'hint': 'Das Passwort muss mindestens 5 Zeichen enthalten'
+              'pattern': regEx.password,
+              'title': 'Mindestens 6 Zeichen',
+              'hint': 'Das Passwort muss mindestens 6 Zeichen enthalten',
+              'validationMessage': password_message
           }
       }
   ] %}
@@ -128,11 +131,11 @@
                               'options': [
                                   {
                                       'label': 'Frau',
-                                      'value': 'Mrs.'
+                                      'value': 'Frau'
                                   },
                                   {
                                       'label': 'Herr',
-                                      'value': 'Mr.'
+                                      'value': 'Herr'
                                   }
                               ]
                           }
@@ -149,9 +152,9 @@
                       {
                           'component': 'input',
                           'data': {
-                              'name': 'familyname',
-                              'autocomplete': 'family-name',
-                              'value': familyname,
+                              'name': 'lastname',
+                              'autocomplete': 'lastname',
+                              'value': lastname,
                               'label': 'Nachname'
                           }
                       },
@@ -167,18 +170,18 @@
                       {
                           'component': 'input',
                           'data': {
-                              'name': 'addresssuffix',
+                              'name': 'adresszusatz',
                               'autocomplete': 'address-line2',
-                              'value': addresssuffix,
+                              'value': adresszusatz,
                               'label': 'Adresszusatz'
                           }
                       },
                       {
                           'component': 'input',
                           'data': {
-                              'name': 'postalcode',
-                              'autocomplete': 'postal-code',
-                              'value': postalcode,
+                              'name': 'zip_code',
+                              'autocomplete': 'zip_code',
+                              'value': zip_code,
                               'inputmode': 'numeric',
                               'label': 'PLZ'
                           }
@@ -196,7 +199,7 @@
                           'component': 'input',
                           'data': {
                               'type': 'tel',
-                              'name': 'phone',
+                              'name': 'mobilephone',
                               'autocomplete': 'tel',
                               'value': phone,
                               'label': 'Handynummer'

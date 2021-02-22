@@ -1,0 +1,25 @@
+.park-article-table-of-content {
+  @include global-sans-serif-font-size(2);
+  @include richtext;
+
+  padding: $global-spacing;
+  background-color: $global-embed-background-color;
+  text-align: left;
+
+  .park-section-headline {
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  &__headline {
+    display: block;
+    margin-bottom: $global-spacing;
+    font-weight: $global-font-weight-sans-serif-bold;
+  }
+
+  &__body {
+    display: block;
+    padding-top: rem(2px);
+    line-height: 2.5;
+  }
+}

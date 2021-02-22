@@ -1,0 +1,24 @@
+{
+  "text": "von Cat Cookie und Doggy Dog",
+  "authors": [
+    {
+      "id": "H123",
+      "name": "Cat Cookie",
+      "position": "Katzen Ressort",
+      "bio": "Cat war in seinem früheren Leben einmal Florist, bis er vor ein paar Jahren arbeitslos wurde. Wir von der Rheinischen Post gaben ihm ein neues Zuhause. Und eine lustige Kolumne über Katzen.",
+      "links": {
+        "profile": "./",
+        "column": "./"
+      }
+    },
+    {
+      "id": "H124",
+      "name": "Doggy Dog",
+      "position": "Hunde Ressort",
+      "bio": "Doggy war in seinem früheren Leben einmal Krankenpflege, bis er vor ein paar Jahren an die Uni ging. So einen Schlaumeier konnten wir von der Rheinischen Post nicht einfach der Konkurrenz überlassen.",
+      "links": {
+        "profile": "./"
+      }
+    }
+  ]
+}

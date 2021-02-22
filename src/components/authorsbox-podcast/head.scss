@@ -1,0 +1,63 @@
+.park-authorsbox-podcast {
+  width: 100%;
+  padding: $global-spacing 0 0 0;
+  background-color: $global-light-grey;
+
+  &__headline {
+    display: block;
+    margin: $global-spacing;
+    margin-top: 0;
+    padding: 0 0 0 rem(8px);
+    color: $global-color-text-black;
+    border-left: rem(4px) solid $global-brand-color;
+    font-weight: $global-font-weight-sans-serif-regular;
+    line-height: rem(20px);
+    letter-spacing: rem(0.9px);
+    text-align: left;
+    text-transform: uppercase;
+  }
+
+  &__authorwrap {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 0 0 5px;
+
+    @include mq(mobile) {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  &__author {
+    display: grid;
+    padding-bottom: $global-spacing;
+    grid-template-columns: auto 4fr;
+    grid-template-rows: 1fr;
+    gap: 1px 1px;
+    grid-template-areas: "image text";
+  }
+
+  &__image {
+    grid-area: image;
+    margin: 0 $global-spacing;
+
+    img {
+      width: rem(80px);
+      height: rem(80px);
+      border-radius: 50%;
+    }
+  }
+
+  &__text {
+    grid-area: text;
+
+    p {
+      display: table-cell;
+      height: rem(80px);
+      vertical-align: middle;
+    }
+
+    &--name {
+      font-weight: bold;
+    }
+  }
+}

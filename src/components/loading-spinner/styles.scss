@@ -1,0 +1,45 @@
+$park-loading-spinner__offset: 187;
+$park-loading-spinner__duration: 1.4s;
+
+.park-loading-spinner {
+  width: rem(65px);
+  height: rem(65px);
+  animation: park-loading-spinner__rotator $park-loading-spinner__duration linear infinite;
+
+  &__path {
+    stroke-dasharray: $park-loading-spinner__offset;
+    stroke-dashoffset: 0;
+    transform-origin: center;
+    animation:
+      park-loading-spinner__dash $park-loading-spinner__duration ease-in-out infinite,
+      park-loading-spinner__colors $park-loading-spinner__duration ease-in-out infinite;
+  }
+}
+
+@keyframes park-loading-spinner__rotator {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(270deg); }
+}
+
+@keyframes park-loading-spinner__colors {
+  0% { stroke: #f7f7f7; }
+  20% { stroke: $global-brand-color; }
+  80% { stroke: $global-brand-color; }
+  100% { stroke: #f7f7f7; }
+}
+
+@keyframes park-loading-spinner__dash {
+  0% {
+    stroke-dashoffset: $park-loading-spinner__offset;
+  }
+
+  50% {
+    stroke-dashoffset: $park-loading-spinner__offset/4;
+    transform: rotate(135deg);
+  }
+
+  100% {
+    stroke-dashoffset: $park-loading-spinner__offset;
+    transform: rotate(450deg);
+  }
+}

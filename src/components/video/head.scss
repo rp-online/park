@@ -6,6 +6,21 @@
   background-color: #0d0d0d;
   background-size: cover;
 
+  &--reduced {
+    position: relative;
+
+    &::after {
+      content: '';
+      position: absolute;
+      z-index: 9999;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      padding-top: 60%;
+      background-image: linear-gradient(to top, rgba(255, 255, 255, 1), rgba(255, 255, 255, 0));
+    }
+  }
+
   .park-video {
     position: absolute;
     top: 0;

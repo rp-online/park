@@ -2,12 +2,14 @@
   const config = window.park.exports.config;
   const favicon = document.querySelector('link[rel="icon"][href*=".ico"]');
   const faviconSrc = favicon ? favicon.href.replace(/favicon\.ico/, 'favicon-96x96.png') : '';
-
   const isClickDummy = (
     window.park.exports &&
     window.park.exports.config &&
     window.park.exports.config.isClickDummy
   );
+  let lastCount = 0;
+  let userAuthChangeEventDebounceTimer;
+  let storageEventDebounceTimer;
 
   function clearLocalData() {
     if (window.park.eventHub) {
@@ -15,6 +17,7 @@
     }
     window.park.storage.remove('park.user.authenticated');
     window.park.storage.remove('park.user.preferences');
+    window.park.storage.remove('park.consent.referrer');
     window.park.storage.remove('park.user');
     document.documentElement.classList.remove('user-is-authenticated');
 
@@ -25,11 +28,31 @@
     window.park.cookie.set('IR_SSO', '', -1);
 
     if (window.park.eventHub) {
-      window.park.eventHub.trigger(document, 'park.user:authchange');
+      window.clearTimeout(userAuthChangeEventDebounceTimer);
+      userAuthChangeEventDebounceTimer = window.setTimeout(() => {
+        window.park.eventHub.trigger(document, 'park.user:authchange');
+      }, 50);
     }
   }
 
   function updateFavicon(count = 0) {
+    if (
+      config.appMode ||
+      !config.notifications ||
+      !config.notifications.distribution ||
+      !config.notifications.distribution.onsite
+    ) {
+      return;
+    }
+
+    if (!window.park.user.isLoggedIn()) {
+      return;
+    }
+
+    if (count === lastCount) {
+      return;
+    }
+
     if (!faviconSrc) {
       return;
     }
@@ -74,6 +97,8 @@
       });
     };
     img.src = faviconSrc;
+
+    lastCount = count;
   }
 
   let checkNewSubscriptionsTimeout = null;
@@ -101,7 +126,10 @@
       }
 
       if (window.park.eventHub) {
-        window.park.eventHub.trigger(document, 'park.user:authchange');
+        window.clearTimeout(userAuthChangeEventDebounceTimer);
+        userAuthChangeEventDebounceTimer = window.setTimeout(() => {
+          window.park.eventHub.trigger(document, 'park.user:authchange');
+        }, 50);
       }
 
       if (subscriptionsCount > 0) {
@@ -143,7 +171,10 @@
         }, isClickDummy ? 0 : 3000);
 
         if (window.park.eventHub) {
-          window.park.eventHub.trigger(document, 'park.user:authchange');
+          window.clearTimeout(userAuthChangeEventDebounceTimer);
+          userAuthChangeEventDebounceTimer = window.setTimeout(() => {
+            window.park.eventHub.trigger(document, 'park.user:authchange');
+          }, 50);
         }
 
         if (location.hash === '') {
@@ -166,6 +197,10 @@
             window.park.eventHub.trigger(document, 'park.user:logout', { reason: 'handlelogout' });
           }
           clearLocalData();
+          // delete consent cookies
+          window.park.cookie.remove('eupubconsent-v2');
+          window.park.cookie.remove('OptanonAlertBoxClosed');
+          window.park.storage.remove('park.user.npa');
           if (window.park.exports.config.personalArea) {
             // Still redirect if the user is in the personal area
             window.location.href = '/#successLogout';
@@ -173,7 +208,10 @@
             window.location.href = `${window.location.href.replace(/#.+$/, '')}#successLogout`;
 
             if (window.park.eventHub) {
-              window.park.eventHub.trigger(document, 'park.user:authchange');
+              window.clearTimeout(userAuthChangeEventDebounceTimer);
+              userAuthChangeEventDebounceTimer = window.setTimeout(() => {
+                window.park.eventHub.trigger(document, 'park.user:authchange');
+              }, 50);
             }
 
             window.park.notifications.create({
@@ -442,7 +480,7 @@
             {
               icon: './assets/images/sprite.sportsclubs.svg#msv-duisburg',
               href: '#msv-duisburg',
-              text: 'MzssoV Duisburg',
+              text: 'MSV Duisburg',
             },
             {
               icon: './assets/images/sprite.sportsclubs.svg#borussia-dortmund',
@@ -627,7 +665,7 @@
       // Increase Counter when everything worked to this point
       window.park.api.updateCounter().then((result) => {
         if (result.errors) {
-          clearLocalData();
+          console.warn('Counter: ', result);
         }
       });
     } else {
@@ -640,7 +678,8 @@
   });
 
   window.addEventListener('storage', () => {
-    window.setTimeout(() => {
+    window.clearTimeout(storageEventDebounceTimer);
+    storageEventDebounceTimer = window.setTimeout(() => {
       if (window.park.user.isLoggedIn()) {
         document.documentElement.classList.add('user-is-authenticated');
         const unreadCount = parseInt(window.park.storage.get('park.user.subscriptionsUnreadCount') || 0, 10);
@@ -651,8 +690,11 @@
       }
 
       if (window.park.eventHub) {
-        window.park.eventHub.trigger(document, 'park.user:authchange');
+        window.clearTimeout(userAuthChangeEventDebounceTimer);
+        userAuthChangeEventDebounceTimer = window.setTimeout(() => {
+          window.park.eventHub.trigger(document, 'park.user:authchange');
+        }, 50);
       }
-    });
+    }, 50);
   });
 })();

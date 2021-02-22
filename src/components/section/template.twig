@@ -1,11 +1,13 @@
 <div class="park-section {% if narrow is defined and narrow is same as(true) %} park-section--narrow{% endif %}"
-     rendersubtree="invisible"
-  {% if linkpulseGroup is defined and linkpulseGroup %}
-     data-linkpulse-group="{{ linkpulseGroup }}"
+  {% if data is defined and data is iterable %}
+    {% for attribute, value in data %}
+      {% if value is iterable %}
+        data-{{ attribute }}="{{ value|json_encode()|escape('html') }}"
+      {% else %}
+        data-{{ attribute }}="{{ value|escape('html') }}"
+      {% endif %}
+    {% endfor %}
   {% endif %}>
-  {% if taboolaNewsroomGroup is defined and taboolaNewsroomGroup %}
-    {% set config = config|merge({'taboolaMarkup': true}) %}
-  {% endif %}
   {% if children is defined and children is iterable %}
     {% for child in children %}
       {% set data = child.data|merge({'config': config}) %}

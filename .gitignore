@@ -105,8 +105,8 @@ fabric.properties
 # build
 dist
 src/**/*.min.js
-src/critical/*.css
-src/critical/*.js
+src/critical/
+src/assets/
 src/stats/*.txt
 src/stats/*.json
 

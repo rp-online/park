@@ -6,6 +6,7 @@
       {% include 'components/section-headline/template.twig' with headline only %}
     </header>
   {% endif %}
+  {% if items is defined and items is iterable and items|length > 0 %}
   <ul class="park-cards-container__items">
     {% for item in items %}
       <li class="park-cards-container__item park-cards-container__item--{{ item.type }}">
@@ -20,4 +21,12 @@
       </li>
     {% endfor %}
   </ul>
+  {% else %}
+    <figure role="group" class="park-teaser-bookmark-list__figure">
+      {% include 'svg/bookmark.svg' %}
+      <figcaption class="park-teaser-bookmark-list__caption">
+        <strong class="park-teaser-bookmark-list__caption-headline">Es befinden sich keine Inhalte in Ihrer Liste.</strong>
+      </figcaption>
+    </figure>
+  {% endif %}
 </article>

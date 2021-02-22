@@ -10,3 +10,12 @@
         _cbq.push(['_acct', _login]);
     })();
 </script>
+
+<script async
+  {% if config is defined and config.consentDataDomainScript is defined and config.consentDataDomainScript != '' %}
+    {% if config is defined and config.cookieProDataDomainScript is defined and config.cookieProDataDomainScript != '' %}
+        type="text/plain"
+        class="optanon-category-C0003"
+    {% endif %}
+  {% endif %}
+        src="{{ config.assetsBase }}/skins/{{ config.client }}/cp.js?v={{ config.version }}"></script>

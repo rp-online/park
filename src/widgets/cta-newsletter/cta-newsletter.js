@@ -135,7 +135,7 @@
           }, 200);
         })
         .catch((errors) => {
-          console.error('error', errors);
+          window.park.console.error('error', errors);
           window.park.notifications.create({
             id: 'cta-newsletter-error',
             data: {

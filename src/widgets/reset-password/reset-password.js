@@ -55,7 +55,7 @@
           }, target);
         }
       }).catch((result) => {
-        console.error('error', result);
+        window.park.console.error('error', result);
         app.store.dispatch(errorAction(result.errors[0].text, email));
       });
     }
@@ -71,11 +71,11 @@
           }
           handlesubmission(form);
         };
-        console.log('capture recaptcha');
+        window.park.console.log('capture recaptcha');
         const recaptchaResponse = recaptcha.getAttribute('g-response');
         const recaptchaChallenge = recaptcha.querySelector('.g-recaptcha').getAttribute('data-size');
         if (recaptchaChallenge === 'invisible' && !recaptchaResponse) {
-          console.log('capture invisible recaptcha');
+          window.park.console.log('capture invisible recaptcha');
           window.grecaptcha.execute();
           e.preventDefault();
           return;

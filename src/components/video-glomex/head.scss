@@ -1,0 +1,79 @@
+.park-video-glomex {
+  &__player {
+    -ms-grid-column: 1;
+
+    &-headline {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+  }
+
+  &__teaser-list {
+    -ms-grid-column: 2;
+    margin-left: 0;
+
+    .park-card-video__wrapper {
+      margin: 0;
+    }
+
+    &-headline {
+      margin-left: 0;
+
+      @include mq(desktop) {
+        margin-top: 0;
+      }
+    }
+
+    @include mq(desktop) {
+      margin-left: $global-spacing;
+    }
+  }
+
+  &__teaser-list-item {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr 2fr;
+    grid-template-columns: 1fr 2fr;
+    margin: 0 0 $global-spacing 0;
+    cursor: pointer;
+
+    &:hover {
+      // background-color: $global-quicklinks-hover;
+      background-color: #f2f4f6;
+    }
+
+    @include mq(desktop) {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    img {
+      -ms-grid-column: 1;
+      min-width: rem(135px);
+    }
+
+    p {
+      -ms-grid-column: 2;
+      display: -webkit-box;
+      overflow: hidden;
+      margin: 0 $global-spacing;
+      max-height: rem(80px);
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+    }
+  }
+
+  @include mq(desktop) {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: auto 33%;
+    grid-template-columns: auto 33%;
+  }
+
+  .glomex-hidden {
+    display: none;
+  }
+
+  margin: $global-spacing;
+}

@@ -1,25 +1,25 @@
 (() => {
   document.addEventListener('submit', (e) => {
-    console.log('recaptcha submit');
+    window.park.console.log('recaptcha submit');
 
     const form = e.target.closest('.park-form');
 
     if (!form) {
-      console.error('recaptcha no form');
+      window.park.console.error('recaptcha no form');
       return;
     }
 
     const recaptchaElem = form.querySelector('.park-recaptcha');
 
     if (!recaptchaElem) {
-      console.error('recaptcha no .park-recaptcha');
+      window.park.console.error('recaptcha no .park-recaptcha');
       return;
     }
 
     const recaptchaResponseAttr = form.querySelector('[g-response]');
 
     if (recaptchaResponseAttr) {
-      console.info('Response already given');
+      window.park.console.info('Response already given');
       return;
     }
 
@@ -34,21 +34,21 @@
         return;
       }
 
-      console.log('recaptcha loadCallback');
+      window.park.console.log('recaptcha loadCallback');
 
       const allRecaptchaElems = window.park.$('.park-recaptcha');
       const recaptchaElemIndex = allRecaptchaElems.findIndex(elem => elem === recaptchaElem);
 
-      console.log({ recaptchaElemIndex });
+      window.park.console.log({ recaptchaElemIndex });
 
       try {
         window.grecaptcha.reset(recaptchaElemIndex);
       } catch (e) {
-        console.log(e);
+        window.park.console.log(e);
       }
       window.grecaptcha.render(form.querySelector('.g-recaptcha'), {
         callback: (recaptchaResponse) => {
-          console.log({ recaptchaResponse });
+          window.park.console.log({ recaptchaResponse });
           recaptchaElem.setAttribute('g-response', recaptchaResponse);
           form.querySelector('[type="submit"]').click();
         },

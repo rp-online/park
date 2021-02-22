@@ -29,7 +29,7 @@
       window.park.user.getWeatherRegion()
         .then((userRegion) => {
           const weatherRegion = userRegion || defaultRegion;
-          console.log(baseUrl, weatherRegion);
+          window.park.console.log(baseUrl, weatherRegion);
 
           if (!baseUrl) {
             return;

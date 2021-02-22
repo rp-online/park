@@ -1,0 +1,50 @@
+<section class="park-registration park-registration--is-compact park-opt-in-layer">
+  <div class="park-registration__form">
+    {% if notification is defined and notification is not null %}
+      {%  set notification = notification|merge({ 'config': config }) %}
+      {% include 'components/notification/template.twig' with notification only %}
+    {% endif %}
+
+    {% include 'components/form-headline/template.twig' with {
+      'tag': headline.tag,
+      'text':  headline.text
+    } only %}
+
+    <div class="park-form-fieldset">
+      {% if text is defined and text is not empty and text %}
+        <aside class="park-registration__aside">
+          <span class="park-registration__aside-inner">{{ text|raw }}</span>
+        </aside>
+      {% endif %}
+
+      {% if legalNote is defined and legalNote is not empty and legalNote %}
+        <aside class="park-registration__aside">
+          <span class="park-registration__aside-inner">{{ legalNote|raw }}</span>
+        </aside>
+      {% endif %}
+    </div>
+
+      {% include 'components/button/template.twig' with {
+        'config': config,
+        'type': 'button',
+        'text': 'Zustimmen',
+        'loader': true,
+        'style': 'submit',
+      } only %}
+
+      {% include 'components/button/template.twig' with {
+        'config': config,
+        'type': 'button',
+        'text': 'Vorgang abbrechen',
+        'loader': true,
+        'style': 'red',
+        'href': '/',
+      } only %}
+  </div>
+  <aside class="park-registration__advantages">
+    <img src="{{ advantages.src }}" alt="" class="park-registration__advantages-image">
+    {% include 'components/markdown/template.twig' with {
+      'text': advantages.text,
+      'config': config} only %}
+  </aside>
+</section>

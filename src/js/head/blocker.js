@@ -1,7 +1,28 @@
 (() => {
+  if (window.location.pathname.lastIndexOf('/sso/') > -1) {
+    return;
+  }
+
   const callbacks = [];
   let hasRun = false;
   let isActivatedValue = false;
+  const suspendLevel = window.park.exports.config.adblocker ? window.park.exports.config.adblocker.suspendLevel || '0000' : '0000';
+
+  if (suspendLevel === '0000') {
+    return;
+  }
+
+  const lenghtOfLevel = suspendLevel.length;
+
+  function checkLevelByStep(step) {
+    let executeStep = false;
+    for (let i = 0; i < lenghtOfLevel; i += 1) {
+      if (suspendLevel.charAt(step - 1) === '1') {
+        executeStep = true;
+      }
+    }
+    return executeStep;
+  }
 
   function deactivateChecksUntil(datetime) {
     if (window.park.storage.disabled) {
@@ -30,10 +51,12 @@
     });
   }
 
-  function isBlocked() {
-    isActivatedValue = true;
-    document.documentElement.classList.add('runs-blocker');
-    runCallbacks();
+  function isBlocked(step) {
+    if (checkLevelByStep(step)) {
+      isActivatedValue = true;
+      document.documentElement.classList.add('runs-blocker');
+      runCallbacks();
+    }
   }
 
   // 4 step: insert suspiciously named dummy container, Adblock Plus will make it invisible
@@ -55,7 +78,7 @@
         window.console.info('Adblocker utility: detected an adblocker');
         isActivatedValue = true;
         document.documentElement.classList.add('runs-blocker');
-        isBlocked();
+        isBlocked(4);
         return;
       }
 
@@ -82,7 +105,7 @@
       checkAdblockPlusDummy();
     }).catch((e) => {
       hasRun = true;
-      isBlocked();
+      isBlocked(3);
       console.log(e);
     });
   }
@@ -96,7 +119,7 @@
     }
     // dummy blocked
     hasRun = true;
-    isBlocked();
+    isBlocked(2);
   }
 
   // 1 step: load adsbygoogle dummy and check if variable is set
@@ -116,7 +139,7 @@
     dummyScript.onerror = () => {
       console.log('1. dummyScript.onerror');
       hasRun = true;
-      isBlocked();
+      isBlocked(1);
     };
     body.appendChild(dummyScript);
   }
@@ -211,13 +234,14 @@
   }
 
   // If adblocker checking is not defined or is set to false, leave the function
-  if (
-    !window.park.exports ||
+  // except adblock screen itself
+  if ((!window.park.exports ||
     !window.park.exports.config ||
     !window.park.exports.config.adblocker ||
-    !window.park.exports.config.adblocker.check
-  ) {
-    window.console.info('Adblocker utility: Adblocker checks disabled by configuration');
+    !window.park.exports.config.adblocker.check) && (typeof window.park.exports.config.adblocker !== 'undefined' &&
+    typeof window.park.exports.config.adblocker.landingpage !== 'undefined') &&
+    (window.location.pathname !== window.park.exports.config.adblocker.landingpage)) {
+    window.park.console.info('Adblocker utility: Adblocker checks disabled by configuration');
     return;
   }
 
@@ -256,6 +280,9 @@
     // If no adblocker is active, then do nothing
     if (!result) {
       window.console.info('Adblocker handler: no adblocker detected');
+      if (!!window.park.storage.get('park.blocker.referrer') && (window.location.pathname.indexOf('/info/adblocker/') !== -1 || window.location.pathname.indexOf('adblocker-screen.html') !== -1)) {
+        window.location.href = window.park.storage.get('park.blocker.referrer');
+      }
       return;
     }
 

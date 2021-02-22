@@ -1,0 +1,29 @@
+{
+  "disabled": false,
+  "headline": {
+    "tag": "h2",
+    "text": "Unwetter bedroht die Düsseldorfer Rheinkirmes"
+  },
+  "success": {
+    "headline": "Vielen Dank für Ihren Beitrag!",
+    "text": "Ihr Kommentar wird nun gesichtet. Im Anschluss erhalten Sie eine E-Mail von uns. Bitte beachten Sie, dass es bei einem großen Kommentaraufkommen zu längeren Wartezeiten kommen kann. Wir sichten die Kommentare werktags zwischen 09 und 22 Uhr. Samstags und sonntags sind wir in der Regel von 10 bis 18 Uhr für Sie da."
+  },
+  "error": {
+    "headline": "Es ist ein Fehler aufgetreten!",
+    "text": ""
+  },
+  "closed": {
+    "headline": "Das Kommentarforum zu diesem Artikel ist geschlossen.",
+    "text": ""
+  },
+  "suspended": {
+    "headline": "Es ist ein Fehler aufgetreten!",
+    "text": "Ihr Benutzer ist für neue Kommentare gesperrt."
+  },
+  "terms": {
+    "href": "#void"
+  },
+  "discussion": {
+    "url": "/assets/ajax/comments/less-than-10-comments.json"
+  }
+}

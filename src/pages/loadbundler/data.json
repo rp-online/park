@@ -1,0 +1,1293 @@
+{
+  "title": "Presseportal",
+  "globals": {
+    "rootBase": "https://www-rpd.rp-online.de",
+    "assetsBase": "https://www-rpd.rp-online.de/assets",
+    "searchPage": "https://www-rpd.rp-online.de/suche/",
+    "title": "Presseportal",
+    "url": "https://www-rpd.rp-online.de/advertorial/presseportal/",
+    "client": "rp-online"
+  },
+  "config": {
+    "version": "1528109599",
+    "container_id": 18148513,
+    "beitrag_id": 21100135,
+    "metadata": [
+      {
+        "name": "description",
+        "content": "Die neuesten Nachrichten, Bilder und Videos aus Politik, Wirtschaft, Sport, Kultur, Gesellschaft, Auto, Digitale Welt sowie Düsseldorf und ganz NRW."
+      },
+      {
+        "name": "author",
+        "content": "RP ONLINE"
+      },
+      {
+        "property": "fb:pages",
+        "content": "691150114233021, 157609374682189, 975892905776921, 177927112239882, 201519383361410, 164152790460588, 771219556295797, 1425294447728778, 209570109213078, 266806183462952, 1445683922396235, 806880782660546, 433255456781969, 297917747036397, 279866478890124, 263392720478839, 195987887207082, 307920532715027, 1398944487074665, 748582041938124, 227597390780672, 959686534084333, 1917829905111803, 482857181796631, 1457424634553410, 1105921296090163, 105060432982366, 114767895390591, 1374810986178435, 352209364881882, 187302944620629, 1680948292137497"
+      },
+      {
+        "name": "googlebot-news",
+        "content": "noindex"
+      }
+    ],
+    "dataLayer": {
+      "ressort": "advertorial",
+      "subressort": "",
+      "dossier": "presseportal",
+      "contentType": "Index",
+      "analyticsUrl": "https://www-rpd.rp-online.de/advertorial/presseportal/",
+      "author": "RP ONLINE",
+      "date": "",
+      "origin": "",
+      "seo": "https://www-rpd.rp-online.de/advertorial/presseportal/",
+      "rho_url": "https://www-rpd.rp-online.de//r.rp-online.de/images/pic.gif?m=rp&b=21100135&cstr=18148513&l=&tit=Presseportal&url=https%3A%2F%2Fwww-rpd.rp-online.de%2Fadvertorial%2Fpresseportal%2F&sep=%7C&tce=1&tid=95387&tn=64377&tp=50327%7C64377&tpn=50327%7C64377&random=' + Math.random() + '&r=' + escape(document.referrer) + '&json=1&con=' + (navigator.cookieEnabled ? 1 : 0) + '&sz=' + (screen.width + 'x' + screen.height + 'x' + screen.colorDepth) + '&cs=1'"
+    },
+    "keys": {
+      "googleTagManager": "GTM-N938K5",
+      "googleMaps": "AIzaSyAzTC7aNXm3Bj48GtcjWp1uV5AT71cDXIc"
+    },
+    "advertorial": true,
+    "appMode": false,
+    "extendedMode": false,
+    "twitterlinkinfos": {
+      "via": "rponline",
+      "related": "rponline"
+    },
+    "cre": {
+      "trackingApiUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/cre-1.0/tracking/call.js",
+      "deviceUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/cre-1.0/tracking/device.js",
+      "offerApiUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/cre-1.0/api/store/RP/offers",
+      "cmsJsonApiUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/paywall/osc/settings/notification.json",
+      "cmsJsonOfferApiUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/paywall/osc/offerdata/offer.json",
+      "cmsJsonAlertsApiUrl": "https://www-rpd.rp-online.de//www-rpd.rp-online.de/api/alerts",
+      "serviceid": "rpo",
+      "origin": "web",
+      "entitlementid": "digital_web",
+      "site": "RP-Online",
+      "cms_id": 18148513,
+      "doctype": "section",
+      "contentid": "https://www-rpd.rp-online.de/advertorial/presseportal/",
+      "channel": 64377,
+      "subchannel": 95387,
+      "entitlement": "free"
+    },
+    "links": [
+      {
+        "rel": "alternate",
+        "href": "android-app://com.rheinischepost.wrapper/http/rp-online.de/advertorial/presseportal/"
+      },
+      {
+        "rel": "canonical",
+        "href": "https://www-rpd.rp-online.de/advertorial/presseportal/"
+      },
+      {
+        "rel": "alternate",
+        "type": "application/rss+xml",
+        "title": "RSS Feed",
+        "href": "https://www-rpd.rp-online.de/advertorial/presseportal/feed.rss"
+      }
+    ],
+    "iam_data": {
+      "desktop": {
+        "st": "rponl",
+        "cp": "RP-Thema-Vermischtes",
+        "sv": "i2",
+        "co": "https://www-rpd.rp-online.de/advertorial/presseportal/"
+      },
+      "mobile": {
+        "st": "mobrpo",
+        "cp": "RP-Thema-Vermischtes",
+        "sv": "mo",
+        "co": "https://www-rpd.rp-online.de/advertorial/presseportal/"
+      }
+    },
+    "ads": {
+      "oms_seeding_alliance": {
+        "oms_site": "undefined",
+        "rmsi_site": "",
+        "rmsi_zone": "",
+        "oms_site_mobile": "undefined",
+        "rmsi_site_mobile": ""
+      },
+      "desktop": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "banner",
+            "adUnitPath": "https://www-rpd.rp-online.de///test/advertorial",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "sky",
+            "adUnitPath": "https://www-rpd.rp-online.de///test/advertorial",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "out-of-page",
+            "adUnitPath": "https://www-rpd.rp-online.de///test/advertorial",
+            "size": "",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index1test"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index-3"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "presseportal",
+          "pfad3": "stop",
+          "oms": "test/advertorial",
+          "mode": "desktop"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "presseportal",
+          "pfad3": "stop",
+          "oms": "test/advertorial",
+          "mode": "desktop"
+        },
+        "zone": "test",
+        "subZone": "advertorial"
+      },
+      "mobile": {
+        "slots": [
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile",
+            "adUnitPath": "https://www-rpd.rp-online.de///test/advertorial",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "outofpage",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/rp-online.de/outofpage",
+            "size": [
+              [
+                1,
+                1
+              ]
+            ],
+            "collapse": false,
+            "lazyload": false,
+            "targeting": [],
+            "type": "standard"
+          },
+          {
+            "stroeer": true,
+            "adSlotName": "topmobile2",
+            "adUnitPath": "https://www-rpd.rp-online.de///test/advertorial",
+            "size": "[[]]",
+            "collapse": false,
+            "lazyload": false,
+            "targeting": {
+              "key": "pos2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22250755",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "index1test"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22251071",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-2"
+            },
+            "type": "standard"
+          },
+          {
+            "stroeer": false,
+            "adSlotName": "22252155",
+            "adUnitPath": "https://www-rpd.rp-online.de/1017380/RPO",
+            "size": [
+              "fluid"
+            ],
+            "collapse": true,
+            "lazyload": false,
+            "targeting": {
+              "pos": "mobil-index-3"
+            },
+            "type": "standard"
+          }
+        ],
+        "targeting": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "presseportal",
+          "pfad3": "stop",
+          "oms": "test/advertorial",
+          "mode": "mobile"
+        },
+        "keyValues": {
+          "doctype": "rpdtest",
+          "pagetype": "rpdtest",
+          "nielsen": "2",
+          "bundesland": "NRW",
+          "type": "index",
+          "pfad1": "advertorial",
+          "pfad2": "presseportal",
+          "pfad3": "stop",
+          "oms": "test/advertorial",
+          "mode": "mobile"
+        },
+        "zone": "test",
+        "subZone": "advertorial"
+      },
+      "reloadFrequency": "3"
+    },
+    "jsonLd": {
+      "@context": "http://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "url": "https://www-rpd.rp-online.de/advertorial/presseportal/mit-dem-smartphone-in-den-urlaub-was-man-wissen-sollte_aid-23212471"
+        }
+      ]
+    },
+    "adblocker": {
+      "check": true,
+      "landingpage": "https://www-rpd.rp-online.de/info/adblocker/",
+      "welectWebBaseUrl": "https://staging.welect.de",
+      "welectApiBaseUrl": "https://staging.welect.de/api/v1",
+      "welectIntegratorBaseUrl": "https://integrator-staging.welect.de/integrator",
+      "welectProductId": "rponline-block",
+      "welectIntegrationId": "rpo-7Jhajjms"
+    }
+  },
+  "skyscraper": {
+    "type": "portal",
+    "desktop": {
+      "type": "skyscraper",
+      "html": "<div id=\"sky\"></div>",
+      "lazy": false
+    }
+  },
+  "outofpage": {
+    "type": "portal",
+    "mobile": {
+      "type": "free",
+      "html": "<div id=\"outofpage\"></div>",
+      "lazy": false
+    },
+    "desktop": {
+      "type": "free",
+      "html": "<div id=\"out-of-page\"></div>",
+      "lazy": false
+    }
+  },
+  "extendedMode": false,
+  "header": {
+    "globals": [],
+    "extendedMode": false,
+    "logo": {
+      "tag": "b",
+      "text": "",
+      "href": "https://www-rpd.rp-online.de/"
+    },
+    "quicklinks": [
+      {
+        "isActive": false,
+        "text": "NRW",
+        "href": "https://www-rpd.rp-online.de/nrw/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Wirtschaft",
+        "href": "https://www-rpd.rp-online.de/wirtschaft/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Politik",
+        "href": "https://www-rpd.rp-online.de/politik/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Sport",
+        "href": "https://www-rpd.rp-online.de/sport/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Kultur",
+        "href": "https://www-rpd.rp-online.de/kultur/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Panorama",
+        "href": "https://www-rpd.rp-online.de/panorama/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Digital",
+        "href": "https://www-rpd.rp-online.de/digitales/",
+        "target": "_self"
+      },
+      {
+        "isActive": false,
+        "text": "Leben",
+        "href": "https://www-rpd.rp-online.de/leben/",
+        "target": "_self"
+      }
+    ],
+    "usermenu": {
+      "main": {
+        "text": "Anmelden",
+        "href": "https://www-rpd.rp-online.de/sso/login"
+      },
+      "items": [
+        {
+          "text": "Meine Merkliste",
+          "href": "https://www-rpd.rp-online.de/sso/bookmarks"
+        },
+        {
+          "text": "Einstellungen",
+          "href": "https://www-rpd.rp-online.de/sso/settings"
+        },
+        {
+          "text": "Meine Daten",
+          "href": "https://www-rpd.rp-online.de/sso/profile"
+        },
+        {
+          "text": "Abonnieren",
+          "href": "https://leserservice.rp-online.de"
+        }
+      ],
+      "login": {
+        "text": "Anmelden",
+        "href": "https://www-rpd.rp-online.de/sso/login"
+      },
+      "logout": {
+        "text": "Abmelden",
+        "href": "javascript:window.park.user.logout();"
+      }
+    },
+    "search": {
+      "action": "https://www-rpd.rp-online.de/suche/",
+      "label": "Suchbegriff eingeben"
+    },
+    "login": {
+      "label": "Anmelden"
+    },
+    "snackbars": [
+      {
+        "component": "snackbar-cookies",
+        "data": {
+          "text": "Wir setzen auf unserer Website Cookies und andere Technologien ein, um Ihnen den vollen Funktionsumfang unseres Angebotes anzubieten. Zudem ermöglichen Cookies die Personalisierung von Inhalten und dienen der Ausspielung von Werbung. Sie können auch zu Analysezwecken gesetzt werden. Durch die weitere Nutzung unserer Website erklären Sie sich mit dem Einsatz von Cookies einverstanden. Weitere Informationen, auch zur Deaktivierung der Cookies, finden Sie in unserer Datenschutzerklärung.",
+          "link": {
+            "href": "https://rp-online.de/info/datenschutz/",
+            "text": "zur Datenschutzerklärung"
+          }
+        }
+      },
+      {
+        "component": "snackbar-portal",
+        "data": {
+          "ad": {
+            "type": "mobile-banner",
+            "html": "<img src=\"https://placehold.it/320x50\">"
+          }
+        }
+      }
+    ]
+  },
+  "children": [
+    {
+      "component": "section-portal-top",
+      "data": {
+        "ad": {
+          "type": "portal",
+          "mobile": {
+            "type": "free",
+            "html": "<div id=\"topmobile\"></div>",
+            "lazy": false
+          },
+          "desktop": {
+            "type": "billboard",
+            "html": "<div id=\"banner\"></div>",
+            "lazy": false
+          }
+        },
+        "children": [
+          {
+            "component": "section",
+            "data": {
+              "children": [
+                {
+                  "component": "section-nav",
+                  "data": {
+                    "breadcrumb": [
+                      {
+                        "text": "",
+                        "href": "https://www-rpd.rp-online.de/",
+                        "isHidden": true
+                      },
+                      {
+                        "text": "Advertorial",
+                        "href": "https://www-rpd.rp-online.de/advertorial/",
+                        "isHidden": false
+                      }
+                    ],
+                    "headline": {
+                      "tag": "h1",
+                      "text": "Presseportal"
+                    }
+                  }
+                },
+                {
+                  "component": "opener",
+                  "data": {
+                    "isAd": true,
+                    "id": 23212471,
+                    "href": "https://www-rpd.rp-online.de/advertorial/presseportal/mit-dem-smartphone-in-den-urlaub-was-man-wissen-sollte_aid-23212471",
+                    "type": "bild",
+                    "headline": {
+                      "tag": "span",
+                      "text": "Mit dem Smartphone in den Urlaub - was man wissen sollte"
+                    },
+                    "intro": "Das Handy-Roaming in der EU gehört seit 2017 der Vergangenheit an. Reisende zahlen nur, was für die gleiche Leistung auch daheim berechnet würde - zumindest in den meisten Fällen. Was man zur Smartphone-Nutzung im Urlaub wissen sollte.\n\n",
+                    "src": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_327a9b7be305ca3c09f1a3945aeadc29/w1200_h901_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                    "alt": "Wird nicht benötigt mit Smartphone im",
+                    "source": "Düsseldorf",
+                    "kicker": {
+                      "tag": "span",
+                      "text": "EU-Roaming, Kreuzfahrtschiffe, Tarife"
+                    },
+                    "backgroundColor": "rgba(135, 130, 127,1)",
+                    "srcset": {
+                      "250w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_f824596eeee20cec08dfddbced34d12c/w250_h187_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "400w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_8f3e8b40f3384f8fde6c211dcae9af26/w400_h300_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "600w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_8f6b7eeb5b85a504e5d667b06299f4b9/w600_h450_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "900w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_05679f71157242eee2b157b584e4f9ae/w900_h675_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "950w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_830dd51edfbcbc83c3f317bca44f5b35/w950_h713_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "1200w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_327a9b7be305ca3c09f1a3945aeadc29/w1200_h901_x918_y514_20160328_160738-2144d6dfb825b56f.jpg",
+                      "1900w": "https://www-rpd.rp-online.de/imgs/32/2/7/2/2/3/9/1/2/tok_842672632b6cb0d88471c6a0a1c50a8e/w1836_h1028_x918_y514_20160328_160738-2144d6dfb825b56f.jpg"
+                    },
+                    "backgroundLuma": 130.8464
+                  }
+                },
+                {
+                  "component": "section-portal-right",
+                  "data": {
+                    "component": "teaser-collection",
+                    "ad": {
+                      "type": "portal",
+                      "mobile": {
+                        "type": "free",
+                        "html": "<div id=\"topmobile2\"></div>",
+                        "lazy": false
+                      },
+                      "desktop": {
+                        "type": "free",
+                        "html": "<script type=\"text/javascript\">//H15VUbd(\"Medium\")</script>\r\n<script>\r\nif (typeof iccount == 'undefined') {\r\n    var iccount = 3;\r\n}else{\r\n    iccount = iccount+1;\r\n}\r\nif(!document.getElementById(\"rectangle\")){\r\n    document.write('<div id=\"rectangle\"></div>');\r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;\r\n    }\r\n    SDG.Publisher.registerSlot('rectangle', 'rectangle').load();\r\n    }\r\n    init();\r\n    })();\r\n    iccount = iccount-1; //counter eins herrabsetzten, damit bei Rectangle 3 als Rec alternative angefangen wird.\r\n}else{ //alternatives Rectangle definieren\r\n    var adid = 'rectangle'+iccount;\r\n    var slotloc = 250+iccount;\r\n    document.write('<div id=\"'+ adid +'\"></div>');   \r\n    (function() {\r\n    function init() {\r\n    if (!window.SDG) {\r\n        window.setTimeout(init, 100);\r\n        return;  \r\n    }\r\n    SDG.Publisher.registerModularSlot(adid, adid, 300, 250, [[300,300],[300,601],[300,251],[300,slotloc]], false).load();\r\n    }\r\n    init();\r\n    })();\r\n}\r\n</script>\r\n<span class=\"H15VUbd_end\"></span>",
+                        "lazy": false
+                      }
+                    },
+                    "data": {
+                      "items": [
+                        {
+                          "type": "portal",
+                          "mobile": {
+                            "type": "free",
+                            "html": "<div id=\"22250755\"></div>",
+                            "lazy": false
+                          },
+                          "desktop": {
+                            "type": "free",
+                            "html": "<div id=\"22250755\"></div>",
+                            "lazy": false
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "component": "teaser-collection",
+                  "data": {
+                    "items": [
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22251071\"></div>",
+                          "lazy": false
+                        }
+                      },
+                      {
+                        "type": "portal",
+                        "mobile": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        },
+                        "desktop": {
+                          "type": "free",
+                          "html": "<div id=\"22252155\"></div>",
+                          "lazy": false
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "component": "section-footer",
+                  "data": {
+                    "button": {
+                      "text": "Archiv",
+                      "href": "archiv/"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "footer": {
+    "compactMode": false,
+    "headlinesTag": "span",
+    "globals": [],
+    "main": {
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "https://rp-online.de/info/impressum/"
+        },
+        {
+          "text": "Kontakt",
+          "href": "https://rp-online.de/info/kontakt/"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "https://rp-online.de/info/datenschutz/"
+        },
+        {
+          "text": "AGB",
+          "href": "https://rp-online.de/info/agb/"
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "icon": "facebook",
+          "text": "facebook.com/rponline",
+          "href": "https://facebook.com/rponline"
+        },
+        {
+          "icon": "twitter",
+          "text": "@rponline",
+          "href": "https://twitter.com/rponline"
+        }
+      ]
+    },
+    "newsletter": {
+      "action": "",
+      "headline": "",
+      "body": "Bestellen Sie den Newsletter aus der Chefredaktion",
+      "placeholder": "E-Mail Adresse",
+      "button": "Newsletter bestellen",
+      "inputname": "email",
+      "showform": 0
+    },
+    "services": {
+      "headline": "Services",
+      "links": [
+        {
+          "text": "Digitale Prospekte",
+          "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+          "target": "_blank"
+        },
+        {
+          "text": "Schwarzwald",
+          "href": "https://rp-online.de/leben/reisen/schwarzwald-baden-wuerttemberg/?csref=footer",
+          "target": "_blank"
+        },
+        {
+          "text": "Pausenspiele",
+          "href": "https://spiele.rp-online.de/",
+          "target": "_blank"
+        },
+        {
+          "text": "RP Apps",
+          "href": "https://rp-online.de/digitales/rp-online-app/",
+          "target": ""
+        },
+        {
+          "text": "Newsletter",
+          "href": "https://rp-online.de/app/newsletter/",
+          "target": ""
+        },
+        {
+          "text": "RSS Feed",
+          "href": "https://rp-online.de/app/feed/",
+          "target": ""
+        },
+        {
+          "text": "Archiv",
+          "href": "https://rp-online.de/archiv/",
+          "target": "_blank"
+        }
+      ]
+    },
+    "publisher": {
+      "headline": "Verlag",
+      "links": [
+        {
+          "text": "Rheinische Post Mediengruppe",
+          "href": "https://www.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Karriere",
+          "href": "https://karriere.rheinischepostmediengruppe.de/"
+        },
+        {
+          "text": "Kundenservice",
+          "href": "https://www.rheinischepostmediengruppe.de/Kundenservice"
+        },
+        {
+          "text": "Mediadaten",
+          "href": "http://rp-media.de/"
+        }
+      ]
+    },
+    "navigation": {
+      "ajax": {
+        "url": "https://www-rpd.rp-online.de/api/tree?output=navigation&currentNode=95387"
+      },
+      "header": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Top"
+          },
+          "items": [
+            {
+              "text": "Abo & Service",
+              "href": "https://leserservice.rp-online.de/?utm_source=RPO&utm_medium=Button%20Header&utm_campaign=Mobil_Abo_Service_Inhalte",
+              "target": "_blank"
+            },
+            {
+              "text": "ePaper/App",
+              "href": "https://rp-online.de/app/epaper/",
+              "target": ""
+            },
+            {
+              "text": "Anzeige aufgeben",
+              "href": "https://leserservice.rp-online.de/Anzeigen",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Forum",
+              "href": "https://www.rp-forum.de/",
+              "target": "_blank"
+            }
+          ]
+        }
+      ],
+      "footer": [
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Services"
+          },
+          "items": [
+            {
+              "text": "Kontakt",
+              "href": "https://rp-online.de/info/kontakt/",
+              "target": ""
+            },
+            {
+              "text": "WhatsApp-Newsletter bestellen",
+              "href": "",
+              "target": ""
+            },
+            {
+              "text": "Newsletter abonnieren",
+              "href": "https://rp-online.de/app/newsletter/",
+              "target": ""
+            },
+            {
+              "text": "Podcast hören",
+              "href": "https://rp-online.de/digitales/podcasts/",
+              "target": ""
+            },
+            {
+              "text": "RP ONLINE App",
+              "href": "",
+              "target": ""
+            }
+          ]
+        },
+        {
+          "headline": {
+            "tag": "strong",
+            "text": "Weitere Angebote"
+          },
+          "items": [
+            {
+              "text": "RP Trauer",
+              "href": "https://trauer.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Tonight",
+              "href": "https://www.tonight.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Schlagzeilen",
+              "href": "https://rp-online.de/app/schlagzeilen/",
+              "target": ""
+            },
+            {
+              "text": "Digitale Prospekte",
+              "href": "https://www.weekli.de/?utm_source=rpo&utm_medium=refDigitaleProspekte",
+              "target": "_blank"
+            },
+            {
+              "text": "Spiele",
+              "href": "https://spiele.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Digital Services",
+              "href": "https://www.rp-digital-services.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "Kalaydo",
+              "href": "https://www.kalaydo.de/#utm_source=RP_ONLINE&utm_medium=HEADER&utm_campaign=Verlags-Widgets&utm_content=RP_HEAD&utm_term=RP_ONLINE-head",
+              "target": "_blank"
+            },
+            {
+              "text": "FuPa",
+              "href": "https://www.fupa.net/niederrhein",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Shop",
+              "href": "https://shop.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Expertenzeit",
+              "href": "https://rp-expertenzeit.de/aktuelle-events/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Reisen",
+              "href": "https://www.droste-reisen.de/rpo/",
+              "target": "_blank"
+            },
+            {
+              "text": "PremiumCard",
+              "href": "https://premiumcard.rp-online.de/",
+              "target": "_blank"
+            },
+            {
+              "text": "RP Lesertour",
+              "href": "https://rp-lesertour.de/aktuelle-lesertouren/",
+              "target": "_blank"
+            },
+            {
+              "text": "Texthelden",
+              "href": "https://texthelden.rp-online.de",
+              "target": "_blank"
+            },
+            {
+              "text": "Digitales Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": ""
+            },
+            {
+              "text": "Lizenzen & Archiv",
+              "href": "https://rp-online.de/app/zeitungsarchiv/",
+              "target": ""
+            }
+          ]
+        }
+      ],
+      "main": [
+        {
+          "children": [
+            {
+              "text": "Dinslaken",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/dinslaken/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#dinslaken"
+            },
+            {
+              "text": "Dormagen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/dormagen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#dormagen"
+            },
+            {
+              "text": "Düsseldorf",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/duesseldorf/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#duesseldorf"
+            },
+            {
+              "text": "Duisburg",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/duisburg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#duisburg"
+            },
+            {
+              "text": "Emmerich",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/emmerich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#emmerich"
+            },
+            {
+              "text": "Erkelenz",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/erkelenz/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#erkelenz"
+            },
+            {
+              "text": "Erkrath",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/erkrath/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#erkrath"
+            },
+            {
+              "text": "Geldern",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/geldern/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#geldern"
+            },
+            {
+              "text": "Goch",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/goch/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#goch"
+            },
+            {
+              "text": "Grevenbroich",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/grevenbroich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#grevenbroich"
+            },
+            {
+              "text": "Haan",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/haan/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#haan"
+            },
+            {
+              "text": "Hilden",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/hilden/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hilden"
+            },
+            {
+              "text": "Hückelhoven",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/hueckelhoven/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hueckelhoven"
+            },
+            {
+              "text": "Hückeswagen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/hueckeswagen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#hueckeswagen"
+            },
+            {
+              "text": "Hünxe",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/huenxe/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#huenxe"
+            },
+            {
+              "text": "Jüchen\n ",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/juechen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#juechen"
+            },
+            {
+              "text": "Kaarst",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kaarst/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kaarst"
+            },
+            {
+              "text": "Kamp-Lintfort",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kamp-lintfort/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kamp-lintfort"
+            },
+            {
+              "text": "Kempen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kempen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kempen"
+            },
+            {
+              "text": "Kevelaer",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kevelaer/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kevelaer"
+            },
+            {
+              "text": "Kleve",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kleve/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#kleve"
+            },
+            {
+              "text": "Köln",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/koeln/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#koeln"
+            },
+            {
+              "text": "Korschenbroich",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/korschenbroich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#korschenbroich"
+            },
+            {
+              "text": "Krefeld",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/krefeld/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#krefeld"
+            },
+            {
+              "text": "Kreis Heinsberg",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/kreis-heinsberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#heinsberg"
+            },
+            {
+              "text": "Langenfeld",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/langenfeld/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#langenfeld"
+            },
+            {
+              "text": "Leichlingen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/leichlingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#leichlingen"
+            },
+            {
+              "text": "Leverkusen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/leverkusen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#leverkusen"
+            },
+            {
+              "text": "Meerbusch",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/meerbusch/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#meerbusch"
+            },
+            {
+              "text": "Mettmann",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/mettmann/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#mettmann"
+            },
+            {
+              "text": "Mönchengladbach",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/moenchengladbach/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#moenchengladbach"
+            },
+            {
+              "text": "Moers",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/moers/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#moers"
+            },
+            {
+              "text": "Nettetal",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/nettetal/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#nettetal"
+            },
+            {
+              "text": "Neukirchen-Vluyn",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/neukirchen-vluyn/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#neukirchen-vluyn"
+            },
+            {
+              "text": "Neuss",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/neuss/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#neuss"
+            },
+            {
+              "text": "Radevormwald",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/radevormwald/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#radevormwald"
+            },
+            {
+              "text": "Ratingen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/ratingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#ratingen"
+            },
+            {
+              "text": "Remscheid",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/remscheid/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#remscheid"
+            },
+            {
+              "text": "Rhein-Kreis",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/rhein-kreis/",
+              "featured": false
+            },
+            {
+              "text": "Rheinberg",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/rheinberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#rheinberg"
+            },
+            {
+              "text": "Rommerskirchen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/rommerskirchen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#rommerskirchen"
+            },
+            {
+              "text": "Solingen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/solingen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#solingen"
+            },
+            {
+              "text": "Tönisvorst",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/toenisvorst/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#toenisvorst"
+            },
+            {
+              "text": "Viersen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/viersen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#viersen"
+            },
+            {
+              "text": "Wassenberg",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/wassenberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wassenberg"
+            },
+            {
+              "text": "Wegberg",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/wegberg/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wegberg"
+            },
+            {
+              "text": "Wermelskirchen",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/wermelskirchen/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wermelskirchen"
+            },
+            {
+              "text": "Wesel",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/wesel/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wesel"
+            },
+            {
+              "text": "Willich",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/willich/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#willich"
+            },
+            {
+              "text": "Wülfrath",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/wuelfrath/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#wuelfrath"
+            },
+            {
+              "text": "Xanten",
+              "href": "https://www-rpd.rp-online.de/nrw/staedte/xanten/",
+              "featured": false,
+              "icon": "https://www-rpd.rp-online.de/assets/images/sprite.cities.svg#xanten"
+            }
+          ],
+          "search": {
+            "label": "Städtesuche"
+          },
+          "isCurrent": false
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "NRW",
+          "href": "https://www-rpd.rp-online.de/nrw/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#nrw"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Wirtschaft",
+          "href": "https://www-rpd.rp-online.de/wirtschaft/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#wirtschaft"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Politik",
+          "href": "https://www-rpd.rp-online.de/politik/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#politik"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Sport",
+          "href": "https://www-rpd.rp-online.de/sport/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#weitere-sportarten"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Kultur",
+          "href": "https://www-rpd.rp-online.de/kultur/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#kultur"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Panorama",
+          "href": "https://www-rpd.rp-online.de/panorama/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#panorama"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Digital",
+          "href": "https://www-rpd.rp-online.de/digitales/",
+          "target": "_self",
+          "icon": "https://www-rpd.rp-online.de/assets/images/sprite.navigation.svg#digitales"
+        },
+        {
+          "isCurrent": false,
+          "isAd": false,
+          "text": "Leben",
+          "href": "https://www-rpd.rp-online.de/leben/",
+          "target": "_self"
+        }
+      ]
+    },
+    "endnote": "© RP Digital GmbH | Alle Rechte vorbehalten"
+  }
+}

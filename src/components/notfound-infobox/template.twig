@@ -3,7 +3,7 @@
   <h2 class="park-notfound-infobox__headline">404 - Diese Seite konnte nicht aufgerufen werden.</h2>
   <p class="park-notfound-infobox__text">Sollten Sie hier den gewünschten Inhalt nicht finden, möchten wir Ihnen unsere Suche empfehlen:</p>
   {% include 'components/searchform/template.twig' with {
-    'action': '#void',
+    'action': '/suche/',
     'method': 'get',
     'name': 'q',
     'value': '',

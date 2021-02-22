@@ -12,18 +12,18 @@ park-gallery--reduced
 ">
   {% if (barebone is defined and barebone) or ((config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true))) %}
   {% if barebone is not defined or not barebone %}
-    {% if id is defined and id %}
-      <aside class="park-gallery__action-buttons">
-        {% include 'components/action-buttons/template.twig' with {
-          'id': id,
-          'config': config
-        } only %}
-      </aside>
-    {% endif %}
-    {% if headline is defined and headline.text is defined and headline.text %}
-      <{{ headline.tag }}
-      class="park-gallery__headline">{{ headline.text }}</{{ headline.tag }}>
-    {% endif %}
+  {% if id is defined and id %}
+    <aside class="park-gallery__action-buttons">
+      {% include 'components/action-buttons/template.twig' with {
+        'id': id,
+        'config': config
+      } only %}
+    </aside>
+  {% endif %}
+  {% if headline is defined and headline.text is defined and headline.text %}
+  <{{ headline.tag }}
+  class="park-gallery__headline">{{ headline.text }}</{{ headline.tag }}>
+  {% endif %}
   {% endif %}
   <div class="park-gallery__body">
     {% if ads is defined and ads.slides is defined and ads.slides.interval is defined and (config.disableAds is not defined or config.disableAds is same as(false)) %}
@@ -47,10 +47,10 @@ park-gallery--reduced
           {% for item in items %}
             <li class="park-gallery__item">
               <figure role="group" class="park-gallery__item-figure">
-              {% if item.headline is defined and item.headline.text is defined and item.headline.text %}
-                  <{{ item.headline.tag }}
-                  class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}
-                >
+                {% if item.headline is defined and item.headline.text is defined and item.headline.text %}
+                <{{ item.headline.tag }}
+                class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}
+              >
               {% endif %}
               {% if item.figure is defined %}
               <div class="park-gallery__item-wrapper">
@@ -70,6 +70,7 @@ park-gallery--reduced
                         'aria-describedby': 'park-gallery__item-caption-' ~ uuid ~ '-' ~ loop.index
                       }
                     }) %}
+                    <div class="park-gallery__magnify-button"></div>
                   {% else %}
                     {% set link = item.link %}
                   {% endif %}
@@ -79,8 +80,16 @@ park-gallery--reduced
                     ],
                     'text': content,
                     'config': config
-                    }) %}
+                  }) %}
                   {% include 'components/link-helper/template.twig' with link only %}
+
+                  <div class="park-gallery__nav-prev-button-wrapper park-gallery__nav-button-wrapper park-gallery__nav-button-wrapper-on"
+                       title="vorheriges Bild anzeigen" >
+                  </div>
+                  <div class="park-gallery__nav-next-button-wrapper park-gallery__nav-button-wrapper park-gallery__nav-button-wrapper-on"
+                       title="nächstes Bild anzeigen">
+                  </div>
+
                 {% else %}
                   <div class="park-gallery__item-innerwrapper">{{ content|raw }}</div>
                 {% endif %}
@@ -151,15 +160,17 @@ park-gallery--reduced
       </div>
     </div>
     <ul class="park-gallery__arrow-nav">
-      <li class="park-gallery__arrow-nav-prev" aria-hidden="true">
-        <button type="button"
-                class="park-gallery__arrow-nav-prev-button park-gallery__arrow-nav-button">zurück
+
+      <li class="park-gallery__arrow-nav-prev">
+        <button type="button" class="park-gallery__arrow-nav-prev-button park-gallery__arrow-nav-button">zurück
         </button>
       </li>
-      <li class="park-gallery__arrow-nav-next" aria-hidden="true">
+
+      <li class="park-gallery__arrow-nav-next">
         <button type="button" class="park-gallery__arrow-nav-next-button park-gallery__arrow-nav-button">weiter
         </button>
       </li>
+
     </ul>
     {% if ads is defined and ads.caption is defined and ads.caption is iterable and (config.disableAds is not defined or config.disableAds is same as(false)) %}
       <div class="park-gallery__caption-portal">
@@ -174,35 +185,71 @@ park-gallery--reduced
           {% include 'components/social-buttons/template.twig' with {'config': config} only %}
         {% endif %}
         {% include 'components/back-to-article/template.twig' with {'config': config} only %}
+        {% if seeMore is defined %}
+          <span class="park-see-more" >
+            <a href="{{ seeMore.link }}" class="park-button">{{ seeMore.text }}</a>
+          </span>
+        {% endif %}
       </footer>
     {% endif %}
   </div>
 {% else %}
   {% if headline is defined and headline.text is defined and headline.text %}
     <{{ headline.tag }}
-    class="park-gallery__headline">{{ headline.text }}</{{ headline.tag }}>
+    class="park-gallery__headline">
+      {% include 'components/content-label/template.twig' with {
+        'contentLabel': contentLabel,
+        'config': config
+      } only %}
+    {{ headline.text }}
+    </{{ headline.tag }}>
   {% endif %}
   <div class="park-gallery__body">
     <div class="park-gallery__wrapper">
       <div class="park-gallery__innerwrapper">
         <ul class="park-gallery__list">
-          <li class="park-gallery__item">
-            <figure role="group" class="park-gallery__item-figure">
-              {% if items[0] is defined %}
-              {% set item = items[0] %}
-              <{{ item.headline.tag }}
-              class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}>
-
-            {% if item.link is defined %}
-              {% include 'components/image/template.twig' with {
-                'src': item.link.href,
-                'alt': item.headline.text,
-                'sizes': { 'mobile': '100vw', 'desktop': '950px' },
-                'config': config} %}
-            {% endif %}
-            {% endif %}
-            </figure>
-          </li>
+          {% for item in items %}
+            <li class="park-gallery__item">
+              <figure role="group" class="park-gallery__item-figure">
+                {% if item.headline is defined and item.headline.text is defined and item.headline.text %}
+                <{{ item.headline.tag }}
+                class="park-gallery__item-headline" aria-hidden="true">{{ item.headline.text }}</{{ item.headline.tag }}
+              >
+              {% endif %}
+              {% if item.figure is defined %}
+                <div class="park-gallery__item-wrapper">
+                  {% set content %}
+                    {% set data = item.figure.data|merge({
+                      'lazy': true,
+                      'config': config
+                    }) %}
+                    {% include 'components/' ~ item.figure.component ~ '/template.twig' with data only %}
+                  {% endset %}
+                  <div class="park-gallery__item-innerwrapper">
+                    {% if item.link is defined %}
+                      {% include 'components/image/template.twig' with {
+                        'src': item.link.href,
+                        'alt': item.headline.text,
+                        'sizes': { 'mobile': '100vw', 'desktop': '950px' },
+                        'config': config} %}
+                    {% else %}
+                      {{ content|raw }}
+                    {% endif %}
+                  </div>
+                </div>
+              {% else %}
+                <blockquote class="park-gallery__item-caption">
+                  {% include 'components/markdown/template.twig' with {
+                    'text': item.caption
+                  } only %}
+                </blockquote>
+              {% endif %}
+              </figure>
+            </li>
+          {% endfor %}
+          {% if lastItem is defined %}
+            <li class="park-gallery__item park-gallery__item--last"></li>
+          {% endif %}
         </ul>
       </div>
     </div>

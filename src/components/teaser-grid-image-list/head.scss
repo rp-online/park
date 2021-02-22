@@ -1,5 +1,6 @@
 .park-teaser-grid-image-list {
   overflow: hidden;
+  counter-reset: park-teaser-list-counter;
 
   @include mq(desktop) {
     display: flex;
@@ -42,7 +43,23 @@
     }
   }
 
+  &--minus-one-row &__item {
+    flex: 0 0 50%;
+
+    @include mq(desktop) {
+      width: calc(100% / 2);
+    }
+  }
+
   .park-teaser-list-item {
     width: 100%;
+  }
+
+  &--single-row &__item {
+    flex: 0 0 100%;
+
+    @include mq(desktop) {
+      width: 100%;
+    }
   }
 }

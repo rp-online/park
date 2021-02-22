@@ -11,6 +11,7 @@
   <article class="park-teaser-image-list-item
   {% if type is defined and type %} park-teaser-image-list-item--{{ type }}{% endif %}
   {% if isAd is defined and isAd is same as(true) %} park-teaser-image-list-item--sugardaddy{% endif %}
+  {% if isNumeric is defined and isNumeric is same as(true) %} park-teaser-list-item--is-numeric{% endif %}
   ">
   {% set content %}
     {% if src is defined %}

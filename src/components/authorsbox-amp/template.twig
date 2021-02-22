@@ -1,0 +1,58 @@
+{% set uuid = random() %}
+{% set noProfilePictures = true %}
+{% set authorsInText = [] %}
+
+
+
+{% if text is defined and text %}
+
+  {% if authors is defined and authors is iterable %}
+    {% if text is not defined or not text %}
+      {% set text = '' %}
+    {% endif %}
+    {% for author in authors %}
+      {% set nameParts = author.name|split(' ') %}
+      {% if nameParts|length > 1 %}
+        {% set firstNamePart = nameParts[0] %}
+        {% set firstNamePart = firstNamePart|slice(0, 1) %}
+        {% set firstNamePart = firstNamePart ~ '.' %}
+        {% set nameParts = nameParts|slice(1) %}
+        {% set nameParts = [firstNamePart]|merge(nameParts) %}
+        {% set shortname = nameParts|join(' ') %}
+      {% else %}
+        {% set shortname = author.name %}
+      {% endif %}
+      {% if author.src is defined and author.src %}
+        {% if author.name in text or shortname in text %}
+          {% set noProfilePictures = false %}
+        {% endif %}
+      {% endif %}
+      {% if author.name in text %}
+        {% set author = author|merge({
+          'searchname': author.name
+        }) %}
+        {% set authorsInText = authorsInText|merge([author]) %}
+      {% endif %}
+      {% if shortname in text %}
+        {% set author = author|merge({
+          'searchname': shortname
+        }) %}
+        {% set authorsInText = authorsInText|merge([author]) %}
+      {% endif %}
+    {% endfor %}
+    {% for author in authorsInText %}
+      {% set replace = '<b class="park-authorsbox__name">' %}
+      {% if author.links is defined and author.links.profile is defined %}
+        {% set replace = replace ~ '<a href="' ~ author.links.profile ~ '" class="park-authorsbox__link">' ~ author.name ~ '</a>' %}
+      {% endif %}
+      {% set replace = replace ~ '</b>' %}
+      {% set text = text|replace({
+        (author.searchname): replace
+      }) %}
+    {% endfor %}
+  {% endif %}
+
+      <p class="author">
+        <span itemprop="author"> {{ text|raw }}</span>
+      </p>
+{% endif %}

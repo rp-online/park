@@ -21,12 +21,13 @@
   "dataPrivacyPage": "/datenschutz.html",
   "adblocker": {
     "check": true,
-    "landingpage": "/adblocker-landingpage.html",
-    "welectWebBaseUrl": "https://staging.welect.de",
-    "welectApiBaseUrl": "https://staging.welect.de/api/v1",
-    "welectIntegratorBaseUrl": "https://integrator-staging.welect.de/integrator",
-    "welectProductId": "rponline-block",
-    "welectIntegrationId": "rpo-7Jhajjms"
+    "landingpage": "/components/adblocker-screen.html",
+    "welectWebBaseUrl": "https://www.welect.de",
+    "welectApiBaseUrl": "https://www.welect.de/api/v1",
+    "welectIntegratorBaseUrl": "https://www.welect.de/passage/for_product",
+    "welectProductId": "YRUb48uPBT2AntUDxrPDrvL47fsT8n",
+    "welectIntegrationId": "yi3AfyWanM6Jufwep3x9YHUTFZTX",
+    "suspendLevel": "1111"
   },
   "notifications": {
     "showFloatingBell": true,

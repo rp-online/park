@@ -36,4 +36,9 @@
   > iframe[src^="https://www.youtube.com/embed"] {
     max-height: 56.25vw;
   }
+
+  > .glomex-player,
+  > .podigee-podcast-player {
+    width: 100%;
+  }
 }

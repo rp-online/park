@@ -1,0 +1,70 @@
+<header class="park-header">
+  <div class="park-header__nav">
+    <ul class="park-header__wrapper">
+      <li class="park-header__logo">
+        <b class="park-header__logo-headline">
+        {% set logoMarkup %}{% spaceless %}{% include 'skins/' ~ config.client ~ '/logo.svg' %}{% endspaceless %}{% endset %}
+        {% set logoMarkup = logoMarkup ~ '' %}
+          <a href="{{ logo.href }}" title="Zur Startseite" class="park-header__logo-link">
+            <span class="park-header__logo-text">{{ logo.text }}</span>
+            {{ logoMarkup|raw }}
+          </a>
+        </b>
+      </li>
+    </ul>
+  </div>
+</header>
+<main id="park-main" role="main" tabindex="-1">
+  <div class="park-consent-layer__content park-section">
+    <div class="park-consent-layer__content-headline">
+      <div class="park-section-breadcrumb">
+        <div class="park-section-breadcrumb__wrapper">
+          <h1 class="park-section-breadcrumb__headline">
+          Wie möchten Sie RP ONLINE lesen? <span class="park-consent-layer__content-headline-hidden-mobile">Sie haben die Wahl!</span>
+          </h1>
+        </div>
+      </div>
+    </div>
+    <div class="park-consent-layer__content-wrapper">
+      <section class="park-consent-layer__advertisement">
+        <h4 class="park-consent-layer__advertisement-headline">Weiter mit Werbung</h4>
+        <p class="park-consent-layer__advertisement-text">Lesen Sie den frei verfügbaren Teil von RP ONLINE wie gewohnt mit Werbung und Tracking. Durch die Nutzung der Webseite erklären Sie sich mit den <a class="park-consent-layer__text-link" href="https://rp-online.de/info/agb/mitglied/">Nutzungsbedingungen</a> einverstanden.</p>
+        <div>
+          {% include 'components/button/template.twig' with {
+            'href': '#',
+            'id' : 'consentAccept',
+            'text': 'Akzeptieren und weiter'
+          } only %}
+        </div>
+        <p class="park-consent-layer__advertisement-text">Weitere Informationen zum Trackingverfahren finden Sie in der
+          <a class="park-consent-layer__text-link" href="https://rp-online.de/info/datenschutz/">Datenschutzerklärung</a>.
+      </section>
+      <section class="park-consent-layer__rpplus">
+        <h4 class="park-consent-layer__rpplus-headline">Weiter mit <em class="park-icon-paid"></em></h4>
+        <p class="park-consent-layer__rpplus-text">Nutzen Sie RP ONLINE unbegrenzt inkl. aller RP+ Artikel werbetrackingfrei. Wir bieten Ihnen eine bedarfsgerechte Webseite nur mit Premiumwerbung und optimierten Inhalten. <br/> 0,99 € im ersten Monat, danach 7,99 € monatlich.</p>
+        <div>
+          {% include 'components/button/template.twig' with {
+            "text": "Zum Angebot",
+            "href": "https://leserservice.rp-online.de/services/rp-osc/abo-shop.htm?digital=PW_EPAB_SFB%3B127236&ai=const%3BD77G193K&advM=WT090&utm_source=rpo&utm_medium=consent&utm_campaign=rpplus_consent",
+            "ghost": true
+          } only %}
+        </div>
+        <p class="park-consent-layer__rpplus-text"><strong>Bereits Abonnent?</strong><br/> <a href="/sso/login" class="park-consent-layer__text-link">Jetzt anmelden</a></p>
+      </section>
+    </div>
+    <div class="park-consent-layer__footer">
+      <p class="park-consent-layer__footer-text"><strong>Was bedeutet Nutzung mit Werbung und Tracking?</strong> Mit den auf Ihrem Gerät gespeicherten Cookies, Geräte-Kennungen u.ä. können Anzeigen und Inhalte basierend auf einem Profil personalisiert, Daten ergänzt und Performance von Anzeigen und Inhalten gemessen werden. Mit Hilfe der aus Ihrer Nutzung gewonnenen Erkenntnissen können wir u.a. die Nutzerfreundlichkeit unserer Webseite verbessern sowie neue Produkte entwickeln.</p>
+      <ul class="park-consent-layer__footer-links">
+        <li>
+          <a href="https://rp-online.de/info/impressum/" class="park-consent-layer__footer-link">Impressum</a>
+        </li>
+        <li>
+          <a href="https://rp-online.de/info/datenschutz/" class="park-consent-layer__footer-link">Datenschutz</a>
+        </li>
+        <li>
+          <a href="https://rp-online.de/info/agb/" class="park-consent-layer__footer-link">AGB</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</main>

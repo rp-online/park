@@ -33,6 +33,12 @@
             break;
         }
 
+        const parkArticleKicker = document.getElementsByClassName('park-article__kicker');
+
+        if (parkArticleKicker[0]) {
+          parkArticleKicker[0].setAttribute('class', 'park-article__kicker park-article__kicker--comments');
+        }
+
         $('[class$="__commentscount"]').forEach((elem) => {
           elem.setAttribute('data-comments-count', result.count);
           elem.textContent = text;

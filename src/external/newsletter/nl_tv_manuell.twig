@@ -28,6 +28,35 @@
 .ExternalClass div {
     line-height: 100%;
   }
+
+  .zwischentitel {
+    font-weight: 600;
+    margin-top: 1.375rem;
+    margin-bottom: 1.375rem;
+    page-break-inside: avoid;
+  }
+
+  .zweiptgroesser {
+    font-size: 20px;
+  }
+
+  .image-wrapper {
+    margin: 20px 0;
+    text-align: center;
+  }
+
+  .image {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .caption {
+    font-size: .8125rem;
+    font-weight: 400;
+    line-height: 1.61538;
+    display: block;
+    margin-top: 5px;
+  }
 }
 @media all and (max-width: 500px) {
   .hidden-xs {
@@ -195,7 +224,7 @@
                                   {% endif %}
                                 </h1>
                               </td>
-                              {% if autor_teaserbild %}
+                              {% if autor_teaserbild and autor_position == 'image_top' %}
                               <td class="header__author align-right" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; width: 150px; vertical-align: bottom; text-align: right;" width="150" valign="bottom" align="right">
                                 <img src="{{ autor_teaserbild['src'] }}" alt="{% if autor_fullname %}{{ autor_fullname }}{% endif %}" width="137" height="147" class="header__author__image" style="border: none; -ms-interpolation-mode: bicubic; height: auto; float: right; display: block; max-width: 150px;">
                               </td>
@@ -236,11 +265,23 @@
                           </p>
                           {% endif %}
 
+                          {% if autor_teaserbild and autor_position == 'image_bottom' %}
+                            <img src="{{ autor_teaserbild['src'] }}" alt="{% if autor_fullname %}{{ autor_fullname }}{% endif %}" class="footer__author__image" style="border: none; -ms-interpolation-mode: bicubic; display: block; margin: 15px 0 15px 0; height: 90px; width: 90px; background-color: #496A80; border-radius: 50%;">
+                          {% endif %}
+
                           {% if root_treenode_data.replyto_address and root_treenode_data.replyto_name %}
                           <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
                               <a href="mailto:{{root_treenode_data.replyto_address}}" class="underlined" target="_blank" style="color: #2F2F2F; text-decoration: underline;">{{root_treenode_data.replyto_name}}</a>
                           </p>
-                            {% endif %}
+                          {% endif %}
+
+                          {% if ps_zeile %}
+                            <p style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px;">
+
+                              <br>
+                              {{ ps_zeile|raw }}
+                            </p>
+                          {% endif %}
                           <p class="align-right" style="color: #2F2F2F; font-family: 'Source Sans Pro', sans-serif; font-size: 18px; font-weight: normal; margin: 0; margin-bottom: 15px; text-align: right;">
                             <br>
                             <a href="{{ homepage_url }}" target="_blank" style="color: #2F2F2F; text-decoration: none;">
@@ -295,11 +336,13 @@
               </table>
               {% endif %}
 
-              <br />
-              {{ teaser_1|raw }}
-              <br />
+              {% if teaser_1 %}
+                <br />
+                {{ teaser_1|raw }}
+              {% endif %}
 
               {% for key,gruppe in nl_gruppen %}
+                <br />
                 <table border="0" cellpadding="0" cellspacing="0" class="main" style="border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background: #ffffff; width: 100%;" width="100%">
                   <tr>
                     <td class="h2__container" style="font-family: 'Source Sans Pro', sans-serif; font-size: 18px; vertical-align: top; background-color: #325472; padding: 8px 20px;" valign="top" bgcolor="#325472">

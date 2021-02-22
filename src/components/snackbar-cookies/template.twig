@@ -1,3 +1,5 @@
+{% if config is defined and config.consentDataDomainScript is not defined or config.consentDataDomainScript is empty %}
+  {% if config is defined and config.cookieProDataDomainScript is not defined or config.cookieProDataDomainScript is empty %}
 <div class="park-snackbar-cookies">
   {% include 'components/snackbar/template.twig' with {
     'id': 'cookies',
@@ -28,3 +30,5 @@
     'config': config
   } only %}
 </div>
+  {% endif %}
+{% endif %}

@@ -29,6 +29,12 @@
 
   function reducer(state, action) {
     switch (action.type) {
+      case 'SET_INITIAL_DATA': {
+        const username = action.value.username;
+        return Object.assign({}, state, {
+          username,
+        });
+      }
       case 'ERROR': {
         const { errors, username, password } = action.value;
         const reset = {
@@ -57,6 +63,14 @@
       default:
         return state;
     }
+  }
+
+  let username;
+  if (typeof window.URL === 'function') {
+    const url = new URL(window.location);
+    username = url.searchParams.get('login');
+  } else {
+    username = location.search.split('login=').pop().split('&').shift();
   }
 
   /**
@@ -90,6 +104,12 @@
     component: 'login',
     reducer,
   }).then((app) => {
+    app.store.dispatch({
+      type: 'SET_INITIAL_DATA',
+      value: {
+        username,
+      },
+    });
     function handlesubmission(form) {
       const data = new FormData(form);
       const fields = {
@@ -117,20 +137,40 @@
           app.store.dispatch(errorAction(result.errors, fields));
           return;
         }
+
+        if (result.showOptin) {
+          window.park.storage.set('park.opt_in', result.data);
+          window.location.href = '/sso/opt-in-layer';
+          return;
+        }
+
         window.park.user.setUser(result.user);
         window.park.user.login();
 
         window.park.api.getUserPreferences().then((preferences) => {
           window.park.user.setPreferences(preferences);
           let redirectUrl = '/';
+
           if (window.park.cookie.get('redirect_after_login')) {
             redirectUrl = decodeURIComponent(window.park.cookie.get('redirect_after_login'));
+            if (document.location.hostname.includes('wz.de') && redirectUrl.includes('wz.de')) {
+              const url = new URL(redirectUrl);
+              url.searchParams.append('no_cache', Date.now());
+              redirectUrl = url.toString();
+            }
             window.park.cookie.set('redirect_after_login', '', -1);
           }
+
+          const loginReferrer = window.park.storage.get('park.login.referrer');
+
+          if (window.park.exports.config.consentRedirectUrl && !loginReferrer) {
+            redirectUrl = window.park.storage.get('park.consent.referrer') ? window.park.storage.get('park.consent.referrer') : '/';
+          }
+
           redirectUrl = `${redirectUrl.split('#')[0]}#successLogin`;
 
           if (result.user.oauth_token) {
-            console.log(`${oauthConfig.oauth_redirect_uri}#access_token=${result.user.oauth_token}&token_type=bearer&state=${oauthConfig.oauth_state}`);
+            window.park.console.log(`${oauthConfig.oauth_redirect_uri}#access_token=${result.user.oauth_token}&token_type=bearer&state=${oauthConfig.oauth_state}`);
             window.location.href = `${oauthConfig.oauth_redirect_uri}#access_token=${result.user.oauth_token}&token_type=bearer&state=${oauthConfig.oauth_state}`;
             return;
           }
@@ -138,12 +178,12 @@
           if (isAllowedUrl(redirectUrl)) {
             window.location.href = redirectUrl;
           } else {
-            console.error('error', `Die Umleitungs-URL '${redirectUrl}' ist nicht erlaubt.`);
+            window.park.console.error('error', `Die Umleitungs-URL '${redirectUrl}' ist nicht erlaubt.`);
             window.location.href = '/#successLogin';
           }
         });
       }).catch((errors) => {
-        console.error('error', errors);
+        window.park.console.error('error', errors);
         app.store.dispatch(errorNotificationAction('Anmeldungs Fehler', 'Es ist leider ein Server-Fehler aufgetreten.', fields));
       });
     }
@@ -159,11 +199,11 @@
           }
           handlesubmission(form);
         };
-        console.log('capture recaptcha');
+        window.park.console.log('capture recaptcha');
         const recaptchaResponse = recaptcha.getAttribute('g-response');
         const recaptchaChallenge = recaptcha.querySelector('.g-recaptcha').getAttribute('data-size');
         if (recaptchaChallenge === 'invisible' && !recaptchaResponse) {
-          console.log('capture invisible recaptcha');
+          window.park.console.log('capture invisible recaptcha');
           window.grecaptcha.execute();
           e.preventDefault();
           return;
@@ -187,7 +227,7 @@
     function checkForNotifications() {
       switch (window.location.hash) {
         case '#emailVerified' : // TODO: This is not only registration but also email-change-verification
-          app.store.dispatch(successAction('Registrierung erfolgreich', `Die Aktivierung Ihres Kontos war erfolgreich. Sie können sich jetzt anmelden. <a href="${window.park.exports.config.loginPage}">Zur Anmeldung</a>`));
+          app.store.dispatch(successAction('Registrierung erfolgreich', 'Die Aktivierung Ihres Kontos war erfolgreich. Sie können sich jetzt anmelden.'));
           break;
         case '#noHash' :
           app.store.dispatch(errorNotificationAction('Validierungsfehler', 'Es wurde kein Hash übermittelt.'));
@@ -205,7 +245,7 @@
         case '#notLoggedInForSettings' :
         case '#notLoggedInForOptOut' :
         case '#notLoggedInForProfile' :
-          app.store.dispatch(errorNotificationAction('Anmeldung nötig', `Für diese Aktion müssen Sie angemeldet sein. <a href="${window.park.exports.config.loginPage}">Zur Anmeldung</a>`));
+          app.store.dispatch(errorNotificationAction('Anmeldung nötig', 'Für diese Aktion müssen Sie angemeldet sein.'));
           break;
         default:
           break;

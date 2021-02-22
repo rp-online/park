@@ -1,14 +1,20 @@
-<ul
-  class="park-teaser-grid-image-list{% if withAd is defined and withAd %} park-teaser-grid-image-list--with-ad{% endif %}">
-    {% if withAd is defined and withAd %}
+<{% if isNumeric %}ol{% else %}ul{% endif %}
+  class="park-teaser-grid-image-list{%
+    if withAd is defined and withAd %} park-teaser-grid-image-list--with-ad{%
+    elseif singleRow is defined and singleRow is same as(true)  %} park-teaser-grid-image-list--single-row{% endif %}
+    {% if minusOneRow is defined and minusOneRow is same as(true)  %} park-teaser-grid-image-list--minus-one-row{% endif %}">
+    {% if singleRow is defined and singleRow %}
+      {% set imageCount = 1 %}
+    {% elseif withAd is defined and withAd or minusOneRow is defined and minusOneRow %}
       {% set imageCount = 2 %}
     {% else %}
       {% set imageCount = 3 %}
     {% endif %}
     {% for item in items %}
-    <li class="park-teaser-grid-image-list__item">
+    <li class="park-teaser-grid-image-list__item isNumeric">
       {% set item = item|merge({
-        'config': config
+        'config': config,
+        'isNumeric': isNumeric
       }) %}
       {% if config.advertorial is defined and config.advertorial is same as(true) %}
         {% set item = item|merge({
@@ -23,4 +29,4 @@
       {% include 'components/teaser-list-item/template.twig' with item only %}
     </li>
   {% endfor %}
-</ul>
+</{% if isNumeric %}ol{% else %}ul{% endif %}>

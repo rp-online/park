@@ -10,30 +10,60 @@
     window.park.exports.config.isApp
   );
   const isMobile = window.park.device.isMobile();
+
+  let widgetAlreadyInserted;
+
+  function param(key) {
+    const paramsQuery = decodeURIComponent(window.location.search.substring(1));
+    const paramsArray = paramsQuery.split('&');
+    let paramsValue = false;
+
+    paramsArray.forEach((param) => {
+      const paramName = param.split('=');
+      if (paramName[0] === key) {
+        paramsValue = paramName[1] === undefined ? true : decodeURIComponent(paramName[1]);
+      }
+    });
+    return paramsValue;
+  }
+
+  function translateLiterals(data, translation) {
+    Object.entries(translation).forEach(([pattern, replacement]) => {
+      data = data.replace(pattern, replacement);
+    });
+
+    return data;
+  }
+
+  if (Object.keys(window.creExternalData).length === 0) {
+    // TODO Check whether this can be raised to 'error' (multitenancy?)
+    window.park.console.info('No CRE ExternalData present or configured');
+    return;
+  }
+
   let origin = 'web';
   let utmMedium = 'paywall';
+  const utmSource = window.creExternalData.utmData.utmSource;
   let loginUrl = '/sso/login';
 
-  const freemiumData = {
-    headline: 'Weiterlesen ist kostenlos',
-    text: 'Wir möchten Sie nur gerne kennenlernen - Ihre E-Mail Adresse reicht. Registrieren Sie sich kostenlos, dann schalten wir diesen Artikel für Sie frei.',
-    subline: 'Die Registrierung beinhaltet den Erhalt von Werbemailings zu unseren Angeboten.*',
-    footer: { text: '* Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) persönlich informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an <a href="mailto:leserservice@rheinische-post.de">leserservice@rheinische-post.de</a>). <br><br><strong>Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Zusatzfunktionen auf RP ONLINE vereinbart. Die Angabe einer gültigen E-Mail-Adresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen.</strong> Mit der Registrierung erkläre ich mich mit den <a href="/info/agb" target="_blank">Teilnahmebedingungen</a> und der <a href="/info/datenschutz" target="_blank">Datenschutzerklärung</a> einverstanden.' },
-    cta: {
-      text: 'Jetzt Registrieren',
-      href: `/sso/register?utm_source=rpo&utm_medium=${utmMedium}`,
-    },
-    login: {
-      text: 'Bereits registriert?',
-      cta: {
-        text: 'Jetzt anmelden.',
-        href: '/sso/login',
-      },
-    },
-    vendors: {
-      loginWithGoogle: true,
-    },
+  let utmCampaign = param('utm_campaign') || '';
+  if (param('utm_source') && !param('utm_campaign')) {
+    utmCampaign = param('utm_source');
+  }
+  const utmCampaignParam = utmCampaign ? `&utm_campaign=${utmCampaign}` : '';
+
+  const transTable = {
+    '{utmSource}': utmSource,
+    '{utmMedium}': utmMedium,
+    '{utmCampaignParam}': utmCampaignParam,
   };
+  window.creExternalData.freemiumData.cta.href = translateLiterals(
+    window.creExternalData.freemiumData.cta.href, transTable
+  );
+  const freemiumData = window.creExternalData.freemiumData;
+  const fallBackOffers = window.creExternalData.fallbackOffers;
+  const fallBackOffersMeta = window.creExternalData.fallbackOffersMeta;
+
   const ctaNewsletterHeadline = 'Jetzt Newsletter bestellen';
   const ctaNewsletterOptinText = '<p>Ich bin einverstanden, dass mich die Rheinische Post Verlagsgesellschaft mbH per E-Mail über passende Verlagsangebote (Print- und Onlineabonnements, Gewinnspiele, Veranstaltungen und RP Shop Artikel) persönlich informiert und kann dies jederzeit widerrufen (per Abmeldelink im Newsletter oder per E-Mail an leserservice@rheinischepost.de)</p><p>Die Zustimmung wird ausdrücklich als vertragliche Gegenleistung für die zur Verfügung gestellten registrierungspflichtigen Artikel und Features auf RP ONLINE (z.B. Personalisierung der Seite) vereinbart. Die Angabe einer gültigen E-Mail-Adresse ist für die Registrierung erforderlich und kann ohne sie nicht erfolgen. it der Registrierung erkläre ich mich mit dem Teilnahmebdeingungen und der Datenschutzerklärung einverstanden.</p>';
 
@@ -51,13 +81,16 @@
       !document.documentElement.classList.contains('is-advertorial');
   }
 
-  function isArticle() {
-    return !!document.querySelector('.park-article') &&
-      !document.documentElement.classList.contains('is-advertorial');
+  function isPayedContent() {
+    return (!!document.querySelector('.park-article') && !document.documentElement.classList.contains('is-advertorial'))
+      || !!document.querySelector('.park-video-with-caption')
+      || !!document.querySelector('.park-gallery');
   }
 
-  function isReducedArticle() {
-    return !!document.querySelector('.park-article--reduced');
+  function isReducedPayedContent() {
+    return !!document.querySelector('.park-article--reduced')
+      || !!document.querySelector('.park-video--reduced')
+      || !!document.querySelector('.park-gallery--reduced');
   }
 
   function isFacebookSurface() {
@@ -109,14 +142,18 @@
         .ajax(url)
         .then(result => result.json())
         .then((result) => {
-          const offerIds = result.data.groups.reduce((previousOfferIds, currentGroup) =>
+          [window.cre.retrievedOfferData] = result.data.groups;
+          let offerIds = result.data.groups.reduce((previousOfferIds, currentGroup) =>
               previousOfferIds.concat(currentGroup.offers.map(offer => offer.offer_id))
             , []);
 
+          if (!offerIds.length) {
+            offerIds = fallBackOffers;
+          }
           resolve(offerIds);
         })
         .catch(() => {
-          resolve([]);
+          resolve(fallBackOffers);
         });
     });
   }
@@ -152,34 +189,65 @@
   }
 
   function trackOffersView(offerIds) {
-    window.cre_client.set_service_id('rpo'); // Konstante
+    const trackingSettings = window.creExternalData.offerTracking;
+
+    window.cre_client.set_service_id(trackingSettings.service_id);
     window.cre_client.set_origin(origin);
-    window.cre_client.set_entitlement_id('digital_web'); // Konstante
-    window.cre_client.set_cms_id('offerpage/form/view'); // Konstante
-    window.cre_client.set_content_id('offerpage/form/view'); // Konstante
-    window.cre_client.set_channel('offers'); // Konstante
-    window.cre_client.set_sub_channel('view');
-    window.cre_client.set_doc_type('paywall');
+    window.cre_client.set_entitlement_id(trackingSettings.entitlement_id);
+    window.cre_client.set_cms_id(trackingSettings.cms_id);
+    window.cre_client.set_content_id(trackingSettings.content_id);
+    window.cre_client.set_channel(trackingSettings.channel);
+    window.cre_client.set_sub_channel(trackingSettings.sub_channel);
+    window.cre_client.set_doc_type(trackingSettings.doc_type);
     window.cre_client.set_offer_ids(offerIds);
     window.cre_client.request();
   }
 
-  function buildNotice(notice, read, limit) {
+  function trackOffer(offerIds) {
+    const trackingSettings = window.creExternalData.offerTracking;
+    const variantIds = [];
+    const disrupterIds = [];
+
+    window.cre.retrievedOfferData.offers.forEach((offer) => {
+      variantIds.push(offer.config.variant);
+      disrupterIds.push(offer.config.attributes.disrupter);
+    });
+
+    window.cre_client.set_service_id(trackingSettings.service_id);
+    window.cre_client.set_origin(origin);
+    window.cre_client.set_entitlement_id(trackingSettings.entitlement_id);
+    window.cre_client.set_cms_id('/offer/view');
+    window.cre_client.set_content_id('/offer/view');
+    window.cre_client.set_channel(trackingSettings.channel);
+    window.cre_client.set_sub_channel(trackingSettings.sub_channel);
+    window.cre_client.set_doc_type(trackingSettings.doc_type);
+    window.cre_client.set_offer_ids(offerIds);
+
+    window.cre_client.set_site(window.cre.site);
+    window.cre_client.set_variant_ids(variantIds.join());
+    window.cre_client.set_disrupter_ids(disrupterIds.join());
+
+    window.cre_client.request();
+  }
+
+  function buildNotice(notice, read, limit, weekly) {
     const articlesLeft = limit - read;
+    let timerange = (weekly) ? 'dieser Woche' : 'diesem Monat';
 
     let addition;
     switch (articlesLeft) {
       case 3:
-        addition = 'Sie können in diesem Monat noch drei weitere Artikel gratis lesen. ';
+        addition = `Sie können in ${timerange} noch drei weitere Artikel gratis lesen.`;
         break;
       case 2:
-        addition = 'Sie können in diesem Monat noch zwei weitere Artikel gratis lesen.';
+        addition = `Sie können in ${timerange} noch zwei weitere Artikel gratis lesen.`;
         break;
       case 1:
-        addition = 'Sie können in diesem Monat noch einen weiteren Artikel gratis lesen.';
+        addition = `Sie können in ${timerange} noch einen weiteren Artikel gratis lesen.`;
         break;
       case 0:
-        addition = 'Das ist der letzte Artikel, den Sie diesen Monat gratis lesen können.';
+        timerange = (weekly) ? 'diese Woche' : 'diesen Monat';
+        addition = `Das ist der letzte Artikel, den Sie ${timerange} gratis lesen können.`;
         break;
       // by default only return the notice message
       default:
@@ -203,13 +271,15 @@
             if (!offerConfig.osc_url) {
               return;
             }
+            const weekly = config.url_alt_offer_text.includes('Woche') || window.location.hash.includes('Woche');
 
             const data = {
-              headline: buildNotice(config.notice, response.data.count, response.data.max_count),
-              text: config.more_articles_text,
+              headline: buildNotice(offerConfig.pw_offer_name, response.data.count,
+                response.data.max_count, weekly),
+              text: '',
               link: {
                 text: offerConfig.pw_offer_subtitle,
-                href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=rpo&utm_medium=notification&utm_campaign=${response.data.count}`,
+                href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=${utmSource}&utm_medium=notification${utmCampaignParam}`,
               },
             };
 
@@ -225,20 +295,22 @@
       });
   }
 
-  function createWidget(offerId, data) {
+  function createWidget(offerIds, data) {
     const widget = window.park.widgets.create({
       type: 'paywall-article',
       initialState: data,
     });
 
-    const articleElem = document.querySelector('.park-article--reduced');
+    const reducedElem = document.querySelector('[class*="--reduced"]');
 
-    if (!articleElem) {
+    if (!reducedElem) {
       return null;
     }
 
-    articleElem.insertAdjacentElement('afterend', widget);
-    trackOffersView([offerId]);
+    reducedElem.insertAdjacentElement('afterend', widget);
+
+    trackOffersView([offerIds[0]]);
+    trackOffer(offerIds);
 
     return widget;
   }
@@ -250,7 +322,6 @@
           const c1offer = window.location.hash.split(':')[1];
           offerIds = c1offer.split(',');
         }
-
         if (offerIds[0] === 'login' && !isFacebookSurface()) {
           createWidget('login', freemiumData);
           return;
@@ -274,14 +345,13 @@
               priceextension: offerConfig.priceextension,
               cta: {
                 text: offerConfig.pw_offer_subtitle,
-                href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=rpo&utm_medium=${utmMedium}`,
+                href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=${utmSource}&utm_medium=${utmMedium}${utmCampaignParam}`,
               },
             });
           });
           if (offerListData.length > 0) {
             offerListData[0].selected = true;
           }
-
           const login = (!window.park.user.isLoggedIn()) ? {
             text: 'Bereits Abonnent?',
             cta: {
@@ -295,7 +365,7 @@
             text,
             cta: {
               text: offerConfig.pw_offer_subtitle,
-              href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=rpo&utm_medium=${utmMedium}`,
+              href: `${offerConfig.osc_url}${offerConfig.osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=${utmSource}&utm_medium=${utmMedium}${utmCampaignParam}`,
             },
             login,
             offers: offerListData,
@@ -304,7 +374,7 @@
             },
           };
 
-          createWidget(offerIds[0], data);
+          createWidget(offerIds, data);
         });
       });
   }
@@ -339,7 +409,7 @@
             position = {};
           }
           const isParentHeader = elem.parentNode.classList.contains('park-header__offer');
-          if (isArticle() && position.article && isParentHeader) {
+          if (isPayedContent() && position.article && isParentHeader) {
             window.park.storage.set('park.offer.withoutOffers', true);
             return;
           }
@@ -395,7 +465,7 @@
     }
     const supressOfferVisitCount = parseInt((window.park.storage.get('park.offer.suppress') || 0), 10);
 
-    if (isArticle()) {
+    if (isPayedContent()) {
       if (window.location.hash.indexOf('c1notification') !== -1) {
         response.data.type = 'reminder';
       }
@@ -415,7 +485,7 @@
           });
       }
 
-      if (isReducedArticle()) {
+      if (isReducedPayedContent()) {
         getNotificationConfig(notificationConfigUrl)
           .then((config) => {
             createPaywallArticle(response, config);
@@ -427,16 +497,43 @@
 
     if (window.location.hash.indexOf('c1template') !== -1) {
       templateId = window.location.hash.split(':').slice(1).join(':');
+      response.data.template_id = templateId;
+    }
+
+    let actionGroupsParameter = [];
+
+    if (response.data.action_groups &&
+      response.data.action_groups.cms_snippet &&
+      response.data.action_groups.cms_snippet.parameters) {
+      actionGroupsParameter = response.data.action_groups.cms_snippet.parameters;
+    }
+
+    window.dataLayer[0].actionGroups = {};
+
+    for (let i = 0; i < actionGroupsParameter.length; i += 1) {
+      if (actionGroupsParameter[i].startsWith('segment:')) {
+        const segmentGroup = actionGroupsParameter[i].replace('segment:', '');
+        window.dataLayer[0].actionGroups.segment = segmentGroup;
+      } else if (actionGroupsParameter[i].startsWith('abonnement:')) {
+        const abonnementGroup = actionGroupsParameter[i].replace('abonnement:', '');
+        window.dataLayer[0].actionGroups.abonnement = abonnementGroup;
+      } else {
+        actionGroupsParameter[i] = actionGroupsParameter[i].replace('celeraone:', '');
+        if (window.dataLayer[0].actionGroups.other) {
+          window.dataLayer[0].actionGroups.other = `${window.dataLayer[0].actionGroups.other}|${actionGroupsParameter[i]}`;
+        } else {
+          window.dataLayer[0].actionGroups.other = actionGroupsParameter[i];
+        }
+      }
     }
 
     if (templateId) {
       switch (true) {
         case templateId.startsWith('pushnotifications'):
-        case templateId.startsWith('pushnotifications:general'):
           console.info('CRE: Push Notifications');
           if (
             window.park.pushNotifications &&
-            !isReducedArticle()
+            !isReducedPayedContent()
           ) {
             window.park.pushNotifications.isSupported().then(() => {
               if (
@@ -446,7 +543,8 @@
               ) {
                 return;
               }
-              fillOfferSlots(response);
+              // fillOfferSlots(response);
+              window.park.eventHub.trigger(document, `park.${templateId}`);
             });
           }
           break;
@@ -457,8 +555,8 @@
 
             if (
               !isIndex && (
-                !isArticle() ||
-                isReducedArticle()
+                !isPayedContent() ||
+                isReducedPayedContent()
               )
             ) {
               return;
@@ -566,6 +664,9 @@
 
               window.park.observer.initialize('.park-opener', () => {
                 window.park.observer.initialize('.park-section:first-child', (elem) => {
+                  if (widgetAlreadyInserted) {
+                    return;
+                  }
                   const nextSection = document.querySelector('.park-section:first-child + .park-section');
                   if (
                     nextSection &&
@@ -586,6 +687,7 @@
                   section.appendChild(widget);
 
                   elem.parentNode.insertBefore(section, elem.nextElementSibling);
+                  widgetAlreadyInserted = true;
                 });
               });
             }
@@ -605,7 +707,7 @@
           console.info('CRE: Offer');
           if (
             supressOfferVisitCount === 0 &&
-            !isReducedArticle() &&
+            !isReducedPayedContent() &&
             (
               window.park.storage.get('park.cookieConsent') === true ||
               window.park.cookie.get('rpo-cookie-hint-disabled') === true
@@ -620,17 +722,63 @@
     window.park.storage.set('park.offer.suppress', `${Math.max(0, supressOfferVisitCount - 1)}`);
   }
 
+  function fallBackOffersData() {
+    const login = (!window.park.user.isLoggedIn()) ? {
+      text: 'Bereits Abonnent?',
+      cta: {
+        text: 'Jetzt anmelden',
+        href: loginUrl,
+      },
+    } : {};
+
+    const offerListData = [];
+
+    Object.keys(fallBackOffers).forEach((offer) => {
+      offerListData.push({
+        id: offer,
+        name: fallBackOffers[offer].pw_offer_name,
+        text: fallBackOffers[offer].pw_offer_text,
+        price: fallBackOffers[offer].price,
+        priceinfo: fallBackOffers[offer].priceinfo,
+        priceextension: fallBackOffers[offer].priceextension,
+        cta: {
+          text: fallBackOffers[offer].pw_offer_subtitle,
+          href: `${fallBackOffers[offer].osc_url}${fallBackOffers[offer].osc_url.indexOf('?') > -1 ? '&' : '?'}utm_source=${utmSource}&utm_medium=${utmMedium}${utmCampaignParam}`,
+        },
+      });
+    });
+
+    if (offerListData.length > 0) {
+      offerListData[0].selected = true;
+    }
+
+    return {
+      headline: fallBackOffersMeta.hl_wall,
+      text: fallBackOffersMeta.sub_hl_fr_wall,
+      cta: {
+        text: offerListData[0].cta.text,
+        href: offerListData[0].cta.href,
+      },
+      login,
+      offers: offerListData,
+      vendors: {
+        subscribeWithGoogle: (!isFacebookSurface() && !window.park.user.isLoggedIn() && window.cre.subscribewithgoogle === 'true'),
+      },
+    };
+  }
+
   function fallbackHandler() {
     if (isClickDummy && window.location.hash.indexOf('c1template') !== -1) {
       responseHandler();
     }
 
-    if (isArticle() && isReducedArticle() && !isFacebookSurface()) {
-      createWidget('login', freemiumData);
+    if (isPayedContent() && isReducedPayedContent() && !isFacebookSurface()) {
+      createWidget('login', fallBackOffersData());
     }
   }
 
   if (!window.cre || !window.cre.trackingApiUrl || !window.cre.contentid) {
+    // TODO Check whether this can be raised to 'error' (multitenancy?)
     window.park.console.info('No CRE config for this specific page found');
     return;
   }

@@ -3,7 +3,7 @@
 
 (() => {
   let parkValue;
-  const selectorWhitelist = ['pt-field input', '#wz_optin_form input'];
+  const selectorWhitelist = ['pt-field input', '#wz_optin_form input', '#onetrust-group-container input', '#mo_page input'];
   const whitelistSelector = (selector) => {
     selectorWhitelist.push(selector);
   };

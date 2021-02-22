@@ -50,7 +50,7 @@
           }, target);
         }
       }).catch((result) => {
-        console.error('error', result);
+        window.park.console.error('error', result);
         app.store.dispatch(errorAction(result.errors[0].text, login));
       });
     });

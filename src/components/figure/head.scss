@@ -1,6 +1,6 @@
 .park-figure {
   position: relative;
-  display: block;
+  display: flex;
   margin: 0 0 rem(30px) 0;
 
   .park-section-nav + & {
@@ -20,6 +20,7 @@
 
   figure {
     position: relative;
+    flex: 1 1 100%;
   }
 
   &__link {
@@ -50,7 +51,10 @@
     max-width: none;
     margin: 0;
     padding: rem(80px) $global-spacing rem(20px);
-    background-image: linear-gradient(to bottom, transparent, rgba(34, 34, 34, 0.8));
+
+    &.park-figure__caption-gradient {
+      background-image: linear-gradient(to bottom, transparent, rgba(34, 34, 34, 0.8));
+    }
 
     @include mq(desktop) {
       padding: rem(30px) $global-spacing $global-spacing;

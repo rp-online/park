@@ -1,0 +1,13 @@
+{
+  "headline": {
+    "tag": "h1",
+    "text": "Zugang freischalten"
+  },
+  "text": "Bitte legen Sie Ihr persönliches Passwort fest.",
+  "form": {
+    "action": "#void",
+    "method": "post",
+    "username": "SneakyJoe"
+  },
+  "loginURL": "/sso/login"
+}

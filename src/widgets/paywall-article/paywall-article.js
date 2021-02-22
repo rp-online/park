@@ -1,6 +1,7 @@
 /* eslint-disable */
 // TODO: Re-enable eslint and fix errors
 (() => {
+  console.log('TEST: paywall-article()');
   window.park.app({
     container: 'paywall-article',
     component: 'article-paywall',
@@ -9,6 +10,13 @@
     const locationUrl = window.location.href.split("?")[0];
     window.park.cookie.set('rpo-last-article', locationUrl, 3600);
     window.park.cookie.set('redirect_after_login', locationUrl, 3600);
+
+    if (typeof window.dataLayer[0] === 'object') {
+      window.park.cookie.set('rpo-last-article', window.dataLayer[0].analyticsUrl, 3600);
+      window.park.cookie.set('rpo-last-article-title', window.dataLayer[0].title, 3600);
+      const thema = window.dataLayer[0].thema ? window.dataLayer[0].thema : '';
+      window.park.cookie.set('rpo-last-article-thema', thema, 3600);
+    }
 
     app.bindEvent('change', '.park-article-paywall__wrapper .park-input__input', (e) => {
       const elem = e.target;
@@ -69,8 +77,8 @@
 
       const subscribeResponse = (subscriptionPromise) => {
         subscriptionPromise.then((response) => {
-          console.log('subscribeResponse');
-          console.log(response);
+          window.park.console.log('subscribeResponse');
+          window.park.console.log(response);
           // create the local account
           ssoConnectByIdToken(response.userData.idToken).then((ssoAccountResponse) => {
             logEvent('c1:createsubscription');
@@ -89,13 +97,13 @@
         entitlementsPromise.then((entitlements) => {
           // Handle the entitlements.
           logEvent('entitlement-check:response');
-          console.log(entitlements);
+          window.park.console.log(entitlements);
 
             // Google returns a subscription
           if (entitlements.enablesAny()) {
             const accountLookupPromise = c1PurchaseTokenLookup(entitlements.raw);
             subscriptions.waitForSubscriptionLookup(accountLookupPromise).then((account) => {
-              console.log('WAIT2');
+              window.park.console.log('WAIT2');
               if (account) {
                 logEvent('entitlement-check:account-found');
 
@@ -110,14 +118,14 @@
                       }else{
                         logEvent('login-flow:error');
                         window.location.href(`/sso/login`);
-                        console.error(result);
+                        window.park.console.error(result);
                       }
                     });
                   });
                 }, (reason) => {
                   // User clicked 'No'. Publisher can decide how to handle this situation.
                   logEvent('login-flow:no-content');
-                  console.log(reason);
+                   window.park.console.log(reason);
                 });
 
               } else {
@@ -181,10 +189,36 @@
       window.buttonAction = () => {
         logEvent('button:clicked');
 
-        console.log('action button clicked 2');
+        window.park.console.log('action button clicked 2');
         subscriptions.showOffers({ isClosable: true });
       };
     });
+    }
+    if( window.cre.iframeflow == 'true'){
+      document.documentElement.addEventListener('click', function(e) {
+        if (e.target.matches('.park-article-paywall__cta .park-button')) {
+          e.preventDefault();
+          const srcUrl = document.querySelector('.park-article-paywall__cta a').getAttribute('href');
+          const loadingSpinner = document.getElementsByClassName('park-loading-spinner');
+          let content = document.getElementsByClassName('park-article-paywall__content');
+          content[0].innerHTML = '';
+          loadingSpinner[0].style.display = 'inline';
+          let iframe = document.createElement('iframe');
+          iframe.setAttribute('src', srcUrl + '&inline=1');
+          iframe.setAttribute('id', 'iframe-park');
+          iframe.setAttribute('width', '100%');
+          iframe.setAttribute('name', 'paywall-flow');
+          iframe.className = "park-iframe park-iframe__iframe";
+          iframe.setAttribute('onload', "this.style.height=(this.contentWindow.document.body.scrollHeight+20)+'px';");
+          iframe.style.display = "none";
+          content[0].appendChild(iframe);
+          iframe.addEventListener('load', function (){
+            loadingSpinner[0].style.display = 'none';
+            iframe.style.display = "inline";
+          })
+
+        }
+      }, true);
     }
 
   });

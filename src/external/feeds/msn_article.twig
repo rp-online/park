@@ -23,7 +23,7 @@
 				<dc:publisher xmlns:dc="http://purl.org/dc/terms">RP ONLINE</dc:publisher>
 				<content:encoded><![CDATA[{{ item['volltext']|raw }}]]></content:encoded>
 				<description><![CDATA[{{ item['teasertext'] }}]]></description>
-				<guid isPermaLink="true">{{ item['guid'] }}</guid>
+				<guid isPermaLink="{{ item['guid_permalink'] }}">{{ item['guid'] }}</guid>
                 {% for media in item.media %}
 					<media:content url="{{ media.url }}">
 						<media:thumbnail url="{{ media.thumbnail }}" type="image/jpeg" />
@@ -53,6 +53,12 @@
 					<dc:modified xmlns:dc="http://purl.org/dc/terms">{{ item['datum'] }}</dc:modified>
 					<dateTimeWritten>{{ item['datum'] }}</dateTimeWritten>
                 {% endif %}
+          {% if item['dcterms_modified'] %}
+            <dcterms:modified>{{ item['dcterms_modified'] }}</dcterms:modified>
+          {% endif %}
+          {% if item['dcterms_valid'] %}
+            <dcterms:valid>{{ item['dcterms_valid'] }}</dcterms:valid>
+          {% endif %}
 			</item>
         {% endfor %}
 	</channel>

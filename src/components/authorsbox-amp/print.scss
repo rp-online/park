@@ -1,0 +1,21 @@
+.park-authorsbox {
+  .park-button-arrow-toggle,
+  .park-image,
+  &__link-list {
+    &,
+    * {
+      display: none;
+    }
+  }
+
+  &__authors,
+  &__name,
+  &__position,
+  &__details {
+    margin-left: 0;
+  }
+
+  &__tab-link {
+    text-decoration: none;
+  }
+}

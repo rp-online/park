@@ -12,6 +12,10 @@
   @include mq(desktop) {
     margin-bottom: $global-spacing;
     box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.17);
+
+    & .park-section {
+      box-shadow: none;
+    }
   }
 
   &--collapsible {
@@ -34,7 +38,8 @@
   .park-portal-marker &,
   .is-advertorial & {
     /* stylelint-disable */
-    & ~ .park-section {
+    & ~ .park-section,
+    & > .park-section {
       &::after {
         display: none;
       }

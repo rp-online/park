@@ -33,11 +33,7 @@
         <abbr class="park-input__required" title="Dieses Eingabefeld ist erforderlich">*</abbr>
       {% endif %}</label>
   {% endif %}
-  <input id="{{ id }}"
-    {% if type is not defined or type not in ['checkbox', 'radio', 'toggle', 'tag'] %}
-      autocapitalize="words"
-    {% endif %}
-         class="park-input__input"
+  <input id="{{ id }}" class="park-input__input"
     {% if name is defined %}
       name="{{ name }}"
     {% endif %}
@@ -52,7 +48,7 @@
     {% if placeholder is defined %}
       placeholder="{{ placeholder }}"
     {% endif %}
-    {% if pattern is defined %}
+    {% if pattern is defined and pattern is not empty %}
       pattern="{{ pattern }}"
     {% endif %}
     {% if inputmode is defined %}

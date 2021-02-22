@@ -1,0 +1,897 @@
+{
+  "bookmarks": [
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Endlich wieder der alte FC Bayern"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Symbolgrafik: Logos von Bayern München und Arsenal London nebeneinander",
+      "kicker": {
+        "tag": "span",
+        "text": "Lage der Liga"
+      },
+      "label": "Meinung",
+      "dateline": "München",
+      "intro": "Das Last-Minute-Tor des FC Bayern bei der Hertha hat im Nachhinein für Diskussionsstoff gesorgt. Die Partie hat aber eins gezeigt: Die Dusel-Bayern sind verwundbar."
+    },
+    {
+      "id": 1,
+      "type": "video",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Air Berlin besitzt keine eigenen Flugzeuge mehr"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Nur noch geleaste Maschinen"
+      },
+      "dateline": "Berlin",
+      "intro": "Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden.Berlin. Die Ermittlungen gegen ZDF-Moderator Jan Böhmermann wegen dessen Schmähgedicht über den türkischen Präsidenten Recep Tayyip Erdogan sind eingestellt worden."
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden."
+    },
+    {
+      "id": 1,
+      "type": "article",
+      "href": "#void",
+      "headline": {
+        "tag": "h2",
+        "text": "Erst 30.000 Flüchtlinge haben einen Job"
+      },
+      "src": "./assets/images/261x196.jpg",
+      "alt": "Eine süße Katze",
+      "kicker": {
+        "tag": "span",
+        "text": "Interview mit Bamf-Präsident Weise"
+      },
+      "dateline": "Düsseldorf",
+      "intro": "Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration. Seit dem letzten Frühjahr haben erst rund 30.000 Flüchtlinge eine Stelle gefunden. Im Gespräch mit unserer Redaktion unterstreicht der Chef des Bundesamtes für Migration und Flüchtlinge, Frank-Jürgen Weise: Unseren Fachkräftebedarf decken wir niemals aus der Fluchtmigration."
+    }
+  ],
+  "topics": [
+    {
+      "type": "topic",
+      "id": "2347",
+      "isAd": false,
+      "src": "./assets/images/opener.jpg",
+      "name": "Rheinkirmes",
+      "href": "#void",
+      "count": 48,
+      "description": "Höher, schneller, weiter - die Top-Attraktionen der deutschen Schausteller-Szene lockten auch dieses Jahr wieder mehrere Millionen Besucher zur Rheinkirmes. Die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der bekanntesten Volksfeste in Deutschland. Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk,das am Freitag, 19. Juli 2019, über dem Rhein erstrahlen wird. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "topic",
+      "id": "2347",
+      "isAd": false,
+      "src": "./assets/images/opener.jpg",
+      "name": "Rheinkirmes",
+      "href": "#void",
+      "count": 48,
+      "description": "Höher, schneller, weiter - die Top-Attraktionen der deutschen Schausteller-Szene lockten auch dieses Jahr wieder mehrere Millionen Besucher zur Rheinkirmes. Die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der bekanntesten Volksfeste in Deutschland. Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk,das am Freitag, 19. Juli 2019, über dem Rhein erstrahlen wird. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "topic",
+      "id": "2347",
+      "isAd": false,
+      "src": "./assets/images/opener.jpg",
+      "name": "Rheinkirmes",
+      "href": "#void",
+      "count": 48,
+      "description": "Höher, schneller, weiter - die Top-Attraktionen der deutschen Schausteller-Szene lockten auch dieses Jahr wieder mehrere Millionen Besucher zur Rheinkirmes. Die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der bekanntesten Volksfeste in Deutschland. Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk,das am Freitag, 19. Juli 2019, über dem Rhein erstrahlen wird. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "topic",
+      "id": "2347",
+      "isAd": false,
+      "src": "./assets/images/opener.jpg",
+      "name": "Rheinkirmes",
+      "href": "#void",
+      "count": 48,
+      "description": "Höher, schneller, weiter - die Top-Attraktionen der deutschen Schausteller-Szene lockten auch dieses Jahr wieder mehrere Millionen Besucher zur Rheinkirmes. Die \"Größte Kirmes am Rhein\" in Düsseldorf ist eines der bekanntesten Volksfeste in Deutschland. Sie findet jedes Jahr in der dritten Juliwoche statt und dauert zehn Tage lang. Als Höhepunkt gilt das Feuerwerk,das am Freitag, 19. Juli 2019, über dem Rhein erstrahlen wird. Veranstalter der Kirmes ist der Schützenverein Sankt Sebastianus.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    }
+  ],
+  "authors": [
+    {
+      "type": "author",
+      "isAd": false,
+      "id": "H2347",
+      "src": "./assets/images/card-author.png",
+      "name": "Dorothee Krings",
+      "position": "Gesellschaft",
+      "href": "#void",
+      "count": 48,
+      "description": "Sie wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Ihren Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat sie in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist sie über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo sie von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\n\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "author",
+      "isAd": false,
+      "id": "H2347",
+      "src": "./assets/images/card-author.png",
+      "name": "Dorothee Krings",
+      "position": "Gesellschaft",
+      "href": "#void",
+      "count": 48,
+      "description": "Sie wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Ihren Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat sie in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist sie über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo sie von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\n\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "author",
+      "isAd": false,
+      "id": "H2347",
+      "src": "./assets/images/card-author.png",
+      "name": "Dorothee Krings",
+      "position": "Gesellschaft",
+      "href": "#void",
+      "count": 48,
+      "description": "Sie wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Ihren Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat sie in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist sie über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo sie von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\n\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    },
+    {
+      "type": "author",
+      "isAd": false,
+      "id": "H2347",
+      "src": "./assets/images/card-author.png",
+      "name": "Dorothee Krings",
+      "position": "Gesellschaft",
+      "href": "#void",
+      "count": 48,
+      "description": "Sie wurde 1990 in Zwenkau bei Leipzig geboren, fühlt sich seit 2011 jedoch in NRW und seit 2013 ganz speziell in Düsseldorf pudelwohl. Ihren Bachelor of Arts in Soziologie und Anglistik/Amerikanistik hat sie in Münster erworben, vorher dafür jedoch auch in Würzburg die Bücher gewälzt. Zum Journalismus gekommen ist sie über das Campusradio in Bochum und schließlich ein Praktikum bei Antenne Düsseldorf, wo sie von 2013 bis 2015 volontiert hat, mit einem Kurzausflug zur Deutschen Presse-Agentur im Dezember 2014.\n\nSeit 2015 ist er bei RP ONLINE. Dort arbeitet er in der Redaktion Digitales und im Team Audience Engagement mit dem Schwerpunkt Social Media. Über Danksagungen und Kritik, die sich gewaschen hat, freut er sich per Twitter oder Facebook sowie Snail- oder E-Mail.",
+      "items": [
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "USA nach der Wahl"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Nicht mein Präsident\" - Proteste gegen Donald Duck"
+          },
+          "href": "#void",
+          "target": "_blank",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Fortuna-Boss Schäfer im Interview"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "\"Bei Akpoguma werden wir kreativ sein\""
+          },
+          "href": "https://google.com",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Zugunglück von Bad Aibling"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Fahrdienstleiter legt im Prozess Geständnis ab"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "./assets/images/142x108.jpg",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "src": "",
+          "alt": "Schmusekatze"
+        },
+        {
+          "id": 1,
+          "isAd": false,
+          "kicker": {
+            "tag": "span",
+            "text": "Borussia-Sportdirektor"
+          },
+          "headline": {
+            "tag": "h2",
+            "text": "Eberl lässt die Bayern-Gerüchte über sich ergehen"
+          },
+          "href": "#void",
+          "alt": "Schmusekatze"
+        }
+      ]
+    }
+  ]
+}

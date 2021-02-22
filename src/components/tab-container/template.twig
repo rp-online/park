@@ -1,8 +1,14 @@
 <article class="park-tab-container
 {% if type is defined %}
 park-tab-container--{{ type }}
+{%
+  if type is same as('30percent') or type is same as('minus30percent') %}{%
+    set showTabs = 1 %}{%
+  endif
+%}
 {% endif %}
 ">
+  {% if blocks|length > 1 %}{% set showTabs = 1 %}{% endif %}
   {% if headline is defined %}
     <header class="park-tab-container__header">
       {# The following injects the global config #}
@@ -15,7 +21,7 @@ park-tab-container--{{ type }}
     </header>
   {% endif %}
   {% set uuid = random() %}
-  {% if blocks|length > 1 %}
+  {% if showTabs is defined %}
     <ul role="tablist" class="park-tab-container__tabs">
       {% for block in blocks %}
         <li role="presentation" class="park-tab-container__tab">

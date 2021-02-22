@@ -6,20 +6,24 @@
         {{ body|raw }}
     </div>
     <script>
-        (function(e,t,n,r,i,s,o){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},e[i].l=1*new Date;
-        s=t.createElement(n),o=t.getElementsByTagName(n)[0];s.async=1;s.src=r;o.parentNode.insertBefore(s,o)}
-        )(window,document,"script",'//widgets.tickaroo.com/embedjs/v1.js?client_id={{ clientId }}',"_tik");
+          (function(e,t,n,r,i,s,o){e[i]=e[i]||function(){(e[i].q=e[i].q||[]).push(arguments)},
+          e[i].l=1*new Date;s=t.createElement(n),o=t.getElementsByTagName(n)[0];s.async=1;
+          s.src=r;o.parentNode.insertBefore(s,o)})(window,document,"script",
+          '//cdn.tickaroo.com/embedjs/tik3.js',"_tik");
+
         _tik(function() {
-        window.theticker = Tickaroo.embedTicker({
+        window.theticker = Tickaroo.embedLiveblog({
             container: document.getElementById('ticker'),
+            clientId: "{{ clientId }}",
             id: "{{ blogId }}",
             limit: {{ limit }},
             handleRefresh: 'notify',
-            showEventMeta: true,
+            showEventMeta: 'reporter',
             showEventSharing: {{ showEventSharing ? 'true' : 'false' }},
+            showLineup:  {{ showLineup ? 'true' : 'false' }},
             coalesceRepeatedMeta: {{ coalesceRepeatedMeta ? 'true' : 'false' }},
             reverseEvents: {{ reverseEvents ? 'true' : 'false' }},
-            style: '{{ useTileFormat ? 'imagegrid' : '' }}',
+            showWebEmbeds: 'consent_handling', // GERACM-7362 - 2-Klick-Lösung (Datenschutz) für Tickaroo Liveblog umsetzen
             trackingCallback: function(id, reason, type, foundContent) {
                 switch (type) {
                     default:

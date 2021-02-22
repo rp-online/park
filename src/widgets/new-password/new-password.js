@@ -54,6 +54,11 @@
       },
     });
 
+    if (hash == null || username == null) {
+      app.store.dispatch(errorAction('Fehlerhafter Link', ''));
+      return;
+    }
+
     app.bindEvent('submit', '.park-form', (e) => {
       e.preventDefault();
       const form = e.target;

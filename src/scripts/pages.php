@@ -44,7 +44,9 @@ foreach (glob('./../pages/*/*.twig') as $templateFile) {
   $data['header'] = $header;
   $data['footer'] = $footer;
 
+  echo $pagename ." ";
   $html = $twig->render('pages/' . $pagename . '/template.twig', $data);
+  echo "\033[92m\xE2\x9C\x94\033[39m\r\n";
   file_put_contents($pageFile, $html);
 }
 

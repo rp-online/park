@@ -1,5 +1,5 @@
 .park-inline-teaser-image-list {
-  display: inline-block;
+  display: table-cell;
 
   &::after {
     content: '- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -';

@@ -10,7 +10,7 @@
 
       if (result) {
         mainButtonText.textContent = result;
-        mainButton.setAttribute('href', '/sso/settings');
+        mainButton.setAttribute('href', '/sso/login');
       } else {
         mainButtonText.textContent = mainButton.getAttribute('data-initial-label') || '';
       }

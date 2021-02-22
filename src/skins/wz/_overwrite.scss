@@ -168,6 +168,12 @@ html {
           border-bottom: 2px solid #cccccc;
         }
       }
+
+      &__sales-cta {
+        @include mq(mobile) {
+          display: none;
+        }
+      }
     }
 
     .park-comments__commentscount,

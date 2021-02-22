@@ -7,6 +7,7 @@ SCSS-defined mobile/desktop breakpoints, we need to force reset at certain place
 .park-multi-portal {
   position: relative;
   z-index: 1;
+  width: 100%;
   padding: 1px 0;
   background-color: $global-light-grey;
 
@@ -43,6 +44,7 @@ SCSS-defined mobile/desktop breakpoints, we need to force reset at certain place
   }
 
   &--grid &__item {
+    width: 100%;
     margin-bottom: $global-spacing;
     padding: 1px;
 
@@ -61,6 +63,7 @@ SCSS-defined mobile/desktop breakpoints, we need to force reset at certain place
 
       > * {
         overflow: hidden;
+        width: 100%;
         max-width: 100%;
       }
     }
@@ -99,7 +102,9 @@ SCSS-defined mobile/desktop breakpoints, we need to force reset at certain place
     }
 
     .park-card-portal .park-portal * {
-      width: auto;
+      @include mq(desktop) {
+        width: auto;
+      }
     }
   }
 }

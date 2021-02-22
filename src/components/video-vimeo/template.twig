@@ -10,7 +10,7 @@
         <iframe allowfullscreen="1" title="{{ type }} video player" src="{{ video.src|replace({'autoplay=1':'autoplay=0&pause=0'}) }}" width="100%" height="{{ video.height }}" frameborder="0"></iframe>
     </div>
 {% else %}
-    <article class="park-video-with-caption park-video-vimeo 
+    <article class="park-video-with-caption park-video-vimeo
     {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}park-video--reduced{% endif %}">
     {% if (config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true)) %}
         <iframe src="{{ video.src }}"
@@ -67,7 +67,13 @@
             {% if config.display_video_kicker == 1 %}
               <{{ headline.tag }} class="park-card-video__headline">
               {% if kicker is defined and kicker.text is defined and kicker.text %}
-                <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+                <span class="park-card-video__kicker">
+                  {% include 'components/content-label/template.twig' with {
+                    'contentLabel': contentLabel,
+                    'config': config
+                  } only %}
+                  {{ kicker.text | raw }}
+                </span>
               {% endif %}
               {% if headline is defined and headline.text is defined and headline.text %}
                 <span class="park-card-video__headline">{{ headline.text }}</span>

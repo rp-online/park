@@ -76,6 +76,8 @@
   }
 
   &--display &__headline {
+    position: absolute;
+    bottom: rem(8px);
     color: #fff;
     font-size: rem(16px);
     line-height: (21 / 16);

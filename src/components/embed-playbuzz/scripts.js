@@ -1,6 +1,6 @@
 (() => {
   function trackPageview(e) {
-    console.log('Tracking PlayBuzz Page View!');
+    window.park.console.log('Tracking PlayBuzz Page View!');
 
     const itemId = e.articleId;
     const elem = document.querySelector(`[data-item="${itemId}"]`);

@@ -7,7 +7,6 @@ Diese Komponente bettet ein Tickaroo Live-Blog ein. In der Datenstruktur werden 
 * `showEventSharing`: Boolscher Wert, der angibt, ob Share-Buttons angezeigt werden sollen
 * `coalesceRepeatedMeta`: Boolscher Wert, der angibt, ob bei mehreren Beiträgen desselben Autors das Autorenbild nur einmal zusammenfassend angeziegt werden soll
 * `reverseEvents`: Boolscher Wert, der angibt, ob die Eintragsreihenfolge umgekehrt werden soll   
-* `useTileFormat`: Boolscher Wert, der angibt, ob die Einträge in Kachelform dargestellt werden sollen  
 
 Zum Einsatz kommt diese Komponente ausschließlich im Artikel-Körper ([article](#article)).
 

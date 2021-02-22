@@ -1,4 +1,7 @@
 (() => {
+  if (window.park.exports.config.commentType === 'talk-v5') {
+    return;
+  }
   const $ = window.park.$;
   const timeOptions = {
     weekday: 'long',
@@ -233,7 +236,9 @@
 
     if (!comments.querySelector('.park-comments-form--disabled')) {
       document.addEventListener('park.user:authchange', () => {
-        updateForm(comments);
+        if (document.querySelector('.park-comments-form__success').getAttribute('aria-hidden')) {
+          updateForm(comments);
+        }
       });
 
       updateForm(comments);

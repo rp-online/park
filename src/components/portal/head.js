@@ -30,93 +30,6 @@
     };
   })();
 
-  function triggerLoadEvent(elem, data) {
-    const event = new CustomEvent('park.portal:load', {
-      bubbles: true,
-      cancelable: false,
-      detail: data,
-    });
-
-    elem.dispatchEvent(event);
-  }
-
-  function markPortalAsEmpty(portal) {
-    let currentClassNames = portal.className.split(' ');
-
-    currentClassNames = currentClassNames.filter(className =>
-      className !== 'park-portal--is-loaded' &&
-      className !== 'park-portal--is-empty' &&
-      !/park-portal--height-\d+/.test(className)
-    );
-    portal.className = `${currentClassNames.join(' ')} park-portal--is-loaded park-portal--is-empty`;
-  }
-
-  function handler(e) {
-    const elem = e.target;
-
-    if (!elem.matches || !elem.matches('.park-portal iframe, .park-portal img, .park-portal [style*="display: none"], .park-portal [style*="display:none"]')) {
-      return;
-    }
-
-    const portal = elem.closest('.park-portal');
-    const containerId = (portal.querySelector('[id]') || {}).id;
-
-    window.setTimeout(() => {
-      const treeInvisible = elem.closest('[style*="display: none"]');
-
-      window.park.console.info(`Portal with ID "${containerId}" loaded`);
-
-      if (treeInvisible) {
-        const margin = parseInt(window.getComputedStyle(portal).getPropertyValue('margin-bottom'), 10);
-
-        markPortalAsEmpty(portal);
-
-        Object.assign(portal.style, {
-          height: '',
-          minHeight: '0',
-          marginBottom: margin >= 0 ? '0' : '',
-        });
-
-        window.park.console.info(`Portal with ID "${containerId}" seems empty`);
-
-        return;
-      }
-
-      if (elem.matches('.park-portal__sticky-floater *')) {
-        return;
-      }
-
-      let height = 0;
-
-      Object.assign(portal.style, {
-        height: '',
-        minHeight: '0',
-        marginBottom: '',
-      });
-
-      window.setTimeout(() => {
-        let currentClassNames = portal.className.split(' ');
-
-        currentClassNames = currentClassNames.filter(className => className !== 'park-portal--is-loaded' && !/park-portal--height-\d+/.test(className));
-
-        height = portal.offsetHeight;
-
-        window.park.console.info(`Measured a height of ${height}px with portal ID "${containerId}"`);
-
-        Object.assign(portal.style, {
-          height: `${height}px`,
-        });
-
-        portal.className = `${currentClassNames.join(' ')} park-portal--is-loaded park-portal--height-${height}`;
-
-        triggerLoadEvent(portal, {
-          elem: portal,
-          height,
-        });
-      });
-    }, 1000);
-  }
-
   function initAd(elem, lazy) {
     const html = elem.textContent;
     const portal = elem.closest('.park-portal');
@@ -141,19 +54,8 @@
       portal.appendChild(range.createContextualFragment(html));
     }
 
-    window.park.console.info(`Portal with ID "${containerId}" is being${lazy ? ' lazily' : ''} loaded`);
+    window.park.console.info(`Portal with ID "${containerId}" is being${lazy ? ' lazily' : ''} prepared`);
   }
-
-  document.addEventListener('load', handler, true);
-  document.addEventListener('park.portal:resize', handler, true);
-  document.addEventListener('MSAnimationStart', handler, true);
-  document.addEventListener('webkitAnimationStart', handler, true);
-  document.addEventListener('mozAnimationStart', handler, true);
-  document.addEventListener('animationstart', handler, true);
-  document.addEventListener('MSAnimationEnd', handler, true);
-  document.addEventListener('webkitAnimationend', handler, true);
-  document.addEventListener('mozAnimationEnd', handler, true);
-  document.addEventListener('animationend', handler, true);
 
   window.park.observer.initialize('.park-portal', (elem) => {
     function init() {
@@ -178,12 +80,6 @@
     }
 
     init();
-  }, false);
-
-  window.park.observer.initialize('.park-portal [style*="display: none"], .park-portal [style*="display:none"]', (target) => {
-    window.park.console.info('Found display: none child inside portal');
-
-    handler({ target });
   }, false);
 
   window.park.observer.initialize('.park-portal--mobile', (elem) => {

@@ -11,6 +11,10 @@
   <div>
   {% if headline is defined %}
   <{{ headline.tag }} class="park-video-list-item__headline">
+    {% include 'components/content-label/template.twig' with {
+      'contentLabel': contentLabel,
+      'config': config
+    } only %}
     {{ headline.text }}
   </{{ headline.tag }}>
   {% endif %}

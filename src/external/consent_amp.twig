@@ -1,0 +1,50 @@
+<html>
+<head>
+  <script src="https://{{ consentDomainScript }}/scripttemplates/otSDKStub.js" type="text/javascript" charset="UTF-8" data-domain-script="{{ data_domain_script }}">
+  </script>
+</head>
+<body>
+<script>
+  var first = true;
+  function OptanonWrapper() {
+    if (getCookie("OptanonAlertBoxClosed") == null && first == true) {
+      first = false;
+      if (Optanon.GetDomainData().ShowAlertNotice == false) {
+        send2Amp();
+      }
+    } else if (first == true) {
+      first = false;
+      Optanon.ToggleInfoDisplay();
+    } else {
+      send2Amp();
+    }
+  }
+  function send2Amp() {
+    if (OptanonActiveGroups.indexOf('C0001') === -1) {
+      window.parent.postMessage({
+        type: 'consent-response',
+        action: 'reject'
+      }, '*');
+      Optanon.SetAlertBoxClosed();
+    }
+    {% for id in consent_cookie_category_ids %}
+    if (OptanonActiveGroups.indexOf('{{ id }}') !== -1) {
+      window.parent.postMessage({
+        type: 'consent-response',
+        action: 'reject'
+      }, '*');
+      Optanon.SetAlertBoxClosed();
+    }
+    {% endfor %}
+  }
+</script>
+<script>
+  function getCookie(name) {
+    var value = "; " + document.cookie;
+    var parts = value.split("; " + name + "=");
+    if (parts.length == 2)
+      return parts.pop().split(";").shift();
+  }
+</script>
+</body>
+</html>

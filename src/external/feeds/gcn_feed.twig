@@ -1,0 +1,73 @@
+<?xml version='1.0' ?>
+<feed
+  xmlns="http://www.w3.org/2005/Atom"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:g="http://schemas.google.com/pcn/2020">
+  <id>https://rp-online.de/gcn-feed.rss</id>
+  <title>Google Publisher News Feed</title>
+  <updated>{{ updated }}</updated>
+  <link rel="self" href="https://rp-online.de/gcn-feed.rss"/>
+  {% for panel in panels %}
+    <entry>
+      <id>https://rp-online.de/gcn-feed.rss#{{ panel['panelId'] }}</id>
+      <published>{{ panel['updated'] }}</published>
+      <updated>{{ panel['updated'] }}</updated>
+      {% if panel['panel'] == 'singleStory' %}
+      <g:panel type="SINGLE_STORY">Single Story Panel</g:panel>
+      <g:panel_title></g:panel_title>
+      <g:overline>{{ panel['firstTeaser']['dachzeile'] }}</g:overline>
+      <title>{{ panel['firstTeaser']['titel'] }}</title>
+      {% if panel['panelType'] == 'relatedContent' %}
+      <summary>{{ panel['firstTeaser']['teaser'] }}</summary>
+      {% endif %}
+      <author>
+      {% if panel['firstTeaser']['author'] is defined %}
+        <name>{{ panel['firstTeaser']['author'] }}</name>
+      {% else %}
+        <name></name>
+      {% endif %}
+      </author>
+      <link href="{{ panel['firstTeaser']['url'] }}"/>
+      <media:content url="{{ panel['firstTeaser']['media'] }}">
+      </media:content>
+      {%  if panel['panelType'] == 'bulletList' %}
+      <g:bullet_list>
+        {% for item in panel['firstTeaser']['bulletList'] %}
+        <g:list_item>{{ item }}</g:list_item>
+        {% endfor %}
+      </g:bullet_list>
+      {% elseif panel['panelType'] == 'relatedContent' %}
+        <g:article_group role="RELATED_CONTENT">
+        {% for entry in panel['entries'] %}
+        <entry>
+          <id>https://rp-online.de/{{ entry['container'] }}</id>
+          <g:overline>{{ entry['dachzeile'] }}</g:overline>
+          <title>{{ entry['titel'] }}</title>
+          <link href="{{ entry['url'] }}"/>
+          <media:content url="{{ entry['media'] }}">
+          </media:content>
+        </entry>
+        {% endfor %}
+      </g:article_group>
+      {% endif %}
+      {% elseif panel['panel'] == 'rundown' %}
+      <title>{{ panel['panelTitle'] }}</title>
+      <link rel="alternate" href="https://rp-online.de/gcn-feed.rss"/>
+      <g:panel type="RUNDOWN">Rundown Panel</g:panel>
+      <g:panel_title></g:panel_title>
+      <g:article_group role="RUNDOWN">
+        {% for entry in panel['entries'] %}
+        <entry>
+          <id>https://rp-online.de/{{ entry['container'] }}</id>
+          <published>{{ entry['datum_evt'] }}</published>
+          <updated>{{ entry['datum'] }}</updated>
+          <g:overline>{{ entry['dachzeile'] }}</g:overline>
+          <title>{{ entry['titel'] }}</title>
+          <link href="{{ entry['url'] }}"/>
+        </entry>
+        {% endfor %}
+      </g:article_group>
+      {% endif %}
+    </entry>
+  {% endfor %}
+</feed>

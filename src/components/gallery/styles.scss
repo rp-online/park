@@ -13,4 +13,51 @@
       }
     }
   }
+
+  &__nav-button-wrapper {
+    @include mq(mobile) {
+      position: absolute;
+      top: calc(#{$parkGalleryMinHeightMobile / 2} + #{rem(40px)});
+    }
+    @include mq(desktop) {
+      cursor: pointer;
+      z-index:2;
+      height: calc(#{$parkGalleryMinHeightdesktop} + #{rem(16px)} + #{rem(42px)});
+      position: absolute;
+      top: 0;
+    }
+  }
+
+  &__nav-button-wrapper-on {
+    @include mq(desktop) {
+      width: 50%;
+    }
+  }
+
+  &__nav-prev-button-wrapper {
+    left: 0;
+  }
+
+  &__nav-next-button-wrapper {
+    right: 0;
+  }
+
+  &__magnify-button {
+    content: '';
+    position: absolute;
+    z-index: 10;
+    right: $global-spacing;
+    bottom: $global-spacing;
+    width: rem(40px);
+    height: rem(40px);
+    background-color: $global-brand-color;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 20 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M14.813 12.838L20 18.025 18.025 20l-5.187-5.187a8.148 8.148 0 1 1 1.975-1.975zm-6.665.921a5.61 5.61 0 1 0 0-11.221 5.61 5.61 0 0 0 0 11.221z' fill='%23ffffff' fill-rule='evenodd'/%3E%3C/svg%3E");
+    background-size: rem(20px) rem(20px);
+    background-position: center center;
+    border-radius: rem(2px);
+    box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.12), 0 2px 2px 0 rgba(0, 0, 0, 0.24);
+    pointer-events: auto;
+    cursor: pointer;
+    top: auto;
+  }
 }

@@ -1,0 +1,34 @@
+<div class="park-video-glomex">
+  <div class="park-video-glomex__player">
+    <div class="park-video-glomex__player-headline park-teaser__headline"></div>
+    <div class="park-video-glomex__player-content">
+      <glomex-player data-integration-id="{{ integration_id }}" data-playlist-id="{{ playlist_id }}"
+                     data-width="{{ video_width }}" data-height="{{ video_height }}">
+      </glomex-player>
+    </div>
+  </div>
+  <div class="park-video-glomex__teaser-list">
+    <div class="park-video-glomex__teaser-list-headline park-section-headline">
+      <span class="park-section-headline__text">Weitere Videos</span>
+    </div>
+    <ul class="park-video-glomex__teaser-list-items">
+    {% for i in range(1, previews) %}
+      <li class="park-video-glomex__teaser-list-item glomex-hidden" data-previewelementidx="{{ i-1 }}">
+        <div class="park-card-video__wrapper">
+          <img src="" alt="" class="park-image__image" />
+        </div>
+        <p class="park-video-glomex__teaser-list-item__headline"></p>
+      </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<script
+  {% if config is defined and config.consentDataDomainScript is defined and config.consentDataDomainScript != '' %}
+    {% if config is defined and config.cookieProDataDomainScript is defined and config.cookieProDataDomainScript != '' %}
+      type="text/plain"
+      class="optanon-category-C0004"
+    {% endif %}
+  {% endif %}
+      src="https://player.glomex.com/integration/1/glomex-player.js"></script>

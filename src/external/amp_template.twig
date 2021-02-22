@@ -3,11 +3,14 @@
 <head>
   {% block head_prependChildren %} {% endblock %}
   <meta charset="utf-8">
-  <title>{{ pagetitle }}</title>
+  <title>{{ pagetitle | raw }}</title>
   <link rel="canonical" href="{{ baseurl_canonical }}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <meta name="robots" content="index,follow,noarchive,noodp">
+  {% if amp_ad_enable_refresh_content is defined and amp_ad_enable_refresh_content is not empty %}
+  <meta name="amp-ad-enable-refresh" content="{{ amp_ad_enable_refresh_content }}">
+  {% endif %}
   <link href="{{ googleFont }}" rel="stylesheet">
 
   {% block head_schemaOrgDefinition %}
@@ -395,6 +398,21 @@
       font-family: {{ fontHead|raw }};
     }
 
+    .park-embed-infobox .park-section-headline  {
+      margin-bottom: 0px;
+      padding-bottom: 0px;
+    }
+
+    .park-embed-infobox .park-embed-infobox__body h2 {
+      line-height: normal;
+      margin-top: 8px;
+    }
+
+    .park-embed-infobox .park-embed-infobox__annotation p.info_text  {
+      margin-left: 0px;
+      margin-top: 20px;
+    }
+
     amp-facebook, amp-twitter, amp-instagram, amp-iframe, amp-youtube {
       max-width:660px;
       margin: 0 auto 10px auto;
@@ -429,7 +447,7 @@
     }
 
     article div.park-embed-infobox {
-      margin: 0 auto;
+      margin: 0 auto 14px;
       background-color: #f7f7f7;
       padding: .75rem;
     }
@@ -509,6 +527,39 @@
     amp-social-share[type="email"] {
       background-color: #6f6f6f;
     }
+    .interview_antwort .fett_versal {
+      font-weight: 700;
+      text-transform: uppercase;
+      font-size: 15px;
+    }
+    {% if consentActive %}
+    amp-consent {
+      background-color: transparent;
+    }
+    amp-consent #post-consent-ui,
+    .amp-geo-group-eea amp-consent #consentDialog {
+      padding-bottom: 45px;
+    }
+    #post-consent-ui{
+      display: none; padding-bottom: 0px;
+    }
+    .consentPopup {
+      padding: 10px;
+      margin: 0 auto;
+      position: relative;
+      background-color: transparent;
+      width: 100%;
+      height: 100vh;
+    }
+    .consentPopup amp-iframe {
+      background-color: transparent;
+    }
+    .manage-settings-link {
+      color: #444;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    {% endif %}
     @media (min-width: 840px) {
       .figure {
         margin-left: auto;
@@ -550,6 +601,192 @@
         background-size: 21px 24px;
       }
     }
+
+    {# GERACM-3991 #}
+    .park-section-breadcrumb {
+      position: relative;
+      background-color: {{ brandColor }};
+      color: white;
+      font-size: 0;
+      line-height:  2.125rem;
+    }
+    .park-section-breadcrumb h1 {
+      font-family: {{ fontText|raw }};
+    }
+
+    .park-section-breadcrumb,
+    .park-section-breadcrumb * {
+      vertical-align: baseline;
+    }
+
+    .park-section-breadcrumb__item {
+      position: relative;
+      display: inline-block;
+      padding-right: 1.875rem;
+      font-size: 1.1875rem;
+      font-weight: 600;
+    }
+    [aria-hidden=true].park-section-breadcrumb__item {
+      padding-right: 0;
+    }
+    .park-section-breadcrumb__item::after {
+      content: "";
+      position: absolute;
+      right: .875rem;
+      width: .125rem;
+      background-color: white;
+      transform: rotate(22.5deg);
+    }
+
+    .park-portal-marker .park-section-breadcrumb::before, .is-advertorial .park-section-breadcrumb::before {
+      content: "Anzeige";
+      color: #2f2f2f;
+      font-size: .8125rem;
+      font-weight: 400;
+      line-height: 1.2307692308;
+      vertical-align: baseline;
+      text-transform: uppercase;
+    }
+    .park-portal-marker .park-section-breadcrumb::before, .is-advertorial .park-section-breadcrumb::before {
+      display: none;
+    }
+
+    .park-section-breadcrumb {
+      overflow-x: auto;
+      overflow: -moz-scrollbars-none;
+      -ms-overflow-style: none;
+      /* padding: 0.25rem rem(15px) 0 rem(15px); */
+      white-space: nowrap;
+    }
+    .park-section-breadcrumb ::-webkit-scrollbar {
+      display: none;
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb {
+        width: 100%;
+      }
+    }
+    .park-portal-marker .park-section-breadcrumb, .is-advertorial .park-section-breadcrumb {
+      position: relative;
+      background-color: #dd5900;
+    }
+    @media screen and (max-width: 48em) {
+      .park-portal-marker .park-section-breadcrumb, .is-advertorial .park-section-breadcrumb {
+        padding-top: 1.25rem;
+      }
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-portal-marker .park-section-breadcrumb, .is-advertorial .park-section-breadcrumb {
+        padding-right: 5.625rem;
+      }
+    }
+    .park-portal-marker .park-section-breadcrumb::before, .is-advertorial .park-section-breadcrumb::before {
+      font-size: 0.9375rem;
+      line-height: 1.2;
+      position: absolute;
+      right: 0;
+      display: block;
+      margin-top: -1.25rem;
+      /* margin-right: rem(15px); */
+      color: white;
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-portal-marker .park-section-breadcrumb::before, .is-advertorial .park-section-breadcrumb::before {
+        margin-top: 0;
+      }
+    }
+    .park-section-breadcrumb__wrapper {
+      position: relative;
+      width: 100%;
+    }
+    @media screen and (max-width: 48em) {
+      .park-section-breadcrumb__wrapper {
+        overflow-x: scroll;
+      }
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__wrapper {
+        overflow: hidden;
+      }
+    }
+    .park-section-breadcrumb__headline {
+      font-size: 1.125rem;
+      display: inline;
+      color: white;
+      font-weight: 400;
+      line-height: 2.25rem;
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__headline {
+        font-size: 1.1875rem;
+        line-height: 1.3333333333;
+      }
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__headline {
+        line-height: 2.25rem;
+      }
+    }
+    .park-section-breadcrumb__navigation {
+      display: inline;
+      padding-left: 14px;
+    }
+    .park-section-breadcrumb__item {
+      font-size: 1.125rem;
+      line-height: 1.3333333333;
+      line-height: 2.25rem;
+      font-weight: normal;
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__item {
+        font-size: 1.1875rem;
+        line-height: 1.3333333333;
+      }
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__item {
+        line-height: 2.25rem;
+      }
+    }
+    .park-section-breadcrumb__item:hover {
+      text-decoration: underline;
+    }
+    .park-section-breadcrumb__item::after {
+      top: -0.1875rem;
+      bottom: -0.25rem;
+    }
+    .park-section-breadcrumb__item[aria-hidden=true] {
+      position: absolute;
+      overflow: hidden;
+      width: 0;
+      height: 0;
+      padding: 0;
+      border: 0;
+      white-space: nowrap;
+      clip: rect(0, 0, 0, 0);
+      clip-path: inset(50%);
+    }
+    @media screen and (min-width: 48.0625em) {
+      .park-section-breadcrumb__item--desktophidden {
+        position: absolute;
+        overflow: hidden;
+        width: 0;
+        height: 0;
+        padding: 0;
+        border: 0;
+        white-space: nowrap;
+        clip: rect(0, 0, 0, 0);
+        clip-path: inset(50%);
+      }
+    }
+    .park-section-breadcrumb__link span, .park-section-breadcrumb__mark {
+      color: white;
+    }
+    .park-section-breadcrumb__link--sugardaddy, .park-section-breadcrumb__mark--sugardaddy {
+      color: #dd5900;
+    }
+    {# GERACM-3991 #}
+
     {% block head_ampCustomStyle_appendChildren %} {% endblock %}
   </style>
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -569,10 +806,57 @@
   {% for js in amp_javascripts %}
     {{ js|raw }}
   {% endfor %}
+  {% if consentActive %}
+    <script async custom-element="amp-consent" src="https://cdn.ampproject.org/v0/amp-consent-0.1.js"></script>
+    <script async custom-element="amp-geo" src="https://cdn.ampproject.org/v0/amp-geo-0.1.js"></script>
+  {% endif %}
+
+  <link rel="icon" href="{{ siteurl }}{{ favicon }}" sizes="16x16 32x32 48x48" type="image/x-icon">
 
   {% block head_appendChildren %} {% endblock %}
 </head>
 <body>
+{% if consentActive %}
+  <amp-geo layout="nodisplay">
+    <script type="application/json">
+      {
+        "ISOCountryGroups": {
+          "eu": [
+            "al", "ad", "am", "at", "by", "be", "ba", "bg", "ch", "cy",
+            "cz", "de", "dk", "ee", "es", "fo", "fi", "fr", "gb", "ge",
+            "gi", "gr", "hu", "hr", "ie", "is", "it", "lt", "lu", "lv",
+            "mc", "mk", "mt", "no", "nl", "po", "pt", "ro", "ru", "se",
+            "si", "sk", "sm", "tr", "ua", "uk", "va"
+          ]
+        }
+      }
+    </script>
+  </amp-geo>
+  <amp-consent layout="nodisplay" id="consent-element">
+    <script type="application/json">
+      {
+        "consents": {
+          "de": {
+            "promptIfUnknownForGeoGroup": "eu",
+            "promptUI": "myConsentFlow"
+          }
+        },
+        "postPromptUI": "post-consent-ui"
+      }
+    </script>
+    <div id="myConsentFlow" class="popupOverlay">
+      <div class="consentPopup">
+        <amp-iframe id='idFrame' layout="fill" resizable sandbox="allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox" src="{{ htmlPageUrl }}">
+          <div placeholder></div>
+          <div overflow></div>
+        </amp-iframe>
+      </div>
+    </div>
+    <div id="post-consent-ui">
+      <a on="tap:consent-element.prompt;" role="button" class="manage-settings-link"></a>
+    </div>
+  </amp-consent>
+{% endif %}
 {% block body_prependChildren %} {% endblock %}
 <amp-sidebar id="sidebar"
              layout="nodisplay"
@@ -600,13 +884,18 @@
   </script>
 </amp-analytics>
 {% if gtm_id is defined and gtm_id != '' and gtm_htmlfile != '' %}
-  <amp-analytics type="infonline" id="infonlinegtm">
+  <amp-analytics data-block-on-consent="_till_responded" type="googleanalytics" id="googleanalytics">
     <script type="application/json">
       {
-        "vars": {{ data_layer|raw }},
-        "requests": {
-          "url": "{{ gtm_htmlfile }}",
-          "pageview": "${url}?platform=amp&gtm=${gtm}&referer=${externalReferrer}&title=${title}&ressort=${ressort}&subressort=${subressort}&dossier=${dossier}&contentType=${contentType}&author=${author}&date=${date}&datePublished=${datePublished}&dateModified=${dateModified}&daysSincePublication=${daysSincePublication}&origin=${origin}&analyticsUrl=${analyticsUrl}&isPremiumContent=${analyticsUrl}"
+        "extraUrlParams": {{ extraUrlParams|raw }},
+        "vars": {
+          "account": "{{ gtm_id }}"
+        },
+        "triggers": {
+            "trackPageview": {
+                "on": "visible",
+                "request": "pageview"
+            }
         }
       }
     </script>
@@ -633,7 +922,7 @@
 {% endif %}
 
 {% if gtm_id is not defined and analytics1 is defined and analytics1 != '' %}
-  <amp-analytics type="googleanalytics" id="analytics1">
+  <amp-analytics data-block-on-consent="_till_responded" type="googleanalytics" id="analytics1">
     <script type="application/json">
       {
         "vars": {
@@ -657,7 +946,7 @@
   </amp-analytics>
 {% endif %}
 {% if gtm_id is not defined and analytics2 is defined and analytics2 != '' %}
-  <amp-analytics type="googleanalytics" id="analytics2">
+  <amp-analytics data-block-on-consent="_till_responded" type="googleanalytics" id="analytics2">
     <script type="application/json">
       {
         "vars": {
@@ -694,6 +983,51 @@
   </header>
 {% endblock %}
 <main>
+
+  {% if breadcrumb is defined %}
+  {% set count = 0 %}
+  <div class="park-section-breadcrumb">
+    <div class="park-section-breadcrumb__wrapper">
+        <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="park-section-breadcrumb__navigation">
+          {% for item in breadcrumb.navigation %}
+            {% if item.isAd is not defined or item.isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
+              {% set ariaHidden = item.isHidden ? 'true' : 'false' %}
+              {% set desktopHiddenClass = item.isDesktopHidden ? 'park-section-breadcrumb__item--desktophidden' : '' %}
+              {% if item.text is not empty %}
+                <li itemprop="itemListElement"
+                    itemscope
+                    itemtype="http://schema.org/ListItem"
+                    class="park-section-breadcrumb__item {{ desktopHiddenClass }}"
+                    aria-hidden="{{ ariaHidden }}">
+                  {% set content %}
+                    <span itemprop="name">{{ item.text | raw }}</span>
+                  {% endset %}
+                  {% set link = {
+                    'itemprop': 'item',
+                    'href': item.href,
+                    'text': content,
+                    'target': item.target,
+                    'rel': item.rel,
+                    'classes': [
+                      'park-section-breadcrumb__link',
+                      item.isAd ? 'park-section-breadcrumb__link--sugardaddy' : ''
+                    ],
+                    'isAd': item.isAd,
+                    'config': config
+                  } %}
+                  {% include 'components/link-helper/template.twig' with link only %}
+                  {% set count = count + 1 %}
+                  <meta itemprop="position" content="{{ count }}" />
+                </li>
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </ol>
+      <{{ breadcrumb.headline.tag }} class="park-section-breadcrumb__headline">{{ breadcrumb.headline.text | raw }}</{{ breadcrumb.headline.tag }}>
+  </div>
+  </div>
+  {% endif %}
+
   {% block pre_article %} {% endblock %}
   <article>
     <header>
@@ -711,8 +1045,8 @@
           'November': 'November',
           'December': 'Dezember'
         }) }} um {{ datum|date('H:i', 'Europe/Berlin') }} Uhr</time>
-      <strong class="kicker">{{ dachzeile }}</strong>
-      <h1 class="articleheadline">{{ titel }}</h1>
+      <strong class="kicker">{{ dachzeile | raw }}</strong>
+      <h1 class="articleheadline">{{ titel | raw }}</h1>
     </header>
     <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
 
@@ -730,17 +1064,29 @@
     <p class="entrySummary">
       {% if artikelmarkierung != '' %}<span class="exclusiv">{{ artikelmarkierung }}</span>{% endif %}
       {% if ortsmarke != '' %}<span class="location">{{ ortsmarke }}</span>{% endif %}
-      {{ vorspann }}
+      {{ vorspann | raw }}
     </p>
-    {% if credittext != '' %}
-      <p class="author">
-        <span itemprop="author">{{ credittext }}</span>
-      </p>
+
+    {% if authorsbox is defined and authorsbox.text is defined %}
+      {% set authorsbox = authorsbox|merge({ 'view': 'amp' }) %}
+      {% include 'components/authorsbox-amp/template.twig' with authorsbox only  %}
+
+    {% else %}
+      {% if credittext != '' %}
+        <p class="author">
+          <span itemprop="author">{{ credittext }}</span>
+        </p>
+      {% endif %}
     {% endif %}
 
     {% block body_article_bodyParagraphs %}
+      {% set ampnewsroomshown = false %}
       {% for paragraph in body %}
         {{ paragraph.html|raw }}
+        {% if ampnewsroom_url != '' and paragraph.subtype is defined and paragraph.subtype == 'headline' and ampnewsroomshown == false %}
+          {% set ampnewsroomshown = true %}
+          <amp-iframe width="1px" height="1px" layout="fixed" sandbox="allow-scripts allow-same-origin" src="{{ ampnewsroom_url }}"></amp-iframe>
+        {% endif %}
       {% endfor %}
     {% endblock %}
 
@@ -776,6 +1122,10 @@
       <a href="{{ link_imprint }}" target=_blank>Impressum</a>
     <span> |  </span>
       <a href="{{ link_tba }}" target=_blank>Datenschutz</a>
+      {% if consentActive %}
+        <span> |  </span>
+        <a on="tap:consent-element.prompt;" role="button" class="manage-settings-link">Cookie Einstellungen</a>
+      {% endif %}
     </div>
   </footer>
 </main>

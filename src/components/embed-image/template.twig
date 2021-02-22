@@ -25,7 +25,7 @@
               class="park-embed-image__caption">
     {% if caption is defined and caption %}
       {% set caption = caption|trim %}
-      {{ caption }}{% if caption and caption|last not in ['.', '!', '?'] %}.{% endif %}
+      {{ caption | raw }}
     {% endif %}
     {% if source is defined and source.text is not empty %}
       {% if source.href is defined %}

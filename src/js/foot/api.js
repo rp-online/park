@@ -32,6 +32,12 @@
     changeProfile(formData) {
       return window.park.ajax(`${rootBase}/api/sso/change_user_data`, { method: 'post', body: formData }).then(result => result.json());
     },
+    setOptIn(formData) {
+      return window.park.ajax(`${rootBase}/api/sso/set_opt_in`, { method: 'post', body: formData }).then(result => result.json());
+    },
+    handleLoginAfterOptin(formData) {
+      return window.park.ajax(`${rootBase}/api/sso/handle_login_after_opt_in`, { method: 'post', body: formData }).then(result => result.json());
+    },
     currentUser(formData) {
       return window.park.ajax(`${rootBase}/api/sso/current_user`, { method: 'post', body: formData }).then(result => result.json());
     },
@@ -149,6 +155,10 @@
                     {
                       name: 'Twitter',
                       description: 'Text zum Datenschutz mit Links zur Datenschutzerklärung bei Twitter',
+                    },
+                    {
+                      name: 'Tickaroo',
+                      description: 'Text zum Datenschutz mit Links zur Datenschutzerklärung bei Tickaroo',
                     },
                   ],
                 });

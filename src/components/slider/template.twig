@@ -61,6 +61,11 @@ park-portal-marker
                   'isAd': true
                   }) %}
                 {% endif %}
+                {% if item.isAd is not defined or item.isAd is same as(false) %}
+                  {% set item = item|merge({
+                  'lazy': false
+                  }) %}
+                {% endif %}
                 {% include 'components/card-' ~ item.type ~ '/template.twig' with item only %}
               </li>
             {% endif %}

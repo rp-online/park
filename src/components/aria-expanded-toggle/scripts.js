@@ -36,14 +36,14 @@
 
   window.setTimeout(() => {
     if ('ontouchstart' in window) {
-      window.park.eventHub.register('touchstart', '[aria-controls][aria-expanded]', (e) => {
+      window.park.eventHub.register('touchstart', '[class^="park"][aria-controls][aria-expanded]', (e) => {
         handleEvent(e);
       });
-      window.park.eventHub.register('touchend', '[aria-controls][aria-expanded]', (e) => {
+      window.park.eventHub.register('touchend', '[class^="park"][aria-controls][aria-expanded]', (e) => {
         e.preventDefault();
       });
     } else {
-      window.park.eventHub.register('click', '[aria-controls][aria-expanded]', (e) => {
+      window.park.eventHub.register('click', '[class^="park"][aria-controls][aria-expanded]', (e) => {
         handleEvent(e);
         e.preventDefault();
       });

@@ -54,13 +54,13 @@
   }
 
   &__kicker {
+    @include global-sans-serif-font-size(2);
+
     display: block;
     margin-bottom: rem(4px);
     padding-right: rem(20px);
     color: $global-kicker-color;
-    font-size: rem(16px);
     font-weight: $global-font-weight-sans-serif-bold;
-    line-height: (21 / 16);
 
     .park-portal-marker &,
     .is-advertorial &,
@@ -70,12 +70,11 @@
   }
 
   &__headline {
+    @include global-sans-serif-font-size(2);
     @include global-font-family-serif;
 
     display: block;
     color: $global-color-text-black;
-    font-size: rem(18px);
-    line-height: (26 / 18);
 
     @include mq(desktop) {
       margin-bottom: rem(10px);

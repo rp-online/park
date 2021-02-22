@@ -43,7 +43,12 @@
           {% if config.display_video_kicker == 1 %}
             <{{ headline.tag }} class="park-card-video__headline">
             {% if kicker is defined and kicker.text is defined and kicker.text %}
-              <span class="park-card-video__kicker">{{ kicker.text | raw }}</span>
+              <span class="park-card-video__kicker">
+                {% include 'components/content-label/template.twig' with {
+                  'contentLabel': contentLabel,
+                  'config': config
+                } only %}
+                {{ kicker.text | raw }}</span>
             {% endif %}
             {% if headline is defined and headline.text is defined and headline.text %}
               <span class="park-card-video__headline">{{ headline.text }}</span>

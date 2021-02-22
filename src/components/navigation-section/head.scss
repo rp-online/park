@@ -20,10 +20,16 @@
     padding-left: $global-spacing;
   }
 
-  &__item {
+  &__item,
+  &__item--services {
     flex: 1 0 50%;
     padding: rem(4px);
+    font-size: rem(18px);
     line-height: rem(32px);
+  }
+
+  &__item--services {
+    flex: 100%;
   }
 
   &__item-link {

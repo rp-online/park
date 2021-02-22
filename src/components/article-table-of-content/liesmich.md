@@ -1,0 +1,1 @@
+Diese Komponente stellt die Elemente mit den Zeichenstil "Zwischenueberschrift" als Inshaltsverzeichnis dar

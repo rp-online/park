@@ -1,0 +1,37 @@
+<div class="park-my-content">
+  <div class="park-section-breadcrumb">
+    <div class="park-section-breadcrumb__wrapper">
+      <h1 class="park-section-breadcrumb__headline">Meine Inhalte</h1>
+    </div>
+  </div>
+{% include 'components/tab-container/template.twig' with {
+  blocks: [{
+      title: "Merkliste",
+      children: [{
+      component: 'bookmarks',
+      data: {
+        items: bookmarks
+      }
+    }]
+    },
+    {
+    title: "Autoren",
+    children: [{
+      component: 'cards-container',
+      data: {
+        items: authors
+      }
+    }]
+  },
+  {
+    title: "Themen",
+    children: [{
+      component: 'cards-container',
+      data: {
+        items: topics
+      }
+    }]
+  }],
+  config: config
+} only %}
+</div>

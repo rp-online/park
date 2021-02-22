@@ -1,0 +1,17 @@
+<div class="park-article-table-of-content">
+  {% include 'components/section-headline/template.twig' with kicker %}
+
+  <div class="park-article-table-of-content__body">
+    <ul class="park">
+      {% for element in toc_elements %}
+        {% if element.toclink is not empty %}
+          <li class="park">
+            {{ element.toclink | raw }}
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+

@@ -42,6 +42,7 @@
                 'contentLabel': contentLabel,
                 'config': config
               } only %}
+              {% if label is defined and label %}<span class="park-teaser__label-pipe"><em class="park-teaser__label">{{ label }}</em></span>{% endif %}
               {{ kicker.text | raw }}
             </span>
           {% endif %}{% if (kicker is defined and kicker.text is defined and kicker.text) and (headline is defined and headline.text is defined and headline.text) %}: {% endif %}{% if headline is defined and headline.text is defined and headline.text %}

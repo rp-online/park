@@ -1,0 +1,15 @@
+{
+  "kicker": {
+    "tag": "span",
+    "text": "Inhalt des Artikels"
+  },
+  "toc_elements": [
+    {
+      "type": "text",
+      "style": "zwischentitel",
+      "html": "<h2>Das ist der erste</h2>",
+      "textlength": 17,
+      "toclink": "<a href=\"#Das-ist-der-erste\">Das ist der erste</a>"
+    }
+  ]
+}

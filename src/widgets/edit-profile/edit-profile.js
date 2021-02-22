@@ -54,7 +54,7 @@
         },
       });
     }).catch((result) => {
-      console.error('error', result);
+      window.park.console.error('error', result);
       app.store.dispatch({
         type: 'ERROR',
         value: {

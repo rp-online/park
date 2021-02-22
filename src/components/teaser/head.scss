@@ -138,6 +138,17 @@
     }
   }
 
+  &__label-pipe {
+    margin-right: rem(5px);
+    padding-right: rem(5px);
+    border-right: solid 2px $global-kicker-color;
+    vertical-align: baseline;
+
+    @include mq(desktop) {
+      @include visuallyhidden;
+    }
+  }
+
   &__source,
   &__label,
   &__dateline {

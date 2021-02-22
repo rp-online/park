@@ -55,23 +55,24 @@
         const reset = {
           email_message: '',
           username_message: '',
+          password_message: '',
         };
         const newState = Object.assign({}, state, reset);
         const error = action.value[0];
+
         if (error.field) {
-          newState.notification = null;
           newState[`${error.field}_message`] = error.text;
-        } else {
-          newState.notification = {
-            type: 'error',
-            headline: 'Fehler',
-            body: error.text,
-          };
         }
+
+        newState.notification = {
+          type: 'error',
+          headline: 'Fehler',
+          body: error.text,
+        };
         return newState;
       }
       case 'UPDATE_FORM': {
-        console.log('updateform');
+        window.park.console.log('updateform');
         const form = action.value;
         const newState = mapFormDataToState(form);
         newState.notification = null;
@@ -114,7 +115,7 @@
           if (isAllowedUrl(redirectUrl)) {
             window.location.href = redirectUrl;
           } else {
-            console.error('error', `Die Umleitungs-URL '${redirectUrl}' ist nicht erlaubt.`);
+            window.park.console.error('error', `Die Umleitungs-URL '${redirectUrl}' ist nicht erlaubt.`);
             window.location.href = '/#successRegister';
           }
         } else {
@@ -166,11 +167,11 @@
           }
           handlesubmission(form);
         };
-        console.log('capture recaptcha');
+        window.park.console.log('capture recaptcha');
         const recaptchaResponse = recaptcha.getAttribute('g-response');
         const recaptchaChallenge = recaptcha.querySelector('.g-recaptcha').getAttribute('data-size');
         if (recaptchaChallenge === 'invisible' && !recaptchaResponse) {
-          console.log('capture invisible recaptcha');
+          window.park.console.log('capture invisible recaptcha');
           window.grecaptcha.execute();
           e.preventDefault();
           return;

@@ -29,12 +29,12 @@
               type: 'UPDATE',
               value: result,
             });
-            console.info('Navigation fetch returned JSON');
+            window.park.console.info('Navigation fetch returned JSON');
           })
           .catch(() => {
             result.text().then((result) => {
               app.insertHTML(result);
-              console.info('Navigation fetch returned HTML');
+              window.park.console.info('Navigation fetch returned HTML');
             });
           });
       });

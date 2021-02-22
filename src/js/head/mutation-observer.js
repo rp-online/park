@@ -16,6 +16,15 @@
   };
   let domUpdated = true;
 
+  const lazyLoad = (
+    window.park.exports &&
+    window.park.exports.config &&
+    window.park.exports.config.lazyload
+  );
+
+  let rootMargin = lazyLoad ? window.park.exports.config.lazyload : '100px 50px 200px 50px';
+  rootMargin = rootMargin.toString().replace(/,/gi, ' ');
+
   function init(selector, node) {
     initObserverStack[selector].forEach((entry) => {
       entry.callback(node);
@@ -89,8 +98,8 @@
 
   const intersectionObserver = window.IntersectionObserver ? new IntersectionObserver(callback, {
     root: null,
-    rootMargin: '100px 50px 300px 50px',
-    threshold: 0.001,
+    rootMargin,
+    threshold: 0.1,
   }) : undefined;
 
   function walkNodes() {

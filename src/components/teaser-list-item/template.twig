@@ -10,7 +10,6 @@
   {% endif %}
   <article class="park-teaser-list-item
   {% if isAd is defined and isAd is same as(true) %} park-teaser-list-item--sugardaddy{% endif %}
-  {% if isNumeric is defined and isNumeric is same as(true) %} park-teaser-list-item--is-numeric{% endif %}
   {% if src is defined and src %} park-teaser-list-item--with-image{% endif %}
   ">
   {% set content %}
@@ -29,7 +28,7 @@
     {% if headlineLevel %}
       role="heading" aria-level="{{ headlineLevel }}"
     {% endif %}
-    class="park-teaser-list-item__headlines">
+    class="park-teaser-list-item__headlines {% if isNumeric is defined and isNumeric is same as(true) %}park-teaser-list-item--is-numeric{% endif %}">
     {% if kicker is defined and kicker.text is defined and kicker.text %}
       <span class="park-teaser-list-item__kicker">
         {% include 'components/content-label/template.twig' with {

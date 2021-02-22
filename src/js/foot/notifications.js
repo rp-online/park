@@ -194,6 +194,21 @@
       });
       break;
 
+    case '#paymentSuccess' :
+      createNotificationWidget({
+        id: 'payment',
+        children: [
+          {
+            component: 'notification',
+            data: {
+              headline: 'Vielen Dank für Ihre Bestellung. Sie können nun unbegrenzt auf alle Artikel zugreifen.',
+              type: 'success',
+            },
+          },
+        ],
+      });
+      break;
+
     case '#redirect' :
     case '#articleNotFound' :
       break;

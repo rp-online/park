@@ -1,3 +1,6 @@
+$global-font-size-interview-answer: 18px !default;
+$global-font-size-interview-answer-desktop: 19px !default;
+
 .park-article-content {
   @include global-sans-serif-font-size(2);
   @include richtext;
@@ -24,6 +27,25 @@
 
     .park-slider__arrow-nav-next-button {
       right: calc((#{$article-spacing} - #{$global-spacing}) * -1);
+    }
+  }
+
+  > .text-blurred {
+    text-shadow: 0 0 15px #333;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Chroma(color=#333333), progid:DXImageTransform.Microsoft.MotionBlur(strength=0, direction=0), progid:DXImageTransform.Microsoft.Blur(pixelradius=2)";
+    color: transparent;
+  }
+
+  > .text_white {
+    color: #fff;
+  }
+
+  > .interview_antwort > .fett_versal {
+    font-size: rem($global-font-size-interview-answer) !important;
+    text-transform: uppercase;
+
+    @include mq(desktop) {
+      font-size: rem($global-font-size-interview-answer-desktop) !important;
     }
   }
 }

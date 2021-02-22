@@ -4,7 +4,7 @@
 {% endif %}
 <ul class="park-navigation-section__items">
   {% for item in items %}
-    <li class="park-navigation-section__item">
+    <li class="park-navigation-section__item{% if headline.text == 'Services' %}--services{% endif %}">
       {# Replacing spaces with non-breaking spaces to fix this Safari bug:
       https://stackoverflow.com/questions/40742621/whitespace-no-wrap-prevents-flex-wrap-in-safari #}
       {% set item = item|merge({

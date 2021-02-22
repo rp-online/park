@@ -3,7 +3,7 @@
   {% if (config.reduced is not defined or config.reduced is not same as(true)) and (reduced is not defined or reduced is not same as(true)) %}
     {% set uuid = random() %}
     {% include 'components/third-party-activator/template.twig' with {
-      'src': './assets/images/youtube-preview.jpg',
+      'src': video.previewimage,
       'name': 'Youtube',
       'children': [
         {
@@ -48,6 +48,43 @@
       </footer>
     </div>
   {% else %}
+    {% include 'components/image/template.twig' with {
+      'src': video.previewimage,
+      'alt': title,
+      'width': video.width,
+      'height': video.height,
+      'sizes': { "mobile": "140px", "desktop": "140px" },
+      'config': config} %}
+    {% if headline is defined %}
+      <div class="park-video-with-caption__caption">
+      {% if config.display_video_kicker == 1 %}
+        <{{ headline.tag }} class="park-card-video__headline">
+        {% if kicker is defined and kicker.text is defined and kicker.text %}
+          <span class="park-card-video__kicker">
+            {% include 'components/content-label/template.twig' with {
+              'contentLabel': contentLabel,
+              'config': config
+            } only %}
+            {{ kicker.text | raw }}
+          </span>
+        {% endif %}
+        {% if headline is defined and headline.text is defined and headline.text %}
+          <span class="park-card-video__headline">{{ headline.text }}</span>
+        {% endif %}
+        </{{ headline.tag }}>
+      {% else %}
+        <{{ headline.tag }} class="park-video-with-caption__headline">
+        {{ headline.text | raw }}
+        </{{ headline.tag }}>
+      {% endif %}
+    {% endif %}
+    {% include 'components/date/template.twig' with {'timestamp': timestamp, 'config': config} only %}
+    <div class="park-video-with-caption__text">{% markdown %}{{ text | raw }}{% endmarkdown %}</div>
+    {% if headline is defined %}
+      </div>
+    {% endif %}
+  {% endif %}
+  {% if (config.reduced is defined and config.reduced is same as(true)) or (reduced is defined and reduced is same as(true)) %}
     {% include 'components/paywall/template.twig' with { 'config': config} %}
   {% endif %}
 </article>

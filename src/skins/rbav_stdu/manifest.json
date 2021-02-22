@@ -1,7 +1,7 @@
 {
   "name": "Stadt Panorama",
   "short_name": "Stadt Panorama",
-  "description": "Das Stadt-Panorama liefert täglich aktuelle Nachrichten aus Duisburg, Moers und Umgebung.",
+  "description": "Extra Tipp am Sonntag liefert täglich aktuelle Nachrichten aus Duisburg, Moers und Umgebung.",
   "icons":  [
     {
       "src": "\/assets/skins/rbav_stdu/android-icon-36x36.png",

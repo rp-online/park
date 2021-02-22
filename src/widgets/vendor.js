@@ -37,7 +37,7 @@ window.park = Object.assign({}, window.park, {
         } else {
           targetNode.innerHTML = html;
         }
-        console.info(`"${container}" widget inserted`);
+        window.park.console.info(`"${container}" widget inserted`);
         window.park.eventHub.trigger(elem, 'park.widget:rendered');
       });
     }
@@ -83,7 +83,7 @@ window.park = Object.assign({}, window.park, {
         const defaultReducer = state => state;
 
         bindEvent = (event, selector, handler) => {
-          if (!window.park || !window.park.eventHub) {
+          if (!window.park || !window.park.eventHub || !window.park.eventHub.register) {
             window.setTimeout(() => {
               bindEvent(event, selector, handler);
             }, 100);

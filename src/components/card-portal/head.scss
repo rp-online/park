@@ -14,8 +14,10 @@
     margin: 0;
     background-color: #fff;
 
-    * {
-      width: 100%;
+    @include mq(desktop) {
+      * {
+        width: 100%;
+      }
     }
   }
 }

@@ -7,9 +7,10 @@
   .park-multi-portal {
     position: relative;
     z-index: 2;
-    margin: $global-spacing auto;
+    width: auto;
 
     @include mq(desktop) {
+      margin: 0 !important;
       min-width: 1px;
       min-height: 1px;
       margin-top: 0;
@@ -58,6 +59,7 @@
 
       &--is-loaded {
         outline: $global-spacing solid #fff;
+        margin: $global-spacing !important;
       }
     }
 

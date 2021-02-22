@@ -208,6 +208,12 @@ $park-article__body-width: $global-container-width - $article-spacing - $article
       margin-bottom: rem(10px);
     }
 
+    &--comments {
+      @include mq(desktop) {
+        width: rem(665px) !important;
+      }
+    }
+
     .park-portal-marker &,
     .is-advertorial & {
       color: $global-advertisement-color;

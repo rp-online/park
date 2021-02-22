@@ -1,0 +1,31 @@
+.park-my-content {
+  background: #fff;
+
+  .park-section-breadcrumb {
+    text-align: initial;
+  }
+
+  .park-tab-container__tabs {
+    text-align: initial;
+
+    .park-tab-container__tab-link {
+      line-height: rem(34px);
+    }
+
+    + .park-tab-container__panels .park-tab-container__panel {
+      padding: 0;
+    }
+  }
+
+  .park-tab-container__panels {
+    section {
+      padding-left: 0;
+      padding-right: 0;
+      padding-top: 0;
+    }
+  }
+
+  .park-cards-container__items {
+    padding: rem(15px) rem(7.5px) 0 rem(7.5px);
+  }
+}

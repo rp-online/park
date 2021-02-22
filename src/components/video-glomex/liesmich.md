@@ -1,0 +1,1 @@
+Diese Komponente kann genutzt werden, um Glomex Videos vom Online Modul "video" abzuspielen.

@@ -1,0 +1,57 @@
+{
+  "header": {
+    "login" : {
+      "text": "Anmelden",
+      "href": "javascript:window.park.user.login()"
+    }
+  },
+  "content" : {
+    "header": {
+      "text": "Wie möchte Sie RP ONLINE lesen?",
+      "addon" : "Sie haben die Wahl!"
+    },
+    "headline" : "Wie möchte Sie RP ONLINE lesen? Sie haben die Wahl!",
+    "advertisement" : {
+      "headline" :"Weiter mit Werbung",
+      "text" : "Lesen Sie den frei verfügbaren Teil von RP ONLINE wie gewohnt mit Werbung und Tracking. Ihre Zustimmung ist jederzeit widerrufbar*.",
+      "cta" : {
+        "text": "Akzeptieren und weiter",
+        "href": "#void"
+      },
+      "subline" : "Weitere Informationen zum Trackingverfahren finden Sie in der Datenschutzerklärung und in den Datenschutzeinstellungen."
+    },
+    "rpplus" : {
+      "headline": "Weiter mit :premium:",
+      "text" : "Nutzen Sie RP ONLINE unbegrenzt inkl. aller unserer RP+-Artikel und nur mit Premiumwerbung ohne Werbetracking. 0,99 € im ersten Monat, danach 7,99 € monatlich.",
+      "cta" : {
+        "text": "Zum Angebot",
+        "href": "#void",
+        "ghost": true
+      },
+      "subline" : {
+        "text": "Bereits Abonnent?",
+        "cta": {
+          "text": "Jetzt anmelden",
+          "href": "#void"
+        }
+      }
+    },
+    "footer" : {
+      "text": "* Was bedeutet Nutzung mit Werbung und Tracking? Mit den auf Ihrem Gerät gespeicherten Cookies, Geräte-Kennungen u.ä. können Anzeigen und Inhalte basierend auf einem Profil personalisiert, Daten ergänzt und Performance von Anzeigen und Inhalten gemessen werden. Mit Hilfe der aus Ihrer Nutzung gewonnenen Erkenntnissen können wir u.a. die Nutzerfreundlichkeit unserer Webseite verbessern sowie neue Produkte entwickeln.",
+      "links": [
+        {
+          "text": "Impressum",
+          "href": "#void"
+        },
+        {
+          "text": "Datenschutz",
+          "href": "#void"
+        },
+        {
+          "text": "AGB",
+          "href": "#void"
+        }
+      ]
+    }
+  }
+}

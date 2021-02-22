@@ -4,3 +4,9 @@
 {% if config.paywallType is not defined or not config.paywallType or config.paywallType is same as('celeraone') %}
   <link rel="preload" href="{{ config.assetsBase }}/widgets/paywall-article.js?v={{ config.version }}" as="script">
 {% endif %}
+{% if config.paywallType is not defined or not config.paywallType or config.paywallType is same as('paidtime') %}
+  <script type="text/javascript"
+    data-container="ptpw"
+    data-baseurl="{{ config.paidtime_paywalljs_baseurl }}"
+    src="{{ config.paidtime_paywalljs_url }}" ></script>
+{% endif %}

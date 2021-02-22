@@ -1,0 +1,1 @@
+Diese Komponente ist eine Komponenten- und [Formular](#form)-Zusammenstellung, speziell für den Bildschirm fürs Festlegen eines neuen Passworts nach einer neuen Registrierung.

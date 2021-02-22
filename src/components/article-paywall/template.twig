@@ -1,7 +1,7 @@
 <section class="park-article-paywall" role="alert">
   <div class="park-article-paywall__wrapper{% if (main.layout is defined and main.layout is not same as(false)) %} park-article-paywall__wrapper--{{ main.layout }}{% endif %}">
     <div class="park-article-paywall__main">
-
+      {% include 'components/loading-spinner/template.twig' %}
       <div class="park-article-paywall__content">
         {% set premiumicon %}
             {% include 'components/premium-icon/template.twig' with {} only %}

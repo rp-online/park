@@ -12,23 +12,28 @@
           onload="window.park.stroeer.init()"></script>
 {% else %}
   {% if config.ads.provider is same as('stroeer') or config.ads.provider is same as('oms') %}
-  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-  <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
-  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
-  <script src="{{ stroeerMetatagURL }}"
-          async
-          onload="window.park.stroeer.init()"></script>
+    <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+    <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+    <script src="{{ stroeerMetatagURL }}"
+            async
+            onload="window.park.stroeer.init()"></script>
   {% elseif config.ads.provider is same as('gpt') %}
-  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"
-          async
-          onload="window.park.googlePublisherTag.init()"></script>
+    <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"
+            async></script>
   {% else %}
-  <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
-  <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
-  <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
-  <script src="{{ stroeerMetatagURL }}"
-          async
-          onload="window.park.stroeer.init()"></script>
+    <link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script">
+    <link rel="preload" href="{{ stroeerMetatagURL }}" as="script">
+    <script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+    <script src="{{ stroeerMetatagURL }}" async></script>
+  {% endif %}
+{% endif %}
+
+{% if config is defined and config.consentDataDomainScript is not defined or config.consentDataDomainScript is empty %}
+  {% if config is defined and config.cookieProDataDomainScript is not defined or config.cookieProDataDomainScript is empty %}
+    <script>
+      window.park.headerBidder.loadAndInit();
+    </script>
   {% endif %}
 {% endif %}

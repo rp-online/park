@@ -1,4 +1,5 @@
 {% set uuid = random() %}
+{% set count = 0 %}
 <div class="park-section-nav">
   <div class="park-section-nav__wrapper">
     {% if breadcrumb is defined %}
@@ -8,19 +9,21 @@
           {% set allItemsHidden = false %}
         {% endif %}
       {% endfor %}
-      <ul class="park-section-nav__breadcrumb{% if allItemsHidden is same as(true) %} park-section-nav__breadcrumb--is-hidden{% endif %}">
+      <ol itemscope itemtype="http://schema.org/BreadcrumbList" class="park-section-nav__breadcrumb{% if allItemsHidden is same as(true) %} park-section-nav__breadcrumb--is-hidden{% endif %}">
         {% for item in breadcrumb %}
           {% if item.isAd is not defined or item.isAd is not same as(true) or config.disableAds is not defined or not config.disableAds is same as(true) %}
             {% set ariaHidden = item.isHidden ? 'true' : 'false' %}
             {% set desktopHiddenClass = item.isDesktopHidden ? "park-section-nav__breadcrumb-item--desktophidden" : '' %}
-            <li itemscope
-                itemtype="http://data-vocabulary.org/Breadcrumb"
+            <li itemprop="itemListElement"
+                itemscope
+                itemtype="http://schema.org/ListItem"
                 class="park-section-nav__breadcrumb-item {{ desktopHiddenClass }}"
                 aria-hidden="{{ ariaHidden }}">
               {% set content %}
-                <span itemprop="title">{{ item.text }}</span>
+                <span itemprop="name">{{ item.text }}</span>
               {% endset %}
               {% set link = {
+                'itemprop': 'item',
                 'href': item.href,
                 'text': content,
                 'target': item.target,
@@ -33,10 +36,12 @@
                 'config': config
               } %}
               {% include 'components/link-helper/template.twig' with link only %}
+              {% set count = count + 1 %}
+              <meta itemprop="position" content="{{ count }}" />
             </li>
           {% endif %}
         {% endfor %}
-      </ul>
+      </ol>
     {% endif %}
     {% if headline is defined %}
     <{{ headline.tag }} class="park-section-nav__headline">{% if headline.href is defined %}{% set link = {

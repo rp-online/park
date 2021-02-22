@@ -57,7 +57,7 @@
         .then((response) => {
           // Force to type with value
           if (!response.items.length && response.form.typeOptions.length > 0) {
-            console.log(`force type to ${response.form.typeOptions[0].value} and make a new request`);
+            window.park.console.log(`force type to ${response.form.typeOptions[0].value} and make a new request`);
             const searchForm = document.querySelector('.park-search form');
             searchForm.querySelector(`input[value="${response.form.typeOptions[0].value}"]`).checked = true;
             return window.park.ajax(url, {

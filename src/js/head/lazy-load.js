@@ -2,6 +2,15 @@
   const mediaQueryList = window.matchMedia ? window.matchMedia('print') : undefined;
   const observedElems = new Set();
 
+  const lazyLoad = (
+    window.park.exports &&
+    window.park.exports.config &&
+    window.park.exports.config.lazyload
+  );
+
+  let rootMargin = lazyLoad ? window.park.exports.config.lazyload : '100px 50px 200px 50px';
+  rootMargin = rootMargin.toString().replace(/,/gi, ' ');
+
   function replace(oldElement) {
     if (window.park.device.isOffline()) {
       window.setTimeout(() => {
@@ -122,8 +131,8 @@
 
   const observer = window.IntersectionObserver ? new IntersectionObserver(callback, {
     root: null,
-    rootMargin: '100px 50px 200px 50px',
-    threshold: 0.01,
+    rootMargin,
+    threshold: 0.1,
   }) : undefined;
 
   function replaceAll() {

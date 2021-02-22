@@ -282,6 +282,8 @@
       -ms-grid-column: 2;
       -ms-grid-column-span: 1;
       grid-column: 2 / 3;
+      width: 100%;
+      overflow: hidden;
       float: left;
       margin-top: rem(3px);
       margin-bottom: rem(-23px);
@@ -289,6 +291,8 @@
       font-size: rem(10px);
       line-height: (20 / 10);
       animation: park-fade-in 0.6s;
+      white-space: nowrap;
+      text-overflow: ellipsis;
     }
   }
 }
@@ -430,7 +434,7 @@
 
 %teaser-hover {
   @include hover-styles {
-    background-color: #f2f4f6;
+    background-color: $global-light-grey;
   }
 }
 
@@ -734,7 +738,7 @@
 
 %icon-premium {
   position: relative;
-  bottom: rem(1px);
+  bottom: rem($global-margin-bottom-icon-premium);
   display: inline-block;
   width: rem($global-width-icon-premium);
   height: rem(15px);

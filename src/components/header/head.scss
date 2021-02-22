@@ -13,6 +13,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
 }
 
 .park-header {
+  critical: this;
   display: block;
   flex: 0 0 auto;
   margin-bottom: rem(13px);
@@ -20,6 +21,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
   backface-visibility: hidden;
 
   @include mq(desktop) {
+    critical: this;
     padding-top: $header-navbar-height-desktop;
   }
 
@@ -28,6 +30,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
     transition: padding-top 300ms;
 
     @include mq(desktop) {
+      critical: this;
       padding-top: calc(#{$header-navbar-height-desktop} + #{$header-offer-height-desktop});
     }
   }
@@ -43,7 +46,11 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
     z-index: 4;
   }
 
-  &__skiplinks,
+  &__skiplinks {
+    z-index: 5;
+    display: none;
+  }
+
   &__snackbars {
     z-index: 5;
   }
@@ -62,6 +69,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
   }
 
   &__nav {
+    critical: this;
     position: fixed;
     height: $header-navbar-height-mobile;
     padding: 0;
@@ -71,6 +79,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
     line-height: $header-navbar-wrapper-height;
 
     @include mq(desktop) {
+      critical: this;
       height: $header-navbar-height-desktop;
     }
 
@@ -146,6 +155,7 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
   &__wrapper {
     @extend %content-position;
 
+    critical: this;
     position: absolute;
     top: 0;
     right: 0;
@@ -178,15 +188,19 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
   }
 
   &__logo {
+    critical: this;
+    display: -ms-flexbox;
     flex: 1 1 auto;
     padding-left: $global-spacing;
     padding-right: 0;
 
     @include mq(desktop) {
+      critical: this;
       padding-right: $global-spacing / 2;
     }
 
     &-headline {
+      critical: this;
       display: block;
       width: 100%;
       margin: 0;
@@ -257,15 +271,17 @@ $park-header-separator-color: rgba(0, 0, 0, 0.1) !default;
   }
 
   &__quicklinks {
+    critical: this;
     display: none;
 
     @include mq(desktop) {
       display: flex;
-      flex: 1 1 auto;
+      flex: 0 0 auto;
     }
   }
 
   &__quicklinks-items {
+    critical: this;
     display: none;
     flex-direction: row;
     justify-content: space-around;

@@ -5,7 +5,7 @@
     "assetsBase": "/assets",
     "searchPage": "/suche/",
     "subscriptionsPage": "/sso/subscriptions",
-    "myNewsPage": "/sso/my-news",
+    "myContentPage": "/sso/my-content",
     "loginPage": "/sso/login",
     "loginOverlay": false,
     "settingsPage": "/sso/settings",

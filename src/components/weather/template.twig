@@ -16,7 +16,7 @@
     {% endif %}
     {% include 'components/widget/template.twig' with {
     'type': 'weather',
-    'component': 'slider',
+    'component': component,
     'initialState': initialState,
     'config': config
     } only %}

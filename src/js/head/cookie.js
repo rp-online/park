@@ -20,6 +20,18 @@
         // TODO: Use expires since max-age is not supported in IEs.
         document.cookie = `${key}=${value};path=/;domain=${domain};max-age=${expires}`;
       },
+      remove: (key) => {
+        document.cookie = `${key}=; Max-Age=-99999999; Path=/`;
+        // localStorage.removeItem(key);
+        const pathArray = window.location.pathname.split('/');
+        for (let i = 0; i < pathArray.length; i += 1) {
+          if (pathArray[i]) {
+            const currentPath = pathArray.slice(0, i + 1).join('/');
+            document.cookie = `${key}=; Max-Age=-99999999; Path=${currentPath};`;
+            document.cookie = `${key}=; Max-Age=-99999999; Path=${currentPath}/;`;
+          }
+        }
+      },
     },
   });
 })();
