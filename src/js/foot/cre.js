@@ -35,7 +35,7 @@
     return data;
   }
 
-  if (Object.keys(window.creExternalData).length === 0) {
+  if (!window.creExternalData || Object.keys(window.creExternalData).length === 0) {
     // TODO Check whether this can be raised to 'error' (multitenancy?)
     window.park.console.info('No CRE ExternalData present or configured');
     return;
